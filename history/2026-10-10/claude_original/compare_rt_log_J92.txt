@@ -1,0 +1,15 @@
+(j,q)   N  Nodd   nmin-nmax     d-range   | expected from Table 1
+(8, 5)    5    0      7-   25    1-  2   | (5, 0, 7, 25, 1, 2) OK 
+(27, 17) 50   12    164-  885    1- 26   | (50, 12, 164, 885, 1, 26) OK 
+(46, 29)231   56     91- 4611    1-188   | (231, 56, 91, 4611, 1, 188) OK 
+(54, 34)  2    0    432-  864    1-  2   | (2, 0, 432, 864, 1, 2) OK 
+(65, 41)244   62     73- 4547    7-292   | (244, 62, 73, 4547, 7, 292) OK 
+(73, 46) 56   18    487- 4614    1- 63   | (56, 18, 487, 4614, 1, 63) OK 
+(92, 58)  5    0   3567- 4551   65-125   | (5, 0, 3567, 4551, 65, 125) OK 
+total hits: 593 (Theorem 1.3: 593)
+distinct starting integers: 550 (paper: 550)
+sequences starting and ending at even integers: 138 (paper: 138)
+near-cycles T^j(n)=n+1 among hits: 20 (paper: 20) ; list equals Appendix B minus (3,3): True
+every sequence contains 11 (j=8) or 103 (j>8): True (paper claim)
+n=859: [(46, 890), (65, 911), (73, 866)] (paper: 46->890, 65->911, 73->866)
+ALL COMPARISONS MATCH

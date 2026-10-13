@@ -1,0 +1,28 @@
+== 1. counterexamples to the retracted claim ==
+  L=2 m=2: 3^m-1=8 = 2^3 * 1,  w mod 8 = 1,  W_L = 10   (m mod 2^(L-1) = 0)
+  L=2 m=6: 3^m-1=728 = 2^3 * 91,  w mod 8 = 3,  W_L = 11   (m mod 2^(L-1) = 0)
+  L=3 m=2: 3^m-1=8 = 2^3 * 1,  w mod 8 = 1,  W_L = 101   (m mod 2^(L-1) = 2)
+  L=3 m=6: 3^m-1=728 = 2^3 * 91,  w mod 8 = 3,  W_L = 110   (m mod 2^(L-1) = 2)
+  m=2 and m=6 are congruent mod 4 but W_3 = 101 vs 110 (and W_2 = 10 vs 11).
+  e=v2(m)=1 for both; corrected modulus 2^(e+L) = 16 separates them (2 != 6 mod 16).
+== 2. table: v2(3^m-1) formula (Lemma V), m=1..40 ==
+  verified m=1..40
+== 3. corrected statement: grouped check m=1..3000, L=1..10 ==
+  L= 1: groups=   12, groups with 2+ different words under CORRECTED key: 0
+  L= 2: groups=   21, groups with 2+ different words under CORRECTED key: 0
+  L= 3: groups=   39, groups with 2+ different words under CORRECTED key: 0
+  L= 4: groups=   71, groups with 2+ different words under CORRECTED key: 0
+  L= 5: groups=  127, groups with 2+ different words under CORRECTED key: 0
+  L= 6: groups=  222, groups with 2+ different words under CORRECTED key: 0
+  L= 7: groups=  381, groups with 2+ different words under CORRECTED key: 0
+  L= 8: groups=  635, groups with 2+ different words under CORRECTED key: 0
+  L= 9: groups= 1015, groups with 2+ different words under CORRECTED key: 0
+  L=10: groups= 1518, groups with 2+ different words under CORRECTED key: 0
+  (large e+L makes most groups singletons; step 4 tests shifted pairs explicitly)
+== 4. targeted shifted pairs: m' = m + t*2^a  (a = corrected exponent), and the RETRACTED shift 2^(L-1) ==
+  corrected-modulus shifted pairs checked: 9534, all equal
+  retracted-claim pairs (same parity, shift 2^(L-1)): 2778, with DIFFERENT words: 1244; first examples (L,m,m'): [(2, 4, 6), (2, 6, 8), (2, 10, 12), (2, 14, 16), (2, 20, 22)]
+== 5. unnormalised remark: x=3^m-1 ==
+  word(x)=0^v + word(w): violations 0
+  first L branches of x depend on m mod 2^(L-2) (L=3..10, m<1500): violating groups 0
+DONE (finite checks of statements proved on paper; not a proof by themselves)

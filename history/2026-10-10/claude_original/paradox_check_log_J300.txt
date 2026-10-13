@@ -1,0 +1,14 @@
+certificate paradox_cert_J300.json sha256=eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af (11960 bytes)
+[PASS] K1-K3: qmax table, exact H(j) bounds, Hmax=6724, X=4076810 (recomputed X=4076810)
+[PASS] K4 independent numpy scan of n in [3,4076810], j<=300 reproduces the certificate list exactly (593 hits)
+[PASS] K5 each listed hit verified by exact big-integer simulation
+[PASS] K6 (sanity, not part of proof) no hits for n in (4076810, 4276810]
+---- selftest: mutated certificates must be REJECTED ----
+  mutation 'drop one hit': REJECTED
+  mutation 'add fake hit': REJECTED
+  mutation 'H too small by 1': REJECTED
+  mutation 'H too large by 1': REJECTED
+  mutation 'X too small by 1': REJECTED
+  mutation 'qmax wrong': REJECTED
+============================================================
+ALL CHECKS PASSED for J=300: P(<=J) has exactly 593 elements (n>2, all n); finite certificate, not a Collatz proof

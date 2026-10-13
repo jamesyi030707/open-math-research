@@ -1,0 +1,27 @@
+Compiler stderr: 
+RESULT J=1 Hmax=0 anchors=0 status=0 nodes=0 leaf_tests=0 leaf_inner=0 hit_triples=0 pruned_P1=0 pruned_P2=0 seconds=0.000 maxrss_kb=10752 node_cap=10000000 time_cap=30
+DEPTH_HIST 0
+
+RESULT J=2 Hmax=1 anchors=0 status=0 nodes=0 leaf_tests=0 leaf_inner=0 hit_triples=0 pruned_P1=0 pruned_P2=0 seconds=0.000 maxrss_kb=10752 node_cap=10000000 time_cap=30
+DEPTH_HIST 0 0
+
+RESULT J=5 Hmax=5 anchors=2 status=0 nodes=5 leaf_tests=3 leaf_inner=14 hit_triples=0 pruned_P1=0 pruned_P2=2 seconds=0.000 maxrss_kb=10752 node_cap=10000000 time_cap=30
+DEPTH_HIST 2 2 1 0 0
+
+RESULT J=8 Hmax=31 anchors=15 status=0 nodes=79 leaf_tests=30 leaf_inner=217 hit_triples=5 pruned_P1=0 pruned_P2=29 seconds=0.000 maxrss_kb=10752 node_cap=10000000 time_cap=30
+DEPTH_HIST 15 15 17 17 12 3 0 0
+
+RESULT J=12 Hmax=31 anchors=15 status=0 nodes=152 leaf_tests=38 leaf_inner=393 hit_triples=5 pruned_P1=0 pruned_P2=53 seconds=0.000 maxrss_kb=10752 node_cap=10000000 time_cap=30
+DEPTH_HIST 15 15 17 20 26 26 16 9 5 3 0 0
+
+RESULT J=20 Hmax=31 anchors=15 status=0 nodes=522 leaf_tests=44 leaf_inner=769 hit_triples=5 pruned_P1=0 pruned_P2=170 seconds=0.000 maxrss_kb=11520 node_cap=10000000 time_cap=30
+DEPTH_HIST 15 15 17 20 26 34 44 57 68 67 57 43 29 18 9 3 0 0 0 0
+
+RESULT J=27 Hmax=146 anchors=72 status=0 nodes=7179 leaf_tests=304 leaf_inner=7056 hit_triples=55 pruned_P1=0 pruned_P2=2395 seconds=0.001 maxrss_kb=11628 node_cap=10000000 time_cap=30
+DEPTH_HIST 72 72 78 93 119 155 203 269 354 476 613 738 807 787 702 571 404 283 168 110 68 21 11 5 0 0 0
+
+RESULT J=35 Hmax=146 anchors=72 status=0 nodes=24780 leaf_tests=368 leaf_inner=11226 hit_triples=55 pruned_P1=0 pruned_P2=8279 seconds=0.001 maxrss_kb=14188 node_cap=10000000 time_cap=30
+DEPTH_HIST 72 72 78 93 119 155 203 269 354 476 631 842 1122 1480 1874 2225 2459 2507 2302 2008 1649 1266 926 641 404 249 140 82 49 18 10 5 0 0 0
+
+RESULT J=46 Hmax=386 anchors=192 status=0 nodes=344109 leaf_tests=1233 leaf_inner=49070 hit_triples=286 pruned_P1=0 pruned_P2=114704 seconds=0.006 maxrss_kb=47932 node_cap=10000000 time_cap=30
+DEPTH_HIST 192 192 208 248 315 410 543 723 960 1276 1698 2271 3023 4032 5365 7156 9546 12704 16626 21105 25605 29103 31390 31864 29622 26569 22562 17331 13286 9522 6728 4606 2961 1937 1194 600 332 152 84 40 15 10 3 0 0 0

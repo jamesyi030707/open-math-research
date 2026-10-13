@@ -1,0 +1,36 @@
+{
+  "method": "independent arbitrary-integer Python DP; J46 enumeration, J92 hit/path verification; no C execution",
+  "J46": {
+    "hit_triples": 286,
+    "distinct_starts": 279,
+    "hit_file_equals_baseline": true,
+    "all_hits_exactly_recomputed": true,
+    "exact_threshold_path_checks": 555,
+    "exact_DFS_nodes": 199100,
+    "exact_candidates": 1232,
+    "essential_nodes": 555,
+    "ordered_hit_and_candidate_files_equal": true
+  },
+  "J92": {
+    "hit_triples": 593,
+    "distinct_starts": 550,
+    "hit_file_equals_baseline": true,
+    "all_hits_exactly_recomputed": true,
+    "exact_threshold_path_checks": 1278
+  },
+  "J72_removed_candidates": {
+    "values": [
+      1915,
+      2155,
+      11755,
+      13225,
+      15673,
+      17633
+    ],
+    "each_directly_verified_not_a_hit_through_J72": true
+  },
+  "source_sha256": "1a7c1cf42f3f006750ea88830b9a6e1448a56238442578b0d287b902c1ce1b99",
+  "runtime_s": 0.6766553709894652,
+  "maxrss_kb": 11520,
+  "limits": "Original C cutoff still uses uncertified floating-point margin. Independent exact J46 completed. J92 traversal not rerun; its output and every known hit path verified. No novelty/global Collatz claim."
+}

@@ -1,0 +1,10 @@
+Primary-source check, 2026-10-11 UTC
+
+https://arxiv.org/html/2502.00948v4
+Rozier–Terracol v4, 13 April 2026. Definition 1.1 matches n>2, C_j<1, T^j(n)>=n. Theorem 5.3 reports 593 trajectories, and excludes any additional ones for 93<=j<=301993 or 4615<=n<=2.8e19. Corollary 5.4 gives CST equality for 2<=n<=2.8e19. Section 5 notes existing examples pass through 11 or 103. These are known results. The all-n, all-j CST claim remains conjectural in this source. Our J300 reproduction is much weaker and has no established novelty.
+
+https://arxiv.org/abs/2605.13886
+Withdrawn v2 (20 May 2026). Author cites duplication with Rozier–Terracol. The withdrawal's stated accelerated length must not replace the exact T-map bounds in the primary Rozier–Terracol article.
+
+https://arxiv.org/html/2602.10466v1
+Angeltveit, 11 February 2026. Theorem 2.5 states upward closure of descent within a parity residue class. The algorithm uses multiple sieves to check bounded convergence. Conclusion's projected N>=72 verification is a future goal, not completed verification in this source. This is algorithmic prior art, not a full Collatz proof.

@@ -1,0 +1,9 @@
+PASS: exact certificate-field equality (J,qmax,H,Hmax,X,hits); x_definition excluded
+PASS: 593 exact triples, 550 distinct starts; reference set equality
+PASS: exact adjacent q/H inequalities; Hmax=1192; finite 92-step X=125252
+Canonical earliest-small-odd statistics: roots=167, max_depth=37 (not completeness cutoffs)
+Candidate SHA256: 02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34
+Reference SHA256: 2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429
+PASS: rejected mutation: missing hit
+PASS: rejected mutation: extra fake hit
+LIMIT: traversal completeness and branch-pruning soundness require separate audit.

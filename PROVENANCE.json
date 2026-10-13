@@ -1,0 +1,1701 @@
+{
+  "archive_date": "2026-10-13",
+  "artifacts": [
+    {
+      "path": "history/2026-10-08/README_中文.md",
+      "source": "2026-10-08/README_中文.md",
+      "original_sha256": "580a9a72d097cae8b02500adba71b2178a146cfe86264a034624b5e56bbcd780",
+      "published_sha256": "9b3e7b8029463f81569dd58c7d6c2146606dd9b25bd05211c9e0f6af084662ce",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/claude_bb_demo_20261008.py",
+      "source": "2026-10-08/claude_bb_demo_20261008.py",
+      "original_sha256": "e2ff0c2b5066c9db518fe2a79c4f6b863027741092985141fcbc04541456b151",
+      "published_sha256": "e2ff0c2b5066c9db518fe2a79c4f6b863027741092985141fcbc04541456b151",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/claude_cert_k12_20261008.json",
+      "source": "2026-10-08/claude_cert_k12_20261008.json",
+      "original_sha256": "8189b40ceae982812f57b973985665751469cd7d7e55902401e3c96e8f88fa89",
+      "published_sha256": "8189b40ceae982812f57b973985665751469cd7d7e55902401e3c96e8f88fa89",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/claude_check_cert_k12_20261008.py",
+      "source": "2026-10-08/claude_check_cert_k12_20261008.py",
+      "original_sha256": "bfd990bda02d4453930cf537426789ed71aa34c9bdb97f6adeb7cc98298112a1",
+      "published_sha256": "bfd990bda02d4453930cf537426789ed71aa34c9bdb97f6adeb7cc98298112a1",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/claude_check_log_k12_20261008.txt",
+      "source": "2026-10-08/claude_check_log_k12_20261008.txt",
+      "original_sha256": "d8122cfcf6cb7377e7ed892bae348742eb0d66676bd81356214133e0deccab4d",
+      "published_sha256": "d8122cfcf6cb7377e7ed892bae348742eb0d66676bd81356214133e0deccab4d",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/claude_research_note_20261008.md",
+      "source": "2026-10-08/claude_research_note_20261008.md",
+      "original_sha256": "fb575a727441d17cdcc323f408b4c8bc8b897cf589a2c89564d7a5f41cb8c842",
+      "published_sha256": "fb575a727441d17cdcc323f408b4c8bc8b897cf589a2c89564d7a5f41cb8c842",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/dot_claude_checker_rerun_20261008.txt",
+      "source": "2026-10-08/dot_claude_checker_rerun_20261008.txt",
+      "original_sha256": "66d0dbb3da0337e564d320640f37459493af50e0778ee987188afc98e4e7b868",
+      "published_sha256": "7c9b35f01de4cda74cec001415ed54e27d0f71a41dc9319c3e936fe5957630a5",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/dot_collatz_independent_audit_20261008.txt",
+      "source": "2026-10-08/dot_collatz_independent_audit_20261008.txt",
+      "original_sha256": "7b4f568b701df02fdc97e1119c359575b2e8fc98264efae263917900ca3cb05b",
+      "published_sha256": "7b4f568b701df02fdc97e1119c359575b2e8fc98264efae263917900ca3cb05b",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/dot_independent_symbolic_k12_20261008.py",
+      "source": "2026-10-08/dot_independent_symbolic_k12_20261008.py",
+      "original_sha256": "33214fb3240bd4578f2db51c065d977e7e7ac3e6c209b4993da7a419f08710eb",
+      "published_sha256": "33214fb3240bd4578f2db51c065d977e7e7ac3e6c209b4993da7a419f08710eb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-08/dot_independent_symbolic_k12_log_20261008.txt",
+      "source": "2026-10-08/dot_independent_symbolic_k12_log_20261008.txt",
+      "original_sha256": "9e9baf29c7ca3a88b64e5d5d65f51e972314471dc4112c951d470aeac4e99b8a",
+      "published_sha256": "9e9baf29c7ca3a88b64e5d5d65f51e972314471dc4112c951d470aeac4e99b8a",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/README.txt",
+      "source": "2026-10-09/README.txt",
+      "original_sha256": "b6f6d796d2529ee76977de497073b3940c6f0e5e2392d5d7425a16917a39e8dc",
+      "published_sha256": "31e771e6343fb01ee47370688b175a41d28db5c0bb4178ba011c71dd567f1fd9",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/affine_boundary_examples.py",
+      "source": "2026-10-09/claude_original/affine_boundary_examples.py",
+      "original_sha256": "1dd04367c8eef27a81a026262387d2ca7cbc6202c09f11b1444499df9fbb9d38",
+      "published_sha256": "1dd04367c8eef27a81a026262387d2ca7cbc6202c09f11b1444499df9fbb9d38",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/affine_boundary_log.txt",
+      "source": "2026-10-09/claude_original/affine_boundary_log.txt",
+      "original_sha256": "be231873a61d2c1f4289deb1366c7c88b5d9b0d33f32540f31062fa555237759",
+      "published_sha256": "be231873a61d2c1f4289deb1366c7c88b5d9b0d33f32540f31062fa555237759",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/cert_k12.json",
+      "source": "2026-10-09/claude_original/cert_k12.json",
+      "original_sha256": "8189b40ceae982812f57b973985665751469cd7d7e55902401e3c96e8f88fa89",
+      "published_sha256": "8189b40ceae982812f57b973985665751469cd7d7e55902401e3c96e8f88fa89",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/check_cert_k12.py",
+      "source": "2026-10-09/claude_original/check_cert_k12.py",
+      "original_sha256": "bfd990bda02d4453930cf537426789ed71aa34c9bdb97f6adeb7cc98298112a1",
+      "published_sha256": "bfd990bda02d4453930cf537426789ed71aa34c9bdb97f6adeb7cc98298112a1",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/check_log_k12.txt",
+      "source": "2026-10-09/claude_original/check_log_k12.txt",
+      "original_sha256": "d8122cfcf6cb7377e7ed892bae348742eb0d66676bd81356214133e0deccab4d",
+      "published_sha256": "d8122cfcf6cb7377e7ed892bae348742eb0d66676bd81356214133e0deccab4d",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/collatz_k12_certificate_note.md",
+      "source": "2026-10-09/claude_original/collatz_k12_certificate_note.md",
+      "original_sha256": "e6cebd3493221b340bda81794bb15da68004b74dd89e1bb593a8034a3d73b005",
+      "published_sha256": "e6cebd3493221b340bda81794bb15da68004b74dd89e1bb593a8034a3d73b005",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/gen_cert_k12.py",
+      "source": "2026-10-09/claude_original/gen_cert_k12.py",
+      "original_sha256": "07f650e37464706057262b282990d9be5ce96cc71fcfdbe404cb8cc90097eda5",
+      "published_sha256": "07f650e37464706057262b282990d9be5ce96cc71fcfdbe404cb8cc90097eda5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/periodicity_w_check.py",
+      "source": "2026-10-09/claude_original/periodicity_w_check.py",
+      "original_sha256": "50fae44d39388db8f47acf8c20406ee786885c8763b193945abf7f680eb176cf",
+      "published_sha256": "50fae44d39388db8f47acf8c20406ee786885c8763b193945abf7f680eb176cf",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/claude_original/periodicity_w_log.txt",
+      "source": "2026-10-09/claude_original/periodicity_w_log.txt",
+      "original_sha256": "d6b50d32b98de2171174d70875555baf9359677501c41fbb0415362584d94447",
+      "published_sha256": "d6b50d32b98de2171174d70875555baf9359677501c41fbb0415362584d94447",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/independent_review/check_local.py",
+      "source": "2026-10-09/independent_review/check_local.py",
+      "original_sha256": "c1ed3eab0ccb0014569308a8bbae5000e255a22075645aa2e08a31529d6e981b",
+      "published_sha256": "c1ed3eab0ccb0014569308a8bbae5000e255a22075645aa2e08a31529d6e981b",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/independent_review/test_log.txt",
+      "source": "2026-10-09/independent_review/test_log.txt",
+      "original_sha256": "09f3550b7547ddf05ba38453c395749318e43f3c1904cd4a3150fa19f264b4cf",
+      "published_sha256": "09f3550b7547ddf05ba38453c395749318e43f3c1904cd4a3150fa19f264b4cf",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/independent_review/下次可发Claude的问题.txt",
+      "source": "2026-10-09/independent_review/下次可发Claude的问题.txt",
+      "original_sha256": "6dafffdc36bd9292eb57f8c65a727bc6d4ed4188fde2c95c8e07d27db08f7a7f",
+      "published_sha256": "6dafffdc36bd9292eb57f8c65a727bc6d4ed4188fde2c95c8e07d27db08f7a7f",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-09/independent_review/核查说明.txt",
+      "source": "2026-10-09/independent_review/核查说明.txt",
+      "original_sha256": "7673c6fd5217bf551b4dc00bab8ccce9691e36f20b0865639b17c591d4f47d04",
+      "published_sha256": "7673c6fd5217bf551b4dc00bab8ccce9691e36f20b0865639b17c591d4f47d04",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/audit_hits.txt",
+      "source": "2026-10-10/audit_hits.txt",
+      "original_sha256": "a2d0daa8368c4bae0b8130b6795c1ccc436220235d85fa2e40aebd39f71c5bfb",
+      "published_sha256": "a2d0daa8368c4bae0b8130b6795c1ccc436220235d85fa2e40aebd39f71c5bfb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/audit_independent.c",
+      "source": "2026-10-10/audit_independent.c",
+      "original_sha256": "7cfc180c4e98d5adbe291a5fa38f71e85e199160d1d2495bca00fd819186d41b",
+      "published_sha256": "7cfc180c4e98d5adbe291a5fa38f71e85e199160d1d2495bca00fd819186d41b",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/audit_independent.py",
+      "source": "2026-10-10/audit_independent.py",
+      "original_sha256": "5cc5e17f02bdd659d47b4fa539641d1e0e77c831d2a674c4888163ea8d0b1445",
+      "published_sha256": "5cc5e17f02bdd659d47b4fa539641d1e0e77c831d2a674c4888163ea8d0b1445",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/audit_log.txt",
+      "source": "2026-10-10/audit_log.txt",
+      "original_sha256": "00a89f3d6ef666d1f8140270ae2246a474bcd7ac516bcef357de818cf38f1f8c",
+      "published_sha256": "00a89f3d6ef666d1f8140270ae2246a474bcd7ac516bcef357de818cf38f1f8c",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/audit_qmax.txt",
+      "source": "2026-10-10/audit_qmax.txt",
+      "original_sha256": "4a3b1c4d444593469a0bfe26d93703d059d0f29781828898d760d9ce5ee418d6",
+      "published_sha256": "4a3b1c4d444593469a0bfe26d93703d059d0f29781828898d760d9ce5ee418d6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/check_paradox_cert.py",
+      "source": "2026-10-10/claude_original/check_paradox_cert.py",
+      "original_sha256": "4925e71c30eb6877492ab21e6a2c0801a732cf37b7e897e8a22bc776937b42b3",
+      "published_sha256": "4925e71c30eb6877492ab21e6a2c0801a732cf37b7e897e8a22bc776937b42b3",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/compare_rt_log_J92.txt",
+      "source": "2026-10-10/claude_original/compare_rt_log_J92.txt",
+      "original_sha256": "c7ca165ff030725f96e4935b7a6923e8fbf42a5128630b4e7afc26ccbd697075",
+      "published_sha256": "c7ca165ff030725f96e4935b7a6923e8fbf42a5128630b4e7afc26ccbd697075",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/compare_rt_table1.py",
+      "source": "2026-10-10/claude_original/compare_rt_table1.py",
+      "original_sha256": "39d7d96191ef4ee7b28e836a0075bb648b1a1044364838edc4a8f904d46ecbe0",
+      "published_sha256": "39d7d96191ef4ee7b28e836a0075bb648b1a1044364838edc4a8f904d46ecbe0",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/cst_corollary_and_budget.py",
+      "source": "2026-10-10/claude_original/cst_corollary_and_budget.py",
+      "original_sha256": "140a8dffb8a595aec3dc84ab0aac7ee96a5ff50dbdc6d872f2517210ab8f51e5",
+      "published_sha256": "140a8dffb8a595aec3dc84ab0aac7ee96a5ff50dbdc6d872f2517210ab8f51e5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/cst_corollary_and_budget_log.txt",
+      "source": "2026-10-10/claude_original/cst_corollary_and_budget_log.txt",
+      "original_sha256": "0844b3b4a303ab1366c44f1b410f86488e7e8d4fa04561c052561cbf09a2d3f7",
+      "published_sha256": "0844b3b4a303ab1366c44f1b410f86488e7e8d4fa04561c052561cbf09a2d3f7",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_cert_J300.json",
+      "source": "2026-10-10/claude_original/paradox_cert_J300.json",
+      "original_sha256": "eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af",
+      "published_sha256": "eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_cert_J92.json",
+      "source": "2026-10-10/claude_original/paradox_cert_J92.json",
+      "original_sha256": "2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429",
+      "published_sha256": "2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_check_log_J300.txt",
+      "source": "2026-10-10/claude_original/paradox_check_log_J300.txt",
+      "original_sha256": "ea45d41ab1fc11c8895d4b940267a28cd0eec81b3b55e9c622b8e1f724a33008",
+      "published_sha256": "ea45d41ab1fc11c8895d4b940267a28cd0eec81b3b55e9c622b8e1f724a33008",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_check_log_J92.txt",
+      "source": "2026-10-10/claude_original/paradox_check_log_J92.txt",
+      "original_sha256": "7ea2b54b4c6fdcbb32e3fd969445a29ae2beec4975f40f7d5a9d5f4aa235c7e3",
+      "published_sha256": "7ea2b54b4c6fdcbb32e3fd969445a29ae2beec4975f40f7d5a9d5f4aa235c7e3",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_gen.py",
+      "source": "2026-10-10/claude_original/paradox_gen.py",
+      "original_sha256": "877ec100de76d271a99e56782bbe887e5b55153bb7f7f236417e50f9a153fbfd",
+      "published_sha256": "877ec100de76d271a99e56782bbe887e5b55153bb7f7f236417e50f9a153fbfd",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_gen_log_J300.txt",
+      "source": "2026-10-10/claude_original/paradox_gen_log_J300.txt",
+      "original_sha256": "3d16e4b3031e1f90974a4ebad551b1b1511d62fd3cff2274f3110caab663bfa9",
+      "published_sha256": "3d16e4b3031e1f90974a4ebad551b1b1511d62fd3cff2274f3110caab663bfa9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_gen_log_J92.txt",
+      "source": "2026-10-10/claude_original/paradox_gen_log_J92.txt",
+      "original_sha256": "6cbdeb7411ef1d637a42c10e845e33e474723cd43e7f05d0e162dfed85fae018",
+      "published_sha256": "6cbdeb7411ef1d637a42c10e845e33e474723cd43e7f05d0e162dfed85fae018",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/paradox_scan.c",
+      "source": "2026-10-10/claude_original/paradox_scan.c",
+      "original_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "published_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/qmax_J300.txt",
+      "source": "2026-10-10/claude_original/qmax_J300.txt",
+      "original_sha256": "13979458d813ebe4c87f9a84b34518c80a50baeeec2d8b157b9495bda9bda9bb",
+      "published_sha256": "13979458d813ebe4c87f9a84b34518c80a50baeeec2d8b157b9495bda9bda9bb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/qmax_J92.txt",
+      "source": "2026-10-10/claude_original/qmax_J92.txt",
+      "original_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "published_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/theta_and_w_checks.py",
+      "source": "2026-10-10/claude_original/theta_and_w_checks.py",
+      "original_sha256": "52e90b06dbf6344b02f9676ce77a96db93eaf301879c515dc94a4f9ee660fd4c",
+      "published_sha256": "52e90b06dbf6344b02f9676ce77a96db93eaf301879c515dc94a4f9ee660fd4c",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/claude_original/theta_and_w_log.txt",
+      "source": "2026-10-10/claude_original/theta_and_w_log.txt",
+      "original_sha256": "3168db45a6e400557acf95a783d64d5b060c3349795755094836e0d2c6996ffe",
+      "published_sha256": "3168db45a6e400557acf95a783d64d5b060c3349795755094836e0d2c6996ffe",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/next_prompt.txt",
+      "source": "2026-10-10/next_prompt.txt",
+      "original_sha256": "9f22474bebb04f9abdb1670cbd5161e3c347c89e1218dcd54f58d94299656ef4",
+      "published_sha256": "4708f678d06bafcdacbd7e0d3ce848c17a114ce28f9e8512117408792bae781f",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/primary_sources.txt",
+      "source": "2026-10-10/primary_sources.txt",
+      "original_sha256": "13431210386e91cb4012b400b6e765e5dc8de66287993a652256cc5e2e75168a",
+      "published_sha256": "13431210386e91cb4012b400b6e765e5dc8de66287993a652256cc5e2e75168a",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/prompt1.txt",
+      "source": "2026-10-10/prompt1.txt",
+      "original_sha256": "d065febc48a62aaefc853bd73101e7adfba2ed14046cd86b8c3f57688a19289e",
+      "published_sha256": "226e17355239067dd14f53bf31be68c0529906344c49f20e283d523b6d8127bd",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-10/研究核查结论.txt",
+      "source": "2026-10-10/研究核查结论.txt",
+      "original_sha256": "1e9765ee5fb5787d0d86f992968985c8e42c837a34b83e5661496c213a10e14e",
+      "published_sha256": "f74608a4247a04e6e37dbfc7893f54f8a42a81ce1156422073f9458624513c6e",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/README.txt",
+      "source": "2026-10-11/README.txt",
+      "original_sha256": "4b3f9998ede0ec2e0fea628ab3831c8abc75ef5ff82bc3ff38d4a9819a978ec0",
+      "published_sha256": "07fff96263049d3284666205eae5a9a2a583b9a9dccdf5a771be2bf562fb34f5",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/audit_candidate_output_j92.py",
+      "source": "2026-10-11/audit_candidate_output_j92.py",
+      "original_sha256": "7e96a62c5a0d85a002f21e5588bf19e2d41ceb7678bcae480eb8eba9ff284af7",
+      "published_sha256": "d21839e03ed39b3d7593e28af093e2b4b9a61efe4de3dad83cdfb6e3d0967d40",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/audit_result.txt",
+      "source": "2026-10-11/audit_result.txt",
+      "original_sha256": "37fae7de114c0baf8f9af136169ce99a135d53a888fde34245fa1f817d885612",
+      "published_sha256": "37fae7de114c0baf8f9af136169ce99a135d53a888fde34245fa1f817d885612",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/check_paradox_cert.py",
+      "source": "2026-10-11/claude_original/check_paradox_cert.py",
+      "original_sha256": "59e3f058fe0c7636731ddb6da740a1caed49f32c53950646146659d0b31a740f",
+      "published_sha256": "59e3f058fe0c7636731ddb6da740a1caed49f32c53950646146659d0b31a740f",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/compare_rt_log_J92.txt",
+      "source": "2026-10-11/claude_original/compare_rt_log_J92.txt",
+      "original_sha256": "75da5e3e1e6211aab02cbfa94fc74a78773e380643e5723800c74178fbfbc585",
+      "published_sha256": "75da5e3e1e6211aab02cbfa94fc74a78773e380643e5723800c74178fbfbc585",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/paradox_cert_J92.json",
+      "source": "2026-10-11/claude_original/paradox_cert_J92.json",
+      "original_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "published_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/paradox_check_log_J92.txt",
+      "source": "2026-10-11/claude_original/paradox_check_log_J92.txt",
+      "original_sha256": "91449f76483541e481198f8fc53c3439fd8c4a792097069e9f352bb545faaac4",
+      "published_sha256": "91449f76483541e481198f8fc53c3439fd8c4a792097069e9f352bb545faaac4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/paradox_check_static_J300.txt",
+      "source": "2026-10-11/claude_original/paradox_check_static_J300.txt",
+      "original_sha256": "aa1c73b9c3b98289c804cb5a46438d172929b9b2beeac89dc07252fe86ecc160",
+      "published_sha256": "aa1c73b9c3b98289c804cb5a46438d172929b9b2beeac89dc07252fe86ecc160",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/paradox_gen.py",
+      "source": "2026-10-11/claude_original/paradox_gen.py",
+      "original_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "published_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/paradox_gen_log_J92.txt",
+      "source": "2026-10-11/claude_original/paradox_gen_log_J92.txt",
+      "original_sha256": "8b2463fe19f51f69dcf7833646e18781b4f19b1aba892b3f4509004dc7a0b475",
+      "published_sha256": "8b2463fe19f51f69dcf7833646e18781b4f19b1aba892b3f4509004dc7a0b475",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/claude_original/qmax_J92.txt",
+      "source": "2026-10-11/claude_original/qmax_J92.txt",
+      "original_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "published_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/independent_actual_j92_log.txt",
+      "source": "2026-10-11/independent_actual_j92_log.txt",
+      "original_sha256": "c8a57c35662a28aa93134cc4a8c44c1dec95d058de053bbe9b488a793fb121a2",
+      "published_sha256": "c8a57c35662a28aa93134cc4a8c44c1dec95d058de053bbe9b488a793fb121a2",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/primary_sources.txt",
+      "source": "2026-10-11/primary_sources.txt",
+      "original_sha256": "99622f2ed7aaafd15c83e4aa454fa99fe97ccad8e2a23bc424da9fc2eb24a73b",
+      "published_sha256": "99622f2ed7aaafd15c83e4aa454fa99fe97ccad8e2a23bc424da9fc2eb24a73b",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/reference/audit_log_J300_previous.txt",
+      "source": "2026-10-11/reference/audit_log_J300_previous.txt",
+      "original_sha256": "00a89f3d6ef666d1f8140270ae2246a474bcd7ac516bcef357de818cf38f1f8c",
+      "published_sha256": "00a89f3d6ef666d1f8140270ae2246a474bcd7ac516bcef357de818cf38f1f8c",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/reference/paradox_cert_J300.json",
+      "source": "2026-10-11/reference/paradox_cert_J300.json",
+      "original_sha256": "eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af",
+      "published_sha256": "eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/reference/paradox_cert_J92_previous.json",
+      "source": "2026-10-11/reference/paradox_cert_J92_previous.json",
+      "original_sha256": "2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429",
+      "published_sha256": "2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/reference/paradox_scan.c",
+      "source": "2026-10-11/reference/paradox_scan.c",
+      "original_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "published_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-11/研究核查结论.txt",
+      "source": "2026-10-11/研究核查结论.txt",
+      "original_sha256": "703930b281ef11484ddd467a9d8087800a55824757e28de5472ba19d73d7fb7c",
+      "published_sha256": "9917d177b705885d1e1c2da8f3945290e4d70c670f657dcc85a8aaf0a66e1df0",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/README.txt",
+      "source": "2026-10-12/README.txt",
+      "original_sha256": "e43a7968bba81c808109d74f9bfa2ea8de9e05e203ea5e156beac653d00d3da7",
+      "published_sha256": "1947c7b95f36757236aee497767b0af1299068996bb66426c8210473bf9d7d8f",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_exact.py",
+      "source": "2026-10-12/audit_exact.py",
+      "original_sha256": "649e8f413395ce7c4947727767bfb8f138f1bc2816159e6ce046a6cb4b2ba2c6",
+      "published_sha256": "649e8f413395ce7c4947727767bfb8f138f1bc2816159e6ce046a6cb4b2ba2c6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J1.txt",
+      "source": "2026-10-12/audit_hits_J1.txt",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J12.txt",
+      "source": "2026-10-12/audit_hits_J12.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J2.txt",
+      "source": "2026-10-12/audit_hits_J2.txt",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J20.txt",
+      "source": "2026-10-12/audit_hits_J20.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J27.txt",
+      "source": "2026-10-12/audit_hits_J27.txt",
+      "original_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "published_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J35.txt",
+      "source": "2026-10-12/audit_hits_J35.txt",
+      "original_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "published_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J46.txt",
+      "source": "2026-10-12/audit_hits_J46.txt",
+      "original_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "published_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J5.txt",
+      "source": "2026-10-12/audit_hits_J5.txt",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_hits_J8.txt",
+      "source": "2026-10-12/audit_hits_J8.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J1.txt",
+      "source": "2026-10-12/audit_qmax_J1.txt",
+      "original_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "published_sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J12.txt",
+      "source": "2026-10-12/audit_qmax_J12.txt",
+      "original_sha256": "33c26353a59c29295636fd746dc37d35d3994c2adece7a5d7918878dfb305ab4",
+      "published_sha256": "33c26353a59c29295636fd746dc37d35d3994c2adece7a5d7918878dfb305ab4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J2.txt",
+      "source": "2026-10-12/audit_qmax_J2.txt",
+      "original_sha256": "82c1315e6c757f33c4a77ca58b2a184f5a88614470c05ec77f3d28918db6b8ae",
+      "published_sha256": "82c1315e6c757f33c4a77ca58b2a184f5a88614470c05ec77f3d28918db6b8ae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J20.txt",
+      "source": "2026-10-12/audit_qmax_J20.txt",
+      "original_sha256": "a569145fced039ddb7c2487ee5e9cf3eb025bb42c7cf66d351c9d550eb62eceb",
+      "published_sha256": "a569145fced039ddb7c2487ee5e9cf3eb025bb42c7cf66d351c9d550eb62eceb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J27.txt",
+      "source": "2026-10-12/audit_qmax_J27.txt",
+      "original_sha256": "45209d1017df2b628156b74b1fa06170273ce8830875010230642a920e190ecb",
+      "published_sha256": "45209d1017df2b628156b74b1fa06170273ce8830875010230642a920e190ecb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J35.txt",
+      "source": "2026-10-12/audit_qmax_J35.txt",
+      "original_sha256": "aa838212e621cc742ee72f7c03bc35acf0372f56b0cc37de3df7d8988a057fa1",
+      "published_sha256": "aa838212e621cc742ee72f7c03bc35acf0372f56b0cc37de3df7d8988a057fa1",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J46.txt",
+      "source": "2026-10-12/audit_qmax_J46.txt",
+      "original_sha256": "f47f92aaa36a5cd962d49a63897a6b4778e2406e67bdbb58662589c1395f45e5",
+      "published_sha256": "f47f92aaa36a5cd962d49a63897a6b4778e2406e67bdbb58662589c1395f45e5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J5.txt",
+      "source": "2026-10-12/audit_qmax_J5.txt",
+      "original_sha256": "ba2e0a799986279ea800ffdf02736ea559dfcf8a823d97427982746e03e86f71",
+      "published_sha256": "ba2e0a799986279ea800ffdf02736ea559dfcf8a823d97427982746e03e86f71",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_qmax_J8.txt",
+      "source": "2026-10-12/audit_qmax_J8.txt",
+      "original_sha256": "4c652d1182a7472a69605367e952baffc6145e5d3c9246f9c8c6284ad39f4b53",
+      "published_sha256": "4c652d1182a7472a69605367e952baffc6145e5d3c9246f9c8c6284ad39f4b53",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_results.json",
+      "source": "2026-10-12/audit_results.json",
+      "original_sha256": "aa62a01b10eb8e1c0153dbc2ac715e6533166ea78c6f4e7921cf609c641ab6d6",
+      "published_sha256": "aa62a01b10eb8e1c0153dbc2ac715e6533166ea78c6f4e7921cf609c641ab6d6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_run.log",
+      "source": "2026-10-12/audit_run.log",
+      "original_sha256": "e071b0ed9a85e586716861f302548d2f9993d5b7fb93e3baceb311f4773cf2a1",
+      "published_sha256": "e071b0ed9a85e586716861f302548d2f9993d5b7fb93e3baceb311f4773cf2a1",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/audit_verification_zh.md",
+      "source": "2026-10-12/audit_verification_zh.md",
+      "original_sha256": "3748748a91ed13d2926e0e78d80f05bd54d3054024bc030f12b62203097145a5",
+      "published_sha256": "3748748a91ed13d2926e0e78d80f05bd54d3054024bc030f12b62203097145a5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/baseline_paradox_cert_J92.json",
+      "source": "2026-10-12/baseline_paradox_cert_J92.json",
+      "original_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "published_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/baseline_paradox_gen.py",
+      "source": "2026-10-12/baseline_paradox_gen.py",
+      "original_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "published_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_command_1.sh",
+      "source": "2026-10-12/claude_command_1.sh",
+      "original_sha256": "417f7043f186190fea4a7f16804eaef9fe44d1f964870e950629af6d9b815dfd",
+      "published_sha256": "8c712f5f980c045c01036f59035a4e21def5b81ba7550b4756a6955b7b4c6d49",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_command_2.sh",
+      "source": "2026-10-12/claude_command_2.sh",
+      "original_sha256": "fa46aa9d703df8bf4d7e5ec62a0473018530904ed440d7be0dab31ad7cbd9c2a",
+      "published_sha256": "b0c899f66fd16ba9b139ee983c8caafcdd0ba6d0e29d9e3375fd6c61be6af132",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_command_3.sh",
+      "source": "2026-10-12/claude_command_3.sh",
+      "original_sha256": "cbadf4ac2481c77846b98fc5037b43d7a90b066cb37ee138bc5eaa1c43133473",
+      "published_sha256": "f179cff26f11b2f65fb919ba615e95abb00d373e7c359cc1a2fd6f72d4e3493c",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_command_4.sh",
+      "source": "2026-10-12/claude_command_4.sh",
+      "original_sha256": "c90a89051df0cdabcb609aaf957a0b82cf1e9a9b36423f3f37167ccb1df8ae8e",
+      "published_sha256": "d3aa01e3b98fa643563e047e6255836d2bc66d620ec1ac8721d9e85781d1e5f6",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/collatz_formal_corrections.md",
+      "source": "2026-10-12/claude_originals/collatz_formal_corrections.md",
+      "original_sha256": "dec6e53bc01d6d1951ac220b383d000e37c32e274ce07b3d299e5aaca16d653d",
+      "published_sha256": "dec6e53bc01d6d1951ac220b383d000e37c32e274ce07b3d299e5aaca16d653d",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/collatz_k12_certificate_note.md",
+      "source": "2026-10-12/claude_originals/collatz_k12_certificate_note.md",
+      "original_sha256": "a87512accc25ba10f34626929c82e4dcb99b0423728e8591c22c481f035a0644",
+      "published_sha256": "a87512accc25ba10f34626929c82e4dcb99b0423728e8591c22c481f035a0644",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J12.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J12.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J16.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J16.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J20.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J20.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J24.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J24.txt",
+      "original_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "published_sha256": "cce458be1f289765741387fa486db5608c261d446bb1da97bae1a587335f12a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J30.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J30.txt",
+      "original_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "published_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J36.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J36.txt",
+      "original_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "published_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J40.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J40.txt",
+      "original_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "published_sha256": "a8f67ce4d451ca66e4809472f90d472b49577ad996e1b167ae93cf9b2a253569",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J46.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J46.txt",
+      "original_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "published_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J52.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J52.txt",
+      "original_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "published_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J58.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J58.txt",
+      "original_sha256": "b51ea447b425ba8e2d2435c140571e0eb41fddce6b55df4d6ee40cf39d7137bd",
+      "published_sha256": "b51ea447b425ba8e2d2435c140571e0eb41fddce6b55df4d6ee40cf39d7137bd",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J65.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J65.txt",
+      "original_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "published_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J72.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J72.txt",
+      "original_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "published_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J80.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J80.txt",
+      "original_sha256": "b4bee7dac5a65ea5215c6c23b319391fe976b6627d71bcfef1923161e24e451d",
+      "published_sha256": "b4bee7dac5a65ea5215c6c23b319391fe976b6627d71bcfef1923161e24e451d",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J86.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J86.txt",
+      "original_sha256": "1809f757c2139a635c45d41a821b5d2cdf35d4014173d7e82e0ad5383422ba96",
+      "published_sha256": "1809f757c2139a635c45d41a821b5d2cdf35d4014173d7e82e0ad5383422ba96",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inv_hits_J92.txt",
+      "source": "2026-10-12/claude_originals/inv_hits_J92.txt",
+      "original_sha256": "7b689982fc23b7505f80397ec902c0513d777783dc381eb4a4bffa44cf256a89",
+      "published_sha256": "7b689982fc23b7505f80397ec902c0513d777783dc381eb4a4bffa44cf256a89",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit.c",
+      "source": "2026-10-12/claude_originals/inverse_orbit.c",
+      "original_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "published_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit_hashes.txt",
+      "source": "2026-10-12/claude_originals/inverse_orbit_hashes.txt",
+      "original_sha256": "12e6282e7ad0fe2a21777134bd0319c8c8c5bc93ee03a900f4dd6a54c61436b7",
+      "published_sha256": "12e6282e7ad0fe2a21777134bd0319c8c8c5bc93ee03a900f4dd6a54c61436b7",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit_note.md",
+      "source": "2026-10-12/claude_originals/inverse_orbit_note.md",
+      "original_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "published_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit_pilot.py",
+      "source": "2026-10-12/claude_originals/inverse_orbit_pilot.py",
+      "original_sha256": "2e937e0380007fafd3a6e99de2345fdb82a38a3fb9962ef98e6eff06d8e1f971",
+      "published_sha256": "2e937e0380007fafd3a6e99de2345fdb82a38a3fb9962ef98e6eff06d8e1f971",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit_stage2.py",
+      "source": "2026-10-12/claude_originals/inverse_orbit_stage2.py",
+      "original_sha256": "93531adf9a1470cd60f598bd937c7953c75a5f36c2c06e31755cc3c8e1858b4c",
+      "published_sha256": "93531adf9a1470cd60f598bd937c7953c75a5f36c2c06e31755cc3c8e1858b4c",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_orbit_stage3_J92.py",
+      "source": "2026-10-12/claude_originals/inverse_orbit_stage3_J92.py",
+      "original_sha256": "983c725a586b90d457bf75b03e6bf5627f19c1a53d114ec872c2373de4dbd88a",
+      "published_sha256": "983c725a586b90d457bf75b03e6bf5627f19c1a53d114ec872c2373de4dbd88a",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_log.txt",
+      "source": "2026-10-12/claude_originals/inverse_pilot_log.txt",
+      "original_sha256": "a192c0d55e3966350bd452de55d87ce2e42e52f79e809a81a4630d5fa92794a9",
+      "published_sha256": "a192c0d55e3966350bd452de55d87ce2e42e52f79e809a81a4630d5fa92794a9",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_results.json",
+      "source": "2026-10-12/claude_originals/inverse_pilot_results.json",
+      "original_sha256": "42ac1d2a9fe75d8f6b3d7e983607250b061f8746ce778049d1ac3e4427a3e727",
+      "published_sha256": "42ac1d2a9fe75d8f6b3d7e983607250b061f8746ce778049d1ac3e4427a3e727",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_stage2_log.txt",
+      "source": "2026-10-12/claude_originals/inverse_pilot_stage2_log.txt",
+      "original_sha256": "6290b2961cea858432ae4935c1a3fa087dc807496bba59a4f54e314e892402f2",
+      "published_sha256": "6290b2961cea858432ae4935c1a3fa087dc807496bba59a4f54e314e892402f2",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_stage2_results.json",
+      "source": "2026-10-12/claude_originals/inverse_pilot_stage2_results.json",
+      "original_sha256": "25ac9115bc2c34feb40de607171009a631cb446e650b8bbf8fd4e444aefd1050",
+      "published_sha256": "25ac9115bc2c34feb40de607171009a631cb446e650b8bbf8fd4e444aefd1050",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_stage3_J92_log.txt",
+      "source": "2026-10-12/claude_originals/inverse_pilot_stage3_J92_log.txt",
+      "original_sha256": "767bf5ab5c573ce78408669cc86e4469d235fb60ef31845d9ddc770b9603ac64",
+      "published_sha256": "767bf5ab5c573ce78408669cc86e4469d235fb60ef31845d9ddc770b9603ac64",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/inverse_pilot_stage3_J92_results.json",
+      "source": "2026-10-12/claude_originals/inverse_pilot_stage3_J92_results.json",
+      "original_sha256": "f86baa58078defdd3860daa4d59fdf2ea41984b69133910f526ada541eaa6f01",
+      "published_sha256": "f86baa58078defdd3860daa4d59fdf2ea41984b69133910f526ada541eaa6f01",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/paradox_cert_J92.json",
+      "source": "2026-10-12/claude_originals/paradox_cert_J92.json",
+      "original_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "published_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/paradox_gen.py",
+      "source": "2026-10-12/claude_originals/paradox_gen.py",
+      "original_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "published_sha256": "2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/paradox_scan.c",
+      "source": "2026-10-12/claude_originals/paradox_scan.c",
+      "original_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "published_sha256": "eb6ae023fcba7387e974ca49e0b779a7a4cc66708399ed0f603c15bae6943b28",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J12.txt",
+      "source": "2026-10-12/claude_originals/qmax_J12.txt",
+      "original_sha256": "33c26353a59c29295636fd746dc37d35d3994c2adece7a5d7918878dfb305ab4",
+      "published_sha256": "33c26353a59c29295636fd746dc37d35d3994c2adece7a5d7918878dfb305ab4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J16.txt",
+      "source": "2026-10-12/claude_originals/qmax_J16.txt",
+      "original_sha256": "c282705ab9246d45be2f1a3470c18fb04a1923d520375c70a002d13a18179468",
+      "published_sha256": "c282705ab9246d45be2f1a3470c18fb04a1923d520375c70a002d13a18179468",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J20.txt",
+      "source": "2026-10-12/claude_originals/qmax_J20.txt",
+      "original_sha256": "a569145fced039ddb7c2487ee5e9cf3eb025bb42c7cf66d351c9d550eb62eceb",
+      "published_sha256": "a569145fced039ddb7c2487ee5e9cf3eb025bb42c7cf66d351c9d550eb62eceb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J24.txt",
+      "source": "2026-10-12/claude_originals/qmax_J24.txt",
+      "original_sha256": "05ad92e8990692a1ff4298e323894bb942333cd9549ca3b77ac32c92c86252d0",
+      "published_sha256": "05ad92e8990692a1ff4298e323894bb942333cd9549ca3b77ac32c92c86252d0",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J30.txt",
+      "source": "2026-10-12/claude_originals/qmax_J30.txt",
+      "original_sha256": "3f4692614ebd157f85d2857a479c514f73065e44573b6e373b0480085ecea6be",
+      "published_sha256": "3f4692614ebd157f85d2857a479c514f73065e44573b6e373b0480085ecea6be",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J300.txt",
+      "source": "2026-10-12/claude_originals/qmax_J300.txt",
+      "original_sha256": "13979458d813ebe4c87f9a84b34518c80a50baeeec2d8b157b9495bda9bda9bb",
+      "published_sha256": "13979458d813ebe4c87f9a84b34518c80a50baeeec2d8b157b9495bda9bda9bb",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J36.txt",
+      "source": "2026-10-12/claude_originals/qmax_J36.txt",
+      "original_sha256": "51ded2abda13cc1de86a6037287f293265383b84b5084ecd69b12e28d9e4c459",
+      "published_sha256": "51ded2abda13cc1de86a6037287f293265383b84b5084ecd69b12e28d9e4c459",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J40.txt",
+      "source": "2026-10-12/claude_originals/qmax_J40.txt",
+      "original_sha256": "d5cb579bd6587d5eed3769de2d60954c5abb66be869efb8976678027e2670b75",
+      "published_sha256": "d5cb579bd6587d5eed3769de2d60954c5abb66be869efb8976678027e2670b75",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J46.txt",
+      "source": "2026-10-12/claude_originals/qmax_J46.txt",
+      "original_sha256": "f47f92aaa36a5cd962d49a63897a6b4778e2406e67bdbb58662589c1395f45e5",
+      "published_sha256": "f47f92aaa36a5cd962d49a63897a6b4778e2406e67bdbb58662589c1395f45e5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J52.txt",
+      "source": "2026-10-12/claude_originals/qmax_J52.txt",
+      "original_sha256": "ab46c9f304bad74455a623aeb07e4e2f9890fe4e2fb2fcbc58095b4f2e58362f",
+      "published_sha256": "ab46c9f304bad74455a623aeb07e4e2f9890fe4e2fb2fcbc58095b4f2e58362f",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J58.txt",
+      "source": "2026-10-12/claude_originals/qmax_J58.txt",
+      "original_sha256": "d20afca3c92129c27c407e5570647416bb81044295818b6cf81d0f56274cab12",
+      "published_sha256": "d20afca3c92129c27c407e5570647416bb81044295818b6cf81d0f56274cab12",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J65.txt",
+      "source": "2026-10-12/claude_originals/qmax_J65.txt",
+      "original_sha256": "c957afae42d49dc950ff5e93a3a39eef9bdff3e62615769298d8773d914e0d97",
+      "published_sha256": "c957afae42d49dc950ff5e93a3a39eef9bdff3e62615769298d8773d914e0d97",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J72.txt",
+      "source": "2026-10-12/claude_originals/qmax_J72.txt",
+      "original_sha256": "7cd9c601209846cfe9f0e559d948e9cee5f484b5dc122e5b65333a2928ccb763",
+      "published_sha256": "7cd9c601209846cfe9f0e559d948e9cee5f484b5dc122e5b65333a2928ccb763",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J80.txt",
+      "source": "2026-10-12/claude_originals/qmax_J80.txt",
+      "original_sha256": "f446f00dd31abb0ff76406f467351f4c7ba0a1784ae219b5494142febcfa9ad2",
+      "published_sha256": "f446f00dd31abb0ff76406f467351f4c7ba0a1784ae219b5494142febcfa9ad2",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J86.txt",
+      "source": "2026-10-12/claude_originals/qmax_J86.txt",
+      "original_sha256": "51754383360cf117933493a54227d786c1f7af5939921e4c9985d466888b4bba",
+      "published_sha256": "51754383360cf117933493a54227d786c1f7af5939921e4c9985d466888b4bba",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/qmax_J92.txt",
+      "source": "2026-10-12/claude_originals/qmax_J92.txt",
+      "original_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "published_sha256": "a6a2775d0d54cdcad69be81f98cb166a472fee8f0d02bbab9bf5ed23025c9dd7",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_originals/theta_and_w_log.txt",
+      "source": "2026-10-12/claude_originals/theta_and_w_log.txt",
+      "original_sha256": "3168db45a6e400557acf95a783d64d5b060c3349795755094836e0d2c6996ffe",
+      "published_sha256": "3168db45a6e400557acf95a783d64d5b060c3349795755094836e0d2c6996ffe",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_output_1.txt",
+      "source": "2026-10-12/claude_output_1.txt",
+      "original_sha256": "300ef82181fdbe1e3cf1fa0c31775ca9740a76a2af88e90c4314ddcc9c8a5862",
+      "published_sha256": "300ef82181fdbe1e3cf1fa0c31775ca9740a76a2af88e90c4314ddcc9c8a5862",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_output_2.txt",
+      "source": "2026-10-12/claude_output_2.txt",
+      "original_sha256": "e832f8ea5afcbe0de7e66b0987433017d1a8c2b6c8c5800fa0b5dda0adf99ed6",
+      "published_sha256": "e832f8ea5afcbe0de7e66b0987433017d1a8c2b6c8c5800fa0b5dda0adf99ed6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_output_3.txt",
+      "source": "2026-10-12/claude_output_3.txt",
+      "original_sha256": "0859e68e871e81dcc29a09368cac792d0596e63b09174ea5505ff2faf28ce050",
+      "published_sha256": "0859e68e871e81dcc29a09368cac792d0596e63b09174ea5505ff2faf28ce050",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/claude_output_4.txt",
+      "source": "2026-10-12/claude_output_4.txt",
+      "original_sha256": "3cc5e1df913fcc2eac06b9ee700e49dbb72a717df23c2fa5262700d509bf2220",
+      "published_sha256": "3cc5e1df913fcc2eac06b9ee700e49dbb72a717df23c2fa5262700d509bf2220",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/collatz_formal_corrections.md",
+      "source": "2026-10-12/collatz_formal_corrections.md",
+      "original_sha256": "dec6e53bc01d6d1951ac220b383d000e37c32e274ce07b3d299e5aaca16d653d",
+      "published_sha256": "dec6e53bc01d6d1951ac220b383d000e37c32e274ce07b3d299e5aaca16d653d",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/download_integrity_check.json",
+      "source": "2026-10-12/download_integrity_check.json",
+      "original_sha256": "22153ec4b5a1ea099c7d2364852237523d6fbb1d0a5f086c3414dc64fc8863c6",
+      "published_sha256": "22153ec4b5a1ea099c7d2364852237523d6fbb1d0a5f086c3414dc64fc8863c6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/independent_pilot.py",
+      "source": "2026-10-12/independent_pilot.py",
+      "original_sha256": "85c35fc52f5bd1865bef27bb67f8e061327704f7c738984843edc06576dac429",
+      "published_sha256": "85c35fc52f5bd1865bef27bb67f8e061327704f7c738984843edc06576dac429",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/independent_pilot_result.json",
+      "source": "2026-10-12/independent_pilot_result.json",
+      "original_sha256": "72659a7071ea43d51558a54b8975079f7800ca11bb142029c5991815699153c4",
+      "published_sha256": "72659a7071ea43d51558a54b8975079f7800ca11bb142029c5991815699153c4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/inverse_orbit.c",
+      "source": "2026-10-12/inverse_orbit.c",
+      "original_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "published_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/inverse_orbit_note.md",
+      "source": "2026-10-12/inverse_orbit_note.md",
+      "original_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "published_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/inverse_orbit_pilot.py",
+      "source": "2026-10-12/inverse_orbit_pilot.py",
+      "original_sha256": "2e937e0380007fafd3a6e99de2345fdb82a38a3fb9962ef98e6eff06d8e1f971",
+      "published_sha256": "2e937e0380007fafd3a6e99de2345fdb82a38a3fb9962ef98e6eff06d8e1f971",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/inverse_orbit_stage2.py",
+      "source": "2026-10-12/inverse_orbit_stage2.py",
+      "original_sha256": "93531adf9a1470cd60f598bd937c7953c75a5f36c2c06e31755cc3c8e1858b4c",
+      "published_sha256": "93531adf9a1470cd60f598bd937c7953c75a5f36c2c06e31755cc3c8e1858b4c",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/inverse_orbit_stage3_J92.py",
+      "source": "2026-10-12/inverse_orbit_stage3_J92.py",
+      "original_sha256": "983c725a586b90d457bf75b03e6bf5627f19c1a53d114ec872c2373de4dbd88a",
+      "published_sha256": "983c725a586b90d457bf75b03e6bf5627f19c1a53d114ec872c2373de4dbd88a",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/next_prompt.txt",
+      "source": "2026-10-12/next_prompt.txt",
+      "original_sha256": "b9e14450c6221b6010adad283f77354f059698935f0e4604b1ebe415a6a0f27a",
+      "published_sha256": "80d291971230cf80acfbadedd2bc9354864765b5edae2fe9d0d8910b209b9eb9",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/prompt_01.txt",
+      "source": "2026-10-12/prompt_01.txt",
+      "original_sha256": "0d846a937f26bb1991f7b179c3d186a42a5789b6012f514104284d79d5c0f37b",
+      "published_sha256": "5bfebd0e6ac44612098697be0333f27195b2c5bd23f4a1690f0e2b8fde377afe",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-12/研究核查结论.txt",
+      "source": "2026-10-12/研究核查结论.txt",
+      "original_sha256": "76fbc791fbe50c7060e8c03dc43cdd6eb039f03c95dba6e9d8f5019514632e16",
+      "published_sha256": "ac1e740ac01a266fb5e012f5380593d1301221467de431ba386c6e2461d96505",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/01_prompt.txt",
+      "source": "2026-10-13/01_prompt.txt",
+      "original_sha256": "6010c315e4cf80cad0409897c2a5ab38f6db0e1a5fda3fe0e2a7f2803b10c84d",
+      "published_sha256": "54654dd6b9791098c5b2cd84d2750dcd65ef3024a6157f9bacfb43ca5afaa3c1",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/exact_pruning_proof.txt",
+      "source": "2026-10-13/exact_pruning_proof.txt",
+      "original_sha256": "699c93ab1d15d987213fe5adb268a0f327ad400684bf656d9e51131fe3e5a63d",
+      "published_sha256": "139c610433b16c1e66ce987e0995baa94f8d0b97ddff846f83864e6108084bdc",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/independent_J46_hits.txt",
+      "source": "2026-10-13/independent_J46_hits.txt",
+      "original_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "published_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/independent_audit_log.txt",
+      "source": "2026-10-13/independent_audit_log.txt",
+      "original_sha256": "3cec490af98936fb51903047294d7fb52a3f1cb61d2854cda185a353a82a47a8",
+      "published_sha256": "3cec490af98936fb51903047294d7fb52a3f1cb61d2854cda185a353a82a47a8",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/independent_audit_results.json",
+      "source": "2026-10-13/independent_audit_results.json",
+      "original_sha256": "03bf375f1fa4585fec2680b753989e640d1b58034b97c89e121c71cf265e3717",
+      "published_sha256": "03bf375f1fa4585fec2680b753989e640d1b58034b97c89e121c71cf265e3717",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/independent_exact_audit.py",
+      "source": "2026-10-13/independent_exact_audit.py",
+      "original_sha256": "451164866cbba1e0fb107b2a5d96492eb4256ba19dee322e0bb22f16fb264386",
+      "published_sha256": "451164866cbba1e0fb107b2a5d96492eb4256ba19dee322e0bb22f16fb264386",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/inverse_orbit_theta_claude_original.c",
+      "source": "2026-10-13/inverse_orbit_theta_claude_original.c",
+      "original_sha256": "1a7c1cf42f3f006750ea88830b9a6e1448a56238442578b0d287b902c1ce1b99",
+      "published_sha256": "1a7c1cf42f3f006750ea88830b9a6e1448a56238442578b0d287b902c1ce1b99",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/inverse_orbit_theta_stageA.c",
+      "source": "2026-10-13/inverse_orbit_theta_stageA.c",
+      "original_sha256": "96d6c87f9b7cb39dec6064406025a523b1311dd1663000983d59ec56f4227e56",
+      "published_sha256": "96d6c87f9b7cb39dec6064406025a523b1311dd1663000983d59ec56f4227e56",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/literature_check.md",
+      "source": "2026-10-13/literature_check.md",
+      "original_sha256": "bf2a5c84a7816d15c8d88b1c84b816b64730aeefc33c22423f5f326bd61a20c6",
+      "published_sha256": "bf2a5c84a7816d15c8d88b1c84b816b64730aeefc33c22423f5f326bd61a20c6",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/next_prompt.txt",
+      "source": "2026-10-13/next_prompt.txt",
+      "original_sha256": "ea3a70c74c369f066d0c2ba9a2e1f18d185983357a7b0f376986b679d5ce1488",
+      "published_sha256": "783cc3b5f6d19d5c9ffca6d2831729fbe7a6cc3765b26976cf9f6e785ab449ed",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/paradox_cert_J46.json",
+      "source": "2026-10-13/paradox_cert_J46.json",
+      "original_sha256": "403fe47e04c253c36717064bc7680580bee68deac37b6a03c28bfc1c2e3539e0",
+      "published_sha256": "403fe47e04c253c36717064bc7680580bee68deac37b6a03c28bfc1c2e3539e0",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/paradox_cert_J92.json",
+      "source": "2026-10-13/paradox_cert_J92.json",
+      "original_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "published_sha256": "02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/prior_inverse_orbit.c",
+      "source": "2026-10-13/prior_inverse_orbit.c",
+      "original_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "published_sha256": "0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/prior_inverse_orbit_note.md",
+      "source": "2026-10-13/prior_inverse_orbit_note.md",
+      "original_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "published_sha256": "74d1426c5ac36489620401e5f35268f6248898e72ec07e1ef2d5c1861f1c45df",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/summary_zh.txt",
+      "source": "2026-10-13/summary_zh.txt",
+      "original_sha256": "f40fdc8cef2eab5ef079e53769c56373c4d0851eb60d2459f7b6cf1f5620ddde",
+      "published_sha256": "ff3635467e52616644ebfe518ae8c24eefe0bc3d22147891e9e3b7708de4da78",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_cand_m0_J46.txt",
+      "source": "2026-10-13/theta_cand_m0_J46.txt",
+      "original_sha256": "2904445c6732a33d3aea0d7d8db09a516f8ff4b0f36258c37cfb38f556fa4c36",
+      "published_sha256": "2904445c6732a33d3aea0d7d8db09a516f8ff4b0f36258c37cfb38f556fa4c36",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_cand_m0_J72_B.txt",
+      "source": "2026-10-13/theta_cand_m0_J72_B.txt",
+      "original_sha256": "9bacac0234120247834bc9b6e7ad32606eb0d42b74cdf99e1c3017ffe7524f7f",
+      "published_sha256": "9bacac0234120247834bc9b6e7ad32606eb0d42b74cdf99e1c3017ffe7524f7f",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_cand_m1_J46.txt",
+      "source": "2026-10-13/theta_cand_m1_J46.txt",
+      "original_sha256": "5d8dc4f1848ee21de0b00c0a407b968a818ec5358990817140badb4e98871698",
+      "published_sha256": "5d8dc4f1848ee21de0b00c0a407b968a818ec5358990817140badb4e98871698",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_cand_m1_J72_B.txt",
+      "source": "2026-10-13/theta_cand_m1_J72_B.txt",
+      "original_sha256": "51faede06fc2b756246c981422f4fc56f3af010eaa03839e9f2f85d64aadd962",
+      "published_sha256": "51faede06fc2b756246c981422f4fc56f3af010eaa03839e9f2f85d64aadd962",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_cand_m1_J92_B.txt",
+      "source": "2026-10-13/theta_cand_m1_J92_B.txt",
+      "original_sha256": "d22f055eb8edebba7f08b39821dc3e75adb47b3a8b30f7c7991e196df111172a",
+      "published_sha256": "d22f055eb8edebba7f08b39821dc3e75adb47b3a8b30f7c7991e196df111172a",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_hits_m1_J46.txt",
+      "source": "2026-10-13/theta_hits_m1_J46.txt",
+      "original_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "published_sha256": "dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_hits_m1_J72_B.txt",
+      "source": "2026-10-13/theta_hits_m1_J72_B.txt",
+      "original_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "published_sha256": "4fadc717e84d8eb0e1d7f251191218536ac89310d9d14506671f333d4746cbfd",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_hits_m1_J92_B.txt",
+      "source": "2026-10-13/theta_hits_m1_J92_B.txt",
+      "original_sha256": "7b689982fc23b7505f80397ec902c0513d777783dc381eb4a4bffa44cf256a89",
+      "published_sha256": "7b689982fc23b7505f80397ec902c0513d777783dc381eb4a4bffa44cf256a89",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_pilot.py",
+      "source": "2026-10-13/theta_pilot.py",
+      "original_sha256": "3fbad146ce0b088672d2c99657993414471c1a6708d95055b92247c079f5a989",
+      "published_sha256": "3fbad146ce0b088672d2c99657993414471c1a6708d95055b92247c079f5a989",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_pilot_log.txt",
+      "source": "2026-10-13/theta_pilot_log.txt",
+      "original_sha256": "6f32b531dc3dc3f6b8a5c96d062b49ebd0d10a2a4013af23a6e2aad1c9cb46fa",
+      "published_sha256": "6f32b531dc3dc3f6b8a5c96d062b49ebd0d10a2a4013af23a6e2aad1c9cb46fa",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_pilot_results.json",
+      "source": "2026-10-13/theta_pilot_results.json",
+      "original_sha256": "63d9016a6bffcd85136b5507217c6b5687a959c9f61ec7d195dbfa53427d1a96",
+      "published_sha256": "63d9016a6bffcd85136b5507217c6b5687a959c9f61ec7d195dbfa53427d1a96",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_stageB.py",
+      "source": "2026-10-13/theta_stageB.py",
+      "original_sha256": "5801703273b8d423cbf0f7a63f3e1a8df666cccc155f69ad0b3393783bf953a2",
+      "published_sha256": "5801703273b8d423cbf0f7a63f3e1a8df666cccc155f69ad0b3393783bf953a2",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_stageB_log.txt",
+      "source": "2026-10-13/theta_stageB_log.txt",
+      "original_sha256": "052d63ea346605e6f460b273bfaaefc67af2e51294264012ced938d9bca77b4f",
+      "published_sha256": "052d63ea346605e6f460b273bfaaefc67af2e51294264012ced938d9bca77b4f",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/2026-10-13/theta_stageB_results.json",
+      "source": "2026-10-13/theta_stageB_results.json",
+      "original_sha256": "c3c4d573e7c5f40340b08e0976dce79224c72ad1bfc92996a440218f80faa037",
+      "published_sha256": "c3c4d573e7c5f40340b08e0976dce79224c72ad1bfc92996a440218f80faa037",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/undated-earlier/claude_round1_reply.md",
+      "source": "earlier saved research/claude_round1_reply.md",
+      "original_sha256": "97ffbffad31eb4d658cb1f854d48145a6d3ca876a3ccb03921c608b8cfc7c461",
+      "published_sha256": "4379d7ba883dba41a8b4bebba2efaeb1456283e71478aeb7f762b896eb347630",
+      "modified": true,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/undated-earlier/claude_round2_lte_reply.md",
+      "source": "earlier saved research/claude_round2_lte_reply.md",
+      "original_sha256": "33de5a9a77256a19c18c87209565f72816e2be66cc4d415550ca2ec5134a2cc1",
+      "published_sha256": "33de5a9a77256a19c18c87209565f72816e2be66cc4d415550ca2ec5134a2cc1",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/undated-earlier/claude_round1_collatz_tables.py",
+      "source": "earlier saved research/claude_round1_collatz_tables.py",
+      "original_sha256": "c0283fab49b9464684dcd4295e60054ec842f1ec700f09392c0718771faba9fa",
+      "published_sha256": "c0283fab49b9464684dcd4295e60054ec842f1ec700f09392c0718771faba9fa",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "history/undated-earlier/claude_round3_gen_cert_k12.py",
+      "source": "earlier saved research/claude_round3_gen_cert_k12.py",
+      "original_sha256": "07f650e37464706057262b282990d9be5ce96cc71fcfdbe404cb8cc90097eda5",
+      "published_sha256": "07f650e37464706057262b282990d9be5ce96cc71fcfdbe404cb8cc90097eda5",
+      "modified": false,
+      "kind": "historical research artifact; claims require ERRATA.md"
+    },
+    {
+      "path": "dialogues/01_hott_final_reply.txt",
+      "source": "October 9 visible conversation capture, selected final/user text",
+      "source_lines": [
+        [
+          18,
+          149
+        ]
+      ],
+      "published_sha256": "f90b43e12660c9ed7528b2ce7b17670a5a5d4753823952f3b22a5f8d62ecbd84",
+      "modified": true,
+      "kind": "transcript excerpt, UI/thinking omitted"
+    },
+    {
+      "path": "dialogues/02_user_prompt.txt",
+      "source": "October 9 visible conversation capture, selected final/user text",
+      "source_lines": [
+        [
+          163,
+          169
+        ]
+      ],
+      "published_sha256": "540b8a1a97b0862751b63a481b4aeb792660c097623121912e9a5d96461b7c91",
+      "modified": true,
+      "kind": "transcript excerpt, UI/thinking omitted"
+    },
+    {
+      "path": "dialogues/03_collatz_short_reply.txt",
+      "source": "October 9 visible conversation capture, selected final/user text",
+      "source_lines": [
+        [
+          177,
+          183
+        ]
+      ],
+      "published_sha256": "e6b87788a0826f11a33c506f36cdac661e4172254f40610f3797e11a2378b2d4",
+      "modified": true,
+      "kind": "transcript excerpt, UI/thinking omitted"
+    },
+    {
+      "path": "dialogues/04_user_continue.txt",
+      "source": "October 9 visible conversation capture, selected final/user text",
+      "source_lines": [
+        [
+          210,
+          210
+        ]
+      ],
+      "published_sha256": "25aef321ede51e702441a1ed49920f1eeb7997a6f3346ffd66758eaa4eaebc05",
+      "modified": true,
+      "kind": "transcript excerpt, UI/thinking omitted"
+    },
+    {
+      "path": "dialogues/05_collatz_final_reply.txt",
+      "source": "October 9 visible conversation capture, selected final/user text",
+      "source_lines": [
+        [
+          230,
+          297
+        ]
+      ],
+      "published_sha256": "85d29d6d44c16524ee57272de11c0e115cb28b14943d3c6b39d91ca6d7120762",
+      "modified": true,
+      "kind": "transcript excerpt, UI/thinking omitted"
+    },
+    {
+      "path": "history/2026-10-07/collatz_independent_results_2026-10-07.json",
+      "source": "saved independent results file dated 2026-10-07 in its filename; original execution timestamp not independently recovered",
+      "original_sha256": "2b514eff23733240ccb3ca49dd94b33be24bfad486db2d773367bfba67372152",
+      "published_sha256": "2b514eff23733240ccb3ca49dd94b33be24bfad486db2d773367bfba67372152",
+      "modified": false,
+      "kind": "prior independent finite numerical check"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "2026-10-09/PACKAGE_SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-09/SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-09/claude_original_bundle.zip",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-09/visible_conversation.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-10/SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-11/SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "non-research operational capture (not distributed)",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-12/SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "non-research operational capture (not distributed)",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-13/Claude_Collatz_2026-10-13.zip",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-13/SHA256SUMS.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "non-research operational capture (not distributed)",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-13/claude_stageA_visible_evidence.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-13/claude_stageB_revision_evidence.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    },
+    {
+      "source": "2026-10-13/claude_stageB_visible_evidence.txt",
+      "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
+    }
+  ],
+  "nested_archive_review": "October 9 nested zip: all 9 text members byte-equal to separately retained originals. No nested ZIP is distributed."
+}

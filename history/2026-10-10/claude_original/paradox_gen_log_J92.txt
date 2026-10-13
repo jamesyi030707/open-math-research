@@ -1,0 +1,2 @@
+J=92: Hmax=1192, X=125252, hits=593; wrote paradox_cert_J92.json  sha256=2624d6775b8538fa441e4fb376b315eeda6794f0ffe523208c76dac92a133429
+GENERATED (not verified). Run: python3 check_paradox_cert.py paradox_cert_J92.json

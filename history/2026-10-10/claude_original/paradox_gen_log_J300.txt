@@ -1,0 +1,2 @@
+J=300: Hmax=6724, X=4076810, hits=593; wrote paradox_cert_J300.json  sha256=eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af
+GENERATED (not verified). Run: python3 check_paradox_cert.py paradox_cert_J300.json

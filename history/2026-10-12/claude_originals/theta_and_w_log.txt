@@ -1,0 +1,56 @@
+== Part I: theta_r vs first threshold, k=1..14 ==
+ k  covered  classif.valid  first-thr valid  #classes theta<first  max theta   max first-thr   exact-criterion mismatches (n<=60000)
+ 1       1  True           True                      0               0             0   0
+ 2       3  True           True                      0               1             1   0
+ 3       6  True           True                      1               1             1   0
+ 4      13  True           True                      2               1             1   0
+ 5      28  True           True                      6            23/5          23/5   0
+ 6      56  True           True                     15            23/5          23/5   0
+ 7     115  True           True                     34            23/5          23/5   0
+ 8     237  True           True                     74          319/13        319/13   0
+ 9     474  True           True                    163          319/13        319/13   0
+10     960  True           True                    344          319/13        319/13   0
+11    1920  True           True                    714          319/13        319/13   0
+12    3870  True           True                   1481          319/13        319/13   0
+13    7825  True           True                   3046          319/13        319/13   0
+14   15650  True           True                   6294          319/13        319/13   0
+== Part II: w_m formulas ==
+  v2(w_m'-w_m) formula, all same-layer pairs m<m'<=300: 14871 pairs, violations 0
+  odd m<=299: w=1 mod 4 and (m>=3) T^2(w)<w: True;  m=1: w=1, T^2(1)=1 (not < 1)
+  minimal a with (m=m' mod 2^a, same layer => same W_L) vs formula [odd: L-1 ; even: e+L]  ('deg' = degenerate small L)
+   e  L : min a   formula   note
+   0  1 :     0         0   
+   0  2 :     0         1   deg (W constant on the layer)
+   0  3 :     2         2   
+   0  4 :     3         3   
+   0  5 :     4         4   
+   0  6 :     5         5   
+   0  7 :     6         6   
+   0  8 :     7         7   
+   1  1 :     0         2   deg (W constant on the layer)
+   1  2 :     3         3   
+   1  3 :     4         4   
+   1  4 :     5         5   
+   1  5 :     6         6   
+   1  6 :     7         7   
+   1  7 :     8         8   
+   1  8 :     9         9   
+   2  1 :     0         3   deg (W constant on the layer)
+   2  2 :     4         4   
+   2  3 :     5         5   
+   2  4 :     6         6   
+   2  5 :     7         7   
+   2  6 :     8         8   
+   2  7 :     9         9   
+   2  8 :    10        10   
+   3  1 :     0         4   deg (W constant on the layer)
+   3  2 :     5         5   
+   3  3 :     6         6   
+   3  4 :     7         7   
+   3  5 :     8         8   
+   3  6 :     9         9   
+   3  7 :    10        10   
+  certificate: covered odd residues mod 4096 = 1822 of 2048 -> 911/1024 (expected 1822/2048 = 911/1024)
+  layer e=1: q odd mod 4096 -> w mod 4096: 2048 distinct residues (bijection onto odd residues: True); covered 1822 (= 911/1024); direct sigma<=12 vs covered mismatches (m!=2): 0
+  layer e=2: q odd mod 4096 -> w mod 4096: 2048 distinct residues (bijection onto odd residues: True); covered 1822 (= 911/1024); direct sigma<=12 vs covered mismatches (m!=2): 0
+  note: this is about descent of w_m BELOW w_m (w_m ~ 1.5^m*(2^m-1)); it says nothing about sigma(2^m-1).

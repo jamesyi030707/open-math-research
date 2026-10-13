@@ -1,0 +1,10 @@
+== boundary examples ==
+  n=1, j=2: s=1, b=1, D=2^j-3^s=1 (slope 3/4 < 1: True); b < D*n ? 1 < 1 -> False;  T^j(n) = 1 (>= n)
+  n=2, j=2: s=1, b=2, D=2^j-3^s=1 (slope 3/4 < 1: True); b < D*n ? 2 < 2 -> False;  T^j(n) = 2 (>= n)
+  n=5 (same class as n=1 mod 4): j=2: (1, 1, 4) -> T^2(5) = 4 < 5
+== exact iff over 1<=n<=4095, 1<=j<=12:  T^j(n)<n  <=>  D>0 and b < D*n ==
+  pairs tested: 49140; iff mismatches: 0
+  pairs with slope<1 (D>0) but NO strict descent at that j: 21
+     of which a strict descent happened at an EARLIER j': 11
+     of which no earlier descent: 10   (n>=2 among these: [];  the only ones should be n=1)
+  example with earlier descent: n=2: T(2)=1<2 at j=1, but at j=2: D=1>0, b=2, b<D*n? 2 < 2 -> False; T^2(2)=2

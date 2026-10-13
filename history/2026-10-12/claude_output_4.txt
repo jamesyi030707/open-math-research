@@ -1,0 +1,52 @@
+--- theta log rows k=10..14 + w parts
+== Part I: theta_r vs first threshold, k=1..14 ==
+ k  covered  classif.valid  first-thr valid  #classes theta<first  max theta   max first-thr   exact-criterion mismatches (n<=60000)
+ 1       1  True           True                      0               0             0   0
+ 2       3  True           True                      0               1             1   0
+ 3       6  True           True                      1               1             1   0
+ 4      13  True           True                      2               1             1   0
+ 5      28  True           True                      6            23/5          23/5   0
+ 6      56  True           True                     15            23/5          23/5   0
+ 7     115  True           True                     34            23/5          23/5   0
+ 8     237  True           True                     74          319/13        319/13   0
+ 9     474  True           True                    163          319/13        319/13   0
+10     960  True           True                    344          319/13        319/13   0
+11    1920  True           True                    714          319/13        319/13   0
+12    3870  True           True                   1481          319/13        319/13   0
+13    7825  True           True                   3046          319/13        319/13   0
+14   15650  True           True                   6294          319/13        319/13   0
+== Part II: w_m formulas ==
+  v2(w_m'-w_m) formula, all same-layer pairs m<m'<=300: 14871 pairs, violations 0
+  odd m<=299: w=1 mod 4 and (m>=3) T^2(w)<w: True;  m=1: w=1, T^2(1)=1 (not < 1)
+  minimal a with (m=m' mod 2^a, same layer => same W_L) vs formula [odd: L-1 ; even: e+L]  ('deg' = degenerate small L)
+18:  v2(w_m'-w_m) formula, all same-layer pairs m<m'<=300: 14871 pairs, violations 0
+19:  odd m<=299: w=1 mod 4 and (m>=3) T^2(w)<w: True;  m=1: w=1, T^2(1)=1 (not < 1)
+20:  minimal a with (m=m' mod 2^a, same layer => same W_L) vs formula [odd: L-1 ; even: e+L]  ('deg' = degenerate small L)
+23:   0  2 :     0         1   deg (W constant on the layer)
+30:   1  1 :     0         2   deg (W constant on the layer)
+38:   2  1 :     0         3   deg (W constant on the layer)
+46:   3  1 :     0         4   deg (W constant on the layer)
+53:  certificate: covered odd residues mod 4096 = 1822 of 2048 -> 911/1024 (expected 1822/2048 = 911/1024)
+54:  layer e=1: q odd mod 4096 -> w mod 4096: 2048 distinct residues (bijection onto odd residues: True); covered 1822 (= 911/1024); direct sigma<=12 vs covered mismatches (m!=2): 0
+55:  layer e=2: q odd mod 4096 -> w mod 4096: 2048 distinct residues (bijection onto odd residues: True); covered 1822 (= 911/1024); direct sigma<=12 vs covered mismatches (m!=2): 0
+22:- **G6 (corrected; supersedes the earlier "iff threshold condition" wording)** For a class r mod 2^k put theta_r := m
+28:- **Theorem (k = 12, finite certificate).** For every n > 1: σ(n) ≤ 12 ⇔ n mod 4096 lies in one of the 3870 cert
+0d49020d4f18d1be2ae778f6eaa54da286d359b9ad907bc18eb5398e239a26c4  inverse_orbit.c
+2e937e0380007fafd3a6e99de2345fdb82a38a3fb9962ef98e6eff06d8e1f971  inverse_orbit_pilot.py
+93531adf9a1470cd60f598bd937c7953c75a5f36c2c06e31755cc3c8e1858b4c  inverse_orbit_stage2.py
+983c725a586b90d457bf75b03e6bf5627f19c1a53d114ec872c2373de4dbd88a  inverse_orbit_stage3_J92.py
+42ac1d2a9fe75d8f6b3d7e983607250b061f8746ce778049d1ac3e4427a3e727  inverse_pilot_results.json
+25ac9115bc2c34feb40de607171009a631cb446e650b8bbf8fd4e444aefd1050  inverse_pilot_stage2_results.json
+f86baa58078defdd3860daa4d59fdf2ea41984b69133910f526ada541eaa6f01  inverse_pilot_stage3_J92_results.j
+a192c0d55e3966350bd452de55d87ce2e42e52f79e809a81a4630d5fa92794a9  inverse_pilot_log.txt
+6290b2961cea858432ae4935c1a3fa087dc807496bba59a4f54e314e892402f2  inverse_pilot_stage2_log.txt
+767bf5ab5c573ce78408669cc86e4469d235fb60ef31845d9ddc770b9603ac64  inverse_pilot_stage3_J92_log.txt
+dc935a893f3c459ac12f720a059ad5c23f1af69a2ca582ee7100a34b08e02fae  inv_hits_J46.txt
+b4bee7dac5a65ea5215c6c23b319391fe976b6627d71bcfef1923161e24e451d  inv_hits_J80.txt
+7b689982fc23b7505f80397ec902c0513d777783dc381eb4a4bffa44cf256a89  inv_hits_J92.txt
+1809f757c2139a635c45d41a821b5d2cdf35d4014173d7e82e0ad5383422ba96  inv_hits_J86.txt
+02f6fee761352086cf3b7a76b81262d05ed619519b2b547afaa56987c7316e34  paradox_cert_J92.json
+2b59e2a15ed873e9ae002e9c0f34ce0ee3e268e998c6a01006c814a14b3f3473  paradox_gen.py
+59e3f058fe0c7636731ddb6da740a1caed49f32c53950646146659d0b31a740f  check_paradox_cert.py
+91
+

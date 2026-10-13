@@ -1,0 +1,5 @@
+PASS lifting/image/period/parity: 5627 representatives; e=0..5,L=1..10
+PASS independently reconstructed k12: 57 prefixes; 3870 covered; 226 open
+PASS strict least-n>1 threshold in every stopping prefix; maximum 319/13
+PASS all 2048 even residues covered; 1822 odd covered; all 1 mod4 covered
+Conditional-layer density: 911/1024

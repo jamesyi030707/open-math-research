@@ -1,0 +1,24 @@
+{
+  "downloaded_J92_hits_match_baseline": true,
+  "triples": 593,
+  "distinct_starts": 550,
+  "original_hashes_matched": [
+    "inverse_orbit.c",
+    "inverse_orbit_pilot.py",
+    "inverse_orbit_stage2.py",
+    "inverse_orbit_stage3_J92.py",
+    "inverse_pilot_results.json",
+    "inverse_pilot_stage2_results.json",
+    "inverse_pilot_stage3_J92_results.json",
+    "inverse_pilot_log.txt",
+    "inverse_pilot_stage2_log.txt",
+    "inverse_pilot_stage3_J92_log.txt",
+    "inv_hits_J46.txt",
+    "inv_hits_J80.txt",
+    "inv_hits_J92.txt",
+    "inv_hits_J86.txt",
+    "paradox_cert_J92.json",
+    "paradox_gen.py"
+  ],
+  "large_enumeration_rerun": false
+}

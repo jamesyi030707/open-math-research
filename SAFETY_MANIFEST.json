@@ -1,0 +1,19 @@
+{
+  "archive_date": "2026-10-13",
+  "total_files_including_manifest_and_checksums": 219,
+  "selected_historical_artifacts_and_dialogue_excerpts": 201,
+  "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
+  "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
+  "excluded_categories": [
+    "screenshots and binary attachments",
+    "account/login/quota records",
+    "private conversation links and IDs",
+    "raw UI dumps and thinking-panel content",
+    "unrelated projects",
+    "third-party paper full text and upstream repository copies"
+  ],
+  "source_preservation": "Mathematical errors retained with ERRATA. Some non-research operational text and execution paths removed/normalized. Per-file hashes show changes.",
+  "licensing": "MIT for own code; CC BY 4.0 for own documentation/compilation/data rights, only to extent held. Third-party exclusions explicit.",
+  "new_experiments": "No frontier experiment started. Only archive smoke tests recorded in validation/.",
+  "smoke_tests": "k12 symbolic and checker+selftests; J92 output/bounds audit; exact J46 enumeration and J92 hit/path checks all passed. All Python syntax and JSON parse checks passed."
+}

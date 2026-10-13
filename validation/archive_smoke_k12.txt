@@ -1,0 +1,28 @@
+EXACT SYMBOLIC CHECK PASSED: all q>=0, with n=0,1 excluded from descent theorem.
+57 prefixes; 3870 covered classes; 226 residual classes; weight 1935/2048
+First strict descent length counts: {1: 1, 2: 1, 4: 1, 5: 2, 7: 3, 8: 7, 10: 12, 12: 30}
+For every integer n>1: sigma(n)<=12 iff n mod 4096 is covered; certified length equals sigma(n).
+This proves the finite-horizon classification and density, not the Collatz conjecture.
+certificate claude_cert_k12_20261008.json  sha256=8189b40ceae982812f57b973985665751469cd7d7e55902401e3c96e8f88fa89  (5243 bytes)
+[PASS] C1 affine exactness & parity consistency (4096 residues x 4 lifts x 12 steps)
+[PASS] C2 prefix set equals from-scratch derivation (57 prefixes)
+[PASS] C2 open list equals from-scratch derivation (226 residues)
+[PASS] C6 open classes: D_j<0, b_j>=0, T^j(n)>n for all j<=12 (226 classes)
+[PASS] C3 per-prefix fields, minimality, strict threshold b < D*nmin, direct descent at nmin (57 prefixes)
+[PASS] C4 prefix cylinders pairwise disjoint (prefix-free) 
+[PASS] C4 exact partition of Z/4096 covered=3870 open=226 weight=1935/2048  lens={1: 1, 2: 1, 4: 1, 5: 2, 7: 3, 8: 7, 10: 12, 12: 30}
+[PASS] claimed numbers reproduced: 57 prefixes, 3870 covered, 226 open, weight 1935/2048 
+[PASS] C5 every covered residue mod 4096: least n>1 > threshold b/D (strict) max b/D = 319/13 ≈ 24.5385; classes with integer b/D: 3072
+[PASS] C7 direct scan 2<=n<=200000: first strict descent within 12 steps == certified j* (or none) (distribution {1: 100000, 2: 49999, 4: 12500, 5: 12500, 7: 4689, 8: 5468, 10: 2341, 12: 1466, None: 11036})
+---- selftest: mutated certificates must be REJECTED ----
+  mutation 'b+1': REJECTED  (1 failure messages)
+  mutation 'D+2': REJECTED  (1 failure messages)
+  mutation 'drop prefix': REJECTED  (4 failure messages)
+  mutation 'duplicate prefix': REJECTED  (5 failure messages)
+  mutation 'overlapping refinement': REJECTED  (6 failure messages)
+  mutation 'drop open residue': REJECTED  (4 failure messages)
+  mutation 'shift an open residue': REJECTED  (3 failure messages)
+  mutation 'nmin-1': REJECTED  (1 failure messages)
+  mutation 'move residue': REJECTED  (8 failure messages)
+============================================================
+ALL CHECKS PASSED (k=12 certificate; finite facts only; not a Collatz proof)

@@ -1,0 +1,16 @@
+Checked 2026-10-10 UTC, via public web primary sources.
+
+https://arxiv.org/html/2502.00948v4
+Rozier and Terracol, Paradoxical behavior in Collatz sequences, v4, 13 Apr 2026. Definition 1.2 and C1-C3 connect coefficient stopping time tau and actual stopping time t. CST conjecture asserts t(n)=tau(n) for n>=2. This supports treating the first-positive-D condition as an unresolved general question, not fabricating a counterexample. Theorem 5.3 reports 593 paradoxical sequences with n<=4614,j<=92 and exclusions over specified larger ranges. Reproducing these data is not novel. (The earlier withdrawn abstract's length-60 characterization should not replace this actual source.)
+
+https://arxiv.org/abs/2605.13886
+Tong Niu preprint, withdrawn v2 on 20 May 2026. Withdrawal note explicitly cites duplication with Rozier–Terracol v4. Do not cite its claimed results as new.
+
+https://arxiv.org/html/2602.10466v1
+Vigleik Angeltveit, 11 Feb 2026. Recursive bit search and multiple sieves; supplementary implementation https://github.com/vigleik0/collatz. Claims improved asymptotic computational efficiency, not a Collatz proof. Authors report comparisons and small benchmarks; frontier extrapolations are projections rather than verification milestones.
+
+https://pcbarina.fit.vut.cz/
+David Barina project page. Reports all n<2^71 verified on 15 Jan 2025, and current page frontier 2075*2^60. The published result is doi:10.1007/s11227-025-07337-0.
+
+https://www.cecm.sfu.ca/organics/papers/lagarias/paper/html/node4.html
+Lagarias survey: classical parity-vector/residue correspondence and coefficient stopping-time framework. This is prior literature, not a new finding.

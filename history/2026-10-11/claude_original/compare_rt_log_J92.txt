@@ -1,0 +1,3 @@
+every sequence contains 11 (j=8) or 103 (j>8): True (paper claim)
+n=859: [(46, 890), (65, 911), (73, 866)] (paper: 46->890, 65->911, 73->866)
+ALL COMPARISONS MATCH

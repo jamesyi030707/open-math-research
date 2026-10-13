@@ -1,0 +1,6 @@
+Exact q and H boundaries PASS; finite-excursion X bound PASS
+scan n=3..4076810, j<=300, hits=593, steps=397420688, peak=429277584788, overflow=0
+All 593 certificate entries and completeness scan MATCH
+All listed hits have t(n)=tau(n)<j; 550 distinct starts: True
+Wall seconds: 0.966
+Certificate SHA256: eed82e3c924e8897a69bf80443aaf0ef41ab3a9d7b2c430abf7c527714f472af

@@ -1,0 +1,8 @@
+hits: 593; with tau(n) >= j: 0; with min(orbit) >= n: 0
+=> every paradoxical sequence with j<=300 is strictly after the stopping time of its first term (RT statements C2/C3 hold on this set)
+J     Hmax    X(J)            scan cost X*J (steps)
+  300    6724        4076810  1.22e+09
+  400   12824       13557212  5.42e+09
+  500   99780      785412368  3.93e+11
+  700   99780      785412368  5.50e+11
+ 1000   99780      785412368  7.85e+11

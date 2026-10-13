@@ -1,0 +1,9 @@
+cd . && echo "--- theta log rows k=10..14 + w parts"; sed -n '1,20p' theta_and_w_log.txt | cut -c1-170; grep -n "w_m'-w_m\|odd m<=299\|covered odd\|layer e=\|deg\|DIFFERS" theta_and_w_log.txt | cut -c1-200 | head -20
+python3 - <<'EOF'
+p='collatz_k12_certificate_note.md'; s=open(p).read()
+a=s.index('- **G6**'); b=s.index('\n\n## 2.')
+new='''- **G6 (corrected; supersedes the earlier "iff threshold condition" wording)** For a class r mod 2^k put theta_r := min{ b_j/D_j : 1<=j<=k, D_j>0 } (infinity if no such j). Exact class criterion: for n = r (mod 2^k), sigma(n) <= k  <=>  n > theta_r (real inequality). The classification "sigma(n)<=k <=> n lies in a covered class, for all n>1" holds <=> every covered class has least n>1 greater than theta_r (open classes never descend, so "=>" is automatic). The FIRST-threshold condition (least n>1 > b_{j*}/D_{j*}) is SUFFICIENT (it gives sigma(n)=j* exactly and theta_r <= b_{j*}/D_{j*}); its NECESSITY is NOT claimed: an n could fail at j* and still descend later within k steps. Remark: a failure of the first-threshold condition at some cylinder is exactly an n>1 with t(n) > tau(n), i.e. a counterexample to Terras' CST conjecture (Rozier-Terracol, formulation C1); no such n is known below 2.8e19. See collatz_formal_corrections.md.'''
+open(p,'w').write(s[:a]+new+s[b:])
+EOF
+grep -n "G6" collatz_k12_certificate_note.md | cut -c1-120
+sha256sum inverse_orbit.c inverse_orbit_pilot.py inverse_orbit_stage2.py inverse_orbit_stage3_J92.py inverse_pilot_results.json inverse_pilot_stage2_results.json inverse_pilot_stage3_J92_results.json inverse_pilot_log.txt inverse_pilot_stage2_log.txt inverse_pilot_stage3_J92_log.txt inv_hits_J46.txt inv_hits_J80.txt inv_hits_J92.txt inv_hits_J86.txt paradox_cert_J92.json paradox_gen.py check_paradox_cert.py > inverse_orbit_hashes.txt; cat inverse_orbit_hashes.txt | cut -c1-100; ls . | wc -l

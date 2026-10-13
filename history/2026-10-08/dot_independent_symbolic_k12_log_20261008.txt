@@ -1,0 +1,5 @@
+EXACT SYMBOLIC CHECK PASSED: all q>=0, with n=0,1 excluded from descent theorem.
+57 prefixes; 3870 covered classes; 226 residual classes; weight 1935/2048
+First strict descent length counts: {1: 1, 2: 1, 4: 1, 5: 2, 7: 3, 8: 7, 10: 12, 12: 30}
+For every integer n>1: sigma(n)<=12 iff n mod 4096 is covered; certified length equals sigma(n).
+This proves the finite-horizon classification and density, not the Collatz conjecture.

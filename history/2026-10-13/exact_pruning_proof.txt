@@ -1,0 +1,33 @@
+Independent proof and implementation audit
+
+Scope: positive starts n>=3, T(n)=n/2 for even n and (3n+1)/2 for odd n; hits satisfy 3^q<2^j and T^j(n)>=n, j<=J. Reuse the established small-odd-anchor construction from prior_inverse_orbit_note.md. H>=5, qmax(J)<=60 for the recorded pilots. This note was written independently after the recorded Claude run; it is not the missing Claude proof artifact.
+
+1. State
+Fix anchor a, the first odd orbit term in [3,H]. At reverse depth d let current start candidate be v, w=v+1, and o the number of odd predecessor edges. Every odd head term is >H. Forward tails from a supply V[t]=T^t(a), Q[t]=number of odd terms before t.
+
+2. Exact necessary leaf condition
+For the d-step head from n to a,
+a = n*3^o/2^d * product(1+1/(3m)),
+where its odd m satisfy m>=H+1. Thus with A=H+1 and B=3A+1,
+a*2^d*A^o <= n*B^o.
+A hit using tail t also has n<=V[t] and o+Q[t]<=qmax(d+t). Consequently a leaf is possible only if
+a*2^d*A^o <= V[t]*B^o,
+o+Q[t]<=qmax(d+t).
+Define L[d,o] as the maximum V[t]+1 among t in [1,J-d] satisfying both conditions, with empty maximum 0. All comparisons can use arbitrary precision integers. Since B/A>1, admissible o for any t form an upper interval intersected with the qmax constraint; binary search finds its minimum exactly.
+
+3. Safe reverse growth bounds
+E predecessor v'=2v gives w'=2w-1. At the root v=a>=3, w>=4 and w'>=7w/4. At non-root depth, E gives v>=6, and every allowed O predecessor is odd and >H>=5, hence also v>=7. Therefore all non-root v>=6, w>=7 and an E edge gives w'>=13w/7.
+O predecessor v'=(2v-1)/3 gives w'=2w/3 exactly.
+
+4. Threshold recurrence and proof
+At terminal depth J-1, Theta[d,o]=L[d,o]. Working backwards define
+Theta[d,o]=max(L[d,o], floor(Theta[d+1,o]/c_d), floor(3*Theta[d+1,o+1]/2)),
+where c_0=7/4 and c_d=13/7 otherwise. Entries outside the supported odd-count range are zero; here a hit's odd count is <=qmax(J)<=60, so the stored range 0..66 safely covers all potentially successful states.
+Induct on remaining depth. If the current node is a hit, w<=L[d,o]. Otherwise any hit in a descendant subtree starts via E or O. By induction its immediate child is at most its child's threshold. The lower edge-growth bounds then imply the corresponding parent threshold above. Thus every node with a hit in its subtree satisfies w<=Theta[d,o]. Rejecting w>Theta[d,o] is sound. Congruence/anchor constraints ignored by the DP only enlarge possible thresholds, which is safe. This is a necessary upper envelope, not an assertion that every surviving node reaches a hit.
+
+5. What this certifies
+The recurrence with the integer leaf test is sound for the stated domain. The separate Python implementation fully reproduced J46 (199100 visited nodes, 1232 candidates, 286 hits), and independently checked all J92 returned hits plus survival of their 1278 ancestor states. It did not independently enumerate J92 or prove that its candidate file contains every possible non-hit candidate, which is unnecessary for hit completeness.
+
+6. Original C caveats
+The supplied original program uses ceill(L-1e-6L) with log2l rather than the exact comparison. A margin is not a proved numerical error bound. The original headers calling this fully exact need correction before certification. Input validation is incomplete (array bounds/file errors), forward arithmetic lacks comprehensive overflow checks for arbitrary inputs, and wall/memory caps are not hard comprehensive process caps. Use only the recorded bounded pilot parameters; no broader production guarantee is claimed.
+Its claimed essential-node lower bound applies to explicit path visitation in this fixed tree, not to symbolic algorithms or all sound enumeration methods.

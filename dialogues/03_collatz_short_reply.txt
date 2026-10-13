@@ -1,0 +1,9 @@
+Claude visible reply excerpt preceding artifact production; not a completed final mathematical report.
+
+先记录 HoTT 草案的三处措辞修订：
+
+目标 (b) 是把显式全局证书当输入的普通函数，不是"白盒读取 judge 代码"。
+20,000 项是固定种子的确定性策略测试，不是随机算法版本的证明。
+LEM→c₂ 用 LEM 逐层构造 judge 和最小证书，不需要额外选择。
+
+接下来做 Collatz，先运行已有的生成器。

@@ -1,0 +1,28 @@
+{
+  "arithmetic": "Python arbitrary-precision integers, exact rational thresholds",
+  "certificate_checks": {
+    "k": 12,
+    "contractive_residue_classes": 3870,
+    "total_classes": 4096,
+    "earliest_contractive_prefix_classes": 57,
+    "maximum_real_threshold": "319/13",
+    "maximum_strict_integer_threshold": 25,
+    "checked_n_range": [2, 100000],
+    "covered_n": 94480,
+    "violations": 0,
+    "certified_classes_with_bad_smallest_n_greater_than_one": []
+  },
+  "mersenne_checks": {
+    "direct_from_start_m_range": [12, 1000],
+    "extended_range": [12, 5000],
+    "extended_method": "Use exact identity T^m(2^m-1)=3^m-1; first m iterates exceed starting value. Then iterate exactly until first descent or 6m steps.",
+    "counterexamples_found": 0,
+    "largest_t_over_m": "137/23",
+    "worst_m": 23,
+    "worst_n": 8388607,
+    "worst_value_at_step_136": 10376204,
+    "worst_value_at_first_descent_step_137": 5188102,
+    "extended_search_wall_seconds": 53.854,
+    "warning": "Finite observations only; not a proof of t(2^m-1)<=6m for all m>=12, and not a proof of Collatz."
+  }
+}
