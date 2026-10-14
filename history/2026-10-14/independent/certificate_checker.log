@@ -1,0 +1,3 @@
+PASS: independent checker verified generator rank11, all2048 words, weight distribution,
+all234 minimum messages, all64 coordinate witnesses, all2016 pair witnesses,
+odd XOR circuit, and all2048 linear functionals against that circuit.

@@ -1,0 +1,8 @@
+PASS: archived generator gives 2048 distinct words, minimum weight26, exactly234 minimum words.
+Preregistered scope: exhaust all coordinate subsets of sizes3 and4; no other sizes or replacement columns.
+Each coordinate has a234-bit incidence mask; intersection population count is exact support coverage.
+r=3: tested=41664; covered=41664; uncovered=0; min_coverage=6; max_coverage=22; first_uncovered=None.
+r=4: tested=635376; covered=634824; uncovered=552; min_coverage=0; max_coverage=15; first_uncovered=[1, 4, 32, 35].
+Threshold: {'minimum_uncovered_subset_size_exact': 4, 'reason': 'All triples are covered and at least one quadruple is uncovered. Every smaller set extends to a triple.'}
+CPU seconds: 0.260200; wall seconds: 0.262912.
+No heuristic, new-column search, or search beyond r=4.

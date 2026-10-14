@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-13",
-  "total_files_including_manifest_and_checksums": 219,
-  "selected_historical_artifacts_and_dialogue_excerpts": 201,
+  "archive_date": "2026-10-14",
+  "total_files_including_manifest_and_checksums": 264,
+  "selected_historical_artifacts_and_dialogue_excerpts": 246,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -14,6 +14,17 @@
   ],
   "source_preservation": "Mathematical errors retained with ERRATA. Some non-research operational text and execution paths removed/normalized. Per-file hashes show changes.",
   "licensing": "MIT for own code; CC BY 4.0 for own documentation/compilation/data rights, only to extent held. Third-party exclusions explicit.",
-  "new_experiments": "No frontier experiment started. Only archive smoke tests recorded in validation/.",
-  "smoke_tests": "k12 symbolic and checker+selftests; J92 output/bounds audit; exact J46 enumeration and J92 hit/path checks all passed. All Python syntax and JSON parse checks passed."
+  "new_experiments": "2026-10-14 archive records known binary [64,11,26] baseline reproduction, exact radius-at-most-4 generator-column obstruction certificates, and bounded exact Collatz leaf-reference checks. No new [64,11,27] construction, global nonexistence, novelty, or certification of historical C is claimed. No large Collatz traversal or size-5 search was started.",
+  "smoke_tests": "Initial archive checks recorded for 2026-10-13: k12 symbolic and checker+selftests; J92 output/bounds audit; exact J46 enumeration and J92 hit/path checks all passed. All Python syntax and JSON parse checks passed.",
+  "initial_archive_date": "2026-10-13",
+  "increments": [
+    {
+      "date": "2026-10-14",
+      "files": 45,
+      "date_safety_record": "history/2026-10-14/PUBLIC_SAFETY_CHECK.json",
+      "publisher_review": "Delivered ZIP hash, all date-local checksum manifests, provenance hashes, privacy/credential patterns, navigation, and reproduction entry dependencies checked. No research tests rerun during integration. Pattern checks do not guarantee perfect privacy.",
+      "source_preservation": "All 45 delivered files preserved byte-for-byte. Date provenance records one output-directory redaction before delivery. Existing historical files and license terms retained.",
+      "scope": "Specific stored baseline matrix only; all replacements of at most four generator columns excluded by archived exact certificates. Global [64,11,27] existence is unresolved by this work."
+    }
+  ]
 }

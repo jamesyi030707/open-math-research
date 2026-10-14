@@ -1,0 +1,5 @@
+PASS: r=3 independently counted by support subsets: covered=41664, uncovered=0, full histogram matches.
+PASS: r=4 independently counted by support subsets: covered=634824, uncovered=552, full histogram matches.
+PASS: all64 incidence masks and all234 first-uncovered witness records verified.
+PASS: exactly552 uncovered quadruples saved; no triples uncovered.
+CPU seconds: 1.224905.

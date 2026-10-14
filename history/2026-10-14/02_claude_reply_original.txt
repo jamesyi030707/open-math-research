@@ -1,0 +1,79 @@
+1. Floating-threshold defect: closed
+
+The leaf window in build_theta used log2l and ceil(L-1e-6). The mathematics is this. Head odd terms are ≥ A = Hmax+1. So x0 = n·(3^o/2^d)·P_head with P_head ≤ (1+1/(3A))^o, and therefore n ≥ x0·2^d·A^o/B^o, with B = 3A+1. A hit needs n ≤ V[t], which gives the integer inequality x0·2^d·A^o ≤ V[t]·B^o. It is monotone in o because B > A.
+
+The exact test is necessary because the lower window is a pruning step that the soundness proof relies on. The floating version made that proof depend on long-double accuracy and an unproved 1e-6 margin.
+
+Guards:
+
+H ≥ 5. Non-root nodes then have w ≥ 7, so the E-edge factor 13/7 is valid.
+x0 ≥ 3 odd, 0 ≤ d ≤ J−1, V ≥ 1.
+qmax[J] ≤ 60.
+
+The product x0·2^d·A^o exceeds 128 bits (about 2^700 at d=91, o=60). C therefore needs GMP, or an olo table precomputed in Python. inverse_orbit_theta.c stays uncertified as a proof until patched. Its J=92 run matched the baseline hit set, which is evidence for the output, not a proof of the prune.
+
+Sanity check, not a proof: on the J=46 and J=58 domains (207,552 and 328,512 triples), the floating olo never exceeded the exact one. It was weaker (sound) in 1 case per domain. No traversal was rerun.
+
+
+python
+def olo(x0, d, V, H):                      # least o>=0 with x0*2^d*A^o <= V*B^o
+    assert H >= 5; A = H+1; B = 3*A+1; pa = pb = 1; o = 0
+    while (x0 << d)*pa > V*pb: o += 1; pa *= A; pb *= B
+    return o
+def hit_window(x0, d, o, V, Q, qm, H):     # leaf(d,o) uses t only if this holds
+    A = H+1; B = 3*A+1
+    return o + Q <= qm and (x0 << d)*A**o <= V*B**o
+
+Retirement. Theta pruning cut J=92 from 1,095,960,493 to 22,000,065 nodes (49.82×). It still took 0.603 s against 0.2105 s for the re-timed forward scan, about 2.9× slower. The naive inverse approach is retired as a scaling route.
+
+2. Binary linear codes: single-column replacement audit
+
+Baseline (my reconstruction).
+
+Cyclotomic coset sizes mod 65 are [1, 4, 12×5].
+Four of the size-12 cosets, together with {0}, give a cyclic [65,13,25]. The fifth gives d=5.
+Extending by parity gives an even [66,13,26].
+Shortening at any of 33 coordinate-pair types gives a [64,11,26]: the parity coordinate plus one cyclic coordinate, or two cyclic coordinates at distance 1..32.
+A₂₆ lies between 208 and 234.
+I did not re-fetch codetables.de. I rely on your reading of lower 26, upper 27.
+
+Exact criterion. Replacing column i by c’ changes the weight of message m to w − w_i(m) + ⟨m,c’⟩. The extended code is even, so the shortened code has no weight-27 words. Words of weight ≥ 28 cannot fall below 27. Hence the replacement reaches d ≥ 27 if and only if:
+
+every weight-26 word has w_i = 0, and
+one functional f = ⟨·,c’⟩ equals 1 on all weight-26 words.
+
+This is necessary and sufficient here, and it confirms your proposed condition. Condition 2 is a GF(2) system in 11 unknowns.
+
+Audit result: all 33 baselines fail, by two independent obstructions.
+
+The weight-26 supports cover all 64 coordinates, so no deletable coordinate exists.
+The system is inconsistent because W₂₆ contains triples w1+w2 = w3. Two weight-26 words overlapping in 13 positions sum to weight 26. Then f(w3) = f(w1)⊕f(w2), so f cannot be 1 on all three. This obstruction does not depend on i at all.
+
+This is a proof by exhaustion for these 33 codes (2047 words each), not a search failure. It says nothing about whether any [64,11,27] exists.
+
+Generalisation (exact). Deleting a set D of r columns gives gain ≤ r − |supp(w)∩D| ≥ 1 on weight-26 words. So D must lie in no weight-26 support. Computed result:
+
+r=2: all pairs are covered, on all 33 baselines.
+r=3: all triples are covered, checked only on baselines (65,0) and (0,1).
+
+I computed no r ≥ 4 case. The triple obstruction does not exclude r ≥ 2 by itself, because the demand can be split across several new columns.
+
+One structural idea for the next exact experiment.
+
+First compute r_min, the smallest D not contained in any weight-26 support.
+Then, for each such D, solve the gain system for new columns f_1..f_r ∈ F_2^11:
+weight-26 words need Σf_k(w) ≥ 1+|supp(w)∩D|;
+weight-28 words need Σf_k(w) ≥ |supp(w)∩D|−1.
+That is at most 11r binary variables per D, so it can be decided exactly.
+
+I ran no search.
+
+Sources.
+
+Huffman–Pless, Fundamentals of Error-Correcting Codes, Ch. 1 and Ch. 4: shortening, puncturing, extension, cyclic codes.
+MacWilliams–Sloane, The Theory of Error-Correcting Codes, Ch. 7: cyclic codes.
+Grassl, codetables.de, as you reported it, with no content copied.
+
+No novelty is claimed.
+
+Files are in [original output directory]: exact_threshold.py, codes_baseline_audit.py.

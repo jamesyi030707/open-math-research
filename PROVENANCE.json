@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-13",
+  "archive_date": "2026-10-14",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -1633,6 +1633,412 @@
       "published_sha256": "2b514eff23733240ccb3ca49dd94b33be24bfad486db2d773367bfba67372152",
       "modified": false,
       "kind": "prior independent finite numerical check"
+    },
+    {
+      "path": "history/2026-10-14/01_prompt.txt",
+      "source": "2026-10-14/01_prompt.txt",
+      "delivered_sha256": "70bf91d213e449a6e1dca67270d51bdb6ca8bf2b215988b6c74bc02c44b198f1",
+      "published_sha256": "70bf91d213e449a6e1dca67270d51bdb6ca8bf2b215988b6c74bc02c44b198f1",
+      "modified": false,
+      "kind": "Actual submitted research prompt",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/02_claude_reply_original.txt",
+      "source": "2026-10-14/02_claude_reply_original.txt",
+      "delivered_sha256": "e6d2e608bc6180a20fb8c2923ca599b505b73f44e08e6eee44c8508050488398",
+      "published_sha256": "e6d2e608bc6180a20fb8c2923ca599b505b73f44e08e6eee44c8508050488398",
+      "modified": true,
+      "kind": "Actual visible Claude final response; rendered text extraction",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json",
+      "change": "One absolute model output-directory mention replaced by [original output directory]."
+    },
+    {
+      "path": "history/2026-10-14/03_prompt.txt",
+      "source": "2026-10-14/03_prompt.txt",
+      "delivered_sha256": "70dde85b950cf68f01a4a5752f8e38807bd0483c3d733d87068fd84586f2a7a6",
+      "published_sha256": "70dde85b950cf68f01a4a5752f8e38807bd0483c3d733d87068fd84586f2a7a6",
+      "modified": false,
+      "kind": "Actual submitted research prompt",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/04_claude_reply_original.txt",
+      "source": "2026-10-14/04_claude_reply_original.txt",
+      "delivered_sha256": "a39a1e980cac64561c746bc7ecc2021e6a88b66510898fd95fbf0c95ef41422a",
+      "published_sha256": "a39a1e980cac64561c746bc7ecc2021e6a88b66510898fd95fbf0c95ef41422a",
+      "modified": false,
+      "kind": "Actual visible Claude final response; rendered text extraction",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/ENVIRONMENT.json",
+      "source": "2026-10-14/ENVIRONMENT.json",
+      "delivered_sha256": "6bcfad25528c5b4d3e38ad7201378a2530e6b154063071c48414a0a10eff4669",
+      "published_sha256": "6bcfad25528c5b4d3e38ad7201378a2530e6b154063071c48414a0a10eff4669",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/ERRATA.md",
+      "source": "2026-10-14/ERRATA.md",
+      "delivered_sha256": "26d1fb7ca39cd7d5ad1799f3931313627a38e872f6d3da0d3ffb87a486dd3cd4",
+      "published_sha256": "26d1fb7ca39cd7d5ad1799f3931313627a38e872f6d3da0d3ffb87a486dd3cd4",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/INTEGRATION_NOTES.md",
+      "source": "2026-10-14/INTEGRATION_NOTES.md",
+      "delivered_sha256": "f6f4f919ea6e0fb673bba120f14116da30d8a3c864c867ac6e44f8a54cf07b00",
+      "published_sha256": "f6f4f919ea6e0fb673bba120f14116da30d8a3c864c867ac6e44f8a54cf07b00",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/PROVENANCE.json",
+      "source": "2026-10-14/PROVENANCE.json",
+      "delivered_sha256": "9741f3c8e54ba5e45fa1183c55e67c65cd93c69da2ccdef2e92694b64089d08d",
+      "published_sha256": "9741f3c8e54ba5e45fa1183c55e67c65cd93c69da2ccdef2e92694b64089d08d",
+      "modified": false,
+      "kind": "date-local provenance, public safety, or checksum metadata",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/PUBLIC_SAFETY_CHECK.json",
+      "source": "2026-10-14/PUBLIC_SAFETY_CHECK.json",
+      "delivered_sha256": "b921e911df0a90d0fb9be4090c6c77fe58c214359745f8d91a49e91d2d7bc42f",
+      "published_sha256": "b921e911df0a90d0fb9be4090c6c77fe58c214359745f8d91a49e91d2d7bc42f",
+      "modified": false,
+      "kind": "date-local provenance, public safety, or checksum metadata",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/README.md",
+      "source": "2026-10-14/README.md",
+      "delivered_sha256": "e18d584ea6ccb6535f8f74ed8051500995050fbd5e8e2dc84878ed03bb944d69",
+      "published_sha256": "e18d584ea6ccb6535f8f74ed8051500995050fbd5e8e2dc84878ed03bb944d69",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/SHA256SUMS.txt",
+      "source": "2026-10-14/SHA256SUMS.txt",
+      "delivered_sha256": "20dd55049312b2d08ba3e29696c596b63dbc2423e2d5172288c837a14ec86659",
+      "published_sha256": "20dd55049312b2d08ba3e29696c596b63dbc2423e2d5172288c837a14ec86659",
+      "modified": false,
+      "kind": "date-local provenance, public safety, or checksum metadata",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/SOURCES.md",
+      "source": "2026-10-14/SOURCES.md",
+      "delivered_sha256": "afc4d0223052f794d629b1ef73537062e354edb38a96a560d05a23a7ca533817",
+      "published_sha256": "afc4d0223052f794d629b1ef73537062e354edb38a96a560d05a23a7ca533817",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/claude_codes_baseline_audit_original.py",
+      "source": "2026-10-14/claude_codes_baseline_audit_original.py",
+      "delivered_sha256": "f97757fa78b43595cd690fba338c4b29415646ea8b6632164687674987c77a4e",
+      "published_sha256": "f97757fa78b43595cd690fba338c4b29415646ea8b6632164687674987c77a4e",
+      "modified": false,
+      "kind": "Claude downloaded source or explicitly named same-source rerun output",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/claude_codes_baseline_audit_rerun.log",
+      "source": "2026-10-14/claude_codes_baseline_audit_rerun.log",
+      "delivered_sha256": "bb9da3ae1a56571e86ce5d16f4159caa37eb43879dd54ac44c671d13d671656b",
+      "published_sha256": "bb9da3ae1a56571e86ce5d16f4159caa37eb43879dd54ac44c671d13d671656b",
+      "modified": false,
+      "kind": "Claude downloaded source or explicitly named same-source rerun output",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/claude_codes_baseline_audit_rerun_resources.txt",
+      "source": "2026-10-14/claude_codes_baseline_audit_rerun_resources.txt",
+      "delivered_sha256": "b11fc0e65d56340b5793152e24dd6c195c78e41ead101a805121576def309683",
+      "published_sha256": "b11fc0e65d56340b5793152e24dd6c195c78e41ead101a805121576def309683",
+      "modified": false,
+      "kind": "Claude downloaded source or explicitly named same-source rerun output",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/claude_codes_baseline_audit_rerun_stderr.txt",
+      "source": "2026-10-14/claude_codes_baseline_audit_rerun_stderr.txt",
+      "delivered_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "modified": false,
+      "kind": "Claude downloaded source or explicitly named same-source rerun output",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/claude_exact_threshold_original.py",
+      "source": "2026-10-14/claude_exact_threshold_original.py",
+      "delivered_sha256": "3196f9dee977f5cad0554f8f2f5e7720992dcdc8d016e9a014fed978c05e7842",
+      "published_sha256": "3196f9dee977f5cad0554f8f2f5e7720992dcdc8d016e9a014fed978c05e7842",
+      "modified": false,
+      "kind": "Claude downloaded source or explicitly named same-source rerun output",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/exact_leaf_reference.py",
+      "source": "2026-10-14/exact_leaf_reference.py",
+      "delivered_sha256": "de48c2bc1d6365bc42e7eb49194b0aac2a47b0b2549f8c0286916a59540de164",
+      "published_sha256": "de48c2bc1d6365bc42e7eb49194b0aac2a47b0b2549f8c0286916a59540de164",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/exact_leaf_reference_results.json",
+      "source": "2026-10-14/exact_leaf_reference_results.json",
+      "delivered_sha256": "90e01f9c23801f1900a86af72f39380f7479d62c40775d016b2e17cf61dc6c90",
+      "published_sha256": "90e01f9c23801f1900a86af72f39380f7479d62c40775d016b2e17cf61dc6c90",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/README.md",
+      "source": "2026-10-14/independent/README.md",
+      "delivered_sha256": "1ea5c2f6beeb347cb09dedc3599d6f3e47096247d08e4f8f9483964368d406a8",
+      "published_sha256": "1ea5c2f6beeb347cb09dedc3599d6f3e47096247d08e4f8f9483964368d406a8",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/SHA256SUMS",
+      "source": "2026-10-14/independent/SHA256SUMS",
+      "delivered_sha256": "5e8ca8b27795d7917974fb795c32bea06ef842ddec76314af7681082af88a24d",
+      "published_sha256": "5e8ca8b27795d7917974fb795c32bea06ef842ddec76314af7681082af88a24d",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/certificate_checker.log",
+      "source": "2026-10-14/independent/certificate_checker.log",
+      "delivered_sha256": "1e50768f393df3441f0d8eaa59f32108cdaaaf3e347ba8dfcc01573805ac1dbb",
+      "published_sha256": "1e50768f393df3441f0d8eaa59f32108cdaaaf3e347ba8dfcc01573805ac1dbb",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/check_certificates.py",
+      "source": "2026-10-14/independent/check_certificates.py",
+      "delivered_sha256": "29a723375244bf5ef5f492f98a210546ce7609e408ae1da0a946bc7daaeb87d9",
+      "published_sha256": "29a723375244bf5ef5f492f98a210546ce7609e408ae1da0a946bc7daaeb87d9",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension.log",
+      "source": "2026-10-14/independent/coverage_extension.log",
+      "delivered_sha256": "6e92ae54f5e04ef3eaf6745695088d940bd09f6a52b60ec8b4d99a48bbbbbcec",
+      "published_sha256": "6e92ae54f5e04ef3eaf6745695088d940bd09f6a52b60ec8b4d99a48bbbbbcec",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension.py",
+      "source": "2026-10-14/independent/coverage_extension.py",
+      "delivered_sha256": "22e7d25bb0e3a46aa2dcdb51503ef281793eb5449caef92fcba664d472cccbf4",
+      "published_sha256": "22e7d25bb0e3a46aa2dcdb51503ef281793eb5449caef92fcba664d472cccbf4",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_SHA256SUMS",
+      "source": "2026-10-14/independent/coverage_extension_SHA256SUMS",
+      "delivered_sha256": "b477bc8ed33839237723239feb5e13e48d132d6868186c84fee3d1715bdf6134",
+      "published_sha256": "b477bc8ed33839237723239feb5e13e48d132d6868186c84fee3d1715bdf6134",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_check.log",
+      "source": "2026-10-14/independent/coverage_extension_check.log",
+      "delivered_sha256": "145a27084498d3223e123c2468d1f9f2d3646cc7bb5eee9ee14aebaafce1c334",
+      "published_sha256": "145a27084498d3223e123c2468d1f9f2d3646cc7bb5eee9ee14aebaafce1c334",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_check.py",
+      "source": "2026-10-14/independent/coverage_extension_check.py",
+      "delivered_sha256": "61f155fffe53abf972ff64c4268f39ad9772df0beb25286463ca74bd9dc63d75",
+      "published_sha256": "61f155fffe53abf972ff64c4268f39ad9772df0beb25286463ca74bd9dc63d75",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_proof.md",
+      "source": "2026-10-14/independent/coverage_extension_proof.md",
+      "delivered_sha256": "a4394894796c04773fd4669c1671f53e71008b8afd60d9432c3aa9b86396f759",
+      "published_sha256": "a4394894796c04773fd4669c1671f53e71008b8afd60d9432c3aa9b86396f759",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_results.json",
+      "source": "2026-10-14/independent/coverage_extension_results.json",
+      "delivered_sha256": "efb8fbd357da9822cc14593be34709cfde8d43d8bb40a2fcf5ab6aa1a35ca79b",
+      "published_sha256": "efb8fbd357da9822cc14593be34709cfde8d43d8bb40a2fcf5ab6aa1a35ca79b",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/coverage_extension_uncovered_sets.json",
+      "source": "2026-10-14/independent/coverage_extension_uncovered_sets.json",
+      "delivered_sha256": "5b7cc347e1fcbcc1def2eb10fc592b10892fac36af9b58b1396e52cf0b59116f",
+      "published_sha256": "5b7cc347e1fcbcc1def2eb10fc592b10892fac36af9b58b1396e52cf0b59116f",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit.log",
+      "source": "2026-10-14/independent/four_column_circuit.log",
+      "delivered_sha256": "5dcad03de63126fb98dbe63fcaf289a170d73718e4060b71aabe6e197a01f2ea",
+      "published_sha256": "5dcad03de63126fb98dbe63fcaf289a170d73718e4060b71aabe6e197a01f2ea",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit.py",
+      "source": "2026-10-14/independent/four_column_circuit.py",
+      "delivered_sha256": "8da3c78458ad54ac3f6f124008587af07ea27c933e3f94864cdf873eed94aa65",
+      "published_sha256": "8da3c78458ad54ac3f6f124008587af07ea27c933e3f94864cdf873eed94aa65",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit_SHA256SUMS",
+      "source": "2026-10-14/independent/four_column_circuit_SHA256SUMS",
+      "delivered_sha256": "89b9a8e6c2f1ccb289e681a89ff2c4d12d513cf365b58ee3b47e6b22369ccb70",
+      "published_sha256": "89b9a8e6c2f1ccb289e681a89ff2c4d12d513cf365b58ee3b47e6b22369ccb70",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit_check.log",
+      "source": "2026-10-14/independent/four_column_circuit_check.log",
+      "delivered_sha256": "451c6c879fdde3bb9d5ba2d3e6304bd46a38536c457e5cc9de2b9e6e3f76fef8",
+      "published_sha256": "451c6c879fdde3bb9d5ba2d3e6304bd46a38536c457e5cc9de2b9e6e3f76fef8",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit_check.py",
+      "source": "2026-10-14/independent/four_column_circuit_check.py",
+      "delivered_sha256": "4b54c572d0b29f6218b54c6f87f19a9e4bae5c4e156c27ef1e780bd1712df419",
+      "published_sha256": "4b54c572d0b29f6218b54c6f87f19a9e4bae5c4e156c27ef1e780bd1712df419",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit_proof.md",
+      "source": "2026-10-14/independent/four_column_circuit_proof.md",
+      "delivered_sha256": "096fee36242707dac2a32124ec7216888a5ef2eebf5e061b2ff0a8baeec33d58",
+      "published_sha256": "096fee36242707dac2a32124ec7216888a5ef2eebf5e061b2ff0a8baeec33d58",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/four_column_circuit_results.json",
+      "source": "2026-10-14/independent/four_column_circuit_results.json",
+      "delivered_sha256": "a014e4830b6c3be78a0ee58cc056c424553a636c2fad146d2a4c1d22faeeed43",
+      "published_sha256": "a014e4830b6c3be78a0ee58cc056c424553a636c2fad146d2a4c1d22faeeed43",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/generator_matrix.txt",
+      "source": "2026-10-14/independent/generator_matrix.txt",
+      "delivered_sha256": "568e3c2281e1e7cf79d4879e5fac2b031aeb700b78f6b62581f780b3717a39f8",
+      "published_sha256": "568e3c2281e1e7cf79d4879e5fac2b031aeb700b78f6b62581f780b3717a39f8",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/minimum_messages.tsv",
+      "source": "2026-10-14/independent/minimum_messages.tsv",
+      "delivered_sha256": "9dc0ae13026043ab05773842a3e5435bcd0936abcb562b7262791e36ef4e00e4",
+      "published_sha256": "9dc0ae13026043ab05773842a3e5435bcd0936abcb562b7262791e36ef4e00e4",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/obstruction_certificate.json",
+      "source": "2026-10-14/independent/obstruction_certificate.json",
+      "delivered_sha256": "dfb0d8bd7e46da2ab77e0e56f6d26257b0fe224aab9370b2a55686dd775b77ce",
+      "published_sha256": "dfb0d8bd7e46da2ab77e0e56f6d26257b0fe224aab9370b2a55686dd775b77ce",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/results.json",
+      "source": "2026-10-14/independent/results.json",
+      "delivered_sha256": "6d6c11d74212498a56a5d7fe277747a3ab69c1489087b71f9a96c41e211023bb",
+      "published_sha256": "6d6c11d74212498a56a5d7fe277747a3ab69c1489087b71f9a96c41e211023bb",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/verification.log",
+      "source": "2026-10-14/independent/verification.log",
+      "delivered_sha256": "64e8543ee81edc700a2c88a121ac8e8fc80cfa91961456bf9daeefeebc5c7d0e",
+      "published_sha256": "64e8543ee81edc700a2c88a121ac8e8fc80cfa91961456bf9daeefeebc5c7d0e",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/verify_code64.py",
+      "source": "2026-10-14/independent/verify_code64.py",
+      "delivered_sha256": "839bad4d0e5cbe91c5a0ae532de21a5edad1316096dc6f642d4e7b0fdda1b17d",
+      "published_sha256": "839bad4d0e5cbe91c5a0ae532de21a5edad1316096dc6f642d4e7b0fdda1b17d",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-14/independent/weight_distribution.tsv",
+      "source": "2026-10-14/independent/weight_distribution.tsv",
+      "delivered_sha256": "68f43d0a66c5dd498bc48b14072630e0774d7ddb4507b62f974501962d2e00c6",
+      "published_sha256": "68f43d0a66c5dd498bc48b14072630e0774d7ddb4507b62f974501962d2e00c6",
+      "modified": false,
+      "kind": "New independently authored research/checking artifact",
+      "source_provenance": "history/2026-10-14/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -1697,5 +2103,17 @@
       "reason": "raw UI/operational capture, binary/archive container, or superseded checksum; selected mathematical contents are separately retained"
     }
   ],
-  "nested_archive_review": "October 9 nested zip: all 9 text members byte-equal to separately retained originals. No nested ZIP is distributed."
+  "nested_archive_review": "October 9 nested zip: all 9 text members byte-equal to separately retained originals. No nested ZIP is distributed.",
+  "initial_archive_date": "2026-10-13",
+  "increments": [
+    {
+      "date": "2026-10-14",
+      "base_commit": "199648a8b6464ca98ad83fae38151c87f87f9780",
+      "delivered_zip": "open-math-research-increment-2026-10-14.zip",
+      "delivered_zip_sha256": "31cc5c46458d50e1b4e28a9f2c8f7d8a631ab8bca8ef7f253e7cbdc8d27892c7",
+      "files_added": 45,
+      "date_provenance": "history/2026-10-14/PROVENANCE.json",
+      "integration_edits": "Root navigation, progress, sources, errata, reproduction entries, provenance, public safety, and global checksums updated; all earlier historical files preserved."
+    }
+  ]
 }

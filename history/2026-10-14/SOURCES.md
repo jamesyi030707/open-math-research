@@ -1,0 +1,10 @@
+# Sources and scope (2026-10-14)
+
+- Recovery baseline: https://github.com/jamesyi030707/open-math-research at the previously published main commit 199648a8b6464ca98ad83fae38151c87f87f9780. README, ERRATA, INDEX, NEXT_RESEARCH_PROPOSAL and LICENSING were read through the GitHub connector; the latest listed research date was 2026-10-13.
+- Markus Grassl, Bounds on the minimum distance of linear codes, exact binary [64,11] entry: https://www.codetables.de/BKLC/BKLC.php?k=11&n=64&q=2 . Retrieved through the public web tool on 2026-10-14; its returned page was marked crawled three days earlier. It displayed lower bound26, upper bound27, and the cyclic-code / parity-extension / shortening construction. The construction entry says last modified2001-01-30. This is evidence about the retrieved table, not a comprehensive claim about the world's current knowledge.
+- The page attributes its upper-bound chain to D.B. Jaffe, *Binary linear codes: new results on nonexistence* (1996). We did not independently reproduce that nonexistence proof today.
+- Exact-string searches for [64,11,27] and spaced variants did not produce a relevant new construction in this bounded lookup. A negative search does not establish that no such construction or recent publication exists.
+
+The generator polynomial coefficients and code parameters are used as mathematical facts to reconstruct the baseline with newly written integer/GF(2) code. No MAGMA source, complete third-party database, third-party paper, or screenshot is redistributed. No explicit Grassl database redistribution license was verified; the repository's licenses do not relicense third-party rights. The generated baseline matrix is attributed to this known construction and is not claimed as novel.
+
+Claude supplied research discussion and, where indicated, code; separate Python code independently checks the finite claims. Independent here means a separately written implementation, not an independent human research group or peer review. Only final replies, submitted prompts, deliverable code and checkable results are archived; hidden reasoning and account information are excluded.

@@ -19,6 +19,18 @@ Python 3 标准库：在 history/2026-10-08 目录运行：
 
 最后一项完整枚举 J46、核查 J92 命中与必要路径，不完整枚举 J92。不要用 Python -O，部分检查依赖 assert。检查器可能写出日志/JSON；建议复制到临时工作目录后运行，以免改变历史文件。
 
+## 2026-10-14：已知纠错码与局部证书
+
+先把 `history/2026-10-14/independent` 复制到临时工作目录，再在副本中运行以下存档证书检查入口：
+
+    python3 -I -B check_certificates.py
+    python3 -I -B coverage_extension_check.py
+    python3 -I -B four_column_circuit_check.py
+
+这些入口只依赖 Python 标准库及同目录中的矩阵和证书。具体范围、生成器与原始核查日志见 [当日说明](history/2026-10-14/README.md)及 [独立核查说明](history/2026-10-14/independent/README.md)。生成器、部分证书检查器和参考程序会重写产物、时间日志或检查清单；运行时应使用临时副本，重新生成后须重新计算哈希。集成归档时未重复运行研究测试。
+
+上述局部证书只涉及该已知基准码的至多四列替换，不证明全局不存在；当日精确 Collatz 参考函数不认证旧 C 程序，也不代表重跑 J92。
+
 ## 其他依赖与历史限制
 
 C 代码使用 GCC/Clang 的 unsigned __int128 扩展；原 Claude 悖常轨迹检查器需要 NumPy。部分驱动从环境变量取编译器产物路径；日期目录保留历史文件分布，不能假设单目录包含每个阶段全部依赖。

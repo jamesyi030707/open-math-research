@@ -1,0 +1,15 @@
+PASS: generating polynomial divides x^65 + 1 over GF(2).
+PASS: parent exhaustive enumeration: [65,13,25]; parity extension: [66,13,26].
+PASS: shortening constraint rank 2, kernel dimension 11.
+PASS: shortened rank 11, 2048 distinct words, 2047 nonzero words, distance 26.
+PASS: independent literal-coordinate enumeration agrees on entire codeword set.
+Weight distribution: {0: 1, 26: 234, 28: 259, 30: 420, 32: 396, 34: 186, 36: 261, 38: 216, 40: 75}
+Minimum-word count: 234.
+Single-column exclusions: 64/64 old columns; each excludes all 2048 new columns.
+Eligible old columns: []; explicit candidate tests after pruning: 0.
+Two-column support exclusions: 2016/2016 old pairs; uncovered: [].
+Odd minimum-message XOR relation: [11, 32, 43].
+Minimum-message equation coefficient rank: 11; augmented rank: 12.
+Global binary linear [64,11,27] existence is not settled by this computation.
+CPU seconds: 0.193209; wall seconds: 0.193876.
+No external dependencies, random search, or network access used by this script.

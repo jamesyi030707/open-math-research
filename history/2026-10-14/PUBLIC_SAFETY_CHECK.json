@@ -1,0 +1,13 @@
+{
+  "checked": "2026-10-14",
+  "private_identifiers_or_email": "none included",
+  "private_chat_links_or_ids": "none included",
+  "personal_screenshots": "none included",
+  "absolute_private_paths": "none included",
+  "secrets": "none detected",
+  "hidden_reasoning_or_internal_instruction_material": "none included",
+  "third_party_redistribution": "no full database, MAGMA source, or paper included; mathematical construction attributed",
+  "scientific_scope": "Known baseline reproduction and exact local exclusions only; no novelty/global nonexistence claim.",
+  "historical_errors": "preserved with explicit ERRATA",
+  "scan_patterns_no_matches": true
+}

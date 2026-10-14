@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-14",
+  "incremental_base_commit": "199648a8b6464ca98ad83fae38151c87f87f9780",
+  "completed_dialogue_rounds": 2,
+  "research_source": "https://www.codetables.de/BKLC/BKLC.php?k=11&n=64&q=2",
+  "redactions": [
+    {
+      "path": "02_claude_reply_original.txt",
+      "change": "One absolute model output-directory mention replaced by [original output directory]."
+    }
+  ],
+  "original_code_unchanged": true,
+  "files": [
+    {
+      "path": "01_prompt.txt",
+      "bytes": 1867,
+      "sha256": "70bf91d213e449a6e1dca67270d51bdb6ca8bf2b215988b6c74bc02c44b198f1",
+      "origin": "Actual submitted research prompt"
+    },
+    {
+      "path": "02_claude_reply_original.txt",
+      "bytes": 4715,
+      "sha256": "e6d2e608bc6180a20fb8c2923ca599b505b73f44e08e6eee44c8508050488398",
+      "origin": "Actual visible Claude final response; rendered text extraction"
+    },
+    {
+      "path": "03_prompt.txt",
+      "bytes": 1993,
+      "sha256": "70dde85b950cf68f01a4a5752f8e38807bd0483c3d733d87068fd84586f2a7a6",
+      "origin": "Actual submitted research prompt"
+    },
+    {
+      "path": "04_claude_reply_original.txt",
+      "bytes": 3562,
+      "sha256": "a39a1e980cac64561c746bc7ecc2021e6a88b66510898fd95fbf0c95ef41422a",
+      "origin": "Actual visible Claude final response; rendered text extraction"
+    },
+    {
+      "path": "ENVIRONMENT.json",
+      "bytes": 360,
+      "sha256": "6bcfad25528c5b4d3e38ad7201378a2530e6b154063071c48414a0a10eff4669",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "ERRATA.md",
+      "bytes": 3838,
+      "sha256": "26d1fb7ca39cd7d5ad1799f3931313627a38e872f6d3da0d3ffb87a486dd3cd4",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "INTEGRATION_NOTES.md",
+      "bytes": 1448,
+      "sha256": "f6f4f919ea6e0fb673bba120f14116da30d8a3c864c867ac6e44f8a54cf07b00",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5286,
+      "sha256": "e18d584ea6ccb6535f8f74ed8051500995050fbd5e8e2dc84878ed03bb944d69",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "SOURCES.md",
+      "bytes": 2142,
+      "sha256": "afc4d0223052f794d629b1ef73537062e354edb38a96a560d05a23a7ca533817",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "claude_codes_baseline_audit_original.py",
+      "bytes": 4809,
+      "sha256": "f97757fa78b43595cd690fba338c4b29415646ea8b6632164687674987c77a4e",
+      "origin": "Claude downloaded source or explicitly named same-source rerun output"
+    },
+    {
+      "path": "claude_codes_baseline_audit_rerun.log",
+      "bytes": 2932,
+      "sha256": "bb9da3ae1a56571e86ce5d16f4159caa37eb43879dd54ac44c671d13d671656b",
+      "origin": "Claude downloaded source or explicitly named same-source rerun output"
+    },
+    {
+      "path": "claude_codes_baseline_audit_rerun_resources.txt",
+      "bytes": 274,
+      "sha256": "b11fc0e65d56340b5793152e24dd6c195c78e41ead101a805121576def309683",
+      "origin": "Claude downloaded source or explicitly named same-source rerun output"
+    },
+    {
+      "path": "claude_codes_baseline_audit_rerun_stderr.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "origin": "Claude downloaded source or explicitly named same-source rerun output"
+    },
+    {
+      "path": "claude_exact_threshold_original.py",
+      "bytes": 1598,
+      "sha256": "3196f9dee977f5cad0554f8f2f5e7720992dcdc8d016e9a014fed978c05e7842",
+      "origin": "Claude downloaded source or explicitly named same-source rerun output"
+    },
+    {
+      "path": "exact_leaf_reference.py",
+      "bytes": 3071,
+      "sha256": "de48c2bc1d6365bc42e7eb49194b0aac2a47b0b2549f8c0286916a59540de164",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "exact_leaf_reference_results.json",
+      "bytes": 315,
+      "sha256": "90e01f9c23801f1900a86af72f39380f7479d62c40775d016b2e17cf61dc6c90",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/README.md",
+      "bytes": 7913,
+      "sha256": "1ea5c2f6beeb347cb09dedc3599d6f3e47096247d08e4f8f9483964368d406a8",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/SHA256SUMS",
+      "bytes": 2278,
+      "sha256": "5e8ca8b27795d7917974fb795c32bea06ef842ddec76314af7681082af88a24d",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/certificate_checker.log",
+      "bytes": 236,
+      "sha256": "1e50768f393df3441f0d8eaa59f32108cdaaaf3e347ba8dfcc01573805ac1dbb",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/check_certificates.py",
+      "bytes": 4419,
+      "sha256": "29a723375244bf5ef5f492f98a210546ce7609e408ae1da0a946bc7daaeb87d9",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension.log",
+      "bytes": 796,
+      "sha256": "6e92ae54f5e04ef3eaf6745695088d940bd09f6a52b60ec8b4d99a48bbbbbcec",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension.py",
+      "bytes": 6711,
+      "sha256": "22e7d25bb0e3a46aa2dcdb51503ef281793eb5449caef92fcba664d472cccbf4",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_SHA256SUMS",
+      "bytes": 663,
+      "sha256": "b477bc8ed33839237723239feb5e13e48d132d6868186c84fee3d1715bdf6134",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_check.log",
+      "bytes": 382,
+      "sha256": "145a27084498d3223e123c2468d1f9f2d3646cc7bb5eee9ee14aebaafce1c334",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_check.py",
+      "bytes": 3525,
+      "sha256": "61f155fffe53abf972ff64c4268f39ad9772df0beb25286463ca74bd9dc63d75",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_proof.md",
+      "bytes": 3568,
+      "sha256": "a4394894796c04773fd4669c1671f53e71008b8afd60d9432c3aa9b86396f759",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_results.json",
+      "bytes": 43920,
+      "sha256": "efb8fbd357da9822cc14593be34709cfde8d43d8bb40a2fcf5ab6aa1a35ca79b",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/coverage_extension_uncovered_sets.json",
+      "bytes": 28439,
+      "sha256": "5b7cc347e1fcbcc1def2eb10fc592b10892fac36af9b58b1396e52cf0b59116f",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit.log",
+      "bytes": 583,
+      "sha256": "5dcad03de63126fb98dbe63fcaf289a170d73718e4060b71aabe6e197a01f2ea",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit.py",
+      "bytes": 4661,
+      "sha256": "8da3c78458ad54ac3f6f124008587af07ea27c933e3f94864cdf873eed94aa65",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit_SHA256SUMS",
+      "bytes": 564,
+      "sha256": "89b9a8e6c2f1ccb289e681a89ff2c4d12d513cf365b58ee3b47e6b22369ccb70",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit_check.log",
+      "bytes": 388,
+      "sha256": "451c6c879fdde3bb9d5ba2d3e6304bd46a38536c457e5cc9de2b9e6e3f76fef8",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit_check.py",
+      "bytes": 3203,
+      "sha256": "4b54c572d0b29f6218b54c6f87f19a9e4bae5c4e156c27ef1e780bd1712df419",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit_proof.md",
+      "bytes": 4024,
+      "sha256": "096fee36242707dac2a32124ec7216888a5ef2eebf5e061b2ff0a8baeec33d58",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/four_column_circuit_results.json",
+      "bytes": 337770,
+      "sha256": "a014e4830b6c3be78a0ee58cc056c424553a636c2fad146d2a4c1d22faeeed43",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/generator_matrix.txt",
+      "bytes": 715,
+      "sha256": "568e3c2281e1e7cf79d4879e5fac2b031aeb700b78f6b62581f780b3717a39f8",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/minimum_messages.tsv",
+      "bytes": 8562,
+      "sha256": "9dc0ae13026043ab05773842a3e5435bcd0936abcb562b7262791e36ef4e00e4",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/obstruction_certificate.json",
+      "bytes": 398233,
+      "sha256": "dfb0d8bd7e46da2ab77e0e56f6d26257b0fe224aab9370b2a55686dd775b77ce",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/results.json",
+      "bytes": 2424,
+      "sha256": "6d6c11d74212498a56a5d7fe277747a3ab69c1489087b71f9a96c41e211023bb",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/verification.log",
+      "bytes": 1013,
+      "sha256": "64e8543ee81edc700a2c88a121ac8e8fc80cfa91961456bf9daeefeebc5c7d0e",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/verify_code64.py",
+      "bytes": 12376,
+      "sha256": "839bad4d0e5cbe91c5a0ae532de21a5edad1316096dc6f642d4e7b0fdda1b17d",
+      "origin": "New independently authored research/checking artifact"
+    },
+    {
+      "path": "independent/weight_distribution.tsv",
+      "bytes": 72,
+      "sha256": "68f43d0a66c5dd498bc48b14072630e0774d7ddb4507b62f974501962d2e00c6",
+      "origin": "New independently authored research/checking artifact"
+    }
+  ]
+}

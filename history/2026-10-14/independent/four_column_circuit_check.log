@@ -1,0 +1,6 @@
+PASS: all552 uncovered quadruples have valid three-minimum-word circuit certificates.
+PASS: each circuit XOR is0 in both message and coordinate representations.
+PASS: every deleted total is6 or8; new total weight bound is80 or78, below81.
+PASS: each modified witness stays nonzero, retaining at least22 unchanged ones.
+PASS: deleted-total histogram {6: 489, 8: 63}.
+CPU seconds:0.029790.

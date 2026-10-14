@@ -1,0 +1,10 @@
+{
+  "returncode": 0,
+  "wall_seconds": 1.3016323689953424,
+  "user_cpu_seconds": 1.291026,
+  "system_cpu_seconds": 0.008064,
+  "maxrss_kib": 12288,
+  "cpu_limit_seconds": 60,
+  "address_space_limit_MiB": 512,
+  "scope": "same-source rerun, not independent reconstruction"
+}

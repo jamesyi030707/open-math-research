@@ -1,0 +1,10 @@
+PASS: archived baseline has2048 distinct words and234 weight26 words.
+Examined27261 minimum-message pairs; found1196 distinct three-word circuits.
+Uncovered quadruples:552; excluded by circuit:552; unresolved:0.
+Deleted-total histogram:{6: 489, 8: 63}.
+Circuit candidate tests:1446.
+All replacements of at most4 columns of this archived generator fail to reach distance27.
+Support-only minimum uncovered subset size remains exactly4.
+Nonzero caveat: every changed weight26 word retains at least22 unchanged ones.
+No size5 search or new-column search performed.
+CPU seconds:0.020256.

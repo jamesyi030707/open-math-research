@@ -1,0 +1,8 @@
+{
+  "binary_vs_linear_cutoff_cases": 7020,
+  "actual_head_necessary_inequalities": 827,
+  "domain_rejections": 5,
+  "arithmetic": "Python arbitrary-precision integers",
+  "scope": "small function regression only; no new full inverse traversal or historical C certification",
+  "cpu_seconds": 0.015432618999999998
+}

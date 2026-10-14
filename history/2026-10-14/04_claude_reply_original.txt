@@ -1,0 +1,48 @@
+1. Dimension-10 subcodes (for this baseline only)
+
+Claim. Every 10-dimensional subcode of this [64,11,26] code C contains a weight-26 word. Hence any [64,11,≥27] code C’ has dim(C∩C’) ≤ 9.
+
+Proof. Messages 11, 32, 43 satisfy 11⊕32=43, so U = span{11,32} has exactly the nonzero elements 11, 32, 43, and their codewords have weight 26. A 10-dimensional subcode is a hyperplane H = ker f of the message space. Then dim(H∩U) ≥ 2−1 = 1, so H contains one of 11, 32, 43. If dim(C∩C’) ≥ 10, then C∩C’ contains such a word, which has weight 26 in C’. That contradicts d(C’) ≥ 27. ∎
+
+Caveats.
+
+I did not recompute your hex words. I rely on your weights and XOR check.
+The statement is for this coordinate labelling. Permuted copies each need the same argument.
+It restates the round-1 inconsistency: no functional equals 1 on all of W₂₆.
+An r-column replacement gives dim(C∩C’) ≥ 11−r. So this proves only that r=1 fails.
+The r=2 exclusion comes from your support coverage, not from this lemma.
+This is not a non-existence claim.
+
+2. Audit of the r-column constraints
+
+For D replaced by columns f₁..f_r and S(m) = supp(c(m))∩D, the new weight is w − |S| + Σf_k(m). The requirement is Σf_k(m) ≥ 27 − w + |S| for all 2047 messages.
+
+A row is binding when the right side is ≥ 1, i.e. |S| ≥ w−26.
+It is vacuous otherwise.
+It is infeasible when the right side exceeds r.
+
+So weights up to 26+r can bind, but only when r ≥ w−26:
+
+w=26 binds for every D.
+w=28 binds when |S| ≥ 2.
+w=30 first binds at r=4, with |S|=4.
+w=32 needs r ≥ 6.
+
+My first reply listed only weights 26 and 28. That is incomplete for r ≥ 4 (erratum E2).
+
+11r variables is not a tiny solve (erratum E1). I wrote that it “can be decided exactly”. That is true only as brute force, which costs 2^(11r) (2^44 at r=4) per D. The rows are integer cardinality bounds on XOR-linear forms ⟨m,c_k⟩, not a linear GF(2) system. That is a pseudo-Boolean/parity problem with no guarantee of being small, and the set of D to try is separate. I do not claim it is tractable.
+
+Smallest uncovered D vs a d27 code. Finding an uncovered D uses only W₂₆ supports. It is a necessary condition. Solving the full row system is a different, harder problem. Even an uncovered D proves nothing about existence.
+
+3. Provenance corrections
+
+E3. My threshold sanity script used Python math.log2 (double), not C log2l (long double). It therefore cannot certify the C execution. The C code remains uncertified until patched with exact integers, or until its olo table is dumped and compared with the exact one.
+E4. The cyclic construction is: h = (x+1)·m_C, where m_C is the minimal polynomial of the selected degree-12 check coset C. The generator is g = (x⁶⁵+1)/h, of degree 52. Its zeros are the complement of C∪{0}. My script’s “coset rep 1, 3, 5, 7, 11” labelled check cosets, not generator zeros. Rep 5 gives d=5.
+
+Original replies and errors stand, with E1–E4 as errata.
+
+4. One bounded next step
+
+Export the 234 weight-26 supports as 64-bit masks from both implementations and compare a hash of the sorted list. Then report the r=3 and r=4 uncovered counts. If both counts are 0, retire the replacement family for r ≤ 4 on this baseline and stop; do not write a solver. If either is nonzero, emit the full constraint table (binding rows only, with the right-hand sides) for the first uncovered D alone, and verify it with both implementations before any solving.
+
+No novelty is claimed, and no Collatz traversal is involved.

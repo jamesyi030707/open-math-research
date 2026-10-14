@@ -1,0 +1,138 @@
+{
+  "construction_source": "https://www.codetables.de/BKLC/BKLC.php?k=11&n=64&q=2",
+  "source_access_date": "2026-10-14",
+  "source_table_bounds": {
+    "lower": 26,
+    "upper": 27
+  },
+  "polynomial_exponents": [
+    52,
+    51,
+    50,
+    49,
+    47,
+    45,
+    44,
+    43,
+    40,
+    38,
+    37,
+    34,
+    33,
+    32,
+    28,
+    26,
+    24,
+    20,
+    19,
+    18,
+    15,
+    14,
+    12,
+    9,
+    8,
+    7,
+    5,
+    3,
+    2,
+    1,
+    0
+  ],
+  "polynomial_divides_x65_plus_1": true,
+  "shortening_coordinates_1based": [
+    65,
+    66
+  ],
+  "shortening_constraint_rows_integer": [
+    4096,
+    8191
+  ],
+  "shortening_constraint_rank": 2,
+  "shortening_kernel_basis_integer": [
+    3,
+    5,
+    9,
+    17,
+    33,
+    65,
+    129,
+    257,
+    513,
+    1025,
+    2049
+  ],
+  "parameters": {
+    "field": 2,
+    "length": 64,
+    "rank": 11,
+    "minimum_distance": 26
+  },
+  "enumerated_codewords": 2048,
+  "enumerated_nonzero_codewords": 2047,
+  "weight_distribution": {
+    "0": 1,
+    "26": 234,
+    "28": 259,
+    "30": 420,
+    "32": 396,
+    "34": 186,
+    "36": 261,
+    "38": 216,
+    "40": 75
+  },
+  "minimum_word_count": 234,
+  "cyclic_parent_weight_distribution": {
+    "0": 1,
+    "25": 195,
+    "26": 390,
+    "27": 520,
+    "28": 455,
+    "29": 585,
+    "30": 780,
+    "31": 390,
+    "32": 780,
+    "33": 780,
+    "34": 390,
+    "35": 780,
+    "36": 585,
+    "37": 455,
+    "38": 520,
+    "39": 390,
+    "40": 195,
+    "65": 1
+  },
+  "extended_parent_weight_distribution": {
+    "0": 1,
+    "26": 585,
+    "28": 975,
+    "30": 1365,
+    "32": 1170,
+    "34": 1170,
+    "36": 1365,
+    "38": 975,
+    "40": 585,
+    "66": 1
+  },
+  "independent_coordinate_enumeration_matches": true,
+  "single_column_experiment": {
+    "candidate_space_size": 131072,
+    "old_columns_excluded_by_witness": 64,
+    "eligible_old_coordinates": [],
+    "explicit_candidate_tests_after_pruning": 0,
+    "successful_replacements": 0
+  },
+  "two_column_experiment": {
+    "old_pairs_total": 2016,
+    "old_pairs_excluded_by_witness": 2016,
+    "pairs_without_support_witness": [],
+    "candidate_space_size": 8455716864
+  },
+  "odd_minimum_message_relation": [
+    11,
+    32,
+    43
+  ],
+  "minimum_message_coefficient_rank": 11,
+  "minimum_message_augmented_rank": 12,
+  "scope": "Known lower-bound reproduction and specified local exclusions only; no global nonexistence proof for binary linear [64,11,27]."
+}
