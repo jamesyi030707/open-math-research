@@ -2039,6 +2039,55 @@
       "modified": false,
       "kind": "New independently authored research/checking artifact",
       "source_provenance": "history/2026-10-14/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes.md",
+      "source": "Editorial synthesis of the cited archived research records",
+      "published_sha256": "4d1b4417827f3dcc5578dbdd9ccdc004b4e6b29d9dd257c907190a17819bdc0a",
+      "modified": false,
+      "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
+      "evidence_sources": [
+        "history/2026-10-14/README.md",
+        "history/2026-10-14/01_prompt.txt",
+        "history/2026-10-14/04_claude_reply_original.txt",
+        "history/2026-10-14/independent/four_column_circuit_proof.md"
+      ]
+    },
+    {
+      "path": "notes/collatz.md",
+      "source": "Editorial synthesis of the cited archived research records",
+      "published_sha256": "7bc04a71032c382f186f386ed870658c3e867ef8318528da4375c64e92ee705d",
+      "modified": false,
+      "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
+      "evidence_sources": [
+        "history/2026-10-13/01_prompt.txt",
+        "history/2026-10-13/summary_zh.txt",
+        "history/2026-10-13/theta_stageB_results.json",
+        "history/2026-10-13/independent_audit_results.json",
+        "history/2026-10-14/02_claude_reply_original.txt"
+      ]
+    },
+    {
+      "path": "notes/hott.md",
+      "source": "Editorial synthesis of the cited archived research records",
+      "published_sha256": "9700589e56ab51c352881e4ed72a9619f5cb6f2caf2edcc7ef92a52ae53cb849",
+      "modified": false,
+      "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
+      "evidence_sources": [
+        "history/2026-10-08/claude_research_note_20261008.md",
+        "dialogues/01_hott_final_reply.txt",
+        "dialogues/02_user_prompt.txt"
+      ]
+    },
+    {
+      "path": "archive/README.md",
+      "source": "Editorial synthesis of the cited archived research records",
+      "published_sha256": "6a02a3683014b5d3921e92640db226b1ae13166a15a90ae6ab0bbba371da8e71",
+      "modified": false,
+      "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
+      "evidence_sources": [
+        "INDEX.md at commit 1f710049680ae14340b1718dc101a237d01741a2"
+      ]
     }
   ],
   "excluded": [
@@ -2114,6 +2163,20 @@
       "files_added": 45,
       "date_provenance": "history/2026-10-14/PROVENANCE.json",
       "integration_edits": "Root navigation, progress, sources, errata, reproduction entries, provenance, public safety, and global checksums updated; all earlier historical files preserved."
+    }
+  ],
+  "presentation_revisions": [
+    {
+      "date": "2026-10-14",
+      "base_commit": "1f710049680ae14340b1718dc101a237d01741a2",
+      "reader_documents": [
+        "notes/codes.md",
+        "notes/collatz.md",
+        "notes/hott.md",
+        "archive/README.md"
+      ],
+      "source_quote_count": 6,
+      "description": "Thematic reading notes for codes, finite Collatz algorithms, and early HoTT exploration. Source-labelled quotations and editorial commentary are distinguished. Historical records, experiment data, code, and errata remain unchanged."
     }
   ]
 }

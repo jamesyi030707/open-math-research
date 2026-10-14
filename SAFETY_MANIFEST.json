@@ -1,6 +1,6 @@
 {
   "archive_date": "2026-10-14",
-  "total_files_including_manifest_and_checksums": 264,
+  "total_files_including_manifest_and_checksums": 268,
   "selected_historical_artifacts_and_dialogue_excerpts": 246,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -25,6 +25,17 @@
       "publisher_review": "Delivered ZIP hash, all date-local checksum manifests, provenance hashes, privacy/credential patterns, navigation, and reproduction entry dependencies checked. No research tests rerun during integration. Pattern checks do not guarantee perfect privacy.",
       "source_preservation": "All 45 delivered files preserved byte-for-byte. Date provenance records one output-directory redaction before delivery. Existing historical files and license terms retained.",
       "scope": "Specific stored baseline matrix only; all replacements of at most four generator columns excluded by archived exact certificates. Global [64,11,27] existence is unresolved by this work."
+    }
+  ],
+  "curated_reader_documents": 4,
+  "presentation_revisions": [
+    {
+      "date": "2026-10-14",
+      "base_commit": "1f710049680ae14340b1718dc101a237d01741a2",
+      "source_quote_count": 6,
+      "checks": "Source quotations matched to actual archived text; relative navigation, SHA-256 manifest, privacy patterns, and consistency of scope reviewed. No research computations rerun.",
+      "scope_preserved": "Code exclusions concern the one stored matrix and at most four replaced columns. Collatz timing is a recorded finite comparison; J46 complete versus J92 hit/path-only verification and uncertified historical C remain distinct. HoTT remains a paper draft with no newly compiled formalization.",
+      "authorship": "Editorial judgments are mathematical commentary, not fabricated personal feelings, credentials, affiliations, dialogue, or claims of human-executed calculations."
     }
   ]
 }
