@@ -1,0 +1,53 @@
+1. Audit of the Walsh/character argument: correct
+
+With F(a) = Σ_{m∈W}(−1)^{a·m}, character orthogonality gives, for a rank-r matrix A with ker A = K,
+
+|W∩K| = 2^{−r} Σ_{a∈rowspace(A)} F(a) ≥ 2^{−r}(234 − (2^r−1)·30).
+
+I did not recompute F. I take min F = −30 from your computation. It matches my own exact numbers:
+
+Rank 1: (234−30)/2 = 102, which equals my enumerated minimum.
+Rank 2: (234−90)/4 = 36, which equals my enumerated minimum.
+
+So the rank-1 and rank-2 bounds are sharp. Rank 3 gives ≥ 3, not claimed sharp. The bound is positive exactly for r ≤ 3, because 234 > 30·(2^r−1) holds only up to r = 3.
+
+Consequence. If dim(C∩C’) ≥ 8, then C∩C’ contains an 8-dimensional H (a rank-3 kernel), which holds ≥ 3 words that have weight 26 in C’. So d(C’) ≥ 27 forces dim(C∩C’) ≤ 7.
+
+Perturbations. Let G’ = G+E with rank E ≤ 3. Then K = {m : mE = 0} has dimension ≥ 8, and mG’ = mG on K. The same argument gives d(C’) ≤ 26. E may touch all 64 columns, so every rank-≤3 perturbation is excluded, including all column replacements with r ≤ 3.
+
+Three-dimensional obstruction. A 3D subspace with all seven nonzero weights 26 is impossible in any binary code. The eight words have total weight 4·|supp|, since each support coordinate is 1 in exactly 4 of 8 words, but 7·26 = 182 is not divisible by 4. More generally 26(2^k−1) = 2^{k−1}·|supp| forces k ≤ 2. My search finding none was therefore forced, not informative.
+
+2. Errata (originals stand)
+E5. I wrote that dimension 9 “needs full enumeration” and that dimension 8 was untested, needing 50,955,971 subspaces. The Walsh bound settles both. It is stronger than the enumeration because it also covers rank 3.
+E6. I wrote that “permuted copies each need the same run”. That was wrong. A coordinate permutation preserves the weights and the message set W. A change of message basis permutes the characters, so the multiset of F-values is invariant. The certificate transports to the whole equivalence class.
+E7. I presented “no 3D all-W26 subspace” as a search outcome. It follows from the divisibility argument above.
+E8. My coset LP omitted the odd-weight restriction, the complement symmetry, and any certificate requirement.
+3. Even-parent route, precise
+
+Claim. A [64,11,≥27] code exists iff there are an even-weight [64,10] code E with d(E) ≥ 28 and an odd-weight vector r with min_{e∈E} wt(r+e) ≥ 27.
+
+(⇐) C’ = E+⟨r⟩ has dimension 11, because r∉E. Its nonzero words have weight ≥ 28 (in E) or ≥ 27 (in r+E).
+
+(⇒) Suppose C’ is a [64,11,≥27] code. If all its weights were even, then d ≥ 28, which is excluded by the cited upper bound 27 (page evidence, not my proof). So C’ has an odd word r. The parity-of-weight functional is therefore nonzero on C’, and its kernel E is an even-weight code of dimension exactly 10. Since E has even weights ≥ 27, d(E) ≥ 28. The words of r+E are odd with weight ≥ 27.
+
+The goal is one fixed E (the table’s [64,10] entry is extended BCH(63,27)), not a classification of all E.
+
+Exact constraints for a candidate r+E. Let b_i be the number of coset words of weight i.
+
+A_i are the integer weights of E. Then A⊥_j = 2^{−10} Σ_i A_i K_j(i), with K_j(i) = Σ_s (−1)^s C(i,s) C(64−i, j−s). Check exact divisibility.
+b_i ∈ ℤ_{≥0}, b_i = 0 unless i is odd and i ≥ 27, and Σ b_i = 1024.
+For every j: |Σ_i b_i K_j(i)| ≤ 1024·A⊥_j, and Σ_i b_i K_j(i) ≡ 1024·A⊥_j (mod 2048).
+The all-ones vector lies in E^⊥, because E is even. The case j = 64 then forces Σ b_i (−1)^i = −1024, which the odd-weight restriction already implies.
+If E contains all-ones, the coset is closed under complement. Odd weights are then restricted to {27,29,31,33,35,37}, with b_i = b_{64−i} and b_27+b_29+b_31 = 512.
+I have not checked whether the extended BCH code contains all-ones.
+
+Warnings.
+
+A floating-point infeasible status is not a certificate.
+Use a rational Farkas dual witness y with exact integer verification. The checker only has to verify arithmetic.
+LP feasibility is inconclusive. Integer infeasibility would need a separate certificate.
+Infeasibility for one E says nothing about other [64,10,28] codes.
+
+Future pilot budget (not run today): standard-library Fraction only; ≤ 19 unknowns (6 with all-ones); ≤ 60 CPU seconds or ≤ 10^5 pivots; stop and report INCOMPLETE otherwise; a verdict is recorded only with a verified rational witness.
+
+No novelty or record is claimed, and no global nonexistence claim is made.

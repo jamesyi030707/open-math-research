@@ -1,0 +1,8 @@
+PASS: independent literal-coordinate encoding and rank check.
+PASS: character-sum certificate F(a) >= -30 for all nonzero a.
+PASS: codimension-3 orthogonality lower bound (234-210)/8 = 3.
+PASS: Walsh-transform/RREF enumeration of all 698,027 dual 2-spaces.
+PASS: complete intersection histogram and all 125 minimizing dual spaces.
+PASS: minimum 36, maximum 87, both incidence identities.
+PASS: explicit sharp dimension-9 example, basis and full weight distribution.
+CPU seconds: 0.251052.

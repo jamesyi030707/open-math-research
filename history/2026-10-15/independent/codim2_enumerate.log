@@ -1,0 +1,9 @@
+Generator rank: 11; weights independently recomputed from all 2048 words.
+Weight-26 words: 234.
+All nonzero dual character sums are at least -30 (111 attain -30).
+Corollary: every dimension-8 subcode contains at least 3 weight-26 words (sharpness not asserted).
+Enumerated all 698,027 dual 2-spaces, equivalently all dimension-9 subcodes.
+Minimum intersection: 36; multiplicity: 125; maximum: 87.
+First minimizing dual space: [41, 460, 485].
+Incidence moments: 40774734, 1184081535.
+CPU seconds: 0.211050.

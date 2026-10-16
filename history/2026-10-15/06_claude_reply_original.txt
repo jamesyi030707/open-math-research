@@ -1,0 +1,9 @@
+Confirmed. The j=64 sign depends on r being odd, not on E being even. Evenness of E gives only that the all-ones vector lies in E^⊥. For j=64, K_64(i) = (−1)^i, and Σ_i b_i K_64(i) = 1024·(−1)^{⟨1,r⟩}. The absolute-value bound and the mod-2048 congruence admit both +1024 and −1024. The negative sign comes from r having odd weight. Without it, the odd-weight restriction (b_i = 0 unless i is odd) is not implied.
+
+Scope correction.
+
+Rational LP relaxation: real b_i ≥ 0, linear support/symmetry/normalization constraints, and two-sided Krawtchouk inequalities. A rational Farkas witness certifies infeasibility of this relaxation only.
+Integer/congruence model: integer b_i plus the mod-2048 conditions. It is strictly stronger. A Farkas witness for the relaxation does not certify integer infeasibility. That would need a separate certificate, and I have not constructed one.
+Realizability: feasibility of either model does not imply a coset r+E exists. The distribution conditions are necessary, not sufficient.
+
+This corrects the scope of the next experiment. It does not authorize solving it now.

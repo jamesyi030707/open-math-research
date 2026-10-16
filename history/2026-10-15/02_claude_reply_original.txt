@@ -1,0 +1,41 @@
+Result: the shared-9D route is rejected for this baseline. I ran one script, shared9d_audit.py, in 0.5 s of process time with no dependencies. Output is in shared9d_results.txt.
+
+Computation (exact, complete)
+Baseline rebuilt. I rebuilt the code from your 11 hex rows. The weight distribution matches yours. All 2048 words are distinct, so the rank is 11.
+Your circuit. Messages 11, 32 and 43 XOR to 0. Their codewords XOR to 0 and all have weight 26. The hex words match yours.
+Dimension 10. There are 2047 hyperplanes ker(a). The minimum number of weight-26 messages in one is 102, and none has 0.
+Dimension 9. I enumerated all 698,027 subspaces H = ker(a,b), each counted once as a<b<a⊕b. The enumeration was complete.
+No H has zero weight-26 messages.
+The minimum is 36, attained by 125 subspaces (e.g. dual span {41, 460, 485}).
+The next counts are 39 (360 subspaces) and 41 (534).
+The maximum count is 87.
+Smaller obstruction? No. The all-weight-26 subspaces have dimension 1 (234 of them), dimension 2 (1,196), and dimension 3 and above: none. So a 3D all-W26 subspace does not exist here, and the exclusion needs the full enumeration.
+Proof of what follows
+
+All weights in this code are even, so a subcode has d ≥ 27 exactly when it contains no weight-26 word. Suppose C’ is an [64,11,≥27] code with dim(C∩C’) ≥ 9. Then C∩C’ contains a 9-dimensional H ⊂ C with d(H) ≥ 27, contradicting the count above. Hence dim(C∩C’) ≤ 8: any d ≥ 27 neighbor of this baseline changes at least 3 generator directions. This also rules out any “two new rows over a shared 9D subcode” scheme.
+
+Certificate and algorithm
+Let Z_a be the 234-bit mask of weight-26 messages m with a·m = 0.
+For each canonical pair, |W26 ∩ H| = popcount(Z_a & Z_b).
+The certificate is the full histogram, minimum 36, plus the minimizer.
+The rows give the message-to-word map, so it can be re-run independently.
+Caveats
+The result is for this exact basis and baseline only. Permuted copies each need the same run.
+Dimension 8 (3 new rows) is untested. It would require 50,955,971 subspaces, or a pair loop plus a consistency test, which I did not run.
+Nothing here says no [64,11,27] exists.
+Speculation (not computed): a different family
+
+Forced-structure lemma (proof). Take any [64,11,27] code C’. If all weights were even, d would be ≥ 28, which Grassl’s page lists as impossible (page evidence, not my proof). So C’ contains an odd word. Its even-weight subcode E’ then has dimension exactly 10 and d(E’) ≥ 28, and C’ = E’ ∪ (E’+r) with every word of E’+r of weight ≥ 27. So a [64,11,27] exists iff some even [64,10,28] code has a coset of minimum weight ≥ 27.
+
+Proposed bounded next step.
+
+Build the extended BCH [64,10,28] from its check cosets, with h and generator (x⁶³+1)/h.
+Compute its weight enumerator from the 1024 words.
+Obtain the dual distribution A⊥_j by MacWilliams.
+Test, as an LP feasibility problem, whether a coset with min weight ≥ 27 can exist. The coset weights b_i (i ≥ 27) satisfy Σb_i = 1024 and |Σ_i b_i K_j(i)| ≤ 1024·A⊥_j for every j. That follows from the character sum over E’^⊥.
+
+If the LP is infeasible, that proves no odd extension exists for that particular E’. If it is feasible, the result is inconclusive. That would be one specific parent, and the family still needs a classification of [64,10,28] codes, which I have not checked.
+
+No novelty is claimed, and nothing here is a global non-existence claim.
+
+Files: shared9d_audit.py, shared9d_results.txt.

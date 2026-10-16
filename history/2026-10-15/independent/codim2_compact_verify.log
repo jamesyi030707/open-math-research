@@ -1,0 +1,9 @@
+PASS: rank 11, distance 26, exactly 234 minimum messages.
+PASS: all 2,047 nonzero character sums >= -30.
+PROVED: every dimension-9 subcode has at least (234-90)/4 = 36 minimum words.
+PROVED: every dimension-8 subcode has at least (234-210)/8 = 3 minimum words; sharpness not asserted.
+PROVED: any binary linear code of distance at least 27 intersects this C in dimension at most 7.
+PASS: characters at 41, 460, 485 are all -30; their kernel has exactly 36.
+PASS: exactly 125 dimension-9 subcodes attain equality.
+Nonzero character histogram: [(-30, 111), (-20, 48), (-18, 72), (-16, 132), (-12, 120), (-10, 84), (-8, 84), (-6, 87), (-4, 48), (-2, 72), (0, 96), (2, 156), (4, 120), (6, 144), (8, 180), (10, 144), (12, 132), (14, 84), (16, 36), (18, 33), (38, 12), (42, 12), (44, 12), (46, 12), (48, 16)]
+CPU seconds: 0.035755.

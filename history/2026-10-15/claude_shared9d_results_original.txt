@@ -1,0 +1,10 @@
+weight distribution matches; all 2048 words distinct (rank 11): {0: 1, 26: 234, 28: 259, 30: 420, 32: 396, 34: 186, 36: 261, 38: 216, 40: 75}
+user circuit messages 11,32,43: xor = 0 | codeword xor = 0 | weights [26, 26, 26] | hex ['01b2b8443a9b00bd', '07b0e0a25228386f', '060258e668b338d2']
+dim-10 H=ker(a): 2047 hyperplanes; min #W26 in H = 102; hyperplanes with 0 W26 words: 0
+dim-9 H=ker(a,b): enumerated 698027 of 698027 (complete=True); H with zero W26 words: 0; min #W26 in H = 36 (dual subspace (41, 460, 485)), attained by 125 subspaces
+lowest counts (k:#H): [(36, 125), (39, 360), (41, 534), (42, 1215), (43, 1878), (44, 3612)] | max count: 87
+all-W26 subspaces: dim1 = 234 | dim2 = 1196
+all-W26 subspaces: dim3 = 0
+max all-W26 subspace dimension = 2 (search complete=True); basis messages [393, 1228]; 3 nonzero messages; all weight 26: True
+certificate hex words: ['221d4d805e806cae', 'e52e0819981074a7', 'c7334599c6901809']
+=> every subcode of codimension <= 1 (dimension >= 10) contains a weight-26 word; process time 0.5s

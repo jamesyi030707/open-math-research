@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-14",
+  "archive_date": "2026-10-15",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2043,15 +2043,19 @@
     {
       "path": "notes/codes.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "4d1b4417827f3dcc5578dbdd9ccdc004b4e6b29d9dd257c907190a17819bdc0a",
-      "modified": false,
+      "published_sha256": "00349390da55a640af8e8b5a87a672db4c6bb9054e698bbe615b6ddb930a0139",
+      "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
         "history/2026-10-14/README.md",
         "history/2026-10-14/01_prompt.txt",
         "history/2026-10-14/04_claude_reply_original.txt",
         "history/2026-10-14/independent/four_column_circuit_proof.md"
-      ]
+      ],
+      "prior_published_sha256": [
+        "4d1b4417827f3dcc5578dbdd9ccdc004b4e6b29d9dd257c907190a17819bdc0a"
+      ],
+      "revision_note": "2026-10-15 spectral-certificate navigation and evidence update."
     },
     {
       "path": "notes/collatz.md",
@@ -2082,12 +2086,226 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "6a02a3683014b5d3921e92640db226b1ae13166a15a90ae6ab0bbba371da8e71",
-      "modified": false,
+      "published_sha256": "6806e9c230fa03013d2ae9134d9990c606ca15863310cba9c2acca4fb0f90753",
+      "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
         "INDEX.md at commit 1f710049680ae14340b1718dc101a237d01741a2"
-      ]
+      ],
+      "prior_published_sha256": [
+        "6a02a3683014b5d3921e92640db226b1ae13166a15a90ae6ab0bbba371da8e71"
+      ],
+      "revision_note": "2026-10-15 spectral-certificate navigation and evidence update."
+    },
+    {
+      "path": "ERRATA.md",
+      "published_sha256": "db198fdb06d652eb0284a5e9bc9c819d7d19c3c4b02912bd11fbfeb5f06366de",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
+    },
+    {
+      "path": "INDEX.md",
+      "published_sha256": "e723f0a4217672b4a28d0f07aa03e6c3544cc0e73f89461bcf14ef84b799832e",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
+    },
+    {
+      "path": "README.md",
+      "published_sha256": "c2fada03913e8915cbe43a8df63b1ac2c5f8f8c90f02ef478fd0d1b9e6819f59",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "published_sha256": "257c2d545e1dcaed6cd2e2864ab6a57959be1a8803a84ef4b63ed69addfea4e3",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
+    },
+    {
+      "path": "SOURCES.md",
+      "published_sha256": "88e19e30486bed4d1a6860dffe0b1ee2720d156f28ac58dd42a2a2c64508b8b5",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
+    },
+    {
+      "path": "history/2026-10-15/01_prompt.txt",
+      "published_sha256": "55826465812010f4c27008175b43040bc6a37aab443685fbc363373c03b7cdca",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/02_claude_reply_original.txt",
+      "published_sha256": "ed04f0a40b0f4639fc521e76ea5a44fa32750bbf24535f643f682fdabc3beb38",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/03_prompt.txt",
+      "published_sha256": "ea1891a138dd7d0a3b924f13a93be8213dcf70f9814fe02ad9b23f15615f2210",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/04_claude_reply_original.txt",
+      "published_sha256": "ab30efc3a15b87d5dccb6456ec63d38ffbd09d9beceaa4697cb625c0c8f9543c",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/05_prompt.txt",
+      "published_sha256": "34fa5259bfcb7894facda27183e026ac74c137f7740b7f56abd3ab7c4f6bee9a",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/06_claude_reply_original.txt",
+      "published_sha256": "843ada879f3dbb82552109e4c51fbf2e257bb7c8c914bf49fd26cef15ec1b53f",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/ERRATA.md",
+      "published_sha256": "bdf52b7665e957245e10af6f0845b2bbab86de7c8155982f8855c8c0945fa4fc",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/PROVENANCE.json",
+      "published_sha256": "d31986fce90659f4aea1125473d83fd46b7e725a8be39738011854eaa2a588b6",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/README.md",
+      "published_sha256": "b4bedfbbc078e2d4673f0e340d4c31ddfc4a9a856e0092bd8ffd96389c91f7d2",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/SHA256SUMS",
+      "published_sha256": "a999adf61f3e99a0c7057f6ac40d6a99b05e4a89d5bf357812aa58dff82096e4",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/SOURCES.md",
+      "published_sha256": "720895acca1d48a580ea62d1c327c71495281a7ec9223f6370b68f7a3c0f31ac",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/claude_shared9d_audit_original.py",
+      "published_sha256": "11cef2d178ccd12ad3f094f7988908d14f5016dab1d1a1d61a7d2773e3ca4090",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/claude_shared9d_results_original.txt",
+      "published_sha256": "36e81430a94968584c42ea4b2d48b96396aa8d19900406ff86a378656c348bef",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_SHA256SUMS",
+      "published_sha256": "4c6ee3b0e5fb38ae264b53872123e463c88c025014e72019e230350645b564c1",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_compact_verify.log",
+      "published_sha256": "be0547d1d6fb1f9f54519e19db239128856a7b47c704f2c05d244a0d2ef054fe",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_compact_verify.py",
+      "published_sha256": "19dbda8060048e6c287c61323784f68318b3d9dcca516b0f75da20dc7bc182e2",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_enumerate.log",
+      "published_sha256": "258a7fc3cf8795a0b4c03784c397d66cdf1326fbe410d6bd1d326ffe2624f06e",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_enumerate.py",
+      "published_sha256": "1baf91bdf6fb06fb23506ef74729215963940341d545f9fb07a81b168147f434",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_generator_matrix.txt",
+      "published_sha256": "568e3c2281e1e7cf79d4879e5fac2b031aeb700b78f6b62581f780b3717a39f8",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_proof.md",
+      "published_sha256": "6e091257c14c72776e373636e6863607955dcd209a82a14ef8534bf84e330e68",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_results.json",
+      "published_sha256": "d511d0fc02c00c43628a703d405b1e2651fdcd4e6b383ee694df93ed3e0f6ede",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_verify.log",
+      "published_sha256": "22c60d178f9fed10d0153ffde18711e32ec5dddf8c43de0311ff7bf160179da0",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/independent/codim2_verify.py",
+      "published_sha256": "37697d3c14b6e8bed4f59c2fa52bb12a161d46513870c519f3b541e83299b06d",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-15/structural_consequences.md",
+      "published_sha256": "ceed6b5a42053dec3a27ccf5d8fcb0782df3f2ba1464f5639492029d6e0649a6",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "history/2026-10-15/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-spectral.md",
+      "published_sha256": "8408197fc5fa4c3ec7e2b479a8e77c9740eb6ac6410b2aa5cc0e0d76134271f1",
+      "modified": false,
+      "kind": "2026-10-15 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-15 research"
     }
   ],
   "excluded": [
@@ -2163,6 +2381,14 @@
       "files_added": 45,
       "date_provenance": "history/2026-10-14/PROVENANCE.json",
       "integration_edits": "Root navigation, progress, sources, errata, reproduction entries, provenance, public safety, and global checksums updated; all earlier historical files preserved."
+    },
+    {
+      "date": "2026-10-15",
+      "base_commit": "46a3aa5b2ce8b6878f1f7fa5384d2e0ae2e987cd",
+      "delivered_zip_sha256": "eaf52b37dc5fdddb6c7c0f443730ce2e86c4d7411f5f01dc59201a473eaf3bfd",
+      "files_added": 25,
+      "date_provenance": "history/2026-10-15/PROVENANCE.json",
+      "integration_edits": "24 dated research files and one curated spectral note added; existing history and licenses unchanged; navigation, errata, sources, reproduction and manifests updated."
     }
   ],
   "presentation_revisions": [

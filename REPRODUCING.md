@@ -40,3 +40,11 @@ C 代码使用 GCC/Clang 的 unsigned __int128 扩展；原 Claude 悖常轨迹�
 10 月 11 日独立检查的旧绝对路径已改为本地 reference/paradox_cert_J92_previous.json，保留其后备逻辑。其他少量原执行路径改为相对目录；参见 PROVENANCE.json。所有发生变化的文件已记录原始与公开 SHA256。历史日志中的源哈希指原始版本，可能不同于脱敏后的源码。
 
 SHA256SUMS.txt 校验本公开包除自身以外的全部文件。它验证字节一致性，不证明数学正确性或软件安全。
+
+## 2026-10-15：短谱证书检查
+
+将 `history/2026-10-15/independent` 复制到临时目录，在副本中运行：
+
+    python3 -I -B codim2_compact_verify.py
+
+只依赖 Python 3 标准库和同目录矩阵。直接检查全部 2,047 个非零字符和与 125 个等号情形，无需重新枚举 698,027 个子空间。勿使用禁用 assert 的 -O。完整枚举及不同实现的历史日志保留于 [当日记录](history/2026-10-15/README.md)。集成发布未重复大枚举。
