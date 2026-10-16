@@ -1,0 +1,5 @@
+RM(1,6) words from the map: distinct = 128 | all in E: True | equals {w in E: wt in {0,32,64}}: True
+RM(1,6) basis (all-ones, Tr(alpha^j y), j=0..5): ['ffffffffffffffff', '7eacdda4e2f28c20', '3f566ed271794610', '1fab376938bca308', '0fd59bb49c5e5184', '07eacdda4e2f28c2', '03f566ed27179461']
+q1,q2,q3 (gamma = 1, theta, theta^2; theta=alpha^9): ['172e5cb972e5cb97', '65cb972e5cb972e5', '3972e5cb972e5cb9'] | in E: True
+dim span(RM(1,6), q1,q2,q3) = 10 (=10 means they complement RM(1,6) in E) | equals E: True
+weights of (nonzero q in span) + affine: [28, 36] -> all 7 nonzero quadratics bent (distance 28 from RM(1,6))

@@ -48,3 +48,13 @@ SHA256SUMS.txt 校验本公开包除自身以外的全部文件。它验证字�
     python3 -I -B codim2_compact_verify.py
 
 只依赖 Python 3 标准库和同目录矩阵。直接检查全部 2,047 个非零字符和与 125 个等号情形，无需重新枚举 698,027 个子空间。勿使用禁用 assert 的 -O。完整枚举及不同实现的历史日志保留于 [当日记录](history/2026-10-15/README.md)。集成发布未重复大枚举。
+
+## 2026-10-16：BCH 母码与共同 Walsh 模型
+
+将 `history/2026-10-16/independent` 复制到临时目录，在副本中运行：
+
+    python3 -I -B verify.py
+    python3 -I -B certificate.py
+    python3 -I -B verify_rm_model.py
+
+Python 3.10+，仅标准库；不要使用禁用 assert 的 -O。程序会重写同目录结果。第一个程序构造 1,024 个码字并检查全部必要整数分布；第二个检查端点及整斜率；第三个核查 RM 包含、互补基、七个 bent 二次函数和三个固定向量的距离接口。模型可行性没有求解，三个接口样例不是搜索。参见 [当日说明](history/2026-10-16/README.md)。

@@ -1,0 +1,12 @@
+zero cosets sizes [6, 6, 6, 6, 3, 6, 6, 6, 2, 6] | nonzero cosets [[0], [27, 45, 54], [31, 47, 55, 59, 61, 62]] | deg g = 53 deg h = 10
+g(x) = 0x2759262d5d506d   h(x)=(x^63+1)/g = 0x4fd   (bit k = coeff of x^k)
+GF(2) rank of the 10x64 generator matrix: 10 | generator rows (hex): ['802759262d5d506d', '804eb24c5abaa0da', '809d6498b57541b4', '813ac9316aea8368', '82759262d5d506d0', '84eb24c5abaa0da0', '89d6498b57541b40', '93ac9316aea83680', 'a759262d5d506d00', 'ceb24c5abaa0da00']
+extended weight enumerator A_i: {0: 1, 28: 448, 32: 126, 36: 448, 64: 1} | min distance 28
+unextended [63,10] weight enumerator: {0: 1, 27: 196, 28: 252, 31: 63, 32: 63, 35: 252, 36: 196, 63: 1}
+all-ones vector in E: True | all weights even: True
+dual enumerator A^perp_j (j even, nonzero): {0: 1, 4: 1008, 6: 150528, 8: 8609400, 10: 296045568, 12: 6413689296, 14: 93470423040, 16: 954149864220, 18: 7034551695360, 20: 38319788813040, 22: 156928549155840, 24: 489549199696200, 26: 1174917351896064, 28: 2185098752962384, 30: 3164624334262272, 32: 3579344774953542, 34: 3164624334262272, 36: 2185098752962384, 38: 1174917351896064, 40: 489549199696200, 42: 156928549155840, 44: 38319788813040, 46: 7034551695360, 48: 954149864220, 50: 93470423040, 52: 6413689296, 54: 296045568, 56: 8609400, 58: 150528, 60: 1008, 64: 1} | odd j all zero: True | sum = 18014398509481984 = 2^54: True
+sanity: 30/30 random odd cosets satisfy all integer Krawtchouk/congruence constraints; their min weights lie in [17,21]
+real relaxation: variables (x,y), z=512-x-y; constraints: 65
+REAL RELAXATION FEASIBLE; polygon vertices (x,y,z): [('224', '288', '0'), ('320', '0', '192')]
+integer/congruence model: feasible integer points (b27,b29,b31): 25 [(224, 288), (228, 276), (232, 264), (236, 252), (240, 240)]
+process time 0.2s

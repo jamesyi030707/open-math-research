@@ -1,0 +1,41 @@
+Erratum (my last statement was wrong). If the real LP relaxation is infeasible, the integer subset is infeasible too. A rational Farkas witness certifies that. If the relaxation is feasible, nothing follows about integer feasibility or about whether any coset realizes it.
+
+Parent construction (computed, ebch_coset_model.py, 0.2 s)
+Field and zeros. GF(64) = F₂[x]/(x⁶+x+1), α = x. The zeros are all cosets mod 63 meeting {1..26}, so the nonzeros are {0}, {27,45,54}, {31,47,55,59,61,62}.
+Polynomials.
+g(x) = 0x2759262d5d506d, of degree 53.
+h = (x⁶³+1)/g = 0x4fd, of degree 10.
+Bit k is the coefficient of x^k, and coordinate = k+1.
+Matrix. The generator rows are x^i·g for i = 0..9, plus coordinate 64 (bit 63) as the row parity. The rank is exactly 10.
+Unextended [63,10] weights. {27:196, 28:252, 31:63, 32:63, 35:252, 36:196, 63:1}.
+Extended weights. E = [64,10,28] has {0:1, 28:448, 32:126, 36:448, 64:1}.
+All-ones. It lies in E, so the coset is complement-closed and E^⊥ is even.
+Dual distribution. The dual enumerator sums to 2⁵⁴, A⊥₂ = 0, A⊥₄ = 1008, and all odd j are 0. Full values are in the results file.
+Coset model (derived, then checked)
+
+For an odd r with coset counts b_i, the character sum over E^⊥ gives:
+
+Σ_i b_i K_j(i) = 1024·t_j, with |t_j| ≤ A⊥_j and t_j ≡ A⊥_j (mod 2).
+
+With all-ones in E and r odd, only odd weights 27..37 occur. Complement symmetry gives b₂₇ = b₃₇ (x), b₂₉ = b₃₅ (y), b₃₁ = b₃₃ (z), with x+y+z = 512. The constraints for even j = 2..62 are exact integer Krawtchouk inequalities. The j = 64 sign (−1) comes from r being odd.
+
+Sanity. All 30 random odd cosets pass these constraints, with min weights 17–21. So the test is necessary but weakly discriminating.
+
+Result: the necessary model is FEASIBLE (exact)
+Real relaxation. It is feasible. The region is a segment from (x,y,z) = (224,288,0) to (320,0,192). I enumerated all vertices exactly with Fraction, over 65 constraints.
+Integer/congruence model. There are exactly 25 feasible integer points, for example (240,240,32).
+Why it is a segment. A⊥₂ = 0 forces T₂ = 0, i.e. Σ b_i(32−i)² = 16384. With the symmetry, this gives 3x + y = 960. This is the coset weight variance, fixed by dual distance ≥ 3.
+What it means. No Farkas witness exists, so there is no obstruction from this model. This is not a coset: these are distributions only, and the existence of an actual r is not implied.
+Structural next step (derived, not run)
+Containment. The nonzeros {0}∪{31,…} include {0}∪C₃₁, the coset of −1, which is the punctured RM(1,6). So E ⊇ RM(1,6) after extension. The script did not verify this containment. It is consistent with E having 126 weight-32 words.
+Reduction. E = RM(1,6) plus 3 extra dimensions. Therefore min wt(r+E) ≥ 27 forces r to be an odd-weight 6-variable Boolean function at distance ≥ 27 from all affine functions, i.e. nonlinearity 27.
+Walsh values. Odd weight forces W_a ≡ 2 (mod 4), so W_a ∈ {±2, ±6, ±10}. That is classical territory.
+One bounded next experiment.
+Verify E ⊇ RM(1,6) by direct subspace membership (cheap).
+Write the exact finite Walsh model for each of the 8 cosets r+q, q ∈ E/RM(1,6), using Parseval, the signed sum and fourth-moment relations.
+Seek a rational infeasibility witness.
+Budget: standard library only, ≤120 CPU seconds, stop at first witness or at a feasible point.
+
+This is a specific-parent obstruction study only. It makes no novelty claim and no global nonexistence claim.
+
+Files: ebch_coset_model.py, ebch_coset_model_results.txt.

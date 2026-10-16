@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-15",
-  "total_files_including_manifest_and_checksums": 293,
-  "selected_historical_artifacts_and_dialogue_excerpts": 270,
+  "archive_date": "2026-10-16",
+  "total_files_including_manifest_and_checksums": 316,
+  "selected_historical_artifacts_and_dialogue_excerpts": 292,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -32,9 +32,16 @@
       "publisher_review": "ZIP hash, all date-local checksums, UTF-8 decoding, privacy patterns, cited excerpts, relative links and mathematical scope reviewed. No large computation rerun. Pattern checks are not a perfect-privacy guarantee.",
       "scope": "Fixed baseline only: Walsh certificate rules out shared subcodes of dimension at least 8 and rank-at-most-3 perturbations. No new code or global nonexistence proof. All original responses retained with explicit errata.",
       "source_preservation": "All 28 supplied overlay files preserved byte-for-byte; pre-existing historical records and licenses unchanged."
+    },
+    {
+      "date": "2026-10-16",
+      "files_added": 23,
+      "publisher_review": "ZIP hash, delivered per-file checksums, UTF-8 decoding, privacy patterns, cited excerpts, relative links and mathematical scope checked. No large computation rerun. Pattern checks do not guarantee perfect privacy.",
+      "scope": "Known fixed BCH parent only. Exactly 25 distributions satisfy the stated necessary conditions; RM containment and a coupled 64-variable/512-two-sided-bound Walsh model verified. Model feasibility unsolved; no new code or nonexistence proof.",
+      "source_preservation": "All 26 supplied overlay files retained byte-for-byte, including original final replies and explicit errata; historical records and licenses unchanged."
     }
   ],
-  "curated_reader_documents": 5,
+  "curated_reader_documents": 6,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

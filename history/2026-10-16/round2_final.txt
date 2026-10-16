@@ -1,0 +1,36 @@
+Verified (computed, rm16_membership.py).
+
+Coordinate map. Coordinate i (1..63, bit i−1) is the point y = α^(i−1) in GF(64) = F₂[x]/(x⁶+x+1). Coordinate 64 is y = 0.
+Containment. The 128 words a + Tr(βy) are distinct and all lie in E. They equal exactly the words of E with weight in {0, 32, 64}. So E ⊇ RM(1,6).
+Basis. The RM(1,6) basis is the all-ones word plus Tr(α^j y), j = 0..5. The hex values are in the results file.
+Complementary generators. q_γ(y) = Tr₈(γ·y³⁶), with Tr₈ the GF(8)→F₂ trace, for γ = 1, θ, θ² and θ = α⁹:
+q1 = 172e5cb972e5cb97
+q2 = 65cb972e5cb972e5
+q3 = 3972e5cb972e5cb9
+Spanning. They lie in E, and RM(1,6) plus q1..q3 spans E (dimension 10).
+Bentness. Every nonzero combination plus any affine word has weight 28 or 36, so all 7 nonzero quadratics are bent.
+Why quadratic. Under the inverse transform the exponent −27 ≡ 36 has binary weight 2. So E ⊂ RM(2,6), even though 27 itself has weight 4.
+
+Coupled model for one common odd f (saved in rm16_coupled_model.md):
+
+Variables s_y = (−1)^{f(y)} ∈ {±1}, y ∈ GF(64), with an odd number of −1’s.
+For each of the 8 translates q (q = 0 included) and each u ∈ GF(64): |Σ_y s_y(−1)^{q(y)+Tr(uy)}| ≤ 10.
+That is 512 integer inequalities. The condition is equivalent to d(r,E) ≥ 27. The Walsh values are then in {±2, ±6, ±10}.
+
+Missing coupling. Each nonzero q is bent, with W_q(v) = 8(−1)^{q̃(v)}. Convolution gives W_{f+q}(u) = (1/8) Σ_v W_f(v)(−1)^{q̃(v+u)}. So all 8 spectra come from one W_f and are linked pointwise.
+
+Per-block count models (n_{±2}, n_{±6}, n_{±10} for each translate) discard two things:
+
+this pointwise link, and
+the requirement that W_f inverse-transforms to ±1.
+
+Fourth moments are not fixed. Parseval fixes Σ_u W² = 4096 for every translate. Σ_u W⁴ = 64·Σ_d C_f(d)², where C_f is the autocorrelation and C_f(0) = 64. It depends on f. Under |W| ≤ 10 it lies in [262144, 409600].
+
+Wording corrections.
+
+The unextended [63,10] enumerator also has the zero word (weight 0, count 1).
+The random cosets with minimum weight 17–21 passed the general transform constraints, not the target constraint with support 27..37.
+
+Handoff. The 25 feasible distributions are necessary-condition points only. They are not constructions, and nothing says any f exists. I stopped here, as requested. No novelty and no global nonexistence claim.
+
+Files: rm16_membership.py, rm16_membership_results.txt, rm16_coupled_model.md.

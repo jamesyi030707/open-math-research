@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-16",
+  "base_commit": "4e7d1113300dd1b8e6699a39c1bad24b40ca25bb",
+  "files_sha256": {
+    "INDEX.md": "22713eb70c8a97c6767ae15d4931099c940a4a905f3cf2a8c83a61c012a5916a",
+    "README.md": "9051237282be03865de33971788eb43abba977c58917111f340047322bdc0919",
+    "archive/README.md": "9d305867dcc5ba6523048512b2ae1426812fb3a099e59d2f5da2c494a67928f3",
+    "history/2026-10-16/ERRATA.md": "9625f7b82ed4d142b2b7f1848a9af6a620b316c03ead305e268587c31e0264c6",
+    "history/2026-10-16/EXCHANGES.md": "5f5f9abd6fe3c25d6cd72b21fcfd73c8baa76d3e0efe541235bb525d412d7654",
+    "history/2026-10-16/README.md": "80f1173b9c0198930fe1618d85cc87ca87b9bc1f3eed77e2fbe0a891185fb1ec",
+    "history/2026-10-16/SOURCES.md": "4e816cc3f987582717ba600fb9af76e9d3f893b9ad492d8997c77e8f44b2362b",
+    "history/2026-10-16/claude_ebch_coset_model_original.py": "192dafa15954a61de54f318fbcccd76c8d38579d6d5b644d9331e66ec5246194",
+    "history/2026-10-16/claude_ebch_coset_model_results_original.txt": "667a4af639a2942da77dccd956c2848e9ba4a63aa984e2cdca0303a7c0da58b6",
+    "history/2026-10-16/claude_rm16_coupled_model_original.md": "6a87327a12805768c2eb0c2911e4bc5159d0981a8de9b61d515f7c06af6de485",
+    "history/2026-10-16/claude_rm16_membership_original.py": "9fa35e9cce00f28fbbe362991c071b8710f7f737c7b0cd970bcc7bab181e6f2c",
+    "history/2026-10-16/claude_rm16_membership_results_original.txt": "4307e3200ccbcb0d317f6004a668b4e71f1efdc596d3d1fcf60c1842afdbc3dd",
+    "history/2026-10-16/independent/REPORT.md": "89a5e0567ead42d6ee70318e4efc71abfbe0972cef3cc9245ba89d180cffb122",
+    "history/2026-10-16/independent/certificate.py": "9890b8111cece0f09fb1e80025ce584f05b1a4dd7a7ffe4e11593fe98a2d688b",
+    "history/2026-10-16/independent/endpoint_dual_certificates.json": "ce8696a30676a864b4c50eb9dc9f0b825acc2d95e31d4631e9a1146178ef4460",
+    "history/2026-10-16/independent/generator_matrix.txt": "8760944cd5d351f90fb88321d42023a5aa8e0cf5ec9222e56c6fad86a2fecbee",
+    "history/2026-10-16/independent/results.json": "09f977a06015df0c9cd87d49a438e0e4a92d15dc2428ccf12ecf5eb5f3c9e0ea",
+    "history/2026-10-16/independent/rm_model.json": "1f6991ae60ce7cbb51906478a1085f4460f75e90247f95c90f186e028167986d",
+    "history/2026-10-16/independent/rm_run.log": "45b2e36a6fb289d58442c65c64c41e9dfa1de6a1d7028a834d7a7713a2f20fd4",
+    "history/2026-10-16/independent/run.log": "7490a3db7ce77996019c17a83c4fada2395565be04aa300be719aea7dbc38043",
+    "history/2026-10-16/independent/verify.py": "27a4a72981fd7640fec34f5caa32d7058d982d9e9325ba55986d29908a6d4807",
+    "history/2026-10-16/independent/verify_rm_model.py": "3b0b82068def9859b5ffa46dec445286b47be75daba1d0cebdd6af1110d59bb3",
+    "history/2026-10-16/round1_final.txt": "425bd86990a45ac0c1e59a9ab769fdaa3e7979ff4f1c058afd347ac8194ab554",
+    "history/2026-10-16/round2_final.txt": "ae8edc2811f318532b8b7f0dcfd58f115eb939a2e10acb27d44307437e50aad9",
+    "notes/codes-coset.md": "293b737cdf079d3d9d80b94d9656e1464e59a619b172cd55b3fa1cc460c204a2"
+  },
+  "excluded": "Account details, private conversation identifiers, UI controls, hidden reasoning, unrelated materials.",
+  "verification": "Separate exact construction, 25-point enumeration, endpoint certificate, RM membership, explicit bent complements and three distance-formula checks. No feasibility solve."
+}
