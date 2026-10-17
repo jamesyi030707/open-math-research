@@ -1,0 +1,47 @@
+{
+  "pivot_positions_zero_based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "rref_rows_hex": [
+    "9d6498b57541b401",
+    "bac9316aea836802",
+    "f59262d5d506d004",
+    "76405d1edf4c1408",
+    "f1e42288cbd99c10",
+    "7eacdda4e2f28c20",
+    "e03d23fcb0a4ac40",
+    "5d1edf4c1408ec80",
+    "a759262d5d506d00",
+    "ceb24c5abaa0da00"
+  ],
+  "remaining_binary_coordinates": 54,
+  "all_cosets_have_unique_zero_pivot_representative": true,
+  "sample_coset_checks": [
+    {
+      "input": "0000000000000001",
+      "normal": "9d6498b57541b400"
+    },
+    {
+      "input": "0000000000000007",
+      "normal": "d23fcb0a4ac40c00"
+    },
+    {
+      "input": "13579bdf2468ace1",
+      "normal": "4dbc227e1777d400"
+    },
+    {
+      "input": "123456789abcdef0",
+      "normal": "eeed19bead9b5400"
+    }
+  ],
+  "deep_hole_search": false
+}

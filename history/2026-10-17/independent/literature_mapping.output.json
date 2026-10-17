@@ -1,0 +1,55 @@
+{
+  "field_modulus_hex": "0x43",
+  "primitive_element": 2,
+  "primitive_order": 63,
+  "generator_hex": "0x2759262d5d506d",
+  "generator_degree": 53,
+  "root_count": 53,
+  "contains_roots_1_through_26": true,
+  "nonroot_exponents": [
+    0,
+    27,
+    31,
+    45,
+    47,
+    54,
+    55,
+    59,
+    61,
+    62
+  ],
+  "negative_trace_support_exponents": [
+    0,
+    27,
+    31,
+    45,
+    47,
+    54,
+    55,
+    59,
+    61,
+    62
+  ],
+  "gf8_elements_in_gf64_polynomial_basis": [
+    0,
+    1,
+    14,
+    15,
+    22,
+    23,
+    24,
+    25
+  ],
+  "gf8_gamma_basis": [
+    1,
+    14,
+    22
+  ],
+  "map_y36_equals_norm_y9_fourth_power": true,
+  "trace_evaluation_rank": 10,
+  "extended_bch_rank": 10,
+  "trace_and_extended_bch_row_spaces_equal": true,
+  "coordinate_order": "alpha^0,...,alpha^62,0 (parity at final coordinate)",
+  "covering_radius_computed": false,
+  "odd_coset_minimum_27_excluded": false
+}

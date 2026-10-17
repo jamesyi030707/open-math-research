@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-16",
+  "archive_date": "2026-10-17",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "9d305867dcc5ba6523048512b2ae1426812fb3a099e59d2f5da2c494a67928f3",
+      "published_sha256": "615c59511756efe97a78ceecef3fe2cbc017cd603633e00e5d42f6391e654002",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2094,64 +2094,70 @@
       ],
       "prior_published_sha256": [
         "6a02a3683014b5d3921e92640db226b1ae13166a15a90ae6ab0bbba371da8e71",
-        "6806e9c230fa03013d2ae9134d9990c606ca15863310cba9c2acca4fb0f90753"
+        "6806e9c230fa03013d2ae9134d9990c606ca15863310cba9c2acca4fb0f90753",
+        "9d305867dcc5ba6523048512b2ae1426812fb3a099e59d2f5da2c494a67928f3"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "a4c6833c5c9a20cc5e38181f9da34bdb9c7a22161ab30bd2bffb55c4ed8a791b",
+      "published_sha256": "d9a4a51915a2201b5f897fb634b5d7dbc7775bc86c2125a0ea69a5b5e78eea4f",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
-        "db198fdb06d652eb0284a5e9bc9c819d7d19c3c4b02912bd11fbfeb5f06366de"
+        "db198fdb06d652eb0284a5e9bc9c819d7d19c3c4b02912bd11fbfeb5f06366de",
+        "a4c6833c5c9a20cc5e38181f9da34bdb9c7a22161ab30bd2bffb55c4ed8a791b"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "22713eb70c8a97c6767ae15d4931099c940a4a905f3cf2a8c83a61c012a5916a",
+      "published_sha256": "8189584e9e6910bbcfa704763764747d4a4ab8424f598d978ad0d11cc1b19246",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
-        "e723f0a4217672b4a28d0f07aa03e6c3544cc0e73f89461bcf14ef84b799832e"
+        "e723f0a4217672b4a28d0f07aa03e6c3544cc0e73f89461bcf14ef84b799832e",
+        "22713eb70c8a97c6767ae15d4931099c940a4a905f3cf2a8c83a61c012a5916a"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "README.md",
-      "published_sha256": "9051237282be03865de33971788eb43abba977c58917111f340047322bdc0919",
+      "published_sha256": "c20cdeb6bde2e0309a571402f9c14709f4110d815fa4fe93c0747889e1686241",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
-        "c2fada03913e8915cbe43a8df63b1ac2c5f8f8c90f02ef478fd0d1b9e6819f59"
+        "c2fada03913e8915cbe43a8df63b1ac2c5f8f8c90f02ef478fd0d1b9e6819f59",
+        "9051237282be03865de33971788eb43abba977c58917111f340047322bdc0919"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "d956e4e559ea6ec9b76d49a637eb1ea6be01cce22b6714f0921f08754b9de042",
+      "published_sha256": "c09b744642569df083e3ef6c4856003c59416c80d1edc427653e8e952466fa7e",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
-        "257c2d545e1dcaed6cd2e2864ab6a57959be1a8803a84ef4b63ed69addfea4e3"
+        "257c2d545e1dcaed6cd2e2864ab6a57959be1a8803a84ef4b63ed69addfea4e3",
+        "d956e4e559ea6ec9b76d49a637eb1ea6be01cce22b6714f0921f08754b9de042"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "cc943d5f4e0e245a39c6641c486df09bef0edbd78a2a63452e275b44de3bf639",
+      "published_sha256": "47f90e15cea4fa85f715b6d4b0d3c4411f739c59f731cc9a80aa3ff7b8684cae",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
-        "88e19e30486bed4d1a6860dffe0b1ee2720d156f28ac58dd42a2a2c64508b8b5"
+        "88e19e30486bed4d1a6860dffe0b1ee2720d156f28ac58dd42a2a2c64508b8b5",
+        "cc943d5f4e0e245a39c6641c486df09bef0edbd78a2a63452e275b44de3bf639"
       ],
-      "revision_note": "2026-10-16 BCH coset model navigation and evidence update."
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -2484,10 +2490,182 @@
     },
     {
       "path": "notes/codes-coset.md",
-      "published_sha256": "293b737cdf079d3d9d80b94d9656e1464e59a619b172cd55b3fa1cc460c204a2",
-      "modified": false,
+      "published_sha256": "336ec810bc0bd6b75bfe8d835deb945b4b505b65c55c6ec21ba4f57f8ebb1e35",
+      "modified": true,
       "kind": "2026-10-16 research record or editorial integration",
-      "source_provenance": "Editorial integration of 2026-10-16 research"
+      "source_provenance": "Editorial integration of 2026-10-16 research",
+      "prior_published_sha256": [
+        "293b737cdf079d3d9d80b94d9656e1464e59a619b172cd55b3fa1cc460c204a2"
+      ],
+      "revision_note": "2026-10-17 covering-model and certificate-gap navigation/evidence update."
+    },
+    {
+      "path": "history/2026-10-17/DELIVERY_MANIFEST.json",
+      "published_sha256": "b1d5d71240f810f784512cdb84a4c71d0acb59c34413f819eaf1059bbb4d6f44",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/EXCHANGES.md",
+      "published_sha256": "f865cd29e320de313f0fe7f50fbbc5cdf9a3884e69f4cf75dad5deab1a14dd9b",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/LIMITATIONS.md",
+      "published_sha256": "5fca801714dc60f4df96e2e204fd70ca75dc67e6e567ad8eead83bd794b68a56",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/README.md",
+      "published_sha256": "7dda95868e769cf4fc6aceb762860f19482ca61d2e3f0fa6fa713a507d12eb3d",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/SHA256SUMS.txt",
+      "published_sha256": "e0b0a3f9f3b966a85a57e57036c288e37392a73a99f25fe60a0e6c61aba5a84a",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/SOURCES.md",
+      "published_sha256": "d9a0b210a9aae10c0741d400c6d41ca4959ef3a721c60f7cfbb340f9e1d39096",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/claude/ebch_hole_control.py",
+      "published_sha256": "fce7c8feed15bda5ea9d14821638865263b2302dce1f354ed245aaf5c8ff980d",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/claude/ebch_hole_control_log.txt",
+      "published_sha256": "144649142ee583118dfbf22e610908971e4fdd0adf582c64fe5bbcadd6222f90",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/claude/ebch_hole_milp.py",
+      "published_sha256": "51d48c149fadf351e2457a50fb705498625b008acd028354b1bdfc20cd2d84cb",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/claude/ebch_hole_milp_log.txt",
+      "published_sha256": "31b28b237b9f1076877534d213187393348befd09806bcf2cff8c80d1939b3d1",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/claude/ebch_hole_model.lp",
+      "published_sha256": "097cf1d1d77e17e1629dd3aaac596406183fe4c66f303db83c99d9a2283e94db",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/MODEL.md",
+      "published_sha256": "7f7281a7813c932b731888d3dd27022ce5b49803f716132e1ebf8c81222de5ed",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/audit_lp.py",
+      "published_sha256": "fdfef2716ca98d8ee075854b0ea0f01c073441d4eaac2e104912b3046d821f98",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/checks.json",
+      "published_sha256": "17b059723e880655de9607f116d0355b9a3127ba9dfebcc416630f5c1fafb110",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/literature_mapping.md",
+      "published_sha256": "c1c99ac93924dd12405c096a04227b5bf5371719bae7cca8d88077702173d012",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/literature_mapping.output.json",
+      "published_sha256": "bf0c744c5d497fdc97d71786581102adb8e0fc52e697aa2217fbaea93c7e2a1c",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/literature_mapping.py",
+      "published_sha256": "37132500bff1a6ca984e7676d52b01362ce6a93cd0bd89bf065ee7bb67906ed5",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/lp_audit.json",
+      "published_sha256": "581a2accbf95ab9cf299a7d5497fe074bd18c04aa7cb26f55525fb1272917b15",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/model.json",
+      "published_sha256": "89dbab5c23121fea953ab5438edac0117a289f0821d82a8a0bd19d15b649ed3b",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/model_check.py",
+      "published_sha256": "b5e93279a013734083027e2d76c76c2b653f6f19e0ebe7aec0003735ac0e19cd",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/quotient_certificate.json",
+      "published_sha256": "96b515245b292cfeeea872ee0fcf1d81bc80132c4797d15a791714089c373b3a",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/quotient_check.py",
+      "published_sha256": "7558e667e32f3391c442d199bb16388d46915f41209ee58ea26621cc414d764c",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "history/2026-10-17/independent/solve_scipy.py",
+      "published_sha256": "f3a5b32e3d6910d9a4a06ffff79664356e071f3a0582a5c3b877e53602027577",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "notes/codes-covering.md",
+      "published_sha256": "9688ed12279f4885e85069eb4c4033e728a1c63b33164a3fbc6dd843adef07eb",
+      "modified": false,
+      "kind": "2026-10-17 research record or editorial integration",
+      "source_provenance": "Editorial integration of 2026-10-17 research"
     }
   ],
   "excluded": [
@@ -2579,6 +2757,13 @@
       "files_added": 23,
       "date_provenance": "history/2026-10-16/MANIFEST.json",
       "integration_edits": "22 dated research files and one curated coset note added; all 26 delivered overlay files unchanged; existing history and licenses retained; root sources, errata, reproduction and manifests updated."
+    },
+    {
+      "date": "2026-10-17",
+      "base_commit": "12e8ec4723d1b4e1bb44d8322421fd43ff4e4281",
+      "files_added": 24,
+      "date_provenance": "history/2026-10-17/DELIVERY_MANIFEST.json",
+      "integration_edits": "All 29 delivered overlay files retained byte-for-byte; dated model audit and curated covering note added; old history and licenses retained; root sources, reproduction and manifests updated."
     }
   ],
   "presentation_revisions": [

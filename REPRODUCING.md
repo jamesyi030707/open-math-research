@@ -58,3 +58,14 @@ SHA256SUMS.txt 校验本公开包除自身以外的全部文件。它验证字�
     python3 -I -B verify_rm_model.py
 
 Python 3.10+，仅标准库；不要使用禁用 assert 的 -O。程序会重写同目录结果。第一个程序构造 1,024 个码字并检查全部必要整数分布；第二个检查端点及整斜率；第三个核查 RM 包含、互补基、七个 bent 二次函数和三个固定向量的距离接口。模型可行性没有求解，三个接口样例不是搜索。参见 [当日说明](history/2026-10-16/README.md)。
+
+## 2026-10-17：精确模型、商空间与 LP 审查
+
+将 `history/2026-10-17` 整个目录复制到临时目录，在副本的 `independent` 中运行：
+
+    python3 -I -B model_check.py
+    python3 -I -B quotient_check.py
+    python3 -I -B audit_lp.py
+    python3 -I -B literature_mapping.py
+
+检查程序只用标准库，不搜索余类；保留相邻 `claude` 目录以供 LP 审查。程序会重写本地结果，不要使用禁用 assert 的 -O。审查覆盖全部 1,024 个标量界、奇偶条件、变量类型和十位信息集规范化；不是不可行证明。`solve_scipy.py` 只是语法检查过的可选求解器入口，不属于上述已核查运行；集成未运行任何 MILP。原日志的 59.6 进程 CPU 秒及 infeasible 是未认证报告，单工作线程与控制实验向量均未独立确认。详见 [验证边界](history/2026-10-17/LIMITATIONS.md)。

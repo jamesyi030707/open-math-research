@@ -1,0 +1,11 @@
+{
+  "all_1024_scalar_bounds_exact": true,
+  "parity_exact": true,
+  "binary_declarations_exact": true,
+  "integer_parity_slack_bound_sufficient": true,
+  "ten_zero_pivots_only": true,
+  "solver_rerun": false,
+  "unsat_certificate_verified": false,
+  "thread_count_verified": false,
+  "control_vector_available": false
+}

@@ -1,0 +1,7 @@
+model: 54 binary f-variables (+1 integer k), 512 two-sided Walsh rows + 1 parity row; information set I = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+scipy 1.17.1 numpy 2.4.4
+HiGHS (bundled with SciPy); version attributes found: []
+solver status code: 2 | message: The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None) | success: False
+mip_node_count: None | mip_dual_bound: None | mip_gap: None
+no candidate returned; SOLVER CLAIM ONLY: infeasible (no checkable certificate)
+CPU process time 59.6s

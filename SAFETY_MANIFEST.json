@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-16",
-  "total_files_including_manifest_and_checksums": 316,
-  "selected_historical_artifacts_and_dialogue_excerpts": 292,
+  "archive_date": "2026-10-17",
+  "total_files_including_manifest_and_checksums": 340,
+  "selected_historical_artifacts_and_dialogue_excerpts": 315,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -39,9 +39,16 @@
       "publisher_review": "ZIP hash, delivered per-file checksums, UTF-8 decoding, privacy patterns, cited excerpts, relative links and mathematical scope checked. No large computation rerun. Pattern checks do not guarantee perfect privacy.",
       "scope": "Known fixed BCH parent only. Exactly 25 distributions satisfy the stated necessary conditions; RM containment and a coupled 64-variable/512-two-sided-bound Walsh model verified. Model feasibility unsolved; no new code or nonexistence proof.",
       "source_preservation": "All 26 supplied overlay files retained byte-for-byte, including original final replies and explicit errata; historical records and licenses unchanged."
+    },
+    {
+      "date": "2026-10-17",
+      "files_added": 24,
+      "publisher_review": "Delivered per-file hashes and byte counts, date checksums, UTF-8, privacy patterns, archived excerpt matching, relative links and claim scope reviewed. No solver or large search rerun. Pattern checks do not guarantee perfect privacy.",
+      "scope": "Exact model and 54-coordinate quotient audit only. HiGHS infeasible is an unverified solver report without proof; literature gives fixed-parent covering radius at most 27, not at most 26. Single worker and control vector are not verified. No new code or nonexistence proof.",
+      "source_preservation": "All 29 supplied overlay files preserved byte-for-byte; original source/model/log files retained with prominent limitations; historical records and licenses unchanged."
     }
   ],
-  "curated_reader_documents": 6,
+  "curated_reader_documents": 7,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

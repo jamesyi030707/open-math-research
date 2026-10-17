@@ -1,0 +1,27 @@
+{
+  "parent_words": 1024,
+  "forms": 512,
+  "exact_interface_checks": [
+    {
+      "f": "0000000000000001",
+      "distance": 1,
+      "max_abs_Walsh": 62
+    },
+    {
+      "f": "0000000000000007",
+      "distance": 3,
+      "max_abs_Walsh": 58
+    },
+    {
+      "f": "13579bdf2468ace1",
+      "distance": 21,
+      "max_abs_Walsh": 22
+    },
+    {
+      "f": "123456789abcdef0",
+      "distance": 18,
+      "max_abs_Walsh": 28
+    }
+  ],
+  "solve_performed": false
+}
