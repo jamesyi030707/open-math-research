@@ -1,0 +1,5 @@
+full: header 59 vars/1025 constraints OK; 1024 rows <-> 1024 distinct words of E; rhs = 27-wt(e) for every row; all coefficients +-1
+random f (zero on I): 3072000 row evaluations, mismatches vs direct wt(f+e)>=27: 0
+boundary f at distance exactly 26/27 from a chosen e0: 800 tests, mismatches: 0
+parity row: for every sum 0..54 exactly one t (<=26<32) iff sum odd, none if even; violations: 0
+control (RM-only, free vars): planted f = q1 xor delta_0, odd: True | all 128 RM rows satisfied and equal to direct test: True | min wt(f+e) over E = 1 (<27, so full model rejects it)

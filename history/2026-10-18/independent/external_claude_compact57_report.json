@@ -1,0 +1,100 @@
+{
+  "status": "PASS",
+  "input": "../claude/ebch_hole_u3.opb",
+  "opb_sha256": "3a6a7bb159e0ebd51a86b07c2e283d17a6179c3ecbc978011d59db750f097dac",
+  "opb_bytes": 386629,
+  "independence": "No generator import or manifest read; polynomial coefficient convolution",
+  "external_input_mode": true,
+  "exact_audit": {
+    "variables": 57,
+    "inequalities": 1026,
+    "source_constraint_rows": 1025,
+    "source_equality_rows": 1,
+    "parity_offset": 27,
+    "codewords": 1024,
+    "information_set_projections": 1024,
+    "weight_enumerator": {
+      "0": 1,
+      "28": 448,
+      "32": 126,
+      "36": 448,
+      "64": 1
+    },
+    "exact_distance_rows_checked": 1024,
+    "exact_distance_coefficients_checked": 55296,
+    "exact_parity_coefficients_checked": 114
+  },
+  "semantic_controls": {
+    "distance_identity_and_truth_checks": 58368,
+    "parity_assignments_exhaustively_checked": 440,
+    "admissible_odd_weights_have_unique_auxiliary": true,
+    "parity_offset": 27,
+    "auxiliary_bits": 3,
+    "parity_only_accepted_weights": [
+      27,
+      29,
+      31,
+      33,
+      35,
+      37,
+      39,
+      41
+    ],
+    "extreme_rows_plus_parity_accepted_weights": [
+      27,
+      29,
+      31,
+      33,
+      35,
+      37
+    ],
+    "gauge_multiset_sample_vectors": 67,
+    "auxiliary_range_after_extreme_rows": [
+      0,
+      5
+    ]
+  },
+  "exhaustive_toy_controls": {
+    "1": {
+      "ambient_odd_solutions": 128,
+      "gauge_odd_solutions": 8,
+      "ambient_words_exhausted": 256
+    },
+    "3": {
+      "ambient_odd_solutions": 0,
+      "gauge_odd_solutions": 0,
+      "ambient_words_exhausted": 256
+    }
+  },
+  "negative_controls_rejected": {
+    "distance_rhs_plus_one": "Distance row 0: wrong threshold",
+    "distance_coefficient_sign_flip": "Distance row 0: wrong coefficient at coordinate 10",
+    "distance_variable_t_leak": "Distance row 0: wrong variables",
+    "duplicate_distance_row": "Distance row 1: wrong threshold",
+    "wrong_auxiliary_weight": "Wrong forward parity inequality",
+    "wrong_reverse_parity_sign": "Wrong reverse parity inequality",
+    "wrong_declared_variables": "Expected exactly 57 Boolean variables",
+    "missing_terminator": "Malformed constraint on line 2",
+    "duplicate_term": "Repeated variable on line 2",
+    "dropped_distance_row": "Declared and parsed row counts disagree",
+    "dropped_reverse_parity": "Declared and parsed row counts disagree",
+    "missing_row_with_revised_header": "Expected exactly 1026 inequalities"
+  },
+  "external_format_positive_controls": {
+    "reordered_inequalities": {
+      "status": "PASS",
+      "source_constraint_rows": 1026
+    },
+    "parity_equality": {
+      "status": "PASS",
+      "source_constraint_rows": 1025
+    },
+    "negative_parity_equality": {
+      "status": "PASS",
+      "source_constraint_rows": 1025
+    }
+  },
+  "solver_invoked": false,
+  "fixed_64_bit_feasibility": "NOT DETERMINED",
+  "scope": "Exact fixed-code encoding and bounded controls only; no global nonexistence or novelty claim."
+}

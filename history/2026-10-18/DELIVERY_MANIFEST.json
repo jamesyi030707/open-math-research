@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-18",
+  "files": [
+    {
+      "path": "history/2026-10-18/EXCHANGES.md",
+      "bytes": 2101,
+      "sha256": "0f633da4298daf6fc3f7bb10bf3c128f15eace0e4712bfee5abd3c8d719e70fd"
+    },
+    {
+      "path": "history/2026-10-18/LIMITATIONS.md",
+      "bytes": 2119,
+      "sha256": "14afecf76d74aef47b6d74a00742ccb84a2f0d28220d94725ca9aa85ab87e1fd"
+    },
+    {
+      "path": "history/2026-10-18/PROVENANCE.json",
+      "bytes": 2373,
+      "sha256": "24fe044842ae7c475ee14dda044340a91d0fdd262ee6f648342d97ab1a75cf40"
+    },
+    {
+      "path": "history/2026-10-18/README.md",
+      "bytes": 1886,
+      "sha256": "638694adfaad0c95082b37b26b0e8da12e26959ec0723e740e8761caea78cb44"
+    },
+    {
+      "path": "history/2026-10-18/SOURCES.md",
+      "bytes": 1524,
+      "sha256": "c27a002cbad9caf6edc5316d45f587e7e2b95052df43cdba627447b3f573df0f"
+    },
+    {
+      "path": "history/2026-10-18/claude/ebch_hole.opb",
+      "bytes": 386687,
+      "sha256": "7eb3692251403d3fb66b064cf84001cee8193e7948189b30f7059841f26936d6"
+    },
+    {
+      "path": "history/2026-10-18/claude/ebch_hole_rm_control.opb",
+      "bytes": 57926,
+      "sha256": "c0cdbf0fd21939b1aa21446bd944402fe48ced638b9eaf2d642357fc99b5d5d5"
+    },
+    {
+      "path": "history/2026-10-18/claude/ebch_hole_u3.opb",
+      "bytes": 386629,
+      "sha256": "3a6a7bb159e0ebd51a86b07c2e283d17a6179c3ecbc978011d59db750f097dac"
+    },
+    {
+      "path": "history/2026-10-18/claude/opb_gen.py",
+      "bytes": 2998,
+      "sha256": "dfef91affab9ad2dee7c89f02c9b2d48a0ec27d1bba379bbaf91c06a32879b07"
+    },
+    {
+      "path": "history/2026-10-18/claude/opb_u3.portable.py",
+      "bytes": 3503,
+      "sha256": "b3df31bcc421661d0f21513ef986ca9289148573809906e49c9bb47e760bddae"
+    },
+    {
+      "path": "history/2026-10-18/claude/opb_u3_log.txt",
+      "bytes": 634,
+      "sha256": "1fcec6e313b41f783469d8f2ba3014fa8dc073245c7b290f2e68ea444e814f0d"
+    },
+    {
+      "path": "history/2026-10-18/claude/opb_verify.py",
+      "bytes": 4134,
+      "sha256": "32eaa6d04c32ec48002a28fbf5e03b679604666e0e44a7e69cd86bd524f168a5"
+    },
+    {
+      "path": "history/2026-10-18/claude/opb_verify_log.txt",
+      "bytes": 577,
+      "sha256": "4b210435bccab51f35689850dbfaf23006e932ee10c9f1ae5f961d9c20ba0b50"
+    },
+    {
+      "path": "history/2026-10-18/claude/proof_tools_check_log.sanitized.txt",
+      "bytes": 888,
+      "sha256": "8ada4dcb023307d7ea47ccea687191b5ef1114a5453940e940726bad9c830b28"
+    },
+    {
+      "path": "history/2026-10-18/independent/README.md",
+      "bytes": 8651,
+      "sha256": "2d9d654348ab20d32099198d586332d9bfc7ecfff163003bffc224b0d6fe5b98"
+    },
+    {
+      "path": "history/2026-10-18/independent/audit_compact57_report.json",
+      "bytes": 3032,
+      "sha256": "6661ef7689c82efda81d3802856ddd7a52a9f0b2b244675d2bd81272bfc36482"
+    },
+    {
+      "path": "history/2026-10-18/independent/audit_fixed_opb.py",
+      "bytes": 18351,
+      "sha256": "972feaae2b0cab306afe82a4d905b535ab748ebdfc1e0395305eb408c0559c6b"
+    },
+    {
+      "path": "history/2026-10-18/independent/audit_report.json",
+      "bytes": 3208,
+      "sha256": "ddcaece032b9327d285ad8fd0a21ff822f2e7b5bef7ed212494b987355dc4e31"
+    },
+    {
+      "path": "history/2026-10-18/independent/audit_rm_control.py",
+      "bytes": 5022,
+      "sha256": "acaad1d20b5a9461af41478f0e82d89bd83c8ee75a528a99af80acc083ec5b04"
+    },
+    {
+      "path": "history/2026-10-18/independent/external_claude_audit_report.json",
+      "bytes": 3211,
+      "sha256": "883ef0e42f131f5b146eea26fafa6a22da9960d477b67cc4022c3457094cfa14"
+    },
+    {
+      "path": "history/2026-10-18/independent/external_claude_compact57_report.json",
+      "bytes": 3028,
+      "sha256": "7a9970d128dd4bb2f2d43f6b6b403e7328371a2659653f71169893717ac7a751"
+    },
+    {
+      "path": "history/2026-10-18/independent/external_rm_control_report.json",
+      "bytes": 902,
+      "sha256": "0d54c0322a3ce42081cf802d56358baf47eb4835a9df646bc921c630740f0d1a"
+    },
+    {
+      "path": "history/2026-10-18/independent/fixed_E_odd_d27.manifest.json",
+      "bytes": 1124,
+      "sha256": "5e52e06cf7e0c1f4a100ba8adf8cc25795a6caf7fcf957886972e3cb7ae70815"
+    },
+    {
+      "path": "history/2026-10-18/independent/fixed_E_odd_d27_compact57.manifest.json",
+      "bytes": 1124,
+      "sha256": "c08675476d98a08f34f51c696bbcbdc0c31741b4d358812b5e14200ff66e60e5"
+    },
+    {
+      "path": "history/2026-10-18/independent/generate_fixed_opb.py",
+      "bytes": 4776,
+      "sha256": "8235e55126a9ea5a0a7adb8af5b57469e6591f8e7c5a45ddc7896e55d44619e4"
+    },
+    {
+      "path": "history/2026-10-18/independent/local_tool_probe.json",
+      "bytes": 270,
+      "sha256": "9f400a841a9038ac991c2659d2b8d99362038cffda7551a14f9a661832967c4f"
+    },
+    {
+      "path": "notes/codes-proof-input.md",
+      "bytes": 3364,
+      "sha256": "7a1c46702a046aaca1a943f99ba1ae014cc0519724a2f01bd8c2d65bf0209228"
+    }
+  ],
+  "privacy_scan": "PASS: checked known account, private conversation identifiers, private paths; manually reviewed included files",
+  "scope": "Exact model encoding and independent audits; no full-instance solve or UNSAT proof"
+}

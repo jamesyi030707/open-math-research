@@ -1,0 +1,8 @@
+new file: 57 vars, constraints: 1025 | first 1024 rows identical to original: True
+e=0 row present: True | e=all-ones row present: True
+exhaustive: 55 sums x 8 u-values -> feasible (sum,u): [(27, 0), (29, 1), (31, 2), (33, 3), (35, 4), (37, 5)]
+old encoding feasible (sum,t) count: 6 | same sum-sets: True | each sum has exactly one aux value in both
+u=6,7 would force sums [39, 41] -> violate all-ones row sum<=37: True
+witness f = 172e5cb972e5cb96 (q1 xor delta_coordinate1), wt(f) = 35, t = 17
+direct distances: RM(1,6) min/max = 27 37 | all E min/max = 1 63 | attained at e = 172e5cb972e5cb97
+original 59-var file unchanged: True

@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-17",
-  "total_files_including_manifest_and_checksums": 340,
-  "selected_historical_artifacts_and_dialogue_excerpts": 315,
+  "archive_date": "2026-10-18",
+  "total_files_including_manifest_and_checksums": 369,
+  "selected_historical_artifacts_and_dialogue_excerpts": 343,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -46,9 +46,16 @@
       "publisher_review": "Delivered per-file hashes and byte counts, date checksums, UTF-8, privacy patterns, archived excerpt matching, relative links and claim scope reviewed. No solver or large search rerun. Pattern checks do not guarantee perfect privacy.",
       "scope": "Exact model and 54-coordinate quotient audit only. HiGHS infeasible is an unverified solver report without proof; literature gives fixed-parent covering radius at most 27, not at most 26. Single worker and control vector are not verified. No new code or nonexistence proof.",
       "source_preservation": "All 29 supplied overlay files preserved byte-for-byte; original source/model/log files retained with prominent limitations; historical records and licenses unchanged."
+    },
+    {
+      "date": "2026-10-18",
+      "files_added": 29,
+      "publisher_review": "All delivered per-file hashes, complete UTF-8 text, private-path and credential patterns, selected excerpts and claim boundaries reviewed. No large research rerun. Pattern checks are not a perfect-privacy guarantee.",
+      "scope": "Exact fixed-code OPB formulation and independently verified RM control witness; no full-instance solve or UNSAT proof.",
+      "source_preservation": "All 29 overlay files preserved byte-for-byte; older history and license files unchanged."
     }
   ],
-  "curated_reader_documents": 7,
+  "curated_reader_documents": 8,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

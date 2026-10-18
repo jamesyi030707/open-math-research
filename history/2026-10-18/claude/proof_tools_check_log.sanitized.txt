@@ -1,0 +1,33 @@
+== binaries
+roundingsat: NOT FOUND
+exact: NOT FOUND
+sat4j: NOT FOUND
+veripb: NOT FOUND
+cakepb: NOT FOUND
+cadical: NOT FOUND
+kissat: NOT FOUND
+minisat: NOT FOUND
+glucose: NOT FOUND
+cryptominisat5: NOT FOUND
+drat-trim: NOT FOUND
+cake_lpr: NOT FOUND
+lrat-trim: NOT FOUND
+java: PRESENT (path omitted)
+git: PRESENT (path omitted)
+cmake: NOT FOUND
+make: PRESENT (path omitted)
+g++: PRESENT (path omitted)
+cargo: NOT FOUND
+rustc: NOT FOUND
+opam: NOT FOUND
+== python modules
+veripb NOT FOUND
+pysat NOT FOUND
+pypblib NOT FOUND
+roundingsat NOT FOUND
+pycosat NOT FOUND
+z3 NOT FOUND
+ortools NOT FOUND
+exact NOT FOUND
+== install outcome (sanitized excerpt)
+A pip install attempt reported DNS resolution failure (Name or service not known), no matching distribution obtained. No proof-producing solver or independent proof checker was run. Unrelated environment listings and runtime addresses omitted.

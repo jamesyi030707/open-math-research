@@ -1,0 +1,67 @@
+{
+  "downloaded_files": [
+    {
+      "name": "ebch_hole.opb",
+      "bytes": 386687,
+      "sha256": "7eb3692251403d3fb66b064cf84001cee8193e7948189b30f7059841f26936d6"
+    },
+    {
+      "name": "ebch_hole_rm_control.opb",
+      "bytes": 57926,
+      "sha256": "c0cdbf0fd21939b1aa21446bd944402fe48ced638b9eaf2d642357fc99b5d5d5"
+    },
+    {
+      "name": "ebch_hole_u3.opb",
+      "bytes": 386629,
+      "sha256": "3a6a7bb159e0ebd51a86b07c2e283d17a6179c3ecbc978011d59db750f097dac"
+    },
+    {
+      "name": "opb_gen.py",
+      "bytes": 2998,
+      "sha256": "dfef91affab9ad2dee7c89f02c9b2d48a0ec27d1bba379bbaf91c06a32879b07"
+    },
+    {
+      "name": "opb_u3.py",
+      "bytes": 3329,
+      "sha256": "eb76b86f3bf7a6d9a19a9bc87b2f1148d80febcf1a7abd7b3de1d95f9dbeb615"
+    },
+    {
+      "name": "opb_u3_log.txt",
+      "bytes": 634,
+      "sha256": "1fcec6e313b41f783469d8f2ba3014fa8dc073245c7b290f2e68ea444e814f0d"
+    },
+    {
+      "name": "opb_verify.py",
+      "bytes": 4134,
+      "sha256": "32eaa6d04c32ec48002a28fbf5e03b679604666e0e44a7e69cd86bd524f168a5"
+    },
+    {
+      "name": "opb_verify_log.txt",
+      "bytes": 577,
+      "sha256": "4b210435bccab51f35689850dbfaf23006e932ee10c9f1ae5f961d9c20ba0b50"
+    },
+    {
+      "name": "proof_tools_check_log.txt",
+      "bytes": 1219,
+      "sha256": "46afa03e9c26b79bb8d8f30d97fbf6597970a19d59816c76a0d03c216e21a243"
+    }
+  ],
+  "transformations": [
+    {
+      "source": "proof_tools_check_log.txt",
+      "published": "claude/proof_tools_check_log.sanitized.txt",
+      "changes": "Removed executable paths, irrelevant software inventory and runtime address; retained tool absence and failed installation outcome."
+    },
+    {
+      "source": "opb_u3.py",
+      "published": "claude/opb_u3.portable.py",
+      "changes": "Replaced undeclared temporary checksum-file dependency with a digest captured before writing the new model. Mathematical model unchanged. Original source hash retained above."
+    },
+    {
+      "source": "independent audit reports",
+      "published": "independent/",
+      "changes": "Input paths replaced with public relative paths; duplicate stdout and regenerable independent OPB copies omitted. Numeric results unchanged."
+    }
+  ],
+  "conversation": "Selected real excerpts; second response produced files but its closing prose was interrupted. No invented completion text."
+}

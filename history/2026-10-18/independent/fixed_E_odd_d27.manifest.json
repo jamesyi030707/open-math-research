@@ -1,0 +1,52 @@
+{
+  "format": "OPB feasibility; Boolean variables; no objective",
+  "n": 64,
+  "dimension": 10,
+  "minimum_distance": 28,
+  "generator_polynomial_hex": "0x2759262d5d506d",
+  "basis_hex": [
+    "0x802759262d5d506d",
+    "0x804eb24c5abaa0da",
+    "0x809d6498b57541b4",
+    "0x813ac9316aea8368",
+    "0x82759262d5d506d0",
+    "0x84eb24c5abaa0da0",
+    "0x89d6498b57541b40",
+    "0x93ac9316aea83680",
+    "0xa759262d5d506d00",
+    "0xceb24c5abaa0da00"
+  ],
+  "coordinate_convention": "least-significant bit is coordinate 0",
+  "distance_threshold": 27,
+  "gauge_zero_coordinates": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "variables": 59,
+  "distance_inequalities": 1024,
+  "parity_inequalities": 2,
+  "total_inequalities": 1026,
+  "auxiliary_integer_range": [
+    0,
+    31
+  ],
+  "parity_offset": 1,
+  "weight_enumerator": {
+    "0": 1,
+    "28": 448,
+    "32": 126,
+    "36": 448,
+    "64": 1
+  },
+  "opb_sha256": "2895cec073c374cc72c4ba62a07174dcabb1472bb307ed0f0c17b8e524340087",
+  "opb_bytes": 386387,
+  "claim_scope": "Exact encoding only; no satisfiability or nonexistence claim."
+}

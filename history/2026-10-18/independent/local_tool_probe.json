@@ -1,0 +1,13 @@
+{
+  "scope": "PATH lookup in independent checking environment only",
+  "executables": {
+    "roundingsat": null,
+    "veripb": null,
+    "cadical": null,
+    "drat-trim": null,
+    "kissat": null,
+    "cargo": null
+  },
+  "solver_run": false,
+  "proof_checked": false
+}

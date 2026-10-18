@@ -1,0 +1,10 @@
+# Verification boundaries and corrections
+
+1. Neither today's OPB file nor yesterday's floating-point HiGHS status is an UNSAT certificate. No new full-instance solver was run today.
+2. A current compatible proof-logging solver/checker pair was not available. No actual SAT/UNSAT toolchain smoke test was completed. The independent checking environment also found no listed proof solver/checker on PATH; this is an environment observation, not a claim that the tools cannot be installed elsewhere.
+3. The 59-variable file has 1,024 distance inequalities and one parity equality: 1,025 OPB constraints. Splitting that equality yields 1,026 inequalities. The 57-variable variant changes only the parity encoding. Neither variable count is a new mathematical coding bound.
+4. The first reply's phrase “This checks the semantics, not satisfiability” about the planted RM-only control was too broad. A verified explicit satisfying witness proves that relaxed control is SAT. It does not prove the full E instance SAT. The correction was requested in the second exchange and reflected in its source. The exact witness is retained and independently checked.
+5. The original 57-variable conversion script ends by reading an unprovided temporary checksum file. Its published portable derivative records the original model's digest before conversion instead. This is a reproducibility repair, not a mathematical modification. The source's original hash and exact transformation description are in PROVENANCE.json.
+6. The 57-variable transformation requires both weight bounds 27 and 37. Without the all-ones row, auxiliary values6 and7 would incorrectly allow sums39 and41. The independent audit checks those rows and every sum/auxiliary pair.
+7. The second exchange produced its source, OPB and log before the free usage limit interrupted the final prose. No continuation or extra message was sent. Selected excerpts identify this gap.
+8. Current Grassl [64,11] bounds are26–27. Any eventual fixed-E exclusion would not settle every binary linear [64,11,27] code. No novelty, new record or global nonexistence is claimed.
