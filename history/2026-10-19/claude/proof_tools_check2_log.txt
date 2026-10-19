@@ -1,0 +1,19 @@
+checked 2026-10-19T01:40Z
+roundingsat: NOT FOUND
+exact: NOT FOUND
+sat4j: NOT FOUND
+veripb: NOT FOUND
+cakepb: NOT FOUND
+cadical: NOT FOUND
+kissat: NOT FOUND
+minisat: NOT FOUND
+glucose: NOT FOUND
+cryptominisat5: NOT FOUND
+drat-trim: NOT FOUND
+cake_lpr: NOT FOUND
+lrat-trim: NOT FOUND
+veripb NOT FOUND
+pysat NOT FOUND
+pypblib NOT FOUND
+z3 NOT FOUND
+ortools NOT FOUND

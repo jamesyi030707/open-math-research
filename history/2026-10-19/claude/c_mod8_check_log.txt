@@ -1,0 +1,8 @@
+q1,q2,q3 quadratic (third derivatives vanish in all directions tested, q(0)=0): True
+all 7 nonzero combinations bent (|W|=8 everywhere): True
+for all 63 a: L_a linear: True | rank 3 (image size 8): True | all fibers size 8, closed under x->x+a, a in kernel: True
+60 random odd f: H_z=0 mod 4, sum h_z odd: True | A_(f+q)(a) = +-FourierH identity (signs/constants): True | sum_q A^2 = 8 sum H^2 = 128 mod 256 for every a, and 63-shift total = 128 mod 256: True
+congruence 96C-13440 = 128 (mod 256) over residues C mod 256: solutions have C mod 8 in [0]
+previous 25 (b27,b29,b31) kept; surviving with t even: 13
+[(224, 288, 0), (232, 264, 16), (240, 240, 32), (248, 216, 48), (256, 192, 64), (264, 168, 80), (272, 144, 96), (280, 120, 112), (288, 96, 128), (296, 72, 144), (304, 48, 160), (312, 24, 176), (320, 0, 192)]
+per-translate patterns m in {0..3}^8 with even sum: 32768 of 65536

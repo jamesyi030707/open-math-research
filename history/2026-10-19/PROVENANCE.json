@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-19",
+  "claude_files": [
+    {
+      "path": "claude/c_mod8_check.py",
+      "sha256": "37db80127d9e4885d00750ab2902720bf07ead6581c279ba2eb7b9ab1bd4132b",
+      "transformation": "none; preserved as received"
+    },
+    {
+      "path": "claude/c_mod8_check_log.txt",
+      "sha256": "0fbf42d40811df4e9dac6c29c07760f0f6e532df761bb6563bf7add5716a3ee3",
+      "transformation": "none; preserved as received"
+    },
+    {
+      "path": "claude/proof_tools_check2_log.txt",
+      "sha256": "80e4452fe84a13573c56713653b00ebadb4ea0421d31b4f3e7db53b3718bcd31",
+      "transformation": "none; preserved as received"
+    },
+    {
+      "path": "claude/walsh_pattern_enum.py",
+      "sha256": "7d8bce65548a736fc78f7d58a2bb0c28e5c5ed5328ee1bb857c56895e5e4d5b8",
+      "transformation": "none; preserved as received"
+    },
+    {
+      "path": "claude/walsh_pattern_enum_log.txt",
+      "sha256": "27d0840588f2a1e2faac80e8c88b182091476c2c077f3886d19da3b68b35a360",
+      "transformation": "none; preserved as received"
+    }
+  ],
+  "independent_evidence": "independent/README.md",
+  "remote_changes": false
+}

@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-18",
-  "total_files_including_manifest_and_checksums": 369,
-  "selected_historical_artifacts_and_dialogue_excerpts": 343,
+  "archive_date": "2026-10-19",
+  "total_files_including_manifest_and_checksums": 384,
+  "selected_historical_artifacts_and_dialogue_excerpts": 357,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -53,9 +53,16 @@
       "publisher_review": "All delivered per-file hashes, complete UTF-8 text, private-path and credential patterns, selected excerpts and claim boundaries reviewed. No large research rerun. Pattern checks are not a perfect-privacy guarantee.",
       "scope": "Exact fixed-code OPB formulation and independently verified RM control witness; no full-instance solve or UNSAT proof.",
       "source_preservation": "All 29 overlay files preserved byte-for-byte; older history and license files unchanged."
+    },
+    {
+      "date": "2026-10-19",
+      "files_added": 15,
+      "publisher_review": "Per-file input hashes, UTF-8 contents, private-path and credential patterns, source attribution, excerpts and claim boundaries reviewed; no large mathematical rerun. Pattern scan is not a perfect-privacy guarantee.",
+      "scope": "Seven necessary histograms for the fixed parent, no constructed extension and no full-instance UNSAT proof.",
+      "source_preservation": "All 15 supplied files unchanged."
     }
   ],
-  "curated_reader_documents": 8,
+  "curated_reader_documents": 9,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

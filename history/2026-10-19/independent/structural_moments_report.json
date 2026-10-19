@@ -1,0 +1,317 @@
+{
+  "status": "PASS",
+  "date_utc": "2026-10-19",
+  "code_size": 1024,
+  "rm_size": 128,
+  "rm_basis_hex": [
+    "0xffffffffffffffff",
+    "0x3f566ed27179461",
+    "0x41fab376938bca3",
+    "0x83f566ed2717946",
+    "0x107eacdda4e2f28c",
+    "0x20fd59bb49c5e518",
+    "0x41fab376938bca30"
+  ],
+  "quadratic_quotient_basis_hex": [
+    "0x69eb6a77e7f0b7",
+    "0xba3dbe982811d9",
+    "0x11d901747b7d305"
+  ],
+  "quadratic_degrees": [
+    2,
+    2,
+    2
+  ],
+  "derivative_rank_three_nonzero_shifts": 63,
+  "derivative_linearity_pairs_checked": 258048,
+  "fibers_per_shift": 8,
+  "points_per_fiber": 8,
+  "unordered_pairs_per_fiber": 4,
+  "odd_vectors_identity_audited": 4,
+  "spectra_identity_audited": 32,
+  "single_fourth_moment_mod8192": [
+    7168
+  ],
+  "total_fourth_moment_mod16384": [
+    8192
+  ],
+  "single_spectrum_allowed_histograms": [
+    {
+      "abs2": 0,
+      "abs6": 36,
+      "abs10": 28
+    },
+    {
+      "abs2": 8,
+      "abs6": 24,
+      "abs10": 32
+    },
+    {
+      "abs2": 16,
+      "abs6": 12,
+      "abs10": 36
+    },
+    {
+      "abs2": 24,
+      "abs6": 0,
+      "abs10": 40
+    }
+  ],
+  "aggregate_histograms_before": [
+    {
+      "t": 0,
+      "x": 224,
+      "y": 288,
+      "z": 0
+    },
+    {
+      "t": 1,
+      "x": 228,
+      "y": 276,
+      "z": 8
+    },
+    {
+      "t": 2,
+      "x": 232,
+      "y": 264,
+      "z": 16
+    },
+    {
+      "t": 3,
+      "x": 236,
+      "y": 252,
+      "z": 24
+    },
+    {
+      "t": 4,
+      "x": 240,
+      "y": 240,
+      "z": 32
+    },
+    {
+      "t": 5,
+      "x": 244,
+      "y": 228,
+      "z": 40
+    },
+    {
+      "t": 6,
+      "x": 248,
+      "y": 216,
+      "z": 48
+    },
+    {
+      "t": 7,
+      "x": 252,
+      "y": 204,
+      "z": 56
+    },
+    {
+      "t": 8,
+      "x": 256,
+      "y": 192,
+      "z": 64
+    },
+    {
+      "t": 9,
+      "x": 260,
+      "y": 180,
+      "z": 72
+    },
+    {
+      "t": 10,
+      "x": 264,
+      "y": 168,
+      "z": 80
+    },
+    {
+      "t": 11,
+      "x": 268,
+      "y": 156,
+      "z": 88
+    },
+    {
+      "t": 12,
+      "x": 272,
+      "y": 144,
+      "z": 96
+    },
+    {
+      "t": 13,
+      "x": 276,
+      "y": 132,
+      "z": 104
+    },
+    {
+      "t": 14,
+      "x": 280,
+      "y": 120,
+      "z": 112
+    },
+    {
+      "t": 15,
+      "x": 284,
+      "y": 108,
+      "z": 120
+    },
+    {
+      "t": 16,
+      "x": 288,
+      "y": 96,
+      "z": 128
+    },
+    {
+      "t": 17,
+      "x": 292,
+      "y": 84,
+      "z": 136
+    },
+    {
+      "t": 18,
+      "x": 296,
+      "y": 72,
+      "z": 144
+    },
+    {
+      "t": 19,
+      "x": 300,
+      "y": 60,
+      "z": 152
+    },
+    {
+      "t": 20,
+      "x": 304,
+      "y": 48,
+      "z": 160
+    },
+    {
+      "t": 21,
+      "x": 308,
+      "y": 36,
+      "z": 168
+    },
+    {
+      "t": 22,
+      "x": 312,
+      "y": 24,
+      "z": 176
+    },
+    {
+      "t": 23,
+      "x": 316,
+      "y": 12,
+      "z": 184
+    },
+    {
+      "t": 24,
+      "x": 320,
+      "y": 0,
+      "z": 192
+    }
+  ],
+  "aggregate_histograms_after_mod16": [
+    {
+      "t": 0,
+      "x": 224,
+      "y": 288,
+      "z": 0
+    },
+    {
+      "t": 4,
+      "x": 240,
+      "y": 240,
+      "z": 32
+    },
+    {
+      "t": 8,
+      "x": 256,
+      "y": 192,
+      "z": 64
+    },
+    {
+      "t": 12,
+      "x": 272,
+      "y": 144,
+      "z": 96
+    },
+    {
+      "t": 16,
+      "x": 288,
+      "y": 96,
+      "z": 128
+    },
+    {
+      "t": 20,
+      "x": 304,
+      "y": 48,
+      "z": 160
+    },
+    {
+      "t": 24,
+      "x": 320,
+      "y": 0,
+      "z": 192
+    }
+  ],
+  "removed_t_values": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23
+  ],
+  "weight_four_dual_blocks": 1008,
+  "independent_triple_enumeration_matches_blocks": true,
+  "design_vertex_degree": 63,
+  "design_pair_degree": 3,
+  "design_vertex_checks": 64,
+  "design_pair_checks": 2016,
+  "odd_vector_design_identity_checks": [
+    {
+      "f_hex": "0x1",
+      "weight": 1,
+      "odd_intersection_blocks": 63,
+      "formal_fourth_moment_C": 2576,
+      "note": "C is a true magnitude-10 count only if all eight spectra obey the target bound."
+    },
+    {
+      "f_hex": "0x172e5cb972e5cb96",
+      "weight": 35,
+      "odd_intersection_blocks": 63,
+      "formal_fourth_moment_C": 2576,
+      "note": "C is a true magnitude-10 count only if all eight spectra obey the target bound."
+    },
+    {
+      "f_hex": "0x9d6498b57541b400",
+      "weight": 27,
+      "odd_intersection_blocks": 63,
+      "formal_fourth_moment_C": 2576,
+      "note": "C is a true magnitude-10 count only if all eight spectra obey the target bound."
+    },
+    {
+      "f_hex": "0x529ed28196c194bf",
+      "weight": 31,
+      "odd_intersection_blocks": 503,
+      "formal_fourth_moment_C": 816,
+      "note": "C is a true magnitude-10 count only if all eight spectra obey the target bound."
+    }
+  ],
+  "solver_installed": false,
+  "solver_invoked": false,
+  "full_model_status": "NOT DETERMINED",
+  "claim_scope": "Necessary conditions only for this fixed E; no feasibility, global nonexistence, or novelty claim.",
+  "cpu_seconds": 0.044
+}
