@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-19",
+  "archive_date": "2026-10-20",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af",
+      "published_sha256": "36cdd5cd18485ee017226ba2019e8eb7e65d369f6b83b668c258c37789b9d4a5",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2097,13 +2097,14 @@
         "6806e9c230fa03013d2ae9134d9990c606ca15863310cba9c2acca4fb0f90753",
         "9d305867dcc5ba6523048512b2ae1426812fb3a099e59d2f5da2c494a67928f3",
         "615c59511756efe97a78ceecef3fe2cbc017cd603633e00e5d42f6391e654002",
-        "a4a9ad117dbf3267cd9e49bf50b7215b6828e351614c1bc2bec0af5619f7b7ec"
+        "a4a9ad117dbf3267cd9e49bf50b7215b6828e351614c1bc2bec0af5619f7b7ec",
+        "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c",
+      "published_sha256": "2bd9ba4c9de6e92a9c4fe37a939606b8eb05fd6580540721d00b6e7d8ce1e002",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2111,13 +2112,14 @@
         "db198fdb06d652eb0284a5e9bc9c819d7d19c3c4b02912bd11fbfeb5f06366de",
         "a4c6833c5c9a20cc5e38181f9da34bdb9c7a22161ab30bd2bffb55c4ed8a791b",
         "d9a4a51915a2201b5f897fb634b5d7dbc7775bc86c2125a0ea69a5b5e78eea4f",
-        "b1042a24a9c272d7f6a37fc93fc418871ceee65bece793d2ed509f5113c15342"
+        "b1042a24a9c272d7f6a37fc93fc418871ceee65bece793d2ed509f5113c15342",
+        "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c",
+      "published_sha256": "200947b7b10585783fc68fcc033b9f918133265a19aeb46d7d4aa2ac01e71c51",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2125,13 +2127,14 @@
         "e723f0a4217672b4a28d0f07aa03e6c3544cc0e73f89461bcf14ef84b799832e",
         "22713eb70c8a97c6767ae15d4931099c940a4a905f3cf2a8c83a61c012a5916a",
         "8189584e9e6910bbcfa704763764747d4a4ab8424f598d978ad0d11cc1b19246",
-        "1691bee6772e4a4bab212e8f0dae4b2b30f583a9a006b73b3531f1256bed2fd7"
+        "1691bee6772e4a4bab212e8f0dae4b2b30f583a9a006b73b3531f1256bed2fd7",
+        "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "README.md",
-      "published_sha256": "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5",
+      "published_sha256": "8bb916123a4b2deca76f878ec4e51f2bfee8f25a5c7bdaee3fc4d15b770eeaaf",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2139,13 +2142,14 @@
         "c2fada03913e8915cbe43a8df63b1ac2c5f8f8c90f02ef478fd0d1b9e6819f59",
         "9051237282be03865de33971788eb43abba977c58917111f340047322bdc0919",
         "c20cdeb6bde2e0309a571402f9c14709f4110d815fa4fe93c0747889e1686241",
-        "d99be0ae643e8e2e2ed3ac9c1b1d2a3074075ec73e540d7fece747ebe09e45f3"
+        "d99be0ae643e8e2e2ed3ac9c1b1d2a3074075ec73e540d7fece747ebe09e45f3",
+        "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac",
+      "published_sha256": "8638da631c3c13d169485502178eb37fbb65b86e56760ce4bc08e4b56363c787",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2153,22 +2157,24 @@
         "257c2d545e1dcaed6cd2e2864ab6a57959be1a8803a84ef4b63ed69addfea4e3",
         "d956e4e559ea6ec9b76d49a637eb1ea6be01cce22b6714f0921f08754b9de042",
         "c09b744642569df083e3ef6c4856003c59416c80d1edc427653e8e952466fa7e",
-        "2e3684a4ae9ea621e17cd16e5f6f430f15691316174cff8d980e66f16de2ef9c"
+        "2e3684a4ae9ea621e17cd16e5f6f430f15691316174cff8d980e66f16de2ef9c",
+        "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974",
+      "published_sha256": "35c55cb3e7a13bedfb54cb5c0d8ef7c2fa9ac5d2c81fcfe2f6854298872816bc",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
       "prior_published_sha256": [
         "88e19e30486bed4d1a6860dffe0b1ee2720d156f28ac58dd42a2a2c64508b8b5",
         "cc943d5f4e0e245a39c6641c486df09bef0edbd78a2a63452e275b44de3bf639",
-        "47f90e15cea4fa85f715b6d4b0d3c4411f739c59f731cc9a80aa3ff7b8684cae"
+        "47f90e15cea4fa85f715b6d4b0d3c4411f739c59f731cc9a80aa3ff7b8684cae",
+        "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974"
       ],
-      "revision_note": "2026-10-19 joint-moment navigation and evidence update."
+      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -2985,6 +2991,160 @@
       "modified": false,
       "kind": "2026-10-19 research record",
       "source_provenance": "history/2026-10-19/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/EXCHANGES.md",
+      "published_sha256": "3f57e2b98300bbbc099af0b689748e3560fa90028d33e692fd919ebf99285bbf",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/LIMITATIONS.md",
+      "published_sha256": "e32e1833113105d67ef8db6af84688b952eed59b01f1029250439989a2e11f51",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/PROVENANCE.json",
+      "published_sha256": "4c0e99c3a2497464c30e442c086386347a5d83b8cb72794d7b74f028434596b3",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/README.md",
+      "published_sha256": "9914f54e8d9fd0c1e7a3b1f1e6ac67907f1799a2106475184eacdabfd2087252",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/SHA256SUMS.txt",
+      "published_sha256": "b23a0b681fd4abb851210e9e280b484ab37f109dbba25148d2d466b94ab36ed5",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/SOURCES.md",
+      "published_sha256": "f842e3692d164ce5e87dfac8053c674bca958f79b9ca8cc1d5aa77dbc89b2cf2",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/design_mod16_check.py",
+      "published_sha256": "add246dac9689a504f4f189b8cedd0d9ea7f691cedfdf059952a167a6b8916b5",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/design_mod16_check_log.txt",
+      "published_sha256": "8a33a50be165df7a2e44351a078fb095649703a945d65745c761631bbc2f6e14",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/design_mod16_dual_table.txt",
+      "published_sha256": "88bd558fb32b27b38560dc93ac5bd96195065cf91681070e011ddf2aa2c5fbbd",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/independent_rerun_log.txt",
+      "published_sha256": "8a33a50be165df7a2e44351a078fb095649703a945d65745c761631bbc2f6e14",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/rank4_distance_check.py",
+      "published_sha256": "91ceb5143c6df44b057da133d06c0e2fcc89f1c08503496b80bbcbbf78de5ab0",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/rank4_distance_check_log.txt",
+      "published_sha256": "09e17373acecc9c65dcb3af5171a63a0f3128489ea2a02111441af3f763af3e5",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/claude/rank4_independent_rerun_log.txt",
+      "published_sha256": "09e17373acecc9c65dcb3af5171a63a0f3128489ea2a02111441af3f763af3e5",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/check_macwilliams.py",
+      "published_sha256": "4110a5270ab4f278d4ac2a94dca064f261520ea904d170646b08f43ca77582a7",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/check_quadratic_neighborhood.py",
+      "published_sha256": "776c7e0d0388fbd3333962b250a2b1fab4b4abf1981da1bc85fade78993b7aef",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/check_radius_thirteen.py",
+      "published_sha256": "b099e7e91788ec217b1da219d3850d20d3a15595e500a6eceb3a6e59aff2bc3b",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/macwilliams_report.json",
+      "published_sha256": "598a85fbbac8dbe1231e1813fa8888d2d53315e42eac1a0506a9f379a4740ae5",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/quadratic_neighborhood_proof.md",
+      "published_sha256": "b67a2d143369e9aaf6c03dba863aecfe0cffcbc245386cfa7b36f0de53845551",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/quadratic_neighborhood_report.json",
+      "published_sha256": "704dc226681b410021cef095f38c0be51b736763a046cbafbf2ca29a186a628e",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/radius_thirteen_report.json",
+      "published_sha256": "62dbbdb8b76e4e0360790a64bd79a33b45929d00d4ad0946b84c90cbe60b10e2",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-20/independent/radius_thirteen_supplement.md",
+      "published_sha256": "bf2171d0a92ff4195e9671b573cb230da8bc0766f1fe1381fd335da5c2508678",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-quadratic-distance.md",
+      "published_sha256": "228fd682bf08881664d5906e2bc4827e5cfcb10cb1b8cb8a2915b018f33f6837",
+      "modified": false,
+      "kind": "2026-10-20 research record",
+      "source_provenance": "history/2026-10-20/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3097,6 +3257,13 @@
       "files_added": 15,
       "date_provenance": "history/2026-10-19/PROVENANCE.json",
       "integration_edits": "All 15 input files retained byte-for-byte; navigation, errata, sources and reproduction updated. Prior history and licenses unchanged."
+    },
+    {
+      "date": "2026-10-20",
+      "base_commit": "ba7e6869d44b0f2d4894a7af444594727b3c56c9",
+      "files_added": 22,
+      "date_provenance": "history/2026-10-20/PROVENANCE.json",
+      "integration_edits": "All 23 supplied files retained byte-for-byte. Added dated provenance/checksums and root evidence navigation. Previous history and licenses preserved."
     }
   ],
   "presentation_revisions": [

@@ -1,0 +1,7 @@
+dual enumerator: A4perp = 1008 | A2perp = 0 | sum = True
+blocks (dual weight 4) = 1008 | equal to geometric set (xor points=0, xor q_i=0): True | point degrees [63] | pair multiplicities [3] over 2016 pairs (of 2016)
+random F (all sizes): V = 63w-6C(w,2) mod 4 and V=3 mod 4 for odd w: True | design counting identities: True | T4 = 1024(1008-2V) identity: True
+T4 on the 25-point family gives V=(2828-C)/4 for every x=C: True | residues: V=3 mod 4 => C mod 16 = [0]
+hence C=224+4t = 0 mod 16 <=> t = 0 mod 4; V range for survivors: [651, 647, 643, 639, 635, 631, 627]
+MacWilliams dual of D=E u (f+E): integrality + 0<=A'perp_j<=Aperp_j (containment) + sum=2^53 passes for t = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24] | fails for []
+A'perp_4 = 301 + C/4 for the seven survivors: [(0, 357), (4, 361), (8, 365), (12, 369), (16, 373), (20, 377), (24, 381)]

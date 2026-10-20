@@ -1,0 +1,2693 @@
+{
+  "status": "PASS",
+  "date": "2026-10-20",
+  "single_defect_profiles": 16,
+  "double_defect_profiles": 120,
+  "profiles_passing_signed_fiber_integrality": 0,
+  "profiles": [
+    {
+      "defects": [
+        [
+          0,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        32
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          11,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          12,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          13,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          14,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          15,
+          8
+        ]
+      ],
+      "invalid_inverse_positions": 24,
+      "inverse_numerators": [
+        -48,
+        -32,
+        32,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          0,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        32,
+        40
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          1,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          2,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          3,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          4,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          6,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          5,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          6,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          8,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          7,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          9,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          8,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          10,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          9,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          4
+        ],
+        [
+          11,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          10,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          11,
+          4
+        ],
+        [
+          12,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          11,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          11,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          11,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          12,
+          4
+        ],
+        [
+          13,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          12,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          12,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          13,
+          4
+        ],
+        [
+          14,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          13,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    },
+    {
+      "defects": [
+        [
+          14,
+          4
+        ],
+        [
+          15,
+          4
+        ]
+      ],
+      "invalid_inverse_positions": 40,
+      "inverse_numerators": [
+        -48,
+        -40,
+        -32,
+        32,
+        40,
+        48
+      ]
+    }
+  ],
+  "scope": "Representative numerical check supplements the generic rank-four argument. No search over f and no global nonexistence claim."
+}
