@@ -1,0 +1,15 @@
+Edited mathematical excerpts from the actual research prompt, 2026-10-21.
+Non-mathematical continuation, budgeting and process directions are omitted.
+Each separated excerpt below is verbatim; the selection is not the full original prompt.
+The radius-15 witness was supplied by a separate verifier for Claude to audit.
+
+Goal: a cheap necessary structural condition on odd f with |W_(f+q)(a)|<=10 for all q in Q.
+
+[Excerpt]
+For h=g+q rank4, radical R of dimension2, Walsh support S=a0+Rperp of size16, W_h=16 epsilon. If r=d(f,g), then sum_S epsilon W_(f+q)=256-8r. For r13 this is152; each aligned coefficient <=10 and congruent2 mod4, hence deficits from10 are either one8 or two4. The spectral projection P(x)=64^-1 sum_S W_(f+q)(a)(-1)^(a.x) must lie in {-1,-1/2,0,1/2,1}, since it equals a signed average over each four-point R-fiber. With one deficit8, P=(5/8)(-1)^h-(1/8)epsilon(a)(-1)^(a.x); avoiding +/-3/4 everywhere would force h affine. With two deficits4, P=(5/8)(-1)^h-(1/16)[epsilon(a)chi_a+epsilon(b)chi_b]; at32 cancellation points it is +/-5/8, impossible. Rank<=2 already gives r>=23. Parity makes r odd.
+
+[Excerpt]
+At r15 the aligned sum is136.
+
+[Excerpt]
+With LSB-first bits x0,...,x5, h=x0*x1+x2*x3 and u=h+x4*x5+delta_(48), it reports wt(u)=27, d(u,h)=15 and max|W_u|=10, with ten aligned coefficients10 and six6 on S. This is NOT a fixed-E witness. Audit the short proof and this witness, then suggest one genuinely stronger low-cost constraint coupling different q translates, with a concrete small verification target and stop condition. Clearly separate the single-spectrum sharpness from all512 constraints.

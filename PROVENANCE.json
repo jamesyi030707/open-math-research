@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-20",
+  "archive_date": "2026-10-21",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "36cdd5cd18485ee017226ba2019e8eb7e65d369f6b83b668c258c37789b9d4a5",
+      "published_sha256": "b8aff0bec979f39b78a10233c5ac01657e9d4d20c14894362d37bad7936fa008",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2098,13 +2098,14 @@
         "9d305867dcc5ba6523048512b2ae1426812fb3a099e59d2f5da2c494a67928f3",
         "615c59511756efe97a78ceecef3fe2cbc017cd603633e00e5d42f6391e654002",
         "a4a9ad117dbf3267cd9e49bf50b7215b6828e351614c1bc2bec0af5619f7b7ec",
-        "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af"
+        "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af",
+        "36cdd5cd18485ee017226ba2019e8eb7e65d369f6b83b668c258c37789b9d4a5"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "2bd9ba4c9de6e92a9c4fe37a939606b8eb05fd6580540721d00b6e7d8ce1e002",
+      "published_sha256": "7cdbc2a6d11885c941542726d8bf021a18bc2e2cee320dda22959432940f203b",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2113,13 +2114,14 @@
         "a4c6833c5c9a20cc5e38181f9da34bdb9c7a22161ab30bd2bffb55c4ed8a791b",
         "d9a4a51915a2201b5f897fb634b5d7dbc7775bc86c2125a0ea69a5b5e78eea4f",
         "b1042a24a9c272d7f6a37fc93fc418871ceee65bece793d2ed509f5113c15342",
-        "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c"
+        "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c",
+        "2bd9ba4c9de6e92a9c4fe37a939606b8eb05fd6580540721d00b6e7d8ce1e002"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "200947b7b10585783fc68fcc033b9f918133265a19aeb46d7d4aa2ac01e71c51",
+      "published_sha256": "7d6680c45d574aaaff9d246cfee9f625ed89327d47a51b87e58dd7378db50693",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2128,13 +2130,14 @@
         "22713eb70c8a97c6767ae15d4931099c940a4a905f3cf2a8c83a61c012a5916a",
         "8189584e9e6910bbcfa704763764747d4a4ab8424f598d978ad0d11cc1b19246",
         "1691bee6772e4a4bab212e8f0dae4b2b30f583a9a006b73b3531f1256bed2fd7",
-        "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c"
+        "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c",
+        "200947b7b10585783fc68fcc033b9f918133265a19aeb46d7d4aa2ac01e71c51"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "README.md",
-      "published_sha256": "8bb916123a4b2deca76f878ec4e51f2bfee8f25a5c7bdaee3fc4d15b770eeaaf",
+      "published_sha256": "2722ab01db738d1e2311be5abaf91f79f1db86d630b805ee23b825364e8cbd81",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2143,13 +2146,14 @@
         "9051237282be03865de33971788eb43abba977c58917111f340047322bdc0919",
         "c20cdeb6bde2e0309a571402f9c14709f4110d815fa4fe93c0747889e1686241",
         "d99be0ae643e8e2e2ed3ac9c1b1d2a3074075ec73e540d7fece747ebe09e45f3",
-        "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5"
+        "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5",
+        "8bb916123a4b2deca76f878ec4e51f2bfee8f25a5c7bdaee3fc4d15b770eeaaf"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "8638da631c3c13d169485502178eb37fbb65b86e56760ce4bc08e4b56363c787",
+      "published_sha256": "6e9ce97f63463a5a7c157a30275f433572e1214a1a72180f0344de87d665a413",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2158,13 +2162,14 @@
         "d956e4e559ea6ec9b76d49a637eb1ea6be01cce22b6714f0921f08754b9de042",
         "c09b744642569df083e3ef6c4856003c59416c80d1edc427653e8e952466fa7e",
         "2e3684a4ae9ea621e17cd16e5f6f430f15691316174cff8d980e66f16de2ef9c",
-        "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac"
+        "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac",
+        "8638da631c3c13d169485502178eb37fbb65b86e56760ce4bc08e4b56363c787"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "35c55cb3e7a13bedfb54cb5c0d8ef7c2fa9ac5d2c81fcfe2f6854298872816bc",
+      "published_sha256": "309c1d0efb197cf014220194f4dcd8473a918fe886904a87f14f269db00fcd21",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2172,9 +2177,10 @@
         "88e19e30486bed4d1a6860dffe0b1ee2720d156f28ac58dd42a2a2c64508b8b5",
         "cc943d5f4e0e245a39c6641c486df09bef0edbd78a2a63452e275b44de3bf639",
         "47f90e15cea4fa85f715b6d4b0d3c4411f739c59f731cc9a80aa3ff7b8684cae",
-        "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974"
+        "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974",
+        "35c55cb3e7a13bedfb54cb5c0d8ef7c2fa9ac5d2c81fcfe2f6854298872816bc"
       ],
-      "revision_note": "2026-10-20 quadratic-neighborhood evidence and navigation update."
+      "revision_note": "2026-10-21 single-spectrum boundary evidence and dated navigation update."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -3145,6 +3151,118 @@
       "modified": false,
       "kind": "2026-10-20 research record",
       "source_provenance": "history/2026-10-20/PROVENANCE.json"
+    },
+    {
+      "path": "FRONTIERS.md",
+      "published_sha256": "d6105755c17d3b9916f52bc743020ea95c3b1fed214f84b12bddd327a2d458ef",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "published_sha256": "1e49bcf5b8983808a34248648e848e5d9c634deba589ef48e62b677dd0e2c1c3",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/EXCHANGES.md",
+      "published_sha256": "2bab2e81b328da63c60b54b10d22c626caa60c7769d58a07ec7953c251d48ac3",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/LIMITATIONS.md",
+      "published_sha256": "69bec70f850a41800c14186d55f592b4316004f1ef2ab986661f01f9afd8d39b",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/PROVENANCE.json",
+      "published_sha256": "dfa9c80aef8fa396453b78a6c74e52975c1d813ecbf3f92c7c5410d9e0e1b96c",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "0237700b36caf93ba582b0435e5df886c8c6a61163d1ebca7ce61a9cbf55d746",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/README.md",
+      "published_sha256": "773dee05dba827bd5adb8d40ff25e39feeb0c5bd6634fd2eaf1c579f2000c805",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/SHA256SUMS.txt",
+      "published_sha256": "31bce6639166251cce72e0f03e67b00d39354f4624459848a5cce80a14d0e4e2",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/SOURCES.md",
+      "published_sha256": "f88690205ce28cf639e0272f181abb4e33c3e34e2750f96dbfdb882164391dfc",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/claude/prompt-1-math.txt",
+      "published_sha256": "a4eb27184813ab9706b0d635c15a22f8e53a6a3bff4a2fe360c1125812c21225",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit.py",
+      "published_sha256": "fa374f34da5cec3956ecdd52249c6f3a516588699cb275fac2b00e506a6986b4",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit_log.txt",
+      "published_sha256": "2d3804b736965bc0e9212958789e633e8a63344673f1d7e2fe490a1c04d1d224",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/independent/README.md",
+      "published_sha256": "d7bcf8674ee5b54d94150b18dce1924ca1af9876bc2c3f9ce208511fb2bea3f9",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/independent/audit_radius_thirteen.js",
+      "published_sha256": "08e6526ea53b47ae27b08d3a4b3357e1bd1a7ceb87920051b89cc4a94bdee17b",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-21/independent/endpoint_audit_report.json",
+      "published_sha256": "744bd5fa21c7f8a9c0b0ed2634a3efe3a21dec23e1d899ef26586eb6486a244b",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-single-spectrum-limit.md",
+      "published_sha256": "ca8559a782b400ee50a2710cf61fa780ce73d4366225d600f9bc51289ea54cd6",
+      "modified": false,
+      "kind": "2026-10-21 research or editorial record",
+      "source_provenance": "history/2026-10-21/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3264,6 +3382,13 @@
       "files_added": 22,
       "date_provenance": "history/2026-10-20/PROVENANCE.json",
       "integration_edits": "All 23 supplied files retained byte-for-byte. Added dated provenance/checksums and root evidence navigation. Previous history and licenses preserved."
+    },
+    {
+      "date": "2026-10-21",
+      "base_commit": "a8c9ee90272b3c5f525e00a65b8667a97dc75172",
+      "files_added": 14,
+      "date_provenance": "history/2026-10-21/PROVENANCE.json",
+      "integration_edits": "Concise dated audit and curated single-spectrum note added. Current mathematical priorities, navigation, source/limit records and manifests updated. Prior history and licenses preserved."
     }
   ],
   "presentation_revisions": [

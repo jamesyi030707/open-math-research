@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-21",
+  "base_commit": "a8c9ee90272b3c5f525e00a65b8667a97dc75172",
+  "scope": "Radius-thirteen audit and single-spectrum radius-fifteen sharpness only; no fixed-E witness, new code, stronger coupling exclusion, full UNSAT or novelty claim.",
+  "record_coverage": "One actual mathematical prompt; generated Python source and log obtained, no final prose reply. No invented continuation.",
+  "verification": "Independent JavaScript report reproduced byte-for-byte. Claude source AST checked without re-executing its repeated 32768-form computation.",
+  "source_attribution": "Single-spectrum witness supplied by independent verifier, then checked by Claude. Editorial conclusions are not Claude dialogue.",
+  "licensing": "Existing repository license scope unchanged; no third-party full text or upstream code copied.",
+  "hash_scope": "Lists dated files except this provenance file and the dated checksum manifest; the checksum manifest covers both this file and the public safety review.",
+  "artifacts": [
+    {
+      "path": "history/2026-10-21/EXCHANGES.md",
+      "published_sha256": "2bab2e81b328da63c60b54b10d22c626caa60c7769d58a07ec7953c251d48ac3",
+      "bytes": 2469,
+      "origin": "New editorial research or publication record; source dialogue labelled explicitly"
+    },
+    {
+      "path": "history/2026-10-21/LIMITATIONS.md",
+      "published_sha256": "69bec70f850a41800c14186d55f592b4316004f1ef2ab986661f01f9afd8d39b",
+      "bytes": 2192,
+      "origin": "New editorial research or publication record; source dialogue labelled explicitly"
+    },
+    {
+      "path": "history/2026-10-21/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "0237700b36caf93ba582b0435e5df886c8c6a61163d1ebca7ce61a9cbf55d746",
+      "bytes": 6869,
+      "origin": "New editorial research or publication record; source dialogue labelled explicitly"
+    },
+    {
+      "path": "history/2026-10-21/README.md",
+      "published_sha256": "773dee05dba827bd5adb8d40ff25e39feeb0c5bd6634fd2eaf1c579f2000c805",
+      "bytes": 2582,
+      "origin": "New editorial research or publication record; source dialogue labelled explicitly"
+    },
+    {
+      "path": "history/2026-10-21/SOURCES.md",
+      "published_sha256": "f88690205ce28cf639e0272f181abb4e33c3e34e2750f96dbfdb882164391dfc",
+      "bytes": 2518,
+      "origin": "New editorial research or publication record; source dialogue labelled explicitly"
+    },
+    {
+      "path": "history/2026-10-21/claude/prompt-1-math.txt",
+      "published_sha256": "a4eb27184813ab9706b0d635c15a22f8e53a6a3bff4a2fe360c1125812c21225",
+      "bytes": 1635,
+      "original_sha256": "e4bdcd4466bdd4617cf7212fde028cc44bf0701cd3bd47597c5b103af8ef8f52",
+      "modified": true,
+      "origin": "Actual mathematical prompt; labelled verbatim excerpts with non-mathematical process directions omitted"
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit.py",
+      "published_sha256": "fa374f34da5cec3956ecdd52249c6f3a516588699cb275fac2b00e506a6986b4",
+      "bytes": 5162,
+      "original_sha256": "fa374f34da5cec3956ecdd52249c6f3a516588699cb275fac2b00e506a6986b4",
+      "modified": false,
+      "origin": "Actual Claude-generated artifact"
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit_log.txt",
+      "published_sha256": "2d3804b736965bc0e9212958789e633e8a63344673f1d7e2fe490a1c04d1d224",
+      "bytes": 772,
+      "original_sha256": "2d3804b736965bc0e9212958789e633e8a63344673f1d7e2fe490a1c04d1d224",
+      "modified": false,
+      "origin": "Actual Claude-generated artifact"
+    },
+    {
+      "path": "history/2026-10-21/independent/README.md",
+      "published_sha256": "d7bcf8674ee5b54d94150b18dce1924ca1af9876bc2c3f9ce208511fb2bea3f9",
+      "bytes": 3194,
+      "original_sha256": "d7bcf8674ee5b54d94150b18dce1924ca1af9876bc2c3f9ce208511fb2bea3f9",
+      "modified": false,
+      "origin": "Independent AI-assisted audit"
+    },
+    {
+      "path": "history/2026-10-21/independent/audit_radius_thirteen.js",
+      "published_sha256": "08e6526ea53b47ae27b08d3a4b3357e1bd1a7ceb87920051b89cc4a94bdee17b",
+      "bytes": 5179,
+      "original_sha256": "08e6526ea53b47ae27b08d3a4b3357e1bd1a7ceb87920051b89cc4a94bdee17b",
+      "modified": false,
+      "origin": "Independent AI-assisted audit"
+    },
+    {
+      "path": "history/2026-10-21/independent/endpoint_audit_report.json",
+      "published_sha256": "744bd5fa21c7f8a9c0b0ed2634a3efe3a21dec23e1d899ef26586eb6486a244b",
+      "bytes": 1186,
+      "original_sha256": "744bd5fa21c7f8a9c0b0ed2634a3efe3a21dec23e1d899ef26586eb6486a244b",
+      "modified": false,
+      "origin": "Independent AI-assisted audit"
+    }
+  ]
+}

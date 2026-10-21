@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-21",
+  "status": "PASS",
+  "method": "Independent exact-integer JavaScript Walsh transform",
+  "rank_four_affine_variants": 128,
+  "endpoint_profiles_per_variant": 136,
+  "endpoint_profiles_checked": 17408,
+  "endpoint_profiles_with_genuinely_affine_support": 13056,
+  "endpoint_profiles_passing_fiber_integrality": 0,
+  "single_defect_invalid_position_histogram": {
+    "24": 2048
+  },
+  "double_defect_invalid_position_histogram": {
+    "40": 15360
+  },
+  "positive_control_at_radius_fifteen": {
+    "formula": "h=x0*x1+x2*x3; u=h+x4*x5+delta_48",
+    "bit_convention": "x0 is the least significant bit; delta_48 is one only at x=48",
+    "truth_table_hex": "0x8776788878887888",
+    "weight": 27,
+    "distance_to_h": 15,
+    "maximum_absolute_walsh": 10,
+    "restricted_aligned_histogram": {
+      "6": 6,
+      "10": 10
+    },
+    "scope": "Single-spectrum sharpness only. This is not a fixed-E extension witness."
+  },
+  "scope": "Audits the radius-thirteen endpoint and all affine perturbations of one canonical rank-four form. Does not rerun the 32768-form fixed-parent enumeration, search f-space, establish global code nonexistence, or claim novelty."
+}

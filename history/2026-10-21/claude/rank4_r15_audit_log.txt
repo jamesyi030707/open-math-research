@@ -1,0 +1,6 @@
+300 random rank-4 h (random affine parts): S affine of size 16 with |W|=16: True | 64P in {-64,-32,0,32,64} for random phi: True
+r=13 deficit patterns tested: 40800; patterns whose projection leaves the allowed set: 40800 (all must fail)
+witness: wt(u)=27, d(u,h)=15, max|W_u|=10, aligned values on S: ten 10s=10, six 6s=6, aligned sum=136 (=256-8*15=136), |S|=16
+   P values (64P) taken by the witness: [-32, 32, 64] | single translate only; not a statement about all 512 coefficients of a fixed E
+min polar rank over the 8 translates, over all 32768 B_g: {0: 8, 2: 5208, 4: 27552} | forms with a translate of rank<=2: 5216
+profile (min rank, #rank-4 translates, #rank-6 translates) counts for min-rank-4 forms: [((4, 3, 5), 9408), ((4, 5, 3), 14112), ((4, 7, 1), 4032)]

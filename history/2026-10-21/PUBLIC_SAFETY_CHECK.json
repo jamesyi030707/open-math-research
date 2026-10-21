@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-21",
+  "base_commit": "a8c9ee90272b3c5f525e00a65b8667a97dc75172",
+  "scope": "All changed or added UTF-8 publication files; earlier historical files and licenses unchanged.",
+  "review": "Full text reviewed for private contact details, conversation identifiers and URLs, credentials, absolute private paths, raw UI captures, internal instructions and unrelated content. Pattern scanning supplements review and is not a perfect privacy guarantee.",
+  "excluded": [
+    "Account and access records",
+    "Private links and identifiers",
+    "Screenshots and raw UI or reasoning-panel captures",
+    "Non-mathematical process directions",
+    "Third-party full text and upstream source copies"
+  ],
+  "checks": [
+    "New exact-integer JavaScript audit rerun byte-for-byte",
+    "Actual Claude Python source AST parsed, not executed again",
+    "Selected source excerpts matched verbatim",
+    "All relative document links resolved against base tree plus overlay",
+    "Existing history and licenses preserved"
+  ],
+  "files": [
+    {
+      "path": "ERRATA.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "FRONTIERS.md",
+      "review": "Dated mathematical priorities added without erasing historical proposals. No claim of a newly obtained coupling constraint."
+    },
+    {
+      "path": "INDEX.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "review": "Dated mathematical priorities added without erasing historical proposals. No claim of a newly obtained coupling constraint."
+    },
+    {
+      "path": "PROVENANCE.json",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "README.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "REPRODUCING.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "SAFETY_MANIFEST.json",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "SOURCES.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "archive/README.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "history/2026-10-21/EXCHANGES.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "history/2026-10-21/LIMITATIONS.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "history/2026-10-21/PROVENANCE.json",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "history/2026-10-21/PUBLIC_SAFETY_CHECK.json",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "history/2026-10-21/README.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "history/2026-10-21/SHA256SUMS.txt",
+      "review": "Public relative paths, attribution, hashes and review metadata only. No raw captures, private paths or account identifiers added."
+    },
+    {
+      "path": "history/2026-10-21/SOURCES.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    },
+    {
+      "path": "history/2026-10-21/claude/prompt-1-math.txt",
+      "review": "Mathematical excerpts only, each matched verbatim to actual prompt. Non-mathematical process directions omitted and editing labelled."
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit.py",
+      "review": "Actual Claude-generated standard-library code, unchanged. AST parsed; no publication-stage execution. Random-form/partial-support diagnostics and repeated historical enumeration explicitly limited."
+    },
+    {
+      "path": "history/2026-10-21/claude/rank4_r15_audit_log.txt",
+      "review": "Actual Claude-generated log, unchanged. Quotations matched; no final prose reply claimed. Witness and repeated counts attributed separately."
+    },
+    {
+      "path": "history/2026-10-21/independent/README.md",
+      "review": "Independent AI-assisted exact audit or explanation, unchanged. Single-spectrum boundary and finite coverage explicit; no fixed-parent witness or novelty claim."
+    },
+    {
+      "path": "history/2026-10-21/independent/audit_radius_thirteen.js",
+      "review": "Independent AI-assisted exact audit or explanation, unchanged. Single-spectrum boundary and finite coverage explicit; no fixed-parent witness or novelty claim."
+    },
+    {
+      "path": "history/2026-10-21/independent/endpoint_audit_report.json",
+      "review": "Independent AI-assisted exact audit or explanation, unchanged. Single-spectrum boundary and finite coverage explicit; no fixed-parent witness or novelty claim."
+    },
+    {
+      "path": "notes/codes-single-spectrum-limit.md",
+      "review": "Editorial research content or navigation. Actual excerpts distinguished from commentary; sources and limits checked. No personal or operational conversation material added."
+    }
+  ]
+}

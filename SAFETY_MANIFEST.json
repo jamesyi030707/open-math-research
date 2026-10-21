@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-20",
-  "total_files_including_manifest_and_checksums": 406,
-  "selected_historical_artifacts_and_dialogue_excerpts": 378,
+  "archive_date": "2026-10-21",
+  "total_files_including_manifest_and_checksums": 420,
+  "selected_historical_artifacts_and_dialogue_excerpts": 391,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -67,9 +67,18 @@
       "publisher_review": "Per-file UTF-8 review and private-path/credential scan; mathematics/attribution boundaries checked; 136 endpoint cases rerun byte-identically. No large rerun. Pattern scan cannot guarantee perfect privacy.",
       "scope": "Fixed-parent quadratic-distance at least15. Seven necessary profiles remain; no constructed code, full UNSAT or novelty claim.",
       "source_preservation": "All23 supplied files byte-identical; earlier files unchanged except explicit navigation and manifests."
+    },
+    {
+      "date": "2026-10-21",
+      "files_added": 14,
+      "files_changed_or_added": 25,
+      "date_safety_record": "history/2026-10-21/PUBLIC_SAFETY_CHECK.json",
+      "publisher_review": "Per-file UTF-8, private-data and credential patterns, actual excerpt matching, attribution, relative links, metadata and hash coverage checked. JavaScript rerun matched; Python AST only, no repeated old enumeration. Pattern checks cannot guarantee perfect privacy.",
+      "scope": "Radius-thirteen audit and single-spectrum radius-fifteen witness. No fixed-E witness, new profile exclusion, full UNSAT, global nonexistence or novelty claim.",
+      "source_preservation": "Two actual Claude code/log artifacts and three independent audit files unchanged. Prompt excerpts are labelled. Earlier history and license files untouched."
     }
   ],
-  "curated_reader_documents": 10,
+  "curated_reader_documents": 11,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

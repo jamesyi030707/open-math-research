@@ -81,3 +81,12 @@ Python 3.10+，仅标准库；不要使用禁用 assert 的 -O。程序会重写
 ## 2026-10-20：二次函数邻域排除
 
 [本日证明、代码与复现说明](history/2026-10-20/README.md)提供三个独立标准库检查器：MacWilliams审计、32,768个齐次二次型的极化秩枚举、136个半径13边界谱的精确逆变换核验。请在临时副本运行，程序会覆盖相邻报告。最终至少15的界限须同时阅读基础证明和半径13补充证明；136项检查仅佐证一般的四点带符号平均论证。无完整目标函数空间搜索。
+
+## 2026-10-21：轻量端点审查与显式单谱对照
+
+在仓库根目录使用支持 BigInt 的 Node.js，无外部依赖：
+
+    node history/2026-10-21/independent/audit_radius_thirteen.js > endpoint_audit_report.rerun.json
+    cmp endpoint_audit_report.rerun.json history/2026-10-21/independent/endpoint_audit_report.json
+
+新检查器穷尽标准秩4型的128个仿射扰动和136个端点谱型，并验证64位显式距离15对照。发布阶段重跑结果与报告逐字节相同；未重跑旧32,768型枚举。Claude 原脚本仅做 Python AST 语法检查，其原日志是生成时的实际记录，不是发布时的新运行；需要完整重放者可在临时副本运行标准库 Python 脚本，但它包含旧枚举的重复。一般证明、抽样检查和固定母码范围见[当日说明](history/2026-10-21/README.md)。
