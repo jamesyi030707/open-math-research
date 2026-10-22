@@ -1,0 +1,125 @@
+{
+  "status": "PASS",
+  "date": "2026-10-22",
+  "source_commit": "36760bd352596dfa5fb4865f8dee3dd0d70441c0",
+  "reused_quadratic_basis_masks": [
+    19053,
+    24003,
+    9757
+  ],
+  "hmask": 513,
+  "qmask": 19053,
+  "radicals": [
+    [
+      0,
+      16,
+      32,
+      48
+    ],
+    [
+      0,
+      28,
+      35,
+      63
+    ]
+  ],
+  "grid_component_representatives": [
+    0,
+    1,
+    4,
+    5
+  ],
+  "controls": [
+    {
+      "name": "zero",
+      "weight": 0,
+      "distance_from_h": 24,
+      "max_abs_W0": 64,
+      "max_abs_Wq": 8
+    },
+    {
+      "name": "delta0",
+      "weight": 1,
+      "distance_from_h": 25,
+      "max_abs_W0": 62,
+      "max_abs_Wq": 10
+    },
+    {
+      "name": "previous_radius15",
+      "weight": 27,
+      "distance_from_h": 15,
+      "max_abs_W0": 10,
+      "max_abs_Wq": 10
+    },
+    {
+      "name": "cubic_odd",
+      "weight": 9,
+      "distance_from_h": 25,
+      "max_abs_W0": 46,
+      "max_abs_Wq": 18
+    }
+  ],
+  "convolution_coordinates_checked": 256,
+  "involution_shift_coordinates_checked": 64,
+  "signed_projection_coordinates_checked": 512,
+  "genuine_grids_checked": 16,
+  "local_margin_controls": [
+    {
+      "rows": [
+        4,
+        4,
+        0,
+        0
+      ],
+      "cols": [
+        4,
+        2,
+        2,
+        0
+      ],
+      "realizable": false
+    },
+    {
+      "rows": [
+        4,
+        4,
+        0,
+        0
+      ],
+      "cols": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "realizable": true
+    },
+    {
+      "rows": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "cols": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "realizable": true
+    }
+  ],
+  "previous_radius15_eight_spectrum_maxima": [
+    10,
+    10,
+    10,
+    10,
+    18,
+    18,
+    10,
+    18
+  ],
+  "scope": "Exact identities and tiny controls only. No new exclusion of the seven aggregate profiles, no fixed-E feasibility decision, no global nonexistence or novelty claim.",
+  "cpu_seconds": 0.0173
+}

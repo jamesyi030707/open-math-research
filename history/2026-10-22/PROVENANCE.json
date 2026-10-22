@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-22",
+  "base_commit": "36760bd352596dfa5fb4865f8dee3dd0d70441c0",
+  "base_tree": "4468d32cdf387ec53a08d7f711aba5a2251cd627",
+  "scope": "Two-translate identities and tiny projection controls; redundant full common-truth-table model. No surviving profile eliminated, no fixed-E feasibility verdict, no new code or novelty claim.",
+  "record_coverage": "One actual mathematical prompt selected into labelled excerpts, one final visible response, actual generated Python source and log. No hidden reasoning.",
+  "verification": "Independent checker mathematical fields reproduced excluding variable cpu_seconds; Claude source AST checked without rerunning its samples.",
+  "source_attribution": "Independent margin controls and all-eight-spectrum audit were not Claude-reviewed. Independent means separately authored AI-assisted implementation, not external peer review.",
+  "licensing": "Existing repository license scope unchanged; no third-party full text or upstream source copied.",
+  "artifacts": [
+    {
+      "path": "history/2026-10-22/EXCHANGES.md",
+      "published_sha256": "521dd144e7b34d658797016ede6dcbd2ffc74e38610a32cb3064575d26bd6a48",
+      "bytes": 2116,
+      "origin": "Editorial mathematical or publication record"
+    },
+    {
+      "path": "history/2026-10-22/LIMITATIONS.md",
+      "published_sha256": "918bd0aef135840abd99faa84bc7a84f20563d67b5055e04e1912604b6f4920c",
+      "bytes": 1498,
+      "origin": "Editorial mathematical or publication record"
+    },
+    {
+      "path": "history/2026-10-22/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "3a571b9d2b1fce72351c57f9e9987c35daa5543b6e1a49b2fcd8a52810fdece7",
+      "bytes": 7205,
+      "origin": "Editorial mathematical or publication record"
+    },
+    {
+      "path": "history/2026-10-22/README.md",
+      "published_sha256": "3874f385acba6088067b194f8ee31119abc769fdd897885bcf5206d7014324fa",
+      "bytes": 1855,
+      "origin": "Editorial mathematical or publication record"
+    },
+    {
+      "path": "history/2026-10-22/SOURCES.md",
+      "published_sha256": "4fa3b3f23ef24112166bad463e17ebd80e25f17da10206048b733e68467f29a4",
+      "bytes": 1308,
+      "origin": "Editorial mathematical or publication record"
+    },
+    {
+      "path": "history/2026-10-22/claude/prompt-1-math.txt",
+      "published_sha256": "d0b13cec3eba909a90bd33f00be7473a7041d2863a15a9199621927195abbf54",
+      "bytes": 680,
+      "original_sha256": "1aef4490520c162419aac9eee845b8396e534fbba6929421f28707a1ccd0b671",
+      "modified": true,
+      "origin": "Verbatim mathematical excerpt of actual prompt; exclusions labelled"
+    },
+    {
+      "path": "history/2026-10-22/claude/response-1-visible.txt",
+      "published_sha256": "95f4ef9ad8396ab1c89a455129a76d07fc41328a450fa50ee85fb810714ebd95",
+      "bytes": 1962,
+      "original_sha256": "95f4ef9ad8396ab1c89a455129a76d07fc41328a450fa50ee85fb810714ebd95",
+      "modified": false,
+      "origin": "Actual Claude final visible output/source/log"
+    },
+    {
+      "path": "history/2026-10-22/claude/translate_relation_check.py",
+      "published_sha256": "a749da22c7a264c1f88410476726977a599ddd33015b0b6d451c953dcf2e12a8",
+      "bytes": 3755,
+      "original_sha256": "a749da22c7a264c1f88410476726977a599ddd33015b0b6d451c953dcf2e12a8",
+      "modified": false,
+      "origin": "Actual Claude final visible output/source/log"
+    },
+    {
+      "path": "history/2026-10-22/claude/translate_relation_check_log.txt",
+      "published_sha256": "581d83feb06c2eac518bd983d1fa64b1832c304100c6bdb1f003b9ecc031b8e3",
+      "bytes": 386,
+      "original_sha256": "581d83feb06c2eac518bd983d1fa64b1832c304100c6bdb1f003b9ecc031b8e3",
+      "modified": false,
+      "origin": "Actual Claude final visible output/source/log"
+    },
+    {
+      "path": "history/2026-10-22/independent/CLAUDE_AUDIT.md",
+      "published_sha256": "589f511bd57319e9b87e1dbf5cfbde2dfe285c7f62f5bbc94ef581db56b94217",
+      "bytes": 3244,
+      "original_sha256": "589f511bd57319e9b87e1dbf5cfbde2dfe285c7f62f5bbc94ef581db56b94217",
+      "modified": false,
+      "origin": "Separately authored AI-assisted exact audit"
+    },
+    {
+      "path": "history/2026-10-22/independent/README.md",
+      "published_sha256": "86c9b345cfc88944762449ea3ee5551c57b1254d962cef5234343f8540b5ce1f",
+      "bytes": 7477,
+      "original_sha256": "86c9b345cfc88944762449ea3ee5551c57b1254d962cef5234343f8540b5ce1f",
+      "modified": false,
+      "origin": "Separately authored AI-assisted exact audit"
+    },
+    {
+      "path": "history/2026-10-22/independent/audit_pairwise.py",
+      "published_sha256": "674d5324a97ea1eadcc38107aab1695a1d9d76701a538fc423e48faf2096da7d",
+      "bytes": 5237,
+      "original_sha256": "674d5324a97ea1eadcc38107aab1695a1d9d76701a538fc423e48faf2096da7d",
+      "modified": false,
+      "origin": "Separately authored AI-assisted exact audit"
+    },
+    {
+      "path": "history/2026-10-22/independent/pairwise_report.json",
+      "published_sha256": "2243318afdf03eaef4444ddac0f45307290ca94eae13fa33c28c52482b235bfa",
+      "bytes": 2010,
+      "original_sha256": "2243318afdf03eaef4444ddac0f45307290ca94eae13fa33c28c52482b235bfa",
+      "modified": false,
+      "origin": "Separately authored AI-assisted exact audit"
+    }
+  ]
+}

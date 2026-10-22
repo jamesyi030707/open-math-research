@@ -1,0 +1,20 @@
+Relation (exact). Let q, q′ ∈ Q and q″ = q+q′. It is a nonzero bent quadratic, so W_{q″}(w) = 8(−1)^{q̃″(w)} for some dual function q̃″. Since (−1)^{f+q′} = (−1)^{f+q}·(−1)^{q″}, the convolution theorem gives
+
+W_{f+q′}(u) = (1/64) Σ_v W_{f+q}(v) W_{q″}(u+v) = (1/8) Σ_v W_{f+q}(v)(−1)^{q̃″(u+v)}.
+
+Operator. The matrix M_{q″}(u,v) = (1/8)(−1)^{q̃″(u+v)} is an orthogonal involution, because the autocorrelation of q̃″ vanishes off 0. So all eight spectra are exact images of one spectrum W_f. The signed-fiber projections are the same relation read through the fibers.
+
+Verdict: redundant, so I stop. The identity holds for every truth table. The model “|M_{q″}W_f| ≤ 10 for all q″, plus W_f realizable as a ±1 table” is therefore equivalent to the 512-bound common-truth-table model. It excludes no function. It could only matter as the missing coupling in a count-level relaxation that treats spectra independently, and even there it adds nothing beyond the common-truth-table model.
+
+Test (translate_relation_check.py, log saved).
+
+Positive control. For 40 random 64-point truth tables:
+W_{f+q″} = M W_f for all 7 nonzero q″;
+W_{f+q′} = M_{q+q′} W_{f+q} for all 56 ordered pairs;
+M² = I, checked with exact fractions.
+All hold.
+Negative control. Using the wrong dual function fails in 30/30 trials.
+Redundancy check. For 1500 near-quadratic functions (a quadratic with 1–3 flipped points), the predicate “|W_{f+q}| ≤ 10” is identical whether computed directly or via M. The number of satisfied translates varied: 0 for 954, 1 for 66, 3 for 318, 5 for 155, 7 for 7. So the agreement is not vacuous.
+Computation. Standard library only, a few seconds.
+
+The assumptions are that q″ is bent and that the additive structure is XOR of the 6-bit point representations used here. No new-code or novelty claim. This does not touch the seven remaining profiles or the Grassl 26–27 entry.

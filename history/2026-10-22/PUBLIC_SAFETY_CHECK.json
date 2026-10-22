@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-22",
+  "base_commit": "36760bd352596dfa5fb4865f8dee3dd0d70441c0",
+  "scope": "All changed/additional UTF-8 publication files; prior dated history and licenses untouched.",
+  "review": "Each changed file read for private URLs, email/account identifiers, credentials, private paths, raw UI captures, hidden reasoning, internal instructions and unrelated content. Pattern scan supplements semantic review, not a perfect privacy guarantee.",
+  "excluded": [
+    "Account and access records",
+    "Private links and identifiers",
+    "Screenshots and hidden reasoning",
+    "Non-mathematical process directions",
+    "Third-party full text and upstream code"
+  ],
+  "checks": [
+    "Base-file Git blob hashes verified",
+    "Selected prompt and reply quotes matched verbatim",
+    "Source artifacts byte-preserved",
+    "Compact independent checker rerun: all mathematical fields match excluding cpu_seconds",
+    "Claude Python AST checked only; no sampling rerun",
+    "Relative links resolved",
+    "JSON parse and checksum coverage",
+    "Earlier dated history and licenses preserved"
+  ],
+  "files": [
+    {
+      "path": "ERRATA.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "FRONTIERS.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "INDEX.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "PROVENANCE.json",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "README.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "REPRODUCING.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "SAFETY_MANIFEST.json",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "SOURCES.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "archive/README.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "history/2026-10-22/EXCHANGES.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "history/2026-10-22/LIMITATIONS.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "history/2026-10-22/PROVENANCE.json",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "history/2026-10-22/PUBLIC_SAFETY_CHECK.json",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "history/2026-10-22/README.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "history/2026-10-22/SHA256SUMS.txt",
+      "review": "Public relative paths, provenance, checksums and review metadata only; no private identifiers, URLs, paths or account data."
+    },
+    {
+      "path": "history/2026-10-22/SOURCES.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    },
+    {
+      "path": "history/2026-10-22/claude/prompt-1-math.txt",
+      "review": "Actual final visible mathematics or generated source/log; hidden reasoning and UI excluded. Prompt is labelled excerpt. Distinct-translate, random-test and repeated-flip limitations documented."
+    },
+    {
+      "path": "history/2026-10-22/claude/response-1-visible.txt",
+      "review": "Actual final visible mathematics or generated source/log; hidden reasoning and UI excluded. Prompt is labelled excerpt. Distinct-translate, random-test and repeated-flip limitations documented."
+    },
+    {
+      "path": "history/2026-10-22/claude/translate_relation_check.py",
+      "review": "Actual final visible mathematics or generated source/log; hidden reasoning and UI excluded. Prompt is labelled excerpt. Distinct-translate, random-test and repeated-flip limitations documented."
+    },
+    {
+      "path": "history/2026-10-22/claude/translate_relation_check_log.txt",
+      "review": "Actual final visible mathematics or generated source/log; hidden reasoning and UI excluded. Prompt is labelled excerpt. Distinct-translate, random-test and repeated-flip limitations documented."
+    },
+    {
+      "path": "history/2026-10-22/independent/CLAUDE_AUDIT.md",
+      "review": "Separately authored AI-assisted exact proof/audit; finite scope and classical background explicit. No external peer-review, profile-exclusion or novelty claim. Source bytes preserved."
+    },
+    {
+      "path": "history/2026-10-22/independent/README.md",
+      "review": "Separately authored AI-assisted exact proof/audit; finite scope and classical background explicit. No external peer-review, profile-exclusion or novelty claim. Source bytes preserved."
+    },
+    {
+      "path": "history/2026-10-22/independent/audit_pairwise.py",
+      "review": "Separately authored AI-assisted exact proof/audit; finite scope and classical background explicit. No external peer-review, profile-exclusion or novelty claim. Source bytes preserved."
+    },
+    {
+      "path": "history/2026-10-22/independent/pairwise_report.json",
+      "review": "Separately authored AI-assisted exact proof/audit; finite scope and classical background explicit. No external peer-review, profile-exclusion or novelty claim. Source bytes preserved."
+    },
+    {
+      "path": "notes/codes-pairwise-compatibility.md",
+      "review": "Editorial mathematical note, limitations or navigation; exact quotes distinguished from commentary. Historical content preserved."
+    }
+  ]
+}

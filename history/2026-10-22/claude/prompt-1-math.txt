@@ -1,0 +1,4 @@
+Mathematical excerpt from the actual 2026-10-22 prompt.
+This is a selected verbatim excerpt, not the complete prompt. Context recap, workflow and resource directions are omitted.
+
+For two distinct q translates, derive an EXACT compatibility relation between their Walsh spectra or signed fiber projections that actually uses the common truth table. Test on <=64-point explicit controls, without search over functions. Decide whether this gives a genuinely additional practical filter beyond the existing common-64-variable 512-bound model, or merely reformulates it. Give a short proof and one falsifiable small test (positive/negative control), and explicitly stop if redundant.

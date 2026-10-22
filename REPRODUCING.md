@@ -90,3 +90,11 @@ Python 3.10+，仅标准库；不要使用禁用 assert 的 -O。程序会重写
     cmp endpoint_audit_report.rerun.json history/2026-10-21/independent/endpoint_audit_report.json
 
 新检查器穷尽标准秩4型的128个仿射扰动和136个端点谱型，并验证64位显式距离15对照。发布阶段重跑结果与报告逐字节相同；未重跑旧32,768型枚举。Claude 原脚本仅做 Python AST 语法检查，其原日志是生成时的实际记录，不是发布时的新运行；需要完整重放者可在临时副本运行标准库 Python 脚本，但它包含旧枚举的重复。一般证明、抽样检查和固定母码范围见[当日说明](history/2026-10-21/README.md)。
+
+## 2026-10-22：四个显式函数的两谱检查
+
+Python 3标准库，无安装：
+
+    python3 -I -B history/2026-10-22/independent/audit_pairwise.py > pairwise_report.rerun.json
+
+与[存档报告](history/2026-10-22/independent/pairwise_report.json)比较时排除cpu_seconds；其余数学字段应一致。发布阶段重新运行通过。覆盖256个卷积坐标、512个投影坐标、16个真实网格、3个行列和例子及昨日函数八谱；不是函数空间枚举。Claude代码仅AST语法核查，日志保留生成时真实记录，不在发布阶段重复1500次抽样。
