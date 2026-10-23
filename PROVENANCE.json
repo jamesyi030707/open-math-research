@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-22",
+  "archive_date": "2026-10-23",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "d7c7be04ae06b8c5248ccd886682a386f951ffb7ee2fc93cc579dece6dda7334",
+      "published_sha256": "efc12c202dfb516adfb41b93bf964dcb4e7cdd46547271fbcd3c09850042e498",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2100,13 +2100,14 @@
         "a4a9ad117dbf3267cd9e49bf50b7215b6828e351614c1bc2bec0af5619f7b7ec",
         "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af",
         "36cdd5cd18485ee017226ba2019e8eb7e65d369f6b83b668c258c37789b9d4a5",
-        "b8aff0bec979f39b78a10233c5ac01657e9d4d20c14894362d37bad7936fa008"
+        "b8aff0bec979f39b78a10233c5ac01657e9d4d20c14894362d37bad7936fa008",
+        "d7c7be04ae06b8c5248ccd886682a386f951ffb7ee2fc93cc579dece6dda7334"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "5815a127881481053188565a6ec7a9f89e28c2d33223f8b2bc2d224c4cdeb4de",
+      "published_sha256": "de9063cf421dc251bca93cc9944f6df7cc379a5ae1ec215ac77bb3512595798a",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2117,13 +2118,14 @@
         "b1042a24a9c272d7f6a37fc93fc418871ceee65bece793d2ed509f5113c15342",
         "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c",
         "2bd9ba4c9de6e92a9c4fe37a939606b8eb05fd6580540721d00b6e7d8ce1e002",
-        "7cdbc2a6d11885c941542726d8bf021a18bc2e2cee320dda22959432940f203b"
+        "7cdbc2a6d11885c941542726d8bf021a18bc2e2cee320dda22959432940f203b",
+        "5815a127881481053188565a6ec7a9f89e28c2d33223f8b2bc2d224c4cdeb4de"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "901cc16a82d2dc1fdf8aa8fa5d480be30e8db141c8a5854d07e564ac4c178a90",
+      "published_sha256": "cee973e0a67a7e734a8fbb33f9414b21f65b98579687d9c65a1d1a0c14986d9d",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2134,13 +2136,14 @@
         "1691bee6772e4a4bab212e8f0dae4b2b30f583a9a006b73b3531f1256bed2fd7",
         "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c",
         "200947b7b10585783fc68fcc033b9f918133265a19aeb46d7d4aa2ac01e71c51",
-        "7d6680c45d574aaaff9d246cfee9f625ed89327d47a51b87e58dd7378db50693"
+        "7d6680c45d574aaaff9d246cfee9f625ed89327d47a51b87e58dd7378db50693",
+        "901cc16a82d2dc1fdf8aa8fa5d480be30e8db141c8a5854d07e564ac4c178a90"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "README.md",
-      "published_sha256": "38093e07598d277d19ab11fb4b0ba2cfc8751555482301190f5b8f6a4edcae38",
+      "published_sha256": "a463c881d7ca87c1a26dec3ce6003083a2c452bc4e131a09fb3fd2dc1f9af991",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2151,13 +2154,14 @@
         "d99be0ae643e8e2e2ed3ac9c1b1d2a3074075ec73e540d7fece747ebe09e45f3",
         "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5",
         "8bb916123a4b2deca76f878ec4e51f2bfee8f25a5c7bdaee3fc4d15b770eeaaf",
-        "2722ab01db738d1e2311be5abaf91f79f1db86d630b805ee23b825364e8cbd81"
+        "2722ab01db738d1e2311be5abaf91f79f1db86d630b805ee23b825364e8cbd81",
+        "38093e07598d277d19ab11fb4b0ba2cfc8751555482301190f5b8f6a4edcae38"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "6969a3befff5a26dd702bc5ec2e427176394cf2aef0ff3657d0412a09c9f43db",
+      "published_sha256": "d4b5638cc3a667ac61760006e2f59ed56ce85bcc3c564e979919bb3204f71232",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2168,13 +2172,14 @@
         "2e3684a4ae9ea621e17cd16e5f6f430f15691316174cff8d980e66f16de2ef9c",
         "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac",
         "8638da631c3c13d169485502178eb37fbb65b86e56760ce4bc08e4b56363c787",
-        "6e9ce97f63463a5a7c157a30275f433572e1214a1a72180f0344de87d665a413"
+        "6e9ce97f63463a5a7c157a30275f433572e1214a1a72180f0344de87d665a413",
+        "6969a3befff5a26dd702bc5ec2e427176394cf2aef0ff3657d0412a09c9f43db"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "ce47d680335292ce020cdf26b07c66ba12f36811fc437b8ba35163335ec5565f",
+      "published_sha256": "1c8dbe55b80493e0f414f036e90b6503f444498c611116af0b569cc38bea8daa",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2184,9 +2189,10 @@
         "47f90e15cea4fa85f715b6d4b0d3c4411f739c59f731cc9a80aa3ff7b8684cae",
         "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974",
         "35c55cb3e7a13bedfb54cb5c0d8ef7c2fa9ac5d2c81fcfe2f6854298872816bc",
-        "309c1d0efb197cf014220194f4dcd8473a918fe886904a87f14f269db00fcd21"
+        "309c1d0efb197cf014220194f4dcd8473a918fe886904a87f14f269db00fcd21",
+        "ce47d680335292ce020cdf26b07c66ba12f36811fc437b8ba35163335ec5565f"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -3160,25 +3166,27 @@
     },
     {
       "path": "FRONTIERS.md",
-      "published_sha256": "883344273ed749a263626a61f6fea47c33ff2c70679455653d34ffd6798c3770",
+      "published_sha256": "dacc074801848b6ec284b5c09f34f736a125340991a30e70b957627ab04f5138",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
       "prior_published_sha256": [
-        "d6105755c17d3b9916f52bc743020ea95c3b1fed214f84b12bddd327a2d458ef"
+        "d6105755c17d3b9916f52bc743020ea95c3b1fed214f84b12bddd327a2d458ef",
+        "883344273ed749a263626a61f6fea47c33ff2c70679455653d34ffd6798c3770"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "NEXT_RESEARCH_PROPOSAL.md",
-      "published_sha256": "2dde060055c4347778a59d8e4c0baa420dd38137001dcef4b6d6f32454b3b776",
+      "published_sha256": "32cbb287e3e59a1246d98c9babf56e57f13557b42bc96108efc481534057f707",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
       "prior_published_sha256": [
-        "1e49bcf5b8983808a34248648e848e5d9c634deba589ef48e62b677dd0e2c1c3"
+        "1e49bcf5b8983808a34248648e848e5d9c634deba589ef48e62b677dd0e2c1c3",
+        "2dde060055c4347778a59d8e4c0baa420dd38137001dcef4b6d6f32454b3b776"
       ],
-      "revision_note": "2026-10-22 two-translate redundancy handnote and evidence navigation."
+      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
     },
     {
       "path": "history/2026-10-21/EXCHANGES.md",
@@ -3389,6 +3397,97 @@
       "modified": false,
       "kind": "2026-10-22 research/editorial record",
       "source_provenance": "history/2026-10-22/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/EXCHANGES.md",
+      "published_sha256": "926d2147c9327a2d01396e9a8626ebbae094b1700ab8452d25a3d2d36d669357",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/LIMITATIONS.md",
+      "published_sha256": "38fc2cd68aae90937631e4a627d493f7fd5e9cda5193aeae9b0533a39550f273",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/PROVENANCE.json",
+      "published_sha256": "aaa6aef6e545d8a06334f5c62aa4d35bcd22b0715de60529bead87ddd2f28690",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "f5485ff44b5c5e03bf6d662944c6d4a11e5e82850b15ac674334a5980bcf5ea0",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/README.md",
+      "published_sha256": "f690378d2ae12e738a825259e0286bcf137920240ee244827f3ae51fb6b2babf",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/SHA256SUMS.txt",
+      "published_sha256": "677121ad93f8bc9e3cf9d3a8f15286771e36c5e1c9785b6aeb4ddb9059a178d8",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/SOURCES.md",
+      "published_sha256": "5db577f6e1a62d2cc48342081dc8ca17ecce996b974ca5a04323c2eaefdced6e",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/claude/prompt-1-excerpt.txt",
+      "published_sha256": "3e79069d35221e7785cb065cb902cbb3b42ccfdf22dd154d9cfd537010a4c115",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspect.sh",
+      "published_sha256": "8799c94edc99f6c4f6a119ab6a90192731b64d8bc5a29c2ab32084e337d2abea",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspection_log.txt",
+      "published_sha256": "3e5ec4d4a6ab0aebc18fe97e6708af4f7374053d3d3e2dc3d119531257f38579",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/claude/response-1-visible.txt",
+      "published_sha256": "e383a5bfb2c7a5044ebb9d73fccca007313b91b1c891497b962ea803f6e1def0",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-23/independent/AUDIT.md",
+      "published_sha256": "373f9f68ec8f397e5a50ce707829435965a3d231567d4ccd4fc95ce682b1a647",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-proof-pipeline-gate.md",
+      "published_sha256": "38d1917a4f04d675c5144949b96a5396f521e6a0b5d1e8dc7ed357dab36e8ffc",
+      "modified": false,
+      "kind": "2026-10-23 source/audit/editorial record",
+      "source_provenance": "history/2026-10-23/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3522,6 +3621,13 @@
       "files_added": 16,
       "date_provenance": "history/2026-10-22/PROVENANCE.json",
       "integration_edits": "Concise curated note, actual final reply/code/log, separately authored exact audit, source/scope/navigation and manifests. Prior history and licenses untouched."
+    },
+    {
+      "date": "2026-10-23",
+      "base_commit": "8e660040a7f63816307d29aea17462603b7dc263",
+      "files_added": 13,
+      "date_provenance": "history/2026-10-23/PROVENANCE.json",
+      "integration_edits": "Short proof-gate note and actual source records with static audit; prior dated history preserved."
     }
   ],
   "presentation_revisions": [

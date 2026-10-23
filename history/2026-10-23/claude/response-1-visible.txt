@@ -1,0 +1,30 @@
+The gate stops at inspection: no compatible solver/checker pair is installed.
+ I ran no controls, no proof and no checker, and I did not touch the full instance.
+What ran
+ (2026-10-23 01:52Z, Linux 6.18.44, 
+proof_gate_inspect.sh
+, exit code 0):
+Binaries on PATH.  None found for any of these:
+PB solvers: roundingsat, exact, sat4j.
+SAT solvers: cadical, kissat, minisat, glucose, cryptominisat5, lingeling, picosat, clasp.
+Checkers: veripb, cakepb/cake_pb, drat-trim, lrat-trim, cake_lpr, pbchecker.
+Python.  Version 3.12.3. None of these modules is present: veripb, pysat, pypblib, pycosat, z3, ortools, roundingsat, exact, pyscipopt, cvxopt. The only solver-like packages are scipy 1.17.1 and kiwisolver 1.5.0.
+Packages and files.  No dpkg package matches these tools. A depth-limited filesystem search (60 s cap, exit 0) found no solver or checker artifacts.
+Toolchain.  Present: OpenJDK 21.0.10, gcc 13.3.0, make. No cmake, cargo, rustc, opam or ocaml.
+Network.  The one PyPI probe failed with a name-resolution error, as expected, and I made no download attempts.
+Missing, exactly.
+ One of these pairs:
+A proof-logging pseudo-Boolean solver, such as RoundingSat, Exact, or a Sat4j jar (Java 21 would run a jar), together with the VeriPB checker.
+A CDCL solver that emits DRAT or LRAT, together with an independent checker such as drat-trim or cake_lpr.
+SciPy’s HiGHS gives no checkable proof. I did not substitute a checker I wrote myself, since that would not be independent evidence.
+Evidence files.
+proof_gate_inspect.sh
+ and 
+proof_gate_inspection_log.txt
+.
+Limitations.
+The audited 57-bit OPB (54 free coordinates, 1024 distance rows, parity row) stays unrun and uncertified.
+Yesterday’s HiGHS “infeasible” remains a solver claim only.
+Nothing here bears on whether a [64,11,27] code exists. Grassl still lists 26–27 (your cache, not checked here), and no novelty is claimed.
+Next decision.
+ Either put real binaries or sources for one of the pairs above into this session, after which the gate can run: tiny SAT/UNSAT controls first, a corrupted-proof rejection test, and only then a ≤120 CPU-second solve. Or stop the proof-pipeline route here and return to the mathematical side. I’d stop the pipeline until the tools exist.

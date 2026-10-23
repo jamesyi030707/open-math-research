@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-23",
+  "base_commit": "8e660040a7f63816307d29aea17462603b7dc263",
+  "base_tree": "5b40f51e5598792b77bf1865cf4b8a09d9cf7fb1",
+  "scope": "Availability inspection stopped before controls. No certificate, full solve, profile elimination, code construction or novelty claim.",
+  "record_coverage": "One actual question excerpt, one final visible answer with line breaks normalized, actual script and redacted log; no internal reasoning.",
+  "artifacts": [
+    {
+      "path": "history/2026-10-23/EXCHANGES.md",
+      "published_sha256": "926d2147c9327a2d01396e9a8626ebbae094b1700ab8452d25a3d2d36d669357",
+      "bytes": 1105,
+      "origin": "Editorial record, not a dialogue quotation"
+    },
+    {
+      "path": "history/2026-10-23/LIMITATIONS.md",
+      "published_sha256": "38fc2cd68aae90937631e4a627d493f7fd5e9cda5193aeae9b0533a39550f273",
+      "bytes": 1849,
+      "origin": "Editorial record, not a dialogue quotation"
+    },
+    {
+      "path": "history/2026-10-23/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "f5485ff44b5c5e03bf6d662944c6d4a11e5e82850b15ac674334a5980bcf5ea0",
+      "bytes": 5654,
+      "origin": "Editorial record, not a dialogue quotation"
+    },
+    {
+      "path": "history/2026-10-23/README.md",
+      "published_sha256": "f690378d2ae12e738a825259e0286bcf137920240ee244827f3ae51fb6b2babf",
+      "bytes": 1226,
+      "origin": "Editorial record, not a dialogue quotation"
+    },
+    {
+      "path": "history/2026-10-23/SOURCES.md",
+      "published_sha256": "5db577f6e1a62d2cc48342081dc8ca17ecce996b974ca5a04323c2eaefdced6e",
+      "bytes": 935,
+      "origin": "Editorial record, not a dialogue quotation"
+    },
+    {
+      "path": "history/2026-10-23/claude/prompt-1-excerpt.txt",
+      "published_sha256": "3e79069d35221e7785cb065cb902cbb3b42ccfdf22dd154d9cfd537010a4c115",
+      "bytes": 273,
+      "original_sha256": "8b2273a9cf7df8e8ab3ead6bc8859501d51cbece4efe86b1c8b03717272dbe92",
+      "modified": true,
+      "origin": "Exact question excerpt; omissions labelled"
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspect.sh",
+      "published_sha256": "8799c94edc99f6c4f6a119ab6a90192731b64d8bc5a29c2ab32084e337d2abea",
+      "bytes": 2110,
+      "original_sha256": "8799c94edc99f6c4f6a119ab6a90192731b64d8bc5a29c2ab32084e337d2abea",
+      "modified": false,
+      "origin": "Actual visible final response or downloaded artifact; public log PATH redacted"
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspection_log.txt",
+      "published_sha256": "3e5ec4d4a6ab0aebc18fe97e6708af4f7374053d3d3e2dc3d119531257f38579",
+      "bytes": 1287,
+      "original_sha256": "8080d1f05f039cd3492351f195517cf409df60682f53b6facf5ef0957cfc4e9e",
+      "modified": true,
+      "origin": "Actual visible final response or downloaded artifact; public log PATH redacted"
+    },
+    {
+      "path": "history/2026-10-23/claude/response-1-visible.txt",
+      "published_sha256": "e383a5bfb2c7a5044ebb9d73fccca007313b91b1c891497b962ea803f6e1def0",
+      "bytes": 2253,
+      "original_sha256": "e383a5bfb2c7a5044ebb9d73fccca007313b91b1c891497b962ea803f6e1def0",
+      "modified": false,
+      "origin": "Actual visible final response or downloaded artifact; public log PATH redacted"
+    },
+    {
+      "path": "history/2026-10-23/independent/AUDIT.md",
+      "published_sha256": "373f9f68ec8f397e5a50ce707829435965a3d231567d4ccd4fc95ce682b1a647",
+      "bytes": 5045,
+      "origin": "Reader-facing derivative of a separately authored AI-assisted static artifact audit; editorial delivery instructions omitted, technical findings preserved; no original environment access or execution",
+      "modified": true
+    }
+  ]
+}

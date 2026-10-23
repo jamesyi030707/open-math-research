@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-23",
+  "base_commit": "8e660040a7f63816307d29aea17462603b7dc263",
+  "scope": "All new/changed UTF-8 files; earlier dated files and licenses untouched.",
+  "review": "Each file reviewed for private identifiers, account data, private URLs, private absolute paths, credentials, raw UI, hidden reasoning and unrelated material. Pattern scan supplements review.",
+  "excluded": [
+    "Account and quota information",
+    "Private conversation URLs/IDs",
+    "Screenshots and hidden reasoning",
+    "Full operational prompt and private original PATH"
+  ],
+  "checks": [
+    "Exact selected quotes match original visible text",
+    "Original artifacts hashed; log PATH redaction documented",
+    "Independent static artifact audit; no shell script rerun",
+    "JSON parse, relative links, changed-file checksum coverage",
+    "Earlier dated records preserved"
+  ],
+  "files": [
+    {
+      "path": "ERRATA.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "FRONTIERS.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "INDEX.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "PROVENANCE.json",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "README.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "REPRODUCING.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "SAFETY_MANIFEST.json",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "SOURCES.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "archive/README.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/EXCHANGES.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/LIMITATIONS.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/PROVENANCE.json",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/PUBLIC_SAFETY_CHECK.json",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/README.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/SHA256SUMS.txt",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/SOURCES.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/claude/prompt-1-excerpt.txt",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspect.sh",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/claude/proof_gate_inspection_log.txt",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/claude/response-1-visible.txt",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "history/2026-10-23/independent/AUDIT.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    },
+    {
+      "path": "notes/codes-proof-pipeline-gate.md",
+      "review": "Public research/editorial or source/provenance record; log private PATH redacted; no hidden reasoning or account content."
+    }
+  ]
+}

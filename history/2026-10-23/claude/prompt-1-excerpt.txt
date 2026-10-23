@@ -1,0 +1,3 @@
+Verbatim question excerpt from the actual prompt. Background recap and operational directions are omitted. This is not the complete prompt.
+
+Goal: establish whether a REAL installed proof-producing solver and compatible independent checker work on tiny SAT/UNSAT controls.

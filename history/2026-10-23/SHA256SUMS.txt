@@ -1,0 +1,11 @@
+926d2147c9327a2d01396e9a8626ebbae094b1700ab8452d25a3d2d36d669357  history/2026-10-23/EXCHANGES.md
+38fc2cd68aae90937631e4a627d493f7fd5e9cda5193aeae9b0533a39550f273  history/2026-10-23/LIMITATIONS.md
+aaa6aef6e545d8a06334f5c62aa4d35bcd22b0715de60529bead87ddd2f28690  history/2026-10-23/PROVENANCE.json
+f5485ff44b5c5e03bf6d662944c6d4a11e5e82850b15ac674334a5980bcf5ea0  history/2026-10-23/PUBLIC_SAFETY_CHECK.json
+f690378d2ae12e738a825259e0286bcf137920240ee244827f3ae51fb6b2babf  history/2026-10-23/README.md
+5db577f6e1a62d2cc48342081dc8ca17ecce996b974ca5a04323c2eaefdced6e  history/2026-10-23/SOURCES.md
+3e79069d35221e7785cb065cb902cbb3b42ccfdf22dd154d9cfd537010a4c115  history/2026-10-23/claude/prompt-1-excerpt.txt
+8799c94edc99f6c4f6a119ab6a90192731b64d8bc5a29c2ab32084e337d2abea  history/2026-10-23/claude/proof_gate_inspect.sh
+3e5ec4d4a6ab0aebc18fe97e6708af4f7374053d3d3e2dc3d119531257f38579  history/2026-10-23/claude/proof_gate_inspection_log.txt
+e383a5bfb2c7a5044ebb9d73fccca007313b91b1c891497b962ea803f6e1def0  history/2026-10-23/claude/response-1-visible.txt
+373f9f68ec8f397e5a50ce707829435965a3d231567d4ccd4fc95ce682b1a647  history/2026-10-23/independent/AUDIT.md

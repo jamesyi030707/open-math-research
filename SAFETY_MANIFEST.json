@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-22",
-  "total_files_including_manifest_and_checksums": 436,
-  "selected_historical_artifacts_and_dialogue_excerpts": 406,
+  "archive_date": "2026-10-23",
+  "total_files_including_manifest_and_checksums": 449,
+  "selected_historical_artifacts_and_dialogue_excerpts": 418,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -85,9 +85,18 @@
       "publisher_review": "Each changed file read and scanned; actual quotes/source hashes, relative links and checksums verified. Independent checker rerun; Claude AST only. No private captures, instructions or credentials.",
       "scope": "Two-translate identities and tiny projection controls; redundant full common-truth-table model. No surviving profile eliminated, no fixed-E feasibility verdict, no new code or novelty claim.",
       "source_preservation": "Actual final answer, code/log and four independent audit files byte-preserved. Mathematical prompt excerpt labelled; historical files and licenses untouched."
+    },
+    {
+      "date": "2026-10-23",
+      "files_added": 13,
+      "files_changed_or_added": 24,
+      "date_safety_record": "history/2026-10-23/PUBLIC_SAFETY_CHECK.json",
+      "scope": "Availability inspection stopped before controls. No certificate, full solve, profile elimination, code construction or novelty claim.",
+      "source_preservation": "Actual script and visible final response preserved; log PATH explicitly redacted, prompt excerpt labelled. Prior dated history unchanged.",
+      "verification": "Static audit only, no toolchain/control/model run."
     }
   ],
-  "curated_reader_documents": 12,
+  "curated_reader_documents": 13,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

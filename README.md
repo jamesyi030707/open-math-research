@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[10月23日短记：证明链的前置门槛](notes/codes-proof-pipeline-gate.md) · 本次未找到可用的兼容工具组合，未运行控制实例或完整模型。
+
 ### [纠错码：两个谱真的相容，为什么仍没有加强？](notes/codes-pairwise-compatibility.md)
 
 精确两谱关系只是共同真值表模型的改写。一个4×4计数反例解释了局部相容性，而昨天的十五步对照明确在三个平移谱上失败；七种必要分布未减少。
@@ -50,6 +52,7 @@ J=92 的逆向节点从约 10.96 亿降到 2,200 万，同轮计时仍慢于正�
 [阅读索引](INDEX.md) · [原始记录与勘误](archive/README.md)
 
 署名、引用与协作说明见 [来源](SOURCES.md)。自有代码与文字分别按 [MIT](LICENSE-CODE-MIT.txt) 与 [CC BY 4.0](LICENSE-DOCS-CC-BY-4.0.md) 开放；具体权利范围见 [许可说明](LICENSING.md)。
+
 
 
 

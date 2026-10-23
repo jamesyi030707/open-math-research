@@ -1,0 +1,50 @@
+inspection time: 2026-10-23T01:52:24Z
+Linux 6.18.44-fc-v140
+PATH=[redacted environment-specific paths]
+== candidate binaries on PATH (name: path | version attempt)
+roundingsat: NOT FOUND
+exact: NOT FOUND
+sat4j: NOT FOUND
+veripb: NOT FOUND
+cakepb: NOT FOUND
+cake_pb: NOT FOUND
+cadical: NOT FOUND
+kissat: NOT FOUND
+minisat: NOT FOUND
+glucose: NOT FOUND
+cryptominisat5: NOT FOUND
+lingeling: NOT FOUND
+picosat: NOT FOUND
+drat-trim: NOT FOUND
+lrat-trim: NOT FOUND
+cake_lpr: NOT FOUND
+pbchecker: NOT FOUND
+clasp: NOT FOUND
+== python modules
+python 3.12.3
+veripb NOT FOUND
+pysat NOT FOUND
+pypblib NOT FOUND
+pycosat NOT FOUND
+z3 NOT FOUND
+ortools NOT FOUND
+roundingsat NOT FOUND
+exact NOT FOUND
+pyscipopt NOT FOUND
+cvxopt NOT FOUND
+== pip list (filtered)
+kiwisolver                 1.5.0
+scipy                      1.17.1
+== java/toolchain
+/usr/bin/java
+openjdk version "21.0.10" 2026-01-20
+OpenJDK Runtime Environment (build 21.0.10+7-Ubuntu-124.04)
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+/usr/bin/make
+== dpkg packages matching sat/proof tools
+(none installed via dpkg)
+== filesystem search (depth-limited, 60 s cap) for solver/checker artifacts
+find exit code: 0
+== network (expected disabled): 
+urllib.error.URLError: <urlopen error [Errno -2] Name or service not known>
+script exit: 0
