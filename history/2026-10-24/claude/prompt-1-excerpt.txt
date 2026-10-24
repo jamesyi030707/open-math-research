@@ -1,0 +1,3 @@
+Verbatim mathematical excerpt from the actual question. This is not the full prompt.
+
+Then derive the sharp condition on uA for every weight-14 word of B and decide whether it gives a small usable obstruction beyond just d(B)>=14.

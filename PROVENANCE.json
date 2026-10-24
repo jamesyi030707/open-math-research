@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-23",
+  "archive_date": "2026-10-24",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "efc12c202dfb516adfb41b93bf964dcb4e7cdd46547271fbcd3c09850042e498",
+      "published_sha256": "1be9f6aaf6f73bb24a4539c0af5ebe4faf1d7e8954c54ebc3273e08e4a47b51d",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2101,13 +2101,14 @@
         "caf4caabd5152d5378b573e9c0e11f356d128b406d8e156f4c95f718d2ccf8af",
         "36cdd5cd18485ee017226ba2019e8eb7e65d369f6b83b668c258c37789b9d4a5",
         "b8aff0bec979f39b78a10233c5ac01657e9d4d20c14894362d37bad7936fa008",
-        "d7c7be04ae06b8c5248ccd886682a386f951ffb7ee2fc93cc579dece6dda7334"
+        "d7c7be04ae06b8c5248ccd886682a386f951ffb7ee2fc93cc579dece6dda7334",
+        "efc12c202dfb516adfb41b93bf964dcb4e7cdd46547271fbcd3c09850042e498"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "de9063cf421dc251bca93cc9944f6df7cc379a5ae1ec215ac77bb3512595798a",
+      "published_sha256": "ae58ecc42588cfc48405e660acbac3ae481d98f77484189d3a0b2bd5ab187896",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2119,13 +2120,14 @@
         "4642a0d32057e6c0c0f22ec2ee5ad7edb33d75ff825933d609682d87affc1b7c",
         "2bd9ba4c9de6e92a9c4fe37a939606b8eb05fd6580540721d00b6e7d8ce1e002",
         "7cdbc2a6d11885c941542726d8bf021a18bc2e2cee320dda22959432940f203b",
-        "5815a127881481053188565a6ec7a9f89e28c2d33223f8b2bc2d224c4cdeb4de"
+        "5815a127881481053188565a6ec7a9f89e28c2d33223f8b2bc2d224c4cdeb4de",
+        "de9063cf421dc251bca93cc9944f6df7cc379a5ae1ec215ac77bb3512595798a"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "cee973e0a67a7e734a8fbb33f9414b21f65b98579687d9c65a1d1a0c14986d9d",
+      "published_sha256": "8917a2d62aa72bdc256744c8b4e8d18058d67f8604aabb79fb85416b219f2980",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2137,13 +2139,14 @@
         "289724d4072dea21b97436553b1842bc9c7fc2061f687b016202bcdaf35d6f1c",
         "200947b7b10585783fc68fcc033b9f918133265a19aeb46d7d4aa2ac01e71c51",
         "7d6680c45d574aaaff9d246cfee9f625ed89327d47a51b87e58dd7378db50693",
-        "901cc16a82d2dc1fdf8aa8fa5d480be30e8db141c8a5854d07e564ac4c178a90"
+        "901cc16a82d2dc1fdf8aa8fa5d480be30e8db141c8a5854d07e564ac4c178a90",
+        "cee973e0a67a7e734a8fbb33f9414b21f65b98579687d9c65a1d1a0c14986d9d"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "README.md",
-      "published_sha256": "a463c881d7ca87c1a26dec3ce6003083a2c452bc4e131a09fb3fd2dc1f9af991",
+      "published_sha256": "cf83ac5f8605416e9c56a0529f6af97f03e22002db47a68df84abc9b77023820",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2155,13 +2158,14 @@
         "7d015359517e79856eeadef4e66fc2061fcb3759129b7276f6ac3ad6f1874ad5",
         "8bb916123a4b2deca76f878ec4e51f2bfee8f25a5c7bdaee3fc4d15b770eeaaf",
         "2722ab01db738d1e2311be5abaf91f79f1db86d630b805ee23b825364e8cbd81",
-        "38093e07598d277d19ab11fb4b0ba2cfc8751555482301190f5b8f6a4edcae38"
+        "38093e07598d277d19ab11fb4b0ba2cfc8751555482301190f5b8f6a4edcae38",
+        "a463c881d7ca87c1a26dec3ce6003083a2c452bc4e131a09fb3fd2dc1f9af991"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "d4b5638cc3a667ac61760006e2f59ed56ce85bcc3c564e979919bb3204f71232",
+      "published_sha256": "348fdf596e4bf9709db874bd5fbb205a1b7ee6fe7fd44000ae6ba92d4218a0c2",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2173,13 +2177,14 @@
         "f6dc33c166c3c9837aca068d0bb9fbea252ad9e83864c3b918c1568703410eac",
         "8638da631c3c13d169485502178eb37fbb65b86e56760ce4bc08e4b56363c787",
         "6e9ce97f63463a5a7c157a30275f433572e1214a1a72180f0344de87d665a413",
-        "6969a3befff5a26dd702bc5ec2e427176394cf2aef0ff3657d0412a09c9f43db"
+        "6969a3befff5a26dd702bc5ec2e427176394cf2aef0ff3657d0412a09c9f43db",
+        "d4b5638cc3a667ac61760006e2f59ed56ce85bcc3c564e979919bb3204f71232"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "1c8dbe55b80493e0f414f036e90b6503f444498c611116af0b569cc38bea8daa",
+      "published_sha256": "1b9cd7b658faf1dc8e03374b1f9c9f2eab1a6a9745fe00f912411209946e9799",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2190,9 +2195,10 @@
         "b66428b3fc803643f3778fdab15d62660338fccc24867f08a4b30e1f7935a974",
         "35c55cb3e7a13bedfb54cb5c0d8ef7c2fa9ac5d2c81fcfe2f6854298872816bc",
         "309c1d0efb197cf014220194f4dcd8473a918fe886904a87f14f269db00fcd21",
-        "ce47d680335292ce020cdf26b07c66ba12f36811fc437b8ba35163335ec5565f"
+        "ce47d680335292ce020cdf26b07c66ba12f36811fc437b8ba35163335ec5565f",
+        "1c8dbe55b80493e0f414f036e90b6503f444498c611116af0b569cc38bea8daa"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -3166,27 +3172,29 @@
     },
     {
       "path": "FRONTIERS.md",
-      "published_sha256": "dacc074801848b6ec284b5c09f34f736a125340991a30e70b957627ab04f5138",
+      "published_sha256": "d3a9c847bf3b16c1c9d0ebb260f9f19b81326289afaa982af260d0fc42301bca",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
       "prior_published_sha256": [
         "d6105755c17d3b9916f52bc743020ea95c3b1fed214f84b12bddd327a2d458ef",
-        "883344273ed749a263626a61f6fea47c33ff2c70679455653d34ffd6798c3770"
+        "883344273ed749a263626a61f6fea47c33ff2c70679455653d34ffd6798c3770",
+        "dacc074801848b6ec284b5c09f34f736a125340991a30e70b957627ab04f5138"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "NEXT_RESEARCH_PROPOSAL.md",
-      "published_sha256": "32cbb287e3e59a1246d98c9babf56e57f13557b42bc96108efc481534057f707",
+      "published_sha256": "8a6d5fc961c1e6b8c76d6d166c43e3201b6ffd0a0123be8f9597707ce3797b19",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
       "prior_published_sha256": [
         "1e49bcf5b8983808a34248648e848e5d9c634deba589ef48e62b677dd0e2c1c3",
-        "2dde060055c4347778a59d8e4c0baa420dd38137001dcef4b6d6f32454b3b776"
+        "2dde060055c4347778a59d8e4c0baa420dd38137001dcef4b6d6f32454b3b776",
+        "32cbb287e3e59a1246d98c9babf56e57f13557b42bc96108efc481534057f707"
       ],
-      "revision_note": "2026-10-23 proof-pipeline stop and dated navigation."
+      "revision_note": "2026-10-24 residual-lift note and dated navigation."
     },
     {
       "path": "history/2026-10-21/EXCHANGES.md",
@@ -3488,6 +3496,118 @@
       "modified": false,
       "kind": "2026-10-23 source/audit/editorial record",
       "source_provenance": "history/2026-10-23/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/EXCHANGES.md",
+      "published_sha256": "2b2d3c7e1a2388dd2cb2b49abd8e8db75d9d7c6d60d99d118a54625ad553c04f",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/LIMITATIONS.md",
+      "published_sha256": "a7b2620296acc886c416b7ec681ce3b0253fc68fd07963c7496df7ba8ad6b566",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/PROVENANCE.json",
+      "published_sha256": "423fb97b2f53e114b5a23f42ba98caa2f694921883bcd3963e63a5aa60014f42",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "da1a2416d610fe935883cafba7d4106d89a53090d9dd7c8b9cbc2d6e06f41ba9",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/README.md",
+      "published_sha256": "6bfe23f34ef5259779056209f647df29fb5ecec9cad485a1976c2c6bfcae2cef",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/SHA256SUMS.txt",
+      "published_sha256": "c0312df6b4de8d7aee9a4e0a46705a89df2f534d06b6c39ecafacaef65a324f3",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/SOURCES.md",
+      "published_sha256": "efb222cc243e0db766c48a81bb099ec13aca1c02046e131843562b05fc67901d",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/claude/prompt-1-excerpt.txt",
+      "published_sha256": "f45b01db935a0aaa868483fe6817b94cc9ca394e1b09a8cfc45ffeed6645f278",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/claude/residual_lift_control.py",
+      "published_sha256": "d570eee9e332a12d006029fcd1b6154145d43f2390d4e2709acfa0ab3ecbfe89",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/AUDIT.md",
+      "published_sha256": "939720477a0927ccb3d9687c40b34b90dd508c5e0e6626160e651ade22a790ea",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_candidate_public.py",
+      "published_sha256": "0e9df29cb729992d2187dad6e565cc1aab2db94d62308692608876a4e0ff557c",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_toy.py",
+      "published_sha256": "a2baa965ecda7fec94e40b1a9d927020384577da8efc3548a1c6143f42b6c584",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/claude_script_rerun.txt",
+      "published_sha256": "3c89b9830acfc1f15bcf46cd6e33e451b7eccdf0a72a9720a2b504642411cef7",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/residual_candidate.json",
+      "published_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-24/independent/toy_result.json",
+      "published_sha256": "9be4f46b5b2e15003f06ca40e4a1814374e9044b6599be86dfe1c4388d1f471e",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-residual-lift.md",
+      "published_sha256": "0fad724f41a2651e54c476862cb80ee4415fefb886b33f3bb4b3b8938d2bc470",
+      "modified": false,
+      "kind": "2026-10-24 source/audit/editorial record",
+      "source_provenance": "history/2026-10-24/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3628,6 +3748,13 @@
       "files_added": 13,
       "date_provenance": "history/2026-10-23/PROVENANCE.json",
       "integration_edits": "Short proof-gate note and actual source records with static audit; prior dated history preserved."
+    },
+    {
+      "date": "2026-10-24",
+      "base_commit": "8d395447a3d5a26d31940e25e7eef344ffc10aa6",
+      "files_added": 16,
+      "date_provenance": "history/2026-10-24/PROVENANCE.json",
+      "integration_edits": "Residual-lift note, known candidate, independent audit and generated-script semantic erratum; prior history preserved."
     }
   ],
   "presentation_revisions": [

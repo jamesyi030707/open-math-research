@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-24",
+  "base_commit": "8d395447a3d5a26d31940e25e7eef344ffc10aa6",
+  "scope": "Every changed and new UTF-8 file; historical dated artifacts preserved.",
+  "review": "Each file checked for private identifiers, accounts, private conversation URLs, credentials, private paths, screenshots, hidden reasoning and unrelated material.",
+  "checks": [
+    "Exact question excerpt",
+    "Original downloaded script unchanged; rank-label erratum separate",
+    "Independent fixed-rank toy enumeration and candidate enumeration",
+    "JSON parse, relative links, file hashes",
+    "No previous dated artifacts changed"
+  ],
+  "files": [
+    {
+      "path": "ERRATA.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "FRONTIERS.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "INDEX.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "PROVENANCE.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "README.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "REPRODUCING.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "SAFETY_MANIFEST.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "SOURCES.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "archive/README.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/EXCHANGES.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/LIMITATIONS.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/PROVENANCE.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/PUBLIC_SAFETY_CHECK.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/README.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/SHA256SUMS.txt",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/SOURCES.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/claude/prompt-1-excerpt.txt",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/claude/residual_lift_control.py",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/AUDIT.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_candidate_public.py",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_toy.py",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/claude_script_rerun.txt",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/residual_candidate.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "history/2026-10-24/independent/toy_result.json",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    },
+    {
+      "path": "notes/codes-residual-lift.md",
+      "review": "Public mathematical evidence, source attribution or editorial navigation only."
+    }
+  ]
+}

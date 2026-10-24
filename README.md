@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[10月24日：从残余码重新组织问题](notes/codes-residual-lift.md) · 精确提升条件、一个已知残余候选的完整重量分布；无新目标码或排除结论。
+
 [10月23日短记：证明链的前置门槛](notes/codes-proof-pipeline-gate.md) · 本次未找到可用的兼容工具组合，未运行控制实例或完整模型。
 
 ### [纠错码：两个谱真的相容，为什么仍没有加强？](notes/codes-pairwise-compatibility.md)

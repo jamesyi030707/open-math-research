@@ -1,7 +1,7 @@
 {
-  "archive_date": "2026-10-23",
-  "total_files_including_manifest_and_checksums": 449,
-  "selected_historical_artifacts_and_dialogue_excerpts": 418,
+  "archive_date": "2026-10-24",
+  "total_files_including_manifest_and_checksums": 465,
+  "selected_historical_artifacts_and_dialogue_excerpts": 433,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
   "excluded_categories": [
@@ -94,9 +94,18 @@
       "scope": "Availability inspection stopped before controls. No certificate, full solve, profile elimination, code construction or novelty claim.",
       "source_preservation": "Actual script and visible final response preserved; log PATH explicitly redacted, prompt excerpt labelled. Prior dated history unchanged.",
       "verification": "Static audit only, no toolchain/control/model run."
+    },
+    {
+      "date": "2026-10-24",
+      "files_added": 16,
+      "files_changed_or_added": 27,
+      "date_safety_record": "history/2026-10-24/PUBLIC_SAFETY_CHECK.json",
+      "scope": "Classical exact residual-lift reformulation and one known residual candidate. No target code, global exclusion or improved bound.",
+      "source_preservation": "Generated script unchanged. Exact question excerpt labelled. Independent rerun log distinguished from original. Prior dated artifacts untouched.",
+      "verification": "Independent toy and residual enumeration; mathematical proof and rank-semantic erratum."
     }
   ],
-  "curated_reader_documents": 13,
+  "curated_reader_documents": 14,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

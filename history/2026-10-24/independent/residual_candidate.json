@@ -1,0 +1,33 @@
+{
+  "source": "https://www.codetables.de/BKLC/BKLC.php?k=10&n=37&q=2",
+  "source_rank": 12,
+  "source_distance": 14,
+  "shortened_coordinates_1based": [
+    38,
+    39
+  ],
+  "length": 37,
+  "dimension": 10,
+  "basis_hex": [
+    "0x17e7146801",
+    "0x6293dc808",
+    "0xf714c2017",
+    "0x35dfc802d",
+    "0xb1f3485c",
+    "0x63e6a0ae",
+    "0x65be14f",
+    "0x196fc233",
+    "0x3e690ce6",
+    "0xcb73897"
+  ],
+  "weight_distribution": {
+    "0": 1,
+    "14": 160,
+    "16": 142,
+    "18": 320,
+    "20": 160,
+    "22": 160,
+    "24": 80,
+    "32": 1
+  }
+}

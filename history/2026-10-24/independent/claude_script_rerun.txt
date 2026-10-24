@@ -1,0 +1,5 @@
+random (A,B) pairs: 120000; criterion <=> d(C)>=3 agree: 120000/120000; criterion true: 479, false: 119521
+Hamming control: criterion: True | direct min distance: 3 | residual B dimension 3, min weight 2
+   weight-2 residual words: 6 | wt(uA) in {1,2} for all of them: True | parity wt(uA)=u.rho (mod 2) for all u: True
+   A_3(C) = 7  >= 1 + A_2(B) = 7 (each weight-t_min residual word gives one weight-w and one weight-(w+1) word)
+negative control (one flipped bit of A): criterion: False | direct min distance: 2 | some weight-2 word has wt(uA) outside {1,2}: True

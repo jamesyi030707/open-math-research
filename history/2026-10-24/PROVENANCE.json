@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-24",
+  "base_commit": "8d395447a3d5a26d31940e25e7eef344ffc10aa6",
+  "base_tree": "ae39aa804b654df33cb56fef398acf3fdbdbd1af",
+  "scope": "Classical exact residual-lift reformulation and one known residual candidate. No target code, global exclusion or improved bound.",
+  "record_coverage": "One actual question excerpt and downloaded script. Response interrupted before final prose. Independent rerun is not an original log download.",
+  "artifacts": [
+    {
+      "path": "history/2026-10-24/EXCHANGES.md",
+      "published_sha256": "2b2d3c7e1a2388dd2cb2b49abd8e8db75d9d7c6d60d99d118a54625ad553c04f",
+      "bytes": 954,
+      "origin": "Editorial research record, not a dialogue quotation."
+    },
+    {
+      "path": "history/2026-10-24/LIMITATIONS.md",
+      "published_sha256": "a7b2620296acc886c416b7ec681ce3b0253fc68fd07963c7496df7ba8ad6b566",
+      "bytes": 1420,
+      "origin": "Editorial research record, not a dialogue quotation."
+    },
+    {
+      "path": "history/2026-10-24/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "da1a2416d610fe935883cafba7d4106d89a53090d9dd7c8b9cbc2d6e06f41ba9",
+      "bytes": 4907,
+      "origin": "Editorial research record, not a dialogue quotation."
+    },
+    {
+      "path": "history/2026-10-24/README.md",
+      "published_sha256": "6bfe23f34ef5259779056209f647df29fb5ecec9cad485a1976c2c6bfcae2cef",
+      "bytes": 876,
+      "origin": "Editorial research record, not a dialogue quotation."
+    },
+    {
+      "path": "history/2026-10-24/SOURCES.md",
+      "published_sha256": "efb222cc243e0db766c48a81bb099ec13aca1c02046e131843562b05fc67901d",
+      "bytes": 1169,
+      "origin": "Editorial research record, not a dialogue quotation."
+    },
+    {
+      "path": "history/2026-10-24/claude/prompt-1-excerpt.txt",
+      "published_sha256": "f45b01db935a0aaa868483fe6817b94cc9ca394e1b09a8cfc45ffeed6645f278",
+      "bytes": 231,
+      "modified": true,
+      "origin": "Exact mathematical excerpt of actual question, omissions labelled; no full operational prompt published."
+    },
+    {
+      "path": "history/2026-10-24/claude/residual_lift_control.py",
+      "published_sha256": "d570eee9e332a12d006029fcd1b6154145d43f2390d4e2709acfa0ab3ecbfe89",
+      "bytes": 3756,
+      "original_sha256": "d570eee9e332a12d006029fcd1b6154145d43f2390d4e2709acfa0ab3ecbfe89",
+      "modified": false,
+      "origin": "Actual downloaded generated script. No final prose response was obtained."
+    },
+    {
+      "path": "history/2026-10-24/independent/AUDIT.md",
+      "published_sha256": "939720477a0927ccb3d9687c40b34b90dd508c5e0e6626160e651ade22a790ea",
+      "bytes": 4612,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_candidate_public.py",
+      "published_sha256": "0e9df29cb729992d2187dad6e565cc1aab2db94d62308692608876a4e0ff557c",
+      "bytes": 1238,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    },
+    {
+      "path": "history/2026-10-24/independent/audit_toy.py",
+      "published_sha256": "a2baa965ecda7fec94e40b1a9d927020384577da8efc3548a1c6143f42b6c584",
+      "bytes": 1027,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    },
+    {
+      "path": "history/2026-10-24/independent/claude_script_rerun.txt",
+      "published_sha256": "3c89b9830acfc1f15bcf46cd6e33e451b7eccdf0a72a9720a2b504642411cef7",
+      "bytes": 567,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    },
+    {
+      "path": "history/2026-10-24/independent/residual_candidate.json",
+      "published_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "bytes": 558,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    },
+    {
+      "path": "history/2026-10-24/independent/toy_result.json",
+      "published_sha256": "9be4f46b5b2e15003f06ca40e4a1814374e9044b6599be86dfe1c4388d1f471e",
+      "bytes": 71,
+      "origin": "Independent mathematical audit or derived-basis/control computation; not a Claude prose response or original run log."
+    }
+  ]
+}

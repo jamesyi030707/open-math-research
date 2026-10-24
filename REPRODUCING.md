@@ -102,3 +102,7 @@ Python 3标准库，无安装：
 ## 2026-10-23：仅审阅，不复跑环境探测
 
 本日没有数学实验或可重放证书。[实际探测脚本](history/2026-10-23/claude/proof_gate_inspect.sh)仅保留历史证据，不是建议执行入口；其全盘搜索、被掩盖状态及额外网络探测见[审阅](history/2026-10-23/independent/AUDIT.md)。公开日志仅PATH值脱敏。没有重跑原脚本，也没有测试任何候选证明工具链。
+
+## 2026-10-24：残余候选和玩具控制
+
+运行 `python history/2026-10-24/independent/audit_candidate_public.py` 与 `python history/2026-10-24/independent/audit_toy.py`。均只用标准库，前者枚举派生基1024字，后者穷举64个玩具矩阵，不执行目标搜索。原生成脚本的120000次随机控制已经独立重跑一次；无需扩大，须先读降秩语义勘误。来源矩阵的缩短另行复核过，但公开可移植脚本只验证派生基。[审阅](history/2026-10-24/independent/AUDIT.md)。
