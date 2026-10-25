@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-24",
+  "archive_date": "2026-10-25",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "1be9f6aaf6f73bb24a4539c0af5ebe4faf1d7e8954c54ebc3273e08e4a47b51d",
+      "published_sha256": "395d6cae34a870dd59e2525f4dd42ee195d644a6c99b6c4a2e99ce4393934eaf",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2127,7 +2127,7 @@
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "8917a2d62aa72bdc256744c8b4e8d18058d67f8604aabb79fb85416b219f2980",
+      "published_sha256": "03512cbd617d9f78d87a8d7621463dec19c2a4452ec47ddb6e933aae0aff306b",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2146,7 +2146,7 @@
     },
     {
       "path": "README.md",
-      "published_sha256": "cf83ac5f8605416e9c56a0529f6af97f03e22002db47a68df84abc9b77023820",
+      "published_sha256": "6279e0ea204148215b1cab9faf9ee0271d1599b763e6167afe6514b3d7646e3f",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -3172,7 +3172,7 @@
     },
     {
       "path": "FRONTIERS.md",
-      "published_sha256": "d3a9c847bf3b16c1c9d0ebb260f9f19b81326289afaa982af260d0fc42301bca",
+      "published_sha256": "06c408cb6e70f61a1f936b6d8f7c2c65b9a67bef100294a11d83f5955c264249",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
@@ -3185,7 +3185,7 @@
     },
     {
       "path": "NEXT_RESEARCH_PROPOSAL.md",
-      "published_sha256": "8a6d5fc961c1e6b8c76d6d166c43e3201b6ffd0a0123be8f9597707ce3797b19",
+      "published_sha256": "aa71a8291086ed9d900074a3b6db3525509bc67ec6744e7a929b32ba4b81b4e0",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
@@ -3608,6 +3608,55 @@
       "modified": false,
       "kind": "2026-10-24 source/audit/editorial record",
       "source_provenance": "history/2026-10-24/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-quadratic-rigidity.md",
+      "published_sha256": "40b7c28aca9d10f1722732262e3505264c61735fcf6f7aadc659afc97da1eaa7",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/README.md",
+      "published_sha256": "f7058cb63b2ba15b32f58a6e40223d3392202962ea459f555b59ffbf576a7cc2",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/verify_quadratic_rigidity.js",
+      "published_sha256": "380078272de5b10e16f7ab9a575534b15cef3afea914d5c0d54ea8cdd918c0b7",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/result.json",
+      "published_sha256": "e78b648b6ccc422b55223f2dbf7c2d133c58953190b2f86c476142c1331510eb",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/AUDIT.md",
+      "published_sha256": "f7e3d7eac72006fcf36fd0adab9d25ac6e4fc5f539529adde78ce8ecac5df314",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/SOURCES.md",
+      "published_sha256": "34df7e620e3aac36961bb883f3c50261a7278d4fdc4f642150417967f190c60d",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-25/PROVENANCE.json",
+      "published_sha256": "977d608b54ab263aaabc2e3dc1f99e50d7260de6c95f2578a7ee85ecc9166d59",
+      "modified": false,
+      "kind": "2026-10-25 independent exact algebra and editorial record",
+      "source_provenance": "history/2026-10-25/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3755,6 +3804,13 @@
       "files_added": 16,
       "date_provenance": "history/2026-10-24/PROVENANCE.json",
       "integration_edits": "Residual-lift note, known candidate, independent audit and generated-script semantic erratum; prior history preserved."
+    },
+    {
+      "date": "2026-10-25",
+      "base_commit": "9f9e40c5159130d80a769809d26e6a3bcf6d2db4",
+      "files_added": 7,
+      "date_provenance": "history/2026-10-25/PROVENANCE.json",
+      "integration_edits": "Candidate-specific quadratic rigidity; no new dialogue, no target code, all prior dated artifacts preserved."
     }
   ],
   "presentation_revisions": [

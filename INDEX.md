@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [最小字的二次型刚性](notes/codes-quadratic-rigidity.md) | 紧约束能锁定何种全局结构？ | 秩55证书迫使候选提升的偶子码双偶；不是旧固定E |
 | [残余码提升](notes/codes-residual-lift.md) | 已知长度37残余能否提升？ | 精确条件与重量分布；两个投影核分支待解 |
 | [证明链的前置门槛](notes/codes-proof-pipeline-gate.md) | 能否取得并核验证书？ | 可用性检查停止；无新数学结论，原日志局限明确 |
 | [两谱兼容性的边界](notes/codes-pairwise-compatibility.md) | 精确耦合是否真的加强模型？ | 卷积恒等式冗余；4×4局部对照与显式八谱失败位置 |

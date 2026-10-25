@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-25",
+  "base_commit": "9f9e40c5159130d80a769809d26e6a3bcf6d2db4",
+  "input": "history/2026-10-24/independent/residual_candidate.json",
+  "execution": "Exact JavaScript BigInt computation; published verifier body executed in a JavaScript isolate, not a Node CLI run.",
+  "scope": "Specific residual only; necessary doubly-even subcode condition. No new Claude exchange or target-code conclusion.",
+  "artifacts": [
+    {
+      "path": "notes/codes-quadratic-rigidity.md",
+      "sha256": "40b7c28aca9d10f1722732262e3505264c61735fcf6f7aadc659afc97da1eaa7",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "history/2026-10-25/README.md",
+      "sha256": "f7058cb63b2ba15b32f58a6e40223d3392202962ea459f555b59ffbf576a7cc2",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "history/2026-10-25/verify_quadratic_rigidity.js",
+      "sha256": "380078272de5b10e16f7ab9a575534b15cef3afea914d5c0d54ea8cdd918c0b7",
+      "kind": "independently written verifier"
+    },
+    {
+      "path": "history/2026-10-25/result.json",
+      "sha256": "e78b648b6ccc422b55223f2dbf7c2d133c58953190b2f86c476142c1331510eb",
+      "kind": "finite exact output"
+    },
+    {
+      "path": "history/2026-10-25/AUDIT.md",
+      "sha256": "f7e3d7eac72006fcf36fd0adab9d25ac6e4fc5f539529adde78ce8ecac5df314",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "history/2026-10-25/SOURCES.md",
+      "sha256": "34df7e620e3aac36961bb883f3c50261a7278d4fdc4f642150417967f190c60d",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "README.md",
+      "sha256": "6279e0ea204148215b1cab9faf9ee0271d1599b763e6167afe6514b3d7646e3f",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "INDEX.md",
+      "sha256": "03512cbd617d9f78d87a8d7621463dec19c2a4452ec47ddb6e933aae0aff306b",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "archive/README.md",
+      "sha256": "395d6cae34a870dd59e2525f4dd42ee195d644a6c99b6c4a2e99ce4393934eaf",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "sha256": "aa71a8291086ed9d900074a3b6db3525509bc67ec6744e7a929b32ba4b81b4e0",
+      "kind": "independent editorial or audit record"
+    },
+    {
+      "path": "FRONTIERS.md",
+      "sha256": "06c408cb6e70f61a1f936b6d8f7c2c65b9a67bef100294a11d83f5955c264249",
+      "kind": "independent editorial or audit record"
+    }
+  ]
+}
