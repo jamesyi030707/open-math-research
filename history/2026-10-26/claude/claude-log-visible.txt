@@ -1,0 +1,23 @@
+1
+B: sum t = 18944 = 512*37: True | sum (t-18.5)^2 = 9472 -> E_B = 0 (equal-column pairs), z_B = 0
+2
+aggregate candidates after first moment & ranges: 101098
+3
+  after dual j<=2: 4016 survive
+4
+  after dual j<=3: 374 survive
+5
+  after dual j<=4: 374 survive
+6
+  after dual j<=14: 374 survive
+7
+aggregates passing ALL exact dual integrality/nonnegativity/containment (j=0..64): 0
+8
+aggregates tried by ILP finder: 0
+9
+no fully consistent realization found within the finder budget (this is NOT an exclusion unless no aggregate survived)
+10
+process time 0.3s
+11
+ 
+Claude 已完成回复

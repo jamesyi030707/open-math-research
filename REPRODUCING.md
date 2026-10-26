@@ -106,3 +106,8 @@ Python 3标准库，无安装：
 ## 2026-10-24：残余候选和玩具控制
 
 运行 `python history/2026-10-24/independent/audit_candidate_public.py` 与 `python history/2026-10-24/independent/audit_toy.py`。均只用标准库，前者枚举派生基1024字，后者穷举64个玩具矩阵，不执行目标搜索。原生成脚本的120000次随机控制已经独立重跑一次；无需扩大，须先读降秩语义勘误。来源矩阵的缩短另行复核过，但公开可移植脚本只验证派生基。[审阅](history/2026-10-24/independent/AUDIT.md)。
+
+
+## 2026-10-26：枚举式精确核验
+
+在 `history/2026-10-26` 运行 `python verify_enumerator_witness.py` 和 `python independent_polynomial_audit.py`。均只需Python标准库；前者输出完整JSON，后者另算全部变换系数并核查存档。候选生成器不是核验依赖。

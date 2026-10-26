@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[10月26日：三组分布都通过，为什么仍不是码？](notes/codes-enumerator-boundary.md) · 精确整数见证通过158个普通MacWilliams系数检验；这些必要条件不能排除核维数1分支。
+
 [10月25日：160个最小字锁定二次型](notes/codes-quadratic-rigidity.md) · 对一个残余候选，任何提升的偶子码都必须双偶；没有新构造或排除。
 
 [10月24日：从残余码重新组织问题](notes/codes-residual-lift.md) · 精确提升条件、一个已知残余候选的完整重量分布；无新目标码或排除结论。
@@ -56,6 +58,7 @@ J=92 的逆向节点从约 10.96 亿降到 2,200 万，同轮计时仍慢于正�
 [阅读索引](INDEX.md) · [原始记录与勘误](archive/README.md)
 
 署名、引用与协作说明见 [来源](SOURCES.md)。自有代码与文字分别按 [MIT](LICENSE-CODE-MIT.txt) 与 [CC BY 4.0](LICENSE-DOCS-CC-BY-4.0.md) 开放；具体权利范围见 [许可说明](LICENSING.md)。
+
 
 
 

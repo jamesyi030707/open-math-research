@@ -3657,6 +3657,153 @@
       "modified": false,
       "kind": "2026-10-25 independent exact algebra and editorial record",
       "source_provenance": "history/2026-10-25/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-enumerator-boundary.md",
+      "published_sha256": "2bbfeccc59afdfd5c644dddbaed38632e6d078a116fea0574057fe5b3c7750d1",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "a9a67634f2e43a29c378e6dc9056dee42dc0eff89153563105e1fe8f4da79164",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/SHA256SUMS.txt",
+      "published_sha256": "a5f42a9f147c84a5fdac74fa6579efd23039755ed45c06dd153df672625b6784",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/PROVENANCE.json",
+      "published_sha256": "81348bbdf7fd9bf34d5139119d5330ffc6b583e186796c12c23c3a0ec5dbb571",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/find_candidate.py",
+      "published_sha256": "b4221f5932152604f2738fe0e4679266a6659b738e114fe2f11f04223c39bc3b",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/verify_enumerator_witness.py",
+      "published_sha256": "343085eab108a3f2d8b1918d55f7ba65c6b720e7b53360acf3bdc25ca9877727",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/README.md",
+      "published_sha256": "f0f2ec4f4fc0e206b7329c60c58ee7a281a0179fa8b7494783b267da77b2fcda",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude_fixed_witness_regression.json",
+      "published_sha256": "ebd1629134b77aadbbb6eecfec5920314263208a66ed3e367adb7626382eef57",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/AUDIT.md",
+      "published_sha256": "ec9db9eb130894a1e158a1aa7394f47eac61d1c3e2f9964058a703eba2a93c71",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/independent_polynomial_audit.py",
+      "published_sha256": "3ade731c095dbd2629a12dcee799f1f0c1870f6831b5d4608e37e5f8f84f164a",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/recovered_reply_excerpt.md",
+      "published_sha256": "0a70ebe7840c013ff1eb28c1b1f09d3d968a6aef8bd408b73842a4d0155fc91f",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/LIMITATIONS.md",
+      "published_sha256": "30eb20d261b1a06e0ead24191a2293ce41c69d7a2d18ad27e4e9f2302edecfb4",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/EXCHANGES.md",
+      "published_sha256": "fea43695e2f0aab083285e54a5ee50504e129eb12b49212295ec505a1c63d0d8",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/SOURCES.md",
+      "published_sha256": "f33190359f594106d68554b0b0f01a6f3e8a8d71783e1156f1c670ae7453b5b7",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/independent_audit.json",
+      "published_sha256": "497ee1d1acd685bc6efe7c8e82049abca64ce934a47faf74f1dab52d25b19757",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/enumerator_witness.json",
+      "published_sha256": "d34a1b15256226fdd8ddf427634d6712cbf71542f8d12c33a5fad0ed40642a0e",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude/claude-aggregate-corrected.py",
+      "published_sha256": "acb7b89be620bcb5e60dbe1a382732845da51c75eb926c617af10f98016e6c1f",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude/claude-script-derived.py",
+      "published_sha256": "d7a8dace67edf8279c38e96f5e00f232cef9b6eb79f37089e775c672b691432d",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude/corrected-aggregate-log.txt",
+      "published_sha256": "01e340bd27b6317a00d4328bd91516505e76b2b4a84b3d464c42d53194135056",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude/claude-script-visible.txt",
+      "published_sha256": "b5b28409168570bb153e7e6de9c1604eeac7a2f666d13d4a836c28b2b9901a7e",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-26/claude/claude-log-visible.txt",
+      "published_sha256": "9e9577345b1a81d8529adc48a2feb1b4b59128b109bdfdc4d3a49dc1b10076ba",
+      "modified": false,
+      "kind": "2026-10-26 formal enumerator evidence and editorial record",
+      "source_provenance": "history/2026-10-26/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3811,6 +3958,13 @@
       "files_added": 7,
       "date_provenance": "history/2026-10-25/PROVENANCE.json",
       "integration_edits": "Candidate-specific quadratic rigidity; no new dialogue, no target code, all prior dated artifacts preserved."
+    },
+    {
+      "date": "2026-10-26",
+      "base_commit": "2b70637f0ce66bb8d77ed416781b39cfe25e77f1",
+      "files_added": 21,
+      "date_provenance": "history/2026-10-26/PROVENANCE.json",
+      "integration_edits": "Formal enumerator witness and bounded dimension-error correction; all prior dated artifacts unchanged."
     }
   ],
   "presentation_revisions": [

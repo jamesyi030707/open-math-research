@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-26",
+  "base_commit": "2b70637f0ce66bb8d77ed416781b39cfe25e77f1",
+  "scope": "Fixed residual kernel-one formal enumerator witness; no code construction or exclusion.",
+  "dialogue": "One new prompt; generated code/log but no final prose. Previous evening reply recovered separately. Independent witness not reviewed by Claude.",
+  "source_capture": "DOM-visible editor text with line numbers; derived code strips display formatting; not byte-verified download.",
+  "verification": "All158 coefficients verified in exact arithmetic by two separate implementations; corrected aggregate prefix output is a separate limited reproduction, not full-script certification.",
+  "candidate_generation": "SciPy1.17.0 numerical MILP,20-second per-call limit; exact certificate independent of finder.",
+  "artifacts": [
+    {
+      "path": "AUDIT.md",
+      "sha256": "ec9db9eb130894a1e158a1aa7394f47eac61d1c3e2f9964058a703eba2a93c71"
+    },
+    {
+      "path": "EXCHANGES.md",
+      "sha256": "fea43695e2f0aab083285e54a5ee50504e129eb12b49212295ec505a1c63d0d8"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "30eb20d261b1a06e0ead24191a2293ce41c69d7a2d18ad27e4e9f2302edecfb4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f0f2ec4f4fc0e206b7329c60c58ee7a281a0179fa8b7494783b267da77b2fcda"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "f33190359f594106d68554b0b0f01a6f3e8a8d71783e1156f1c670ae7453b5b7"
+    },
+    {
+      "path": "claude/claude-aggregate-corrected.py",
+      "sha256": "acb7b89be620bcb5e60dbe1a382732845da51c75eb926c617af10f98016e6c1f"
+    },
+    {
+      "path": "claude/claude-log-visible.txt",
+      "sha256": "9e9577345b1a81d8529adc48a2feb1b4b59128b109bdfdc4d3a49dc1b10076ba"
+    },
+    {
+      "path": "claude/claude-script-derived.py",
+      "sha256": "d7a8dace67edf8279c38e96f5e00f232cef9b6eb79f37089e775c672b691432d"
+    },
+    {
+      "path": "claude/claude-script-visible.txt",
+      "sha256": "b5b28409168570bb153e7e6de9c1604eeac7a2f666d13d4a836c28b2b9901a7e"
+    },
+    {
+      "path": "claude/corrected-aggregate-log.txt",
+      "sha256": "01e340bd27b6317a00d4328bd91516505e76b2b4a84b3d464c42d53194135056"
+    },
+    {
+      "path": "claude_fixed_witness_regression.json",
+      "sha256": "ebd1629134b77aadbbb6eecfec5920314263208a66ed3e367adb7626382eef57"
+    },
+    {
+      "path": "enumerator_witness.json",
+      "sha256": "d34a1b15256226fdd8ddf427634d6712cbf71542f8d12c33a5fad0ed40642a0e"
+    },
+    {
+      "path": "find_candidate.py",
+      "sha256": "b4221f5932152604f2738fe0e4679266a6659b738e114fe2f11f04223c39bc3b"
+    },
+    {
+      "path": "independent_audit.json",
+      "sha256": "497ee1d1acd685bc6efe7c8e82049abca64ce934a47faf74f1dab52d25b19757"
+    },
+    {
+      "path": "independent_polynomial_audit.py",
+      "sha256": "3ade731c095dbd2629a12dcee799f1f0c1870f6831b5d4608e37e5f8f84f164a"
+    },
+    {
+      "path": "recovered_reply_excerpt.md",
+      "sha256": "0a70ebe7840c013ff1eb28c1b1f09d3d968a6aef8bd408b73842a4d0155fc91f"
+    },
+    {
+      "path": "verify_enumerator_witness.py",
+      "sha256": "343085eab108a3f2d8b1918d55f7ba65c6b720e7b53360acf3bdc25ca9877727"
+    }
+  ]
+}

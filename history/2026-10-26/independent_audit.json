@@ -1,0 +1,11 @@
+{
+  "result": "pass",
+  "independent_method": "Direct repeated polynomial multiplication (1+x)^(n-w)(1-x)^w; no publisher import",
+  "checked_coefficients": 158,
+  "category_and_basis_check": "Independent xor enumeration confirms h=1008 and all six pair counts; all category distance/congruence/count constraints pass",
+  "scope": "Formal relaxation witness only, not code existence or general nonexistence",
+  "sha256": {
+    "verify_enumerator_witness.py": "343085eab108a3f2d8b1918d55f7ba65c6b720e7b53360acf3bdc25ca9877727",
+    "enumerator_witness.json": "d34a1b15256226fdd8ddf427634d6712cbf71542f8d12c33a5fad0ed40642a0e"
+  }
+}

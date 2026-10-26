@@ -111,6 +111,14 @@
       "scope": "Candidate-specific doubly-even even subcode necessity, not old fixed E; no new bound or construction.",
       "verification": "Independent exact JavaScript algebra, 160x55 rank certificate, all1024 messages, publication privacy/link review.",
       "source_preservation": "All prior dated artifacts unchanged. No new dialogue; parameter table freshness explicitly limited."
+    },
+    {
+      "date": "2026-10-26",
+      "files_added": 21,
+      "files_changed_or_added": 31,
+      "scope": "No code construction; exact formal enumerator relaxation witness.",
+      "verification": "158 transform coefficients, basis/h-pairs, independent polynomial audit, visible-script typo regression and bounded corrected prefix.",
+      "source_preservation": "Prior dated artifacts unchanged; original visible capture retained alongside labelled derived copy."
     }
   ],
   "curated_reader_documents": 14,

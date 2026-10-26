@@ -1,0 +1,13 @@
+{
+  "source": "Visible script text, not byte-verified download",
+  "line37_original_predicate": false,
+  "line37_corrected_predicate": true,
+  "dual_sum": 18014398509481984,
+  "correct_dual_dimension": 54,
+  "fixed_witness_only": true,
+  "full_sweep_run": false,
+  "E_A": "0",
+  "X": "4",
+  "Adual2": 0,
+  "Ddual2": 4
+}
