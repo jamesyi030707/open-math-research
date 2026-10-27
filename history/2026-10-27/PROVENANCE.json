@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-27",
+  "base_commit": "aa8a16003e861ecb365a6d143d2d99a08040f29e",
+  "scope": "A negative split-dual coefficient excludes only the fixed prior joint enumerator, not a whole kernel branch or target code.",
+  "dialogue": "One prompt produced visible code/log but was interrupted by free quota. Independent split result was not sent to Claude.",
+  "source_capture": "DOM-rendered visible artifacts; not byte-verified original download. UI whitespace preserved in raw capture.",
+  "verification": "1064 exact integer coefficients by separate binomial and polynomial implementations; all65 diagonal sums reproduce prior ordinary dual. Fixed eight-label toy verified exactly, no original toy search/random reproduction.",
+  "budget": "Fixed witness only, two replays about0.11 seconds combined; no solver or target search.",
+  "artifacts": [
+    {
+      "path": "AUDIT.md",
+      "sha256": "5355503d92d613bbdb54e2d7094acd5d5d6e22024d33811695f9748db05061b9"
+    },
+    {
+      "path": "EXCHANGES.md",
+      "sha256": "b2d169b1d83163b31724ac3f6a5da738346238528cc918936d07402b13d39432"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "d56a64af08211adb78007cd2fcd9b7bf4bebb726d21d2340c82465453ada85f6"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a82575127cee6eec3bbbc5bf3672ddf2c11f1bceaa68b6101717c1889801243d"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "e1121e10827335cdab820cc14649800ea0a582b5a15bd0f07645e30cc1f668a3"
+    },
+    {
+      "path": "audit_split.py",
+      "sha256": "85f6c5d4bd901ae7b784cea9c80455d793f13a22d15831ccbd839de67256da2e"
+    },
+    {
+      "path": "check_toy.py",
+      "sha256": "01047e843dafe020c819a42ecb6626daf8c3c2a3d7f0b362c623ef2eb98e5668"
+    },
+    {
+      "path": "claude/claude-fourier-visible.log",
+      "sha256": "737663a22cd154cb8d83e58e6807fc157d51d8475b18267784bfc1112ffd9b86"
+    },
+    {
+      "path": "claude/claude-fourier-visible.py",
+      "sha256": "84ab7df8be091f4e9bee9999cd1b4e34a10bbd56c9f89078a9b718d8f19df416"
+    },
+    {
+      "path": "result.json",
+      "sha256": "18fb4a01fabfa366bca45b2a2349c4e491f4e728c0b14a7da55dc2f804b5277d"
+    },
+    {
+      "path": "split_check.py",
+      "sha256": "0f410a125dbe6b89c3ec1db668500ded185a9bf8c9ef75e361a34f2542b4736b"
+    },
+    {
+      "path": "split_result.json",
+      "sha256": "dcffb3252c826b65a291578f166549434f257f1096a5e532f93120be45e0a984"
+    },
+    {
+      "path": "toy_result.json",
+      "sha256": "6aa430a51eb0d87e59ed839a85be6c081cd85d2a26394d91c112be62cfceb416"
+    }
+  ]
+}

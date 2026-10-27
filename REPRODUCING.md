@@ -111,3 +111,7 @@ Python 3标准库，无安装：
 ## 2026-10-26：枚举式精确核验
 
 在 `history/2026-10-26` 运行 `python verify_enumerator_witness.py` 和 `python independent_polynomial_audit.py`。均只需Python标准库；前者输出完整JSON，后者另算全部变换系数并核查存档。候选生成器不是核验依赖。
+
+## 2026-10-27：固定联合分布的分割检验
+
+运行 `python history/2026-10-27/split_check.py history/2026-10-26/enumerator_witness.json`，以及 `python history/2026-10-27/audit_split.py`。均为标准库、单一固定点、1064个精确系数，无搜索。`check_toy.py`只复核两个八项标签例子。详见[当日记录](history/2026-10-27/README.md)。

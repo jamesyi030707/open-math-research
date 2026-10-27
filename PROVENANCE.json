@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-25",
+  "archive_date": "2026-10-27",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -3660,10 +3660,11 @@
     },
     {
       "path": "notes/codes-enumerator-boundary.md",
-      "published_sha256": "2bbfeccc59afdfd5c644dddbaed38632e6d078a116fea0574057fe5b3c7750d1",
-      "modified": false,
+      "published_sha256": "49e4ae5225b5e3bebb82159b9233c75c825447f79acf45c293da88b7efeb2ad7",
+      "modified": true,
       "kind": "2026-10-26 formal enumerator evidence and editorial record",
-      "source_provenance": "history/2026-10-26/PROVENANCE.json"
+      "source_provenance": "history/2026-10-26/PROVENANCE.json",
+      "change_note": "2026-10-27 forward-link annotation; original dated evidence unchanged."
     },
     {
       "path": "history/2026-10-26/PUBLIC_SAFETY_CHECK.json",
@@ -3804,6 +3805,125 @@
       "modified": false,
       "kind": "2026-10-26 formal enumerator evidence and editorial record",
       "source_provenance": "history/2026-10-26/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-split-weight-obstruction.md",
+      "published_sha256": "e85aa38a807583b9e7be559bc3049e92be3461e7b5b5425764386ce5f8915fca",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "f5a8d057034072d1d1d67c5a5bfee18b536d93e4f50c97923364742aac786ea0",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/SHA256SUMS.txt",
+      "published_sha256": "786d900be888f5fb5d11be3b78ea225408028c98fd3f3e1cab2d4ac0ebf95438",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/toy_result.json",
+      "published_sha256": "6aa430a51eb0d87e59ed839a85be6c081cd85d2a26394d91c112be62cfceb416",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/split_check.py",
+      "published_sha256": "0f410a125dbe6b89c3ec1db668500ded185a9bf8c9ef75e361a34f2542b4736b",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/PROVENANCE.json",
+      "published_sha256": "a4e56862363108ca6298e59a262a6c0f2b39f5ab589d51f14661feb27827ad39",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/README.md",
+      "published_sha256": "a82575127cee6eec3bbbc5bf3672ddf2c11f1bceaa68b6101717c1889801243d",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/AUDIT.md",
+      "published_sha256": "5355503d92d613bbdb54e2d7094acd5d5d6e22024d33811695f9748db05061b9",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/audit_split.py",
+      "published_sha256": "85f6c5d4bd901ae7b784cea9c80455d793f13a22d15831ccbd839de67256da2e",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/result.json",
+      "published_sha256": "18fb4a01fabfa366bca45b2a2349c4e491f4e728c0b14a7da55dc2f804b5277d",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/LIMITATIONS.md",
+      "published_sha256": "d56a64af08211adb78007cd2fcd9b7bf4bebb726d21d2340c82465453ada85f6",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/EXCHANGES.md",
+      "published_sha256": "b2d169b1d83163b31724ac3f6a5da738346238528cc918936d07402b13d39432",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/SOURCES.md",
+      "published_sha256": "e1121e10827335cdab820cc14649800ea0a582b5a15bd0f07645e30cc1f668a3",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/check_toy.py",
+      "published_sha256": "01047e843dafe020c819a42ecb6626daf8c3c2a3d7f0b362c623ef2eb98e5668",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/split_result.json",
+      "published_sha256": "dcffb3252c826b65a291578f166549434f257f1096a5e532f93120be45e0a984",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/claude/claude-fourier-visible.log",
+      "published_sha256": "737663a22cd154cb8d83e58e6807fc157d51d8475b18267784bfc1112ffd9b86",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-27/claude/claude-fourier-visible.py",
+      "published_sha256": "84ab7df8be091f4e9bee9999cd1b4e34a10bbd56c9f89078a9b718d8f19df416",
+      "modified": false,
+      "kind": "2026-10-27 split-weight certificate and editorial record",
+      "source_provenance": "history/2026-10-27/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -3965,6 +4085,13 @@
       "files_added": 21,
       "date_provenance": "history/2026-10-26/PROVENANCE.json",
       "integration_edits": "Formal enumerator witness and bounded dimension-error correction; all prior dated artifacts unchanged."
+    },
+    {
+      "date": "2026-10-27",
+      "base_commit": "aa8a16003e861ecb365a6d143d2d99a08040f29e",
+      "files_added": 17,
+      "date_provenance": "history/2026-10-27/PROVENANCE.json",
+      "integration_edits": "Fixed joint-distribution obstruction and bounded toy audit. Prior dated evidence preserved; earlier reader note gains forward link only."
     }
   ],
   "presentation_revisions": [

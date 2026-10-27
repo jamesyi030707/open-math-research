@@ -1,0 +1,9 @@
+subspaces of F_2^3: 16
+realizable labelings (N=6): 1716
+subspace identity sum_S a = |S|(N-M_S)/2 holds for every realizable labeling and subspace: True
+base labeling a = [0, 5, 6, 1, 6, 1, 0, 5] columns m = (0, 0, 0, 0, 0, 0, 1, 5) | nonzero-value histogram: [0, 1, 1, 5, 5, 6, 6]
+distinct relabelings with identical histogram: realizable 42, NOT realizable 588
+example relabeling a' = [0, 5, 5, 6, 1, 1, 0, 6] | inverse m_v = [0.0, 3.0, 2.5, -0.5, -2.0, 0.0, 0.5, 2.5] -> fails (negative/non-integer)
+   violated subspace S=[0, 1, 2, 3]: sum a' = 16, must equal 2*(N-M_S) with integer 0<=M_S<=N
+random quadratics on F_2^9: sum over random 3-dim subspaces is even: True
+ 

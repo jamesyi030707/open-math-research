@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[10月27日：总数没有矛盾，分块却出现负数](notes/codes-split-weight-obstruction.md) · 分割对偶系数−16排除昨天那个固定联合分布；不是整个构造分支的排除。
+
 [10月26日：三组分布都通过，为什么仍不是码？](notes/codes-enumerator-boundary.md) · 精确整数见证通过158个普通MacWilliams系数检验；这些必要条件不能排除核维数1分支。
 
 [10月25日：160个最小字锁定二次型](notes/codes-quadratic-rigidity.md) · 对一个残余候选，任何提升的偶子码都必须双偶；没有新构造或排除。

@@ -59,3 +59,7 @@
 ## 2026-10-26增量
 
 [当日来源](history/2026-10-26/SOURCES.md)：直接重读Grassl参数表；既有残余基、MacWilliams公式与分开编写的整数/多项式核验。形式分布不构成线性码实现。
+
+## 2026-10-27：分割重量变换
+
+El-Khamy与McEliece，arXiv:cs/0505054v1，定理13的一般线性码分割MacWilliams公式；本日参数表核读与独立证明范围见[当日来源](history/2026-10-27/SOURCES.md)。未复制论文全文。

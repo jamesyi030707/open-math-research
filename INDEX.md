@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [分割重量障碍](notes/codes-split-weight-obstruction.md) | 一维总数会掩盖什么？ | 两块联合变换出现负计数；只排除固定形式点 |
 | [枚举式条件的边界](notes/codes-enumerator-boundary.md) | 三组分布都通过能说明什么？ | 158个变换系数与嵌套检查通过；仅为形式分布而非构造 |
 | [最小字的二次型刚性](notes/codes-quadratic-rigidity.md) | 紧约束能锁定何种全局结构？ | 秩55证书迫使候选提升的偶子码双偶；不是旧固定E |
 | [残余码提升](notes/codes-residual-lift.md) | 已知长度37残余能否提升？ | 精确条件与重量分布；两个投影核分支待解 |
