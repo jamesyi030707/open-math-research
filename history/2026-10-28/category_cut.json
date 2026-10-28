@@ -1,0 +1,52 @@
+{
+  "variables": [
+    "p",
+    "q",
+    "y10",
+    "y14",
+    "z8",
+    "z12",
+    "z16"
+  ],
+  "domain": [
+    "0 <= p <= 80",
+    "0 <= q <= 31",
+    "y10 >= 0, y14 >= 0, y10+y14 <= 160",
+    "z8 >= 0, z12 >= 0, z16 >= 0, z8+z12+z16 <= 80",
+    "all variables are integers"
+  ],
+  "numerator_constant": 91264,
+  "numerator_coefficients": [
+    288,
+    -96,
+    -576,
+    -288,
+    -672,
+    -448,
+    -224
+  ],
+  "dual_normalization": 1024,
+  "reduced_numerator_constant": 2852,
+  "reduced_numerator_coefficients": [
+    9,
+    -3,
+    -18,
+    -9,
+    -21,
+    -14,
+    -7
+  ],
+  "reduction_gcd": 32,
+  "prior_witness": {
+    "p": 0,
+    "q": 0,
+    "y10": 140,
+    "y14": 16,
+    "z8": 8,
+    "z12": 6,
+    "z16": 64
+  },
+  "prior_witness_numerator": -16384,
+  "prior_witness_dual_coefficient": -16,
+  "scope": "Necessary inequality only for this fixed residual and kernel-one category model. It is a rewrite of the split test, not an additional independent condition; integer domain not solved."
+}

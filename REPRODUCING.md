@@ -115,3 +115,8 @@ Python 3标准库，无安装：
 ## 2026-10-27：固定联合分布的分割检验
 
 运行 `python history/2026-10-27/split_check.py history/2026-10-26/enumerator_witness.json`，以及 `python history/2026-10-27/audit_split.py`。均为标准库、单一固定点、1064个精确系数，无搜索。`check_toy.py`只复核两个八项标签例子。详见[当日记录](history/2026-10-27/README.md)。
+
+
+## 2026-10-28 真码控制
+
+`python history/2026-10-28/control_check.py`、`python history/2026-10-28/category_cut.py`和`python history/2026-10-28/audit_controls.py`均只输出结果，标准库、固定输入、不写历史记录。前者39位置与直接对偶核对，后两者核验单项必要条件和独立多项式实现；无搜索。

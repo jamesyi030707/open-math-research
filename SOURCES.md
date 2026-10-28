@@ -63,3 +63,8 @@
 ## 2026-10-27：分割重量变换
 
 El-Khamy与McEliece，arXiv:cs/0505054v1，定理13的一般线性码分割MacWilliams公式；本日参数表核读与独立证明范围见[当日来源](history/2026-10-27/SOURCES.md)。未复制论文全文。
+
+
+## 2026-10-28
+
+[当日来源与缓存边界](history/2026-10-28/SOURCES.md)。经典分割变换继续引用El-Khamy–McEliece定理13；实际Claude短答与独立控制分开记录。

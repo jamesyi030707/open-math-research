@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-27",
+  "archive_date": "2026-10-28",
   "total_files_including_manifest_and_checksums": 472,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
@@ -127,6 +127,13 @@
       "scope": "Reject only fixed joint enumerator; no code existence or branch-wide nonexistence claim.",
       "verification": "1064 coefficients,65 diagonal identities, exact toy fixed witness, independent review.",
       "source_preservation": "Every prior dated artifact unchanged; original visible code retains whitespace."
+    },
+    {
+      "date": "2026-10-28",
+      "files_added": 14,
+      "scope": "Control verification and existing cut rewrite, no branch exclusion or code construction.",
+      "verification": "39 direct split cells and independent polynomial/affine checks.",
+      "source_preservation": "Prior dated archives unchanged."
     }
   ],
   "curated_reader_documents": 14,

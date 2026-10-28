@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[10月28日：先让检验器认出真码](notes/codes-split-controls.md) · 两个显式生成矩阵核对39个分割位置；把既有条件写成七计数约束，没有新的目标码排除。
+
 [10月27日：总数没有矛盾，分块却出现负数](notes/codes-split-weight-obstruction.md) · 分割对偶系数−16排除昨天那个固定联合分布；不是整个构造分支的排除。
 
 [10月26日：三组分布都通过，为什么仍不是码？](notes/codes-enumerator-boundary.md) · 精确整数见证通过158个普通MacWilliams系数检验；这些必要条件不能排除核维数1分支。
@@ -60,6 +62,7 @@ J=92 的逆向节点从约 10.96 亿降到 2,200 万，同轮计时仍慢于正�
 [阅读索引](INDEX.md) · [原始记录与勘误](archive/README.md)
 
 署名、引用与协作说明见 [来源](SOURCES.md)。自有代码与文字分别按 [MIT](LICENSE-CODE-MIT.txt) 与 [CC BY 4.0](LICENSE-DOCS-CC-BY-4.0.md) 开放；具体权利范围见 [许可说明](LICENSING.md)。
+
 
 
 

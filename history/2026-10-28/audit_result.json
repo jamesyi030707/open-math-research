@@ -1,0 +1,31 @@
+{
+  "controls": [
+    {
+      "n": 8,
+      "k": 4,
+      "d": 4,
+      "dual_size": 16,
+      "cells": 24,
+      "pass": true
+    },
+    {
+      "n": 6,
+      "k": 2,
+      "d": 3,
+      "dual_size": 16,
+      "cells": 15,
+      "pass": true
+    }
+  ],
+  "constant": 91264,
+  "coefficients": [
+    288,
+    -96,
+    -576,
+    -288,
+    -672,
+    -448,
+    -224
+  ],
+  "scope": "Finite positive controls and affine identity only; no target feasibility decision."
+}

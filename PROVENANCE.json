@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-27",
+  "archive_date": "2026-10-28",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -3924,6 +3924,104 @@
       "modified": false,
       "kind": "2026-10-27 split-weight certificate and editorial record",
       "source_provenance": "history/2026-10-27/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-split-controls.md",
+      "published_sha256": "804d58705beab99528112310fcf072f9e98c4062e2d5af9468e08b313ce14211",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "fb8139fda734d37a62c8477bdef7c716212c3ff16b0035cad660adfd2a8f3c62",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/SHA256SUMS.txt",
+      "published_sha256": "34cbc83df20775fd861dff8889ce4d028f271fb518d86d99f35d6c7b07c6e783",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/audit_controls.py",
+      "published_sha256": "cc815741c95afb0f5c295071649db6e6c35f794846819d6d48583af305c27322",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/control_result.json",
+      "published_sha256": "06c2ebd609d459ee890c6a8d1e31c5f71831ce64ea9bd5ef6a1c68e410123563",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/PROVENANCE.json",
+      "published_sha256": "83f64cb2f237c0e29aa7c98a91262d7ce801c40d746ea048c3bd3e2f63f9a8ff",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/README.md",
+      "published_sha256": "17e8d8b7c0bc0ef708c2fb5df2dde13dc255c15e551ae1ed5adeb491b7738938",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/LIMITATIONS.md",
+      "published_sha256": "af37393d242c7ed35e30619fad70b1c01b7a6358de45bfc2085323610f4f7547",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/EXCHANGES.md",
+      "published_sha256": "a3ae707d05759b2bd25f2338ab234ab1e595be7a5007efc84233b60384aeb264",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/audit_result.json",
+      "published_sha256": "62cadbc4fd82c56ce8ad4c781c6999d51d20a00ec9345ceabc5927bed9637d7b",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/SOURCES.md",
+      "published_sha256": "e07773f98c1dad0b4a1fd5bb1e68f7a9f24f3f21f8d0b0b111090d0683f60d76",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/category_cut.json",
+      "published_sha256": "ca20cca9ec6b0a7f775848d9d2e17ec9d6b49c274daa95bda98a673570b2abbb",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/category_cut.py",
+      "published_sha256": "b7b96a8147f17ba769807296082eefd4441d95a28b9f8b9c07435cb7ddf29f6f",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-28/control_check.py",
+      "published_sha256": "93a5a800798e2875be4e336e56af168a41bc6d11e7e20f0ec75ee621f1f07b03",
+      "modified": false,
+      "kind": "2026-10-28 positive controls and count inequality",
+      "source_provenance": "history/2026-10-28/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -4092,6 +4190,13 @@
       "files_added": 17,
       "date_provenance": "history/2026-10-27/PROVENANCE.json",
       "integration_edits": "Fixed joint-distribution obstruction and bounded toy audit. Prior dated evidence preserved; earlier reader note gains forward link only."
+    },
+    {
+      "date": "2026-10-28",
+      "base_commit": "7fd17c5a063f6960779fc609a8ef32cd46adab24",
+      "files_added": 14,
+      "date_provenance": "history/2026-10-28/PROVENANCE.json",
+      "integration_edits": "Genuine-code controls and explicit necessary count inequality; earlier dates preserved."
     }
   ],
   "presentation_revisions": [

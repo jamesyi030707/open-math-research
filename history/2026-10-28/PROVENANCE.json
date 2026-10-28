@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-28",
+  "base_commit": "7fd17c5a063f6960779fc609a8ef32cd46adab24",
+  "scope": "Finite genuine-code controls and one existing necessary condition expanded into seven counts. No target feasibility decision or stronger bound.",
+  "dialogue": "One complete final short reply, then free quota. Nonselfdual control and count formula were independent, not Claude-reviewed.",
+  "verification": "39 split cells, direct duals, merge, involution, basis/block invariance, deliberately wrong divisor; independent polynomial implementation and affine contributions.",
+  "budget_seconds": 60,
+  "three_replays_wall_seconds": 0.08523869700729847,
+  "artifacts": [
+    {
+      "path": "EXCHANGES.md",
+      "sha256": "a3ae707d05759b2bd25f2338ab234ab1e595be7a5007efc84233b60384aeb264"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "af37393d242c7ed35e30619fad70b1c01b7a6358de45bfc2085323610f4f7547"
+    },
+    {
+      "path": "README.md",
+      "sha256": "17e8d8b7c0bc0ef708c2fb5df2dde13dc255c15e551ae1ed5adeb491b7738938"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "e07773f98c1dad0b4a1fd5bb1e68f7a9f24f3f21f8d0b0b111090d0683f60d76"
+    },
+    {
+      "path": "audit_controls.py",
+      "sha256": "cc815741c95afb0f5c295071649db6e6c35f794846819d6d48583af305c27322"
+    },
+    {
+      "path": "audit_result.json",
+      "sha256": "62cadbc4fd82c56ce8ad4c781c6999d51d20a00ec9345ceabc5927bed9637d7b"
+    },
+    {
+      "path": "category_cut.json",
+      "sha256": "ca20cca9ec6b0a7f775848d9d2e17ec9d6b49c274daa95bda98a673570b2abbb"
+    },
+    {
+      "path": "category_cut.py",
+      "sha256": "b7b96a8147f17ba769807296082eefd4441d95a28b9f8b9c07435cb7ddf29f6f"
+    },
+    {
+      "path": "control_check.py",
+      "sha256": "93a5a800798e2875be4e336e56af168a41bc6d11e7e20f0ec75ee621f1f07b03"
+    },
+    {
+      "path": "control_result.json",
+      "sha256": "06c2ebd609d459ee890c6a8d1e31c5f71831ce64ea9bd5ef6a1c68e410123563"
+    }
+  ]
+}
