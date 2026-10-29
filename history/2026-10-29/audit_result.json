@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "independent_method": "Repeated multiplication of (1+x) and (1-x), evaluated affine basis from independently restated category populations; no import of publisher implementation.",
+  "checked_integer_entries": 8512,
+  "split_positions": 1064,
+  "diagonal_identities": 65,
+  "dual_total": 18014398509481984,
+  "four_element_complement_orbits": 266,
+  "prior_witness_negatives": [
+    [
+      1,
+      2,
+      -16
+    ],
+    [
+      1,
+      35,
+      -16
+    ],
+    [
+      3,
+      1,
+      -1
+    ],
+    [
+      3,
+      36,
+      -1
+    ],
+    [
+      24,
+      1,
+      -1
+    ],
+    [
+      24,
+      36,
+      -1
+    ],
+    [
+      26,
+      2,
+      -16
+    ],
+    [
+      26,
+      35,
+      -16
+    ]
+  ],
+  "scope": "Exact affine representation and identities only. No variable-domain solve, no rank assertion and no target-code exclusion.",
+  "symbolic_inverse_entries": 8512
+}

@@ -120,3 +120,7 @@ Python 3标准库，无安装：
 ## 2026-10-28 真码控制
 
 `python history/2026-10-28/control_check.py`、`python history/2026-10-28/category_cut.py`和`python history/2026-10-28/audit_controls.py`均只输出结果，标准库、固定输入、不写历史记录。前者39位置与直接对偶核对，后两者核验单项必要条件和独立多项式实现；无搜索。
+
+## 2026-10-29 完整仿射模型
+
+`python history/2026-10-29/affine_split.py`输出摘要，附加`--table`输出全部1064行CSV；`python history/2026-10-29/audit_affine.py`用独立多项式乘法检查相邻CSV，均只读且输出到标准输出。标准库、整数运算、固定输入；未求解整数域。

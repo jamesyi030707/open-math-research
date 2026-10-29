@@ -34,3 +34,7 @@
 ## 2026-10-28
 
 [先让检验器认出真码](notes/codes-split-controls.md)：真码阳性控制、归一化检查与同一分割条件的七计数形式。[证据](history/2026-10-28/README.md)。
+
+## 2026-10-29
+
+[从一个负系数到完整的必要条件表](notes/codes-split-affine-model.md)：固定分支的完整仿射模型、精确逆变换及266个互补轨道。[证据](history/2026-10-29/README.md)。

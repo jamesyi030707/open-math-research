@@ -68,3 +68,7 @@ El-Khamy与McEliece，arXiv:cs/0505054v1，定理13的一般线性码分割MacWi
 ## 2026-10-28
 
 [当日来源与缓存边界](history/2026-10-28/SOURCES.md)。经典分割变换继续引用El-Khamy–McEliece定理13；实际Claude短答与独立控制分开记录。
+
+## 2026-10-29
+
+[当日来源与适用范围](history/2026-10-29/SOURCES.md)。经典分割变换及官方参数表最近缓存；完整仿射表示为独立计算，无本日Claude回复。

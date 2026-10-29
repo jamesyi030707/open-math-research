@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-28",
+  "archive_date": "2026-10-29",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4022,6 +4022,90 @@
       "modified": false,
       "kind": "2026-10-28 positive controls and count inequality",
       "source_provenance": "history/2026-10-28/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-split-affine-model.md",
+      "published_sha256": "94fe888568992bcaebfe403c394cb3bcea7821a0bc9ef190f550650d9f9cbf17",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "471dbc63bfcd7eb328cdd55d273b9f7ffcd1c82df005232a51f72e4cf30f67f5",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/SHA256SUMS.txt",
+      "published_sha256": "a98b69fefddf64dc742bc407117afe1c3d78d2d33911d7d8aee2fd2f25ee72b7",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/PROVENANCE.json",
+      "published_sha256": "40452f556f7696589553b983984a6e691c5b948928f9b8d8b6c10bb752e52531",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/audit_affine.py",
+      "published_sha256": "92947218e21f2c566c4f0288834d6734e4ca024555e7de0677ac44b96845054c",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/DIALOGUE.md",
+      "published_sha256": "a55e98b4d7be46b6189fe04463e32f637029942283df42bdf56c1f68f77e0667",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/README.md",
+      "published_sha256": "c1752bf820109e818241aaf7e0e2ff78cfeaee2d9feafacf2c3902eacb956958",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/affine_coefficients.csv",
+      "published_sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/audit_result.json",
+      "published_sha256": "f4a869ac84890c369f701725844400e2f4a00a9ef9967f656c063db4d3aea1d0",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/SOURCES.md",
+      "published_sha256": "460e2cc15fa5c914d393df71fbffd545ca89e210bc6a2f6ece58e2fd243a836c",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/affine_split.py",
+      "published_sha256": "b24e554a9a6a17fa79b89b060f7f09107970690ca16a55e163cb3941687fa7dc",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-10-29/affine_summary.json",
+      "published_sha256": "13e035e58a053fd469bf819abeec8930ccd2f5180c4948a917daa0aae6d0b57d",
+      "modified": false,
+      "kind": "2026-10-29 exact affine representation",
+      "source_provenance": "history/2026-10-29/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -4197,6 +4281,13 @@
       "files_added": 14,
       "date_provenance": "history/2026-10-28/PROVENANCE.json",
       "integration_edits": "Genuine-code controls and explicit necessary count inequality; earlier dates preserved."
+    },
+    {
+      "date": "2026-10-29",
+      "base_commit": "223573186d04446666e77f495dad54a960386919",
+      "files_added": 12,
+      "date_provenance": "history/2026-10-29/PROVENANCE.json",
+      "integration_edits": "Complete split affine model, no feasibility decision; earlier dates preserved."
     }
   ],
   "presentation_revisions": [

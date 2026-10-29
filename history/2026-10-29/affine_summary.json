@@ -1,0 +1,114 @@
+{
+  "variables": [
+    "p",
+    "q",
+    "y10",
+    "y14",
+    "z8",
+    "z12",
+    "z16"
+  ],
+  "domain": [
+    "all counts integral",
+    "0 <= p <= 80",
+    "0 <= q <= 31",
+    "y10,y14 >= 0; y10+y14 <= 160",
+    "z8,z12,z16 >= 0; z8+z12+z16 <= 80"
+  ],
+  "partition": [
+    27,
+    37
+  ],
+  "source_dimension": 10,
+  "normalization": 1024,
+  "split_rows": 1064,
+  "affine_entries": 8512,
+  "source_joint_support": 15,
+  "dual_size": 18014398509481984,
+  "zero_coefficient": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "normalization_coefficient_sums": [
+    18014398509481984,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "ordinary_diagonal_identities": 65,
+  "complement_orbits": 266,
+  "row_1_2_numerators": [
+    91264,
+    288,
+    -96,
+    -576,
+    -288,
+    -672,
+    -448,
+    -224
+  ],
+  "prior_witness_negative_cells": [
+    [
+      1,
+      2,
+      -16
+    ],
+    [
+      1,
+      35,
+      -16
+    ],
+    [
+      3,
+      1,
+      -1
+    ],
+    [
+      3,
+      36,
+      -1
+    ],
+    [
+      24,
+      1,
+      -1
+    ],
+    [
+      24,
+      36,
+      -1
+    ],
+    [
+      26,
+      2,
+      -16
+    ],
+    [
+      26,
+      35,
+      -16
+    ]
+  ],
+  "checks": [
+    "all 8512 integer affine entries",
+    "inverse transform in all eight affine columns",
+    "source total1024",
+    "dual zero coefficient1",
+    "dual total2^54",
+    "65 diagonal affine identities",
+    "both block complement symmetries",
+    "fixed right marginal",
+    "prior fixed negative witness"
+  ],
+  "scope": "Exact necessary-condition representation only for this fixed residual and kernel-one category model; no integer-domain solve, matrix search, feasibility decision or new target-code exclusion."
+}

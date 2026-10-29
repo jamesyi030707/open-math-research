@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-29",
+  "base_commit": "223573186d04446666e77f495dad54a960386919",
+  "scope": "Exact complete split affine representation for fixed residual kernel-one category model. No feasibility solve, target exclusion or construction.",
+  "dialogue": "Attempt and one page retry failed; no new Claude response and no quota diagnosis. Mathematics independently generated and audited.",
+  "verification": "8512 integer entries, 65 merge identities, normalization, full symbolic inverse, 266 complement orbits and prior witness; second implementation uses repeated polynomial multiplication.",
+  "budget_seconds": 60,
+  "three_replays_wall_seconds": 0.44929036393295974,
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "a55e98b4d7be46b6189fe04463e32f637029942283df42bdf56c1f68f77e0667"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c1752bf820109e818241aaf7e0e2ff78cfeaee2d9feafacf2c3902eacb956958"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "460e2cc15fa5c914d393df71fbffd545ca89e210bc6a2f6ece58e2fd243a836c"
+    },
+    {
+      "path": "affine_coefficients.csv",
+      "sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c"
+    },
+    {
+      "path": "affine_split.py",
+      "sha256": "b24e554a9a6a17fa79b89b060f7f09107970690ca16a55e163cb3941687fa7dc"
+    },
+    {
+      "path": "affine_summary.json",
+      "sha256": "13e035e58a053fd469bf819abeec8930ccd2f5180c4948a917daa0aae6d0b57d"
+    },
+    {
+      "path": "audit_affine.py",
+      "sha256": "92947218e21f2c566c4f0288834d6734e4ca024555e7de0677ac44b96845054c"
+    },
+    {
+      "path": "audit_result.json",
+      "sha256": "f4a869ac84890c369f701725844400e2f4a00a9ef9967f656c063db4d3aea1d0"
+    }
+  ]
+}
