@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-10-29",
+  "archive_date": "2026-11-03",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4288,6 +4288,13 @@
       "files_added": 12,
       "date_provenance": "history/2026-10-29/PROVENANCE.json",
       "integration_edits": "Complete split affine model, no feasibility decision; earlier dates preserved."
+    },
+    {
+      "date": "2026-11-03",
+      "base_commit": "944bec9870c41b1950f56c98d74905480e626d5a",
+      "files_added": 14,
+      "date_provenance": "history/2026-11-03/PROVENANCE.json",
+      "integration_edits": "Six-condition integrality equivalence, visible mathematical exchange, independent certificate audit, curated note and navigation. All prior dated artifacts unchanged."
     }
   ],
   "presentation_revisions": [

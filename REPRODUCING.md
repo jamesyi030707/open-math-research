@@ -124,3 +124,7 @@ Python 3标准库，无安装：
 ## 2026-10-29 完整仿射模型
 
 `python history/2026-10-29/affine_split.py`输出摘要，附加`--table`输出全部1064行CSV；`python history/2026-10-29/audit_affine.py`用独立多项式乘法检查相邻CSV，均只读且输出到标准输出。标准库、整数运算、固定输入；未求解整数域。
+
+## 2026-11-03：精确整除证书
+
+在仓库根执行 `python -I -B history/2026-11-03/verify_certificate.py` 和 `python -I -B history/2026-11-03/independent_verify.py`。只需Python标准库；不要使用`-O`。参见[复现与范围](history/2026-11-03/README.md)。

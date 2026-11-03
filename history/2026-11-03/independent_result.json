@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "input_sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+  "rows": 1064,
+  "columns": 8,
+  "forward_scalar_checks": 48,
+  "reverse_scalar_checks": 8512,
+  "simplified_relations": 6,
+  "toy_residue_count": 16,
+  "toy_integer_y": [
+    19,
+    9
+  ],
+  "toy_canonical_y_image": [
+    -15,
+    9
+  ],
+  "scope": "Congruence equivalence for the supplied CSV only; no source derivation, positivity, or code-existence claim."
+}

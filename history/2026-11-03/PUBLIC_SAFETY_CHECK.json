@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-03",
+  "scope": "Every new and modified text file reviewed before publication; all earlier dated artifacts retained.",
+  "excluded": [
+    "account and email details",
+    "private conversation identifiers and URLs",
+    "credentials",
+    "personal screenshots",
+    "private filesystem paths",
+    "internal instructions and reasoning panels"
+  ],
+  "attribution": "Claude final reply distinguished from separately computed certificate and editorial commentary. Source links and repository licensing retained.",
+  "verification": "Two separately authored integer checkers verify 8560 scalar identities; toy residue enumeration and old negative-coefficient witness verified."
+}

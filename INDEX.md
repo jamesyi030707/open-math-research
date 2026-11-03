@@ -4,6 +4,8 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [整除条件的六条同余](notes/codes-integrality-certificate.md) | 一千多个整除条件能否精确压缩？ | 双向模64证书；保留整数提升、原边界及非负性 |
+| [完整分割仿射模型](notes/codes-split-affine-model.md) | 如何写出全部必要条件？ | 1064行七计数表示；独立变换核验 |
 | [分割重量障碍](notes/codes-split-weight-obstruction.md) | 一维总数会掩盖什么？ | 两块联合变换出现负计数；只排除固定形式点 |
 | [枚举式条件的边界](notes/codes-enumerator-boundary.md) | 三组分布都通过能说明什么？ | 158个变换系数与嵌套检查通过；仅为形式分布而非构造 |
 | [最小字的二次型刚性](notes/codes-quadratic-rigidity.md) | 紧约束能锁定何种全局结构？ | 秩55证书迫使候选提升的偶子码双偶；不是旧固定E |
