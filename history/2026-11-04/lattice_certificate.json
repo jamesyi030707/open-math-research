@@ -1,0 +1,353 @@
+{
+  "format_version": 1,
+  "old_columns": [
+    "p",
+    "q",
+    "y10",
+    "y14",
+    "z8",
+    "z12",
+    "z16",
+    "constant"
+  ],
+  "new_columns": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "constant"
+  ],
+  "forward_matrix": [
+    [
+      64,
+      -16,
+      0,
+      4,
+      -4,
+      -6,
+      -6,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      8,
+      -4,
+      2,
+      0,
+      2,
+      6
+    ],
+    [
+      0,
+      16,
+      -16,
+      0,
+      -4,
+      0,
+      -4,
+      -4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "inverse_numerators": [
+    [
+      1,
+      1,
+      2,
+      1,
+      3,
+      2,
+      1,
+      -12
+    ],
+    [
+      0,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      -8
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      -6
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      -1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "inverse_divisors": [
+    64,
+    16,
+    8,
+    4,
+    2,
+    2,
+    1,
+    1
+  ],
+  "lattice_index": 131072,
+  "domain_inequalities": [
+    {
+      "name": "p_lower",
+      "old_row": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "p_upper",
+      "old_row": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80
+      ]
+    },
+    {
+      "name": "q_lower",
+      "old_row": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "q_upper",
+      "old_row": [
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        31
+      ]
+    },
+    {
+      "name": "y10_lower",
+      "old_row": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "y14_lower",
+      "old_row": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "y_sum_upper",
+      "old_row": [
+        0,
+        0,
+        -1,
+        -1,
+        0,
+        0,
+        0,
+        160
+      ]
+    },
+    {
+      "name": "z8_lower",
+      "old_row": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "z12_lower",
+      "old_row": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "z16_lower",
+      "old_row": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "z_sum_upper",
+      "old_row": [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -1,
+        -1,
+        80
+      ]
+    }
+  ],
+  "source_sha256": {
+    "affine_coefficients.csv": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+    "affine_split.py": "b24e554a9a6a17fa79b89b060f7f09107970690ca16a55e163cb3941687fa7dc",
+    "integrality_certificate.json": "dacc47d1561b0201586c75a7cad6deebb52a024e1e68d495c78f7ca47fb648fc"
+  },
+  "files_sha256": {
+    "integer_coefficients.csv": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+    "domain_inequalities.csv": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14"
+  },
+  "scope": "Bijective coordinate transport only; no feasibility or code-existence decision."
+}

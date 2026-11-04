@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-04",
+  "base_commit": "8a66a07d4307aa737c6c3928494f9e4fb7b51836",
+  "input_csv": "history/2026-10-29/affine_coefficients.csv",
+  "input_sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "c4c0e8abcd0610fc9ed42e49178c9196f4d734f7ab1b516e8f13fe8a8f399cf7",
+      "source": "Actual visible final mathematical exchange; prompt excerpt explicitly labelled"
+    },
+    {
+      "path": "INDEPENDENT_AUDIT.md",
+      "sha256": "b7cb5d5143966b8e7cdb38ac9fb41dd282ec7ecfeb26ecbf98138f71c8801905",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "README.md",
+      "sha256": "f5a7c80b64fc1e8d7805c1371f0903c48b59d4bebd7f932349f39ea799c0bde6",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "0e28f1e5840613afcffcfcaef5942b371ea39270a8d4a95507d943da6a994bde",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "build_model.py",
+      "sha256": "4f949beb5d1c8256ff8eaefa97752e86f0a74b0ee2d43e195bb68d24c56d2bd3",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "domain_inequalities.csv",
+      "sha256": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "independent_audit.py",
+      "sha256": "a8b7b95c00bc0450cc312935b7e37afbcb9ff12db6a6dd99df1527597296cda8",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "independent_audit_result.json",
+      "sha256": "5985ecab49dac619c16986a8556fc5d21c2ccdcb4eae571bc72af2df6781aa8a",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "integer_coefficients.csv",
+      "sha256": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "lattice_certificate.json",
+      "sha256": "f43bab371c532bf3dd9f6a7e05190770fbc5c1857c414efab3312777d8bb1e86",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "replay_result.json",
+      "sha256": "410e1dcd29fb83b9426fe7789cb218fda7cce01df64e7de155225e21470c9163",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "verification_result.json",
+      "sha256": "ebf8077ee3ecae3f91d3d4ae3f57e631df47a066b155e9ba90ab47f839546db3",
+      "source": "Exact independent computation or mathematical exposition"
+    },
+    {
+      "path": "verify_model.py",
+      "sha256": "ba9a597652d4f8864c960703bccd16ad5cbfed22e3c4eb17bf50404065801150",
+      "source": "Exact independent computation or mathematical exposition"
+    }
+  ],
+  "publication_edits": "Repository-relative original inputs retained; historical artifacts unchanged. Final mathematical reply distinguished from independently generated model and audits.",
+  "scope": "Exact equivalent integer formulation only, no feasibility solve or code existence/exclusion decision."
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-04",
+  "scope": "All new and modified text files reviewed before publication; historical records unchanged.",
+  "excluded": [
+    "account identifiers and email addresses",
+    "private conversation URLs and IDs",
+    "credentials",
+    "personal screenshots",
+    "private paths",
+    "internal instructions and reasoning panels"
+  ],
+  "attribution": "One real complete final answer separated from independent model generation and verification. Public source links and prior licensing retained.",
+  "limits": "Pattern scan and manual review reduce disclosure risk; not a guarantee of perfect privacy."
+}

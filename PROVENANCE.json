@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-03",
+  "archive_date": "2026-11-04",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4295,6 +4295,13 @@
       "files_added": 14,
       "date_provenance": "history/2026-11-03/PROVENANCE.json",
       "integration_edits": "Six-condition integrality equivalence, visible mathematical exchange, independent certificate audit, curated note and navigation. All prior dated artifacts unchanged."
+    },
+    {
+      "date": "2026-11-04",
+      "base_commit": "8a66a07d4307aa737c6c3928494f9e4fb7b51836",
+      "files_added": 17,
+      "date_provenance": "history/2026-11-04/PROVENANCE.json",
+      "integration_edits": "Exact affine-lattice bijection, all original inequalities, mathematical exchange, independently authored audit, curated note and navigation. Previous history unchanged."
     }
   ],
   "presentation_revisions": [

@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [整数格与完整边界](notes/codes-integer-lattice.md) | 换元会不会丢掉原来的解？ | 双向映射和全部不等式逐项核验；尚无可行性结论 |
 | [整除条件的六条同余](notes/codes-integrality-certificate.md) | 一千多个整除条件能否精确压缩？ | 双向模64证书；保留整数提升、原边界及非负性 |
 | [完整分割仿射模型](notes/codes-split-affine-model.md) | 如何写出全部必要条件？ | 1064行七计数表示；独立变换核验 |
 | [分割重量障碍](notes/codes-split-weight-obstruction.md) | 一维总数会掩盖什么？ | 两块联合变换出现负计数；只排除固定形式点 |

@@ -1,0 +1,66 @@
+{
+  "verified": true,
+  "source_regeneration_identical": true,
+  "prior_congruence_forward_entries": 48,
+  "prior_congruence_reverse_entries": 8512,
+  "coordinate_round_trip_entries": 128,
+  "integer_image_congruence_entries": 48,
+  "lattice_determinant": 131072,
+  "lattice_index": 131072,
+  "transported_table_rows": 1064,
+  "transported_affine_entries": 8512,
+  "transported_domain_halfspaces": 11,
+  "total_preserved_nonnegativity_halfspaces": 1075,
+  "regression_coordinates": [
+    6,
+    18,
+    8,
+    0,
+    -29,
+    -28,
+    64
+  ],
+  "regression_negative_cells": [
+    [
+      1,
+      2,
+      -16
+    ],
+    [
+      1,
+      35,
+      -16
+    ],
+    [
+      3,
+      1,
+      -1
+    ],
+    [
+      3,
+      36,
+      -1
+    ],
+    [
+      24,
+      1,
+      -1
+    ],
+    [
+      24,
+      36,
+      -1
+    ],
+    [
+      26,
+      2,
+      -16
+    ],
+    [
+      26,
+      35,
+      -16
+    ]
+  ],
+  "scope": "Exact fixed-model reformulation only; no feasibility decision, search, or code-existence claim."
+}

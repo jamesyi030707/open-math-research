@@ -1,0 +1,11 @@
+{
+  "deterministic_regeneration_identical": true,
+  "build_seconds": 0.043624,
+  "verification_seconds": 0.332565,
+  "per_process_timeout_seconds": 60,
+  "sha256": {
+    "integer_coefficients.csv": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+    "domain_inequalities.csv": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14",
+    "lattice_certificate.json": "f43bab371c532bf3dd9f6a7e05190770fbc5c1857c414efab3312777d8bb1e86"
+  }
+}

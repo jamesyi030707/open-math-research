@@ -128,3 +128,7 @@ Python 3标准库，无安装：
 ## 2026-11-03：精确整除证书
 
 在仓库根执行 `python -I -B history/2026-11-03/verify_certificate.py` 和 `python -I -B history/2026-11-03/independent_verify.py`。只需Python标准库；不要使用`-O`。参见[复现与范围](history/2026-11-03/README.md)。
+
+## 2026-11-04：完整整数格模型
+
+参见[当日复现入口](history/2026-11-04/README.md)。标准库精确有理数与整数检查；每个确定性检查限时60秒，不运行计数域枚举或求解器。
