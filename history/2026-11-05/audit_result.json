@@ -1,0 +1,390 @@
+{
+  "status": "pass",
+  "scope": "One feasible nonnegative integral formal split enumerator in the fixed model; no code construction or realizability claim.",
+  "original_variables": {
+    "p": 28,
+    "q": 0,
+    "y10": 100,
+    "y14": 32,
+    "z8": 4,
+    "z12": 62,
+    "z16": 0
+  },
+  "lattice_variables": {
+    "a": 6,
+    "b": 14,
+    "c": 4,
+    "d": 0,
+    "e": 31,
+    "f": 2,
+    "g": 0
+  },
+  "input_sha256": {
+    "affine_coefficients.csv": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+    "affine_split.py": "b24e554a9a6a17fa79b89b060f7f09107970690ca16a55e163cb3941687fa7dc",
+    "integer_coefficients.csv": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+    "domain_inequalities.csv": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14"
+  },
+  "coordinate_round_trips": {
+    "forward": [
+      28,
+      0,
+      100,
+      32,
+      4,
+      62,
+      0
+    ],
+    "inverse": [
+      6,
+      14,
+      4,
+      0,
+      31,
+      2,
+      0
+    ]
+  },
+  "domain_slacks": {
+    "p_lower": 28,
+    "p_upper": 52,
+    "q_lower": 0,
+    "q_upper": 31,
+    "y10_lower": 100,
+    "y14_lower": 32,
+    "y_sum_upper": 28,
+    "z8_lower": 4,
+    "z12_lower": 62,
+    "z16_lower": 0,
+    "z_sum_upper": 14
+  },
+  "congruences": [
+    {
+      "name": "C1",
+      "value": 384,
+      "modulus": 64,
+      "remainder": 0
+    },
+    {
+      "name": "C2",
+      "value": 224,
+      "modulus": 16,
+      "remainder": 0
+    },
+    {
+      "name": "C3",
+      "value": 32,
+      "modulus": 8,
+      "remainder": 0
+    },
+    {
+      "name": "C4",
+      "value": 8,
+      "modulus": 4,
+      "remainder": 0
+    },
+    {
+      "name": "C5",
+      "value": 62,
+      "modulus": 2,
+      "remainder": 0
+    },
+    {
+      "name": "C6",
+      "value": 4,
+      "modulus": 2,
+      "remainder": 0
+    }
+  ],
+  "dual": {
+    "cells": 1064,
+    "normalization": 1024,
+    "nondivisible_numerators": 0,
+    "negative_coefficients": 0,
+    "zero_coefficients": 32,
+    "positive_coefficients": 1032,
+    "sum": 18014398509481984,
+    "numerator_sum": 18446744073709551616,
+    "minimum": 0,
+    "maximum": 346296402343800,
+    "minimum_positive": 1,
+    "minimum_positive_total_weight": 3,
+    "zero_cells": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        35
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        36
+      ],
+      [
+        1,
+        37
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        2,
+        37
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3,
+        37
+      ],
+      [
+        24,
+        0
+      ],
+      [
+        24,
+        37
+      ],
+      [
+        25,
+        0
+      ],
+      [
+        25,
+        1
+      ],
+      [
+        25,
+        36
+      ],
+      [
+        25,
+        37
+      ],
+      [
+        26,
+        0
+      ],
+      [
+        26,
+        1
+      ],
+      [
+        26,
+        36
+      ],
+      [
+        26,
+        37
+      ],
+      [
+        27,
+        1
+      ],
+      [
+        27,
+        2
+      ],
+      [
+        27,
+        3
+      ],
+      [
+        27,
+        34
+      ],
+      [
+        27,
+        35
+      ],
+      [
+        27,
+        36
+      ]
+    ],
+    "positive_cells_through_total_weight_4": [
+      {
+        "i": 0,
+        "j": 0,
+        "coefficient": 1
+      },
+      {
+        "i": 0,
+        "j": 4,
+        "coefficient": 40
+      },
+      {
+        "i": 1,
+        "j": 2,
+        "coefficient": 2
+      },
+      {
+        "i": 1,
+        "j": 3,
+        "coefficient": 154
+      },
+      {
+        "i": 2,
+        "j": 2,
+        "coefficient": 212
+      },
+      {
+        "i": 3,
+        "j": 1,
+        "coefficient": 59
+      },
+      {
+        "i": 4,
+        "j": 0,
+        "coefficient": 31
+      }
+    ],
+    "ordinary_coefficients": [
+      1,
+      0,
+      0,
+      2,
+      496,
+      8034,
+      74752,
+      603428,
+      4311672,
+      26896932,
+      147981312,
+      726247830,
+      3206982608,
+      12828396022,
+      46734968832,
+      155782473640,
+      477075012380,
+      1347035511720,
+      3517276129280,
+      8515515941650,
+      19159896545520,
+      40144517650930,
+      78464257326080,
+      143282645414940,
+      244774661666120,
+      391639245876508,
+      587458527747072,
+      826793886116118,
+      1092549641845072,
+      1356267906197238,
+      1582311795716096,
+      1735439510035504,
+      1789672802126406,
+      1735439510035504,
+      1582311795716096,
+      1356267906197238,
+      1092549641845072,
+      826793886116118,
+      587458527747072,
+      391639245876508,
+      244774661666120,
+      143282645414940,
+      78464257326080,
+      40144517650930,
+      19159896545520,
+      8515515941650,
+      3517276129280,
+      1347035511720,
+      477075012380,
+      155782473640,
+      46734968832,
+      12828396022,
+      3206982608,
+      726247830,
+      147981312,
+      26896932,
+      4311672,
+      603428,
+      74752,
+      8034,
+      496,
+      2,
+      0,
+      0,
+      1
+    ]
+  },
+  "primal": {
+    "sum": 1024,
+    "positive_cells": 14,
+    "zero_cells_in_full_grid": 1050,
+    "category_counts": [
+      160,
+      28,
+      52,
+      0,
+      31,
+      100,
+      32,
+      28,
+      4,
+      62,
+      0,
+      14
+    ],
+    "ordinary_nonzero_coefficients": {
+      "0": 1,
+      "28": 396,
+      "32": 303,
+      "36": 244,
+      "40": 80
+    }
+  },
+  "checks": {
+    "original_csv_rows": 1064,
+    "transported_csv_rows": 1064,
+    "original_domain_inequalities": 11,
+    "original_congruences": 6,
+    "numeric_primal_transform_cells": 1064,
+    "inverse_transform_cells": 1064,
+    "block_complement_checks": 2128,
+    "ordinary_diagonal_identities": 65,
+    "solver_modules_imported": false,
+    "source_model_executed": false,
+    "candidate_search_performed": false
+  },
+  "output_sha256": {
+    "audited_table.csv": "75e29f8ac9a664c24ae91afee49a4b08a6415b70cd5935496c9ab8dc41edf9b0",
+    "audited_primal.csv": "1f99458e8c7fe5adbf186489e4b84d2197b1d147e77a15b2f718cd2351aa5ff0"
+  }
+}

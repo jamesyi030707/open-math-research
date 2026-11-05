@@ -1,0 +1,15 @@
+{
+  "verified": true,
+  "invalid_inputs_rejected": 9,
+  "tests": [
+    "negative Farkas multiplier",
+    "uncancelled Farkas variable",
+    "nonnegative combined constant",
+    "repeated Farkas row",
+    "noninteger witness",
+    "wrong witness dimension",
+    "inherited rejected tuple violates eight table cells",
+    "modified table fails pinned hash",
+    "missing table row despite updated hash"
+  ]
+}

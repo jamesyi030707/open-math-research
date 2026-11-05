@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-05",
+  "base_commit": "2952f4f2462289f05555091cdfd80a80aafa8e8f",
+  "inputs": [
+    "history/2026-10-29/affine_coefficients.csv",
+    "history/2026-10-29/affine_split.py",
+    "history/2026-11-04/integer_coefficients.csv",
+    "history/2026-11-04/domain_inequalities.csv"
+  ],
+  "artifacts": [
+    {
+      "path": "AUDIT.md",
+      "sha256": "23bb3e9c559a240e7738c0c3921997e40cbac6d0749a3361bb4093f8650be629",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "5195a5a623b6755cd4f6b67f298cfa138d92d0cee38745652d97078f31ab1af2",
+      "source": "Actual final mathematical exchange; question excerpt and summary explicitly distinguished"
+    },
+    {
+      "path": "FEASIBILITY.md",
+      "sha256": "b6adaadfdf2c5744946893301ec824753c2e00b3b25af472ecaeb77eca9cc1bb",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "README.md",
+      "sha256": "76741de30ef0692e6ec8b44be00340634a18a55b599845118cbd190cef533689",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "aee3f22d03f4e5ae0b81452dca305e38159fa1199aa9cc7bede6cfcfe6d87d08",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "audit.py",
+      "sha256": "92e36c2403c262136edd6efa0b2b86842468b85e5eadf914a93446288f189b94",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "audit_original.py",
+      "sha256": "7e519cd13508ea88e3387ae52b15bc2d3a5b0f283281c3c1e7d5b8133c1ef1be",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "audit_result.json",
+      "sha256": "a60af811a8c2a4e59d154f963f3180258d9f4b01f2991fa62be9a7fa8e88e740",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "audited_primal.csv",
+      "sha256": "1f99458e8c7fe5adbf186489e4b84d2197b1d147e77a15b2f718cd2351aa5ff0",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "audited_table.csv",
+      "sha256": "75e29f8ac9a664c24ae91afee49a4b08a6415b70cd5935496c9ab8dc41edf9b0",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "certificate.json",
+      "sha256": "04bca3ca4be228b1c8417dc65ab7f89e498d1999bf7b32efadfa8d4ad0ce7790",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "check_certificate.py",
+      "sha256": "508b16a2d48e261a161bfaea2ae912dae0e30f1c9deed1756793fe063514e3c7",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "controls.json",
+      "sha256": "67fa5d4c2b6f7a8b70946baa95874fb60507f62ff609051a8ab7b331220615d9",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "controls_result.json",
+      "sha256": "663de8d16103fe6d440593640aa4422748003d08a10a9623abf817b8e2576a8a",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "discover.py",
+      "sha256": "da296b417660ae144979d14ec16e466283b68677b226a5061c16c518e409346f",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "discovery_result.json",
+      "sha256": "08a121193fa748781d2bcc6ac9bcac0c24047ed8e50bb5f124b15b1c42850a9d",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "negative_tests_result.json",
+      "sha256": "c93cdfa426fc55bbeb8b5b0e3823647602b30e5704dde9c425bf682ffe24dde9",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "original_audit_result.json",
+      "sha256": "ed985937a788babf344ea634e83ae3108d3ae7fdb3f32be20425066cdfcedb2a",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "slacks.csv",
+      "sha256": "58aa61363fc66cb97832103a023b93051d2a1aea824cd0bbbce2352863bce794",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "test_checker.py",
+      "sha256": "703d4aafcd9057190af212c393142f2eac0a3352db8c0d8f635c25523d23d37e",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    },
+    {
+      "path": "verification_result.json",
+      "sha256": "6e69866446d4eff7e13347e832bfe223d70e869edff822fb4490b6fae239b13a",
+      "source": "Exact mathematical exposition, bounded candidate discovery or independent verification"
+    }
+  ],
+  "scope": "One exact feasible formal split enumerator for fixed necessary-condition model. No actual code construction or realizability assertion.",
+  "preservation": "Prior dated files unchanged; no raw private browser records published."
+}

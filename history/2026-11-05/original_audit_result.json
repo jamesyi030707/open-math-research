@@ -1,0 +1,36 @@
+{
+  "maximum_coefficient": 346296402343800,
+  "minimum_positive_coefficient": 1,
+  "negative_coefficients": 0,
+  "nonintegral_coefficients": 0,
+  "original_coordinates": {
+    "p": 28,
+    "q": 0,
+    "y10": 100,
+    "y14": 32,
+    "z12": 62,
+    "z16": 0,
+    "z8": 4
+  },
+  "original_domain_slacks": [
+    28,
+    52,
+    0,
+    31,
+    100,
+    32,
+    28,
+    4,
+    62,
+    0,
+    14
+  ],
+  "original_input_sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+  "original_table_coefficients_checked": 1064,
+  "positive_coefficients": 1032,
+  "scope": "Feasibility of the fixed necessary-condition model; no code construction.",
+  "slacks_sha256": "dbf81b0711ea9ba46fad929571c1a175f7babbe82cdf355357320d0a7d70d372",
+  "table_coefficient_sum": 18014398509481984,
+  "verified": true,
+  "zero_coefficients": 32
+}

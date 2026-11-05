@@ -1,0 +1,16 @@
+{
+  "format_version": 1,
+  "system": "controls",
+  "cases": [
+    {
+      "name": "feasible interval with exact integer witness",
+      "rows": [[0, 1], [2, -1]],
+      "proof": {"kind": "integer_feasible", "point": [1]}
+    },
+    {
+      "name": "infeasible separated half-lines with exact Farkas certificate",
+      "rows": [[-1, 1], [0, -1]],
+      "proof": {"kind": "rational_infeasible", "multipliers": [[0, "1"], [1, "1"]]}
+    }
+  ]
+}

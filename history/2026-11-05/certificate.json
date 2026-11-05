@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "system": "fixed_seven_integer_model",
+  "variables": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+  ],
+  "files_sha256": {
+    "domain_inequalities.csv": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14",
+    "integer_coefficients.csv": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0"
+  },
+  "proof": {
+    "kind": "integer_feasible",
+    "point": [
+      6,
+      14,
+      4,
+      0,
+      31,
+      2,
+      0
+    ]
+  },
+  "slacks_sha256": "dbf81b0711ea9ba46fad929571c1a175f7babbe82cdf355357320d0a7d70d372"
+}

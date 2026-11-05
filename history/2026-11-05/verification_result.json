@@ -1,0 +1,31 @@
+{
+  "domain_slacks": {
+    "p_lower": 28,
+    "p_upper": 52,
+    "q_lower": 0,
+    "q_upper": 31,
+    "y10_lower": 100,
+    "y14_lower": 32,
+    "y_sum_upper": 28,
+    "z12_lower": 62,
+    "z16_lower": 0,
+    "z8_lower": 4,
+    "z_sum_upper": 14
+  },
+  "inequalities_checked": 1075,
+  "kind": "integer_feasible",
+  "minimum_slack": 0,
+  "point": [
+    6,
+    14,
+    4,
+    0,
+    31,
+    2,
+    0
+  ],
+  "slacks_sha256": "dbf81b0711ea9ba46fad929571c1a175f7babbe82cdf355357320d0a7d70d372",
+  "strictly_positive_count": 1041,
+  "verified": true,
+  "zero_slack_count": 34
+}

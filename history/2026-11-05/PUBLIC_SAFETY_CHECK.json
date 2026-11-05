@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-05",
+  "scope": "Every new and modified text file reviewed before publication.",
+  "excluded": [
+    "account identifiers and emails",
+    "private conversation URLs and IDs",
+    "credentials",
+    "personal screenshots",
+    "private filesystem paths",
+    "internal instructions and reasoning panels",
+    "unrelated data"
+  ],
+  "attribution": "One actual complete mathematical answer separate from independently discovered witness and checks; existing licenses retained.",
+  "limits": "Pattern scanning and review reduce disclosure risk; no absolute privacy guarantee."
+}

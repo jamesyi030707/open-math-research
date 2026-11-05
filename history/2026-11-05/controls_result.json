@@ -1,0 +1,23 @@
+{
+  "controls": [
+    {
+      "inequalities_checked": 2,
+      "kind": "integer_feasible",
+      "minimum_slack": 1,
+      "name": "feasible interval with exact integer witness",
+      "point": [
+        1
+      ],
+      "strictly_positive_count": 2,
+      "zero_slack_count": 0
+    },
+    {
+      "combined_constant": "-1",
+      "inequalities_checked": 2,
+      "kind": "rational_infeasible",
+      "name": "infeasible separated half-lines with exact Farkas certificate",
+      "support_size": 2
+    }
+  ],
+  "verified": true
+}
