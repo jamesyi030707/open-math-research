@@ -1,0 +1,136 @@
+{
+  "status": "pass",
+  "scope": "Message-labelled column-realizability control only; no target-code exclusion or construction.",
+  "control": {
+    "k": 4,
+    "left_columns": [
+      1,
+      1,
+      2,
+      2,
+      4,
+      4,
+      8,
+      8
+    ],
+    "right_columns": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "left_weights": [
+      0,
+      2,
+      2,
+      4,
+      2,
+      4,
+      4,
+      6,
+      2,
+      4,
+      4,
+      6,
+      4,
+      6,
+      6,
+      8
+    ],
+    "relabelled_weights": [
+      0,
+      6,
+      2,
+      4,
+      2,
+      4,
+      4,
+      2,
+      2,
+      4,
+      4,
+      6,
+      4,
+      6,
+      6,
+      8
+    ],
+    "split_histogram": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        2,
+        8,
+        4
+      ],
+      [
+        4,
+        8,
+        6
+      ],
+      [
+        6,
+        8,
+        4
+      ],
+      [
+        8,
+        8,
+        1
+      ]
+    ],
+    "split_dual_cells_checked": 144,
+    "direct_dual_words_checked": 524288,
+    "same_weights_modulo_4": true,
+    "relabelled_column_multiplicities": [
+      "0",
+      "2",
+      "1",
+      "1",
+      "1",
+      "1",
+      "0",
+      "0",
+      "2",
+      "0",
+      "-1",
+      "1",
+      "-1",
+      "1",
+      "0",
+      "0"
+    ],
+    "negative_columns": [
+      [
+        10,
+        -1
+      ],
+      [
+        12,
+        -1
+      ]
+    ],
+    "fractional_columns": []
+  },
+  "exhaustive_small_control": {
+    "labelled_functions": 64,
+    "ordered_column_lists": 64,
+    "realizable_distinct_weight_functions": 20,
+    "mismatches": 0
+  },
+  "cpu_seconds": 0.402159781
+}

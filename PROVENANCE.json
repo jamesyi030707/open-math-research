@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-05",
+  "archive_date": "2026-11-06",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4309,6 +4309,13 @@
       "files_added": 25,
       "date_provenance": "history/2026-11-05/PROVENANCE.json",
       "integration_edits": "Exact feasible witness, controls and mutation tests, independent original-table/transform audit, actual exchange and curated commentary. Earlier histories unchanged."
+    },
+    {
+      "date": "2026-11-06",
+      "base_commit": "411b0ee6931f3a79f16a34d07f84f2f7eddb6664",
+      "files_added": 13,
+      "date_provenance": "history/2026-11-06/PROVENANCE.json",
+      "integration_edits": "Exact message-label criterion, genuine-code and histogram-preserving false-label controls, actual exchange with corrections, independent publication audit and focused navigation. Earlier dated artifacts and licenses unchanged."
     }
   ],
   "presentation_revisions": [

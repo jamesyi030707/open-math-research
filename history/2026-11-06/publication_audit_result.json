@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "independent_method": "butterfly Walsh transform and direct column enumeration",
+  "small_realizable_functions": 20,
+  "claude_final_example_multiplicities": [
+    "5/2",
+    "3/2",
+    "1/2",
+    "3/2",
+    "-1/2",
+    "1/2",
+    "-1/2",
+    "1/2"
+  ],
+  "scope": "No target labelling or target existence decision."
+}

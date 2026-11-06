@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [消息标签与列重数](notes/codes-message-realization.md) | 同一分布能掩盖实现错误吗？ | 真码与保留分布的假标签对照；不排除目标见证 |
 | [形式分布的可行见证](notes/codes-split-feasible-witness.md) | 全部分割条件能排除这个分支吗？ | 七计数见证通过1075条精确检查，不能由此构造真实码 |
 | [整数格与完整边界](notes/codes-integer-lattice.md) | 换元会不会丢掉原来的解？ | 双向映射和全部不等式逐项核验；尚无可行性结论 |
 | [整除条件的六条同余](notes/codes-integrality-certificate.md) | 一千多个整除条件能否精确压缩？ | 双向模64证书；保留整数提升、原边界及非负性 |

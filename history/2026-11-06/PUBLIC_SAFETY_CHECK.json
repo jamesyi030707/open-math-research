@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-06",
+  "scope": "All new files and changed reader documents reviewed as UTF-8 text. No private links, account identifiers, contact details, absolute execution paths, credentials or internal instructions retained.",
+  "exclusions": [
+    "Account and interface operational details",
+    "Unrelated projects",
+    "Unverified target residual-incidence bridge",
+    "Private conversation links and IDs"
+  ],
+  "mathematical_review": "Original control rerun matches all non-timing fields; separately authored butterfly transform and direct-column enumeration audit pass. Claude numerical errors retained with explicit correction.",
+  "limits": "Pattern scanning is not a perfect privacy guarantee. No target construction, exclusion, novelty or formal-kernel certification."
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-06",
+  "base_commit": "411b0ee6931f3a79f16a34d07f84f2f7eddb6664",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "403d2949a842f6358e1856e59f34cf486e498db1c4864be1f132c86751ebfe45",
+      "source": "Actual mathematical prompt and visible Claude final response; operational preface removed, mathematical errors preserved with separate correction"
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "d61b43b09f17c97cd950e79c840d3a19efc9562e9f76a5b8de11adcd1d4360b7",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "64711867463cef22d286e3f15c1f4580e60dc19bbdae726a1e6e5e7e13c54e19",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "README.md",
+      "sha256": "97edcd97bf1d3261d91e095d462f6a17753972aa4057e663d5aa97ba7245e9c4",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "cb54e4e9e492b823dfb5048d02c73cfccf6007368edc8fdb324e173307fdb152",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "20ec8bd23b01baee5b4821e7b94316f08d12ff325332fb2412ffef752475ab65",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "audit_publication.py",
+      "sha256": "bc40a15c4848f6f2f6939ddfcef05bc41ee543778f9c2ce5a7ed7acfabcc93a8",
+      "source": "Separately authored publication-stage exact verification"
+    },
+    {
+      "path": "check_message_columns.py",
+      "sha256": "c584faec723ae99ceac111d30a4e4d30e3db44cb3f7cb5a082ba612fa70dacdc",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "message_columns_result.json",
+      "sha256": "2efa0ec7a9a52bcecc0540e380d9d5ee0d9ea78c9632a8ee651f94d74605b2de",
+      "source": "Independent AI-assisted mathematical derivation, control computation, or editorial scope documentation"
+    },
+    {
+      "path": "publication_audit_result.json",
+      "sha256": "7250472b629adc3b8b83a3abad030477fe53d5746eb91dda25bcfdfe0912d04b",
+      "source": "Separately authored publication-stage exact verification"
+    }
+  ],
+  "preservation": "Earlier dated evidence unchanged. New actual exchange keeps mathematical text; operational metadata excluded. No unverified residual-incidence claims published."
+}
