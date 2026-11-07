@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-06",
+  "archive_date": "2026-11-07",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4316,6 +4316,13 @@
       "files_added": 13,
       "date_provenance": "history/2026-11-06/PROVENANCE.json",
       "integration_edits": "Exact message-label criterion, genuine-code and histogram-preserving false-label controls, actual exchange with corrections, independent publication audit and focused navigation. Earlier dated artifacts and licenses unchanged."
+    },
+    {
+      "date": "2026-11-07",
+      "base_commit": "816784cce71a4acd3b10fc9b42392716f1cb7fe0",
+      "files_added": 20,
+      "date_provenance": "history/2026-11-07/PROVENANCE.json",
+      "integration_edits": "Verified message-subspace q>=16 obstruction, actual exchange with corrections, independent audits and genuine restricted-space control; prior dated history unchanged and earlier reader notes receive dated follow-up links only."
     }
   ],
   "presentation_revisions": [

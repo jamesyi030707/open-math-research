@@ -1,0 +1,47 @@
+{
+  "status": "pass",
+  "method": "full six-dimensional closure and per-column parity counts; butterfly Walsh control audit",
+  "residual_messages_checked": 1024,
+  "subspace_T_size": 64,
+  "subspace_T_basis": [
+    16,
+    32,
+    64,
+    128,
+    256,
+    512
+  ],
+  "closure_pairs_checked": 4096,
+  "ambient_column_types_checked": 1024,
+  "column_weight_counts": {
+    "0": 16,
+    "32": 1008
+  },
+  "quotient_nonzero_pairs": 31,
+  "allowed_q_from_first_moment": [
+    16,
+    20,
+    24,
+    28
+  ],
+  "q0_forced_active_columns": 31,
+  "available_columns": 27,
+  "q16_control": {
+    "dimension": 5,
+    "length": 27,
+    "active_columns": 27,
+    "distinct_columns": 21,
+    "repeated_columns": {
+      "19": 2,
+      "23": 2,
+      "27": 2,
+      "28": 2,
+      "29": 2,
+      "30": 2
+    },
+    "full_extension_claimed": false
+  },
+  "negative_q0_length27_zero_multiplicity": -4,
+  "positive_q0_simplex_length": 31,
+  "scope": "Only the published q=0 formal witness is excluded for the fixed residual and kernel-one branch; no branch-wide or global exclusion."
+}

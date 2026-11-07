@@ -1,0 +1,90 @@
+{
+  "status": "PASS",
+  "residual_rank": 10,
+  "heavy_message": 1008,
+  "subspace_T": {
+    "size": 64,
+    "rank": 6,
+    "basis": [
+      16,
+      32,
+      64,
+      128,
+      256,
+      512
+    ],
+    "closure_pairs": 4096
+  },
+  "quotient_representative_subspace_S": {
+    "size": 32,
+    "rank": 5,
+    "basis": [
+      16,
+      32,
+      64,
+      128,
+      256
+    ],
+    "closure_pairs": 1024
+  },
+  "necessary_q_values": [
+    16,
+    20,
+    24,
+    28
+  ],
+  "old_witness_counts_from_archived_affine_map": [
+    28,
+    0,
+    100,
+    32,
+    4,
+    62,
+    0
+  ],
+  "already_existing_congruence": "q=4d, hence q divisible by 4; only q>=16 is new here",
+  "november_5_q": 0,
+  "november_5_required_active_columns": 31,
+  "available_columns": 27,
+  "control_columns": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    19,
+    19,
+    23,
+    23,
+    27,
+    27,
+    28,
+    28,
+    29,
+    29,
+    30,
+    30
+  ],
+  "control_weight_distribution": {
+    "0": 1,
+    "12": 16,
+    "16": 15
+  },
+  "source_sha256": {
+    "residual_candidate.json": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+    "source_category_cut.py": "b7b96a8147f17ba769807296082eefd4441d95a28b9f8b9c07435cb7ddf29f6f",
+    "source_witness_certificate.json": "04bca3ca4be228b1c8417dc65ab7f89e498d1999bf7b32efadfa8d4ad0ce7790",
+    "source_lattice_certificate.json": "f43bab371c532bf3dd9f6a7e05190770fbc5c1857c414efab3312777d8bb1e86"
+  },
+  "scope": "Excludes all message labelings of the November 5 witness in this fixed residual kernel-one model. Does not exclude other q values, other kernel branches, other residual codes, or all binary [64,11,27] codes. The q=16 control is only a standalone subspace code, not an extension certificate."
+}

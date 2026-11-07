@@ -1,6 +1,6 @@
 {
-  "archive_date": "2026-11-06",
-  "total_files_including_manifest_and_checksums": 605,
+  "archive_date": "2026-11-07",
+  "total_files_including_manifest_and_checksums": 625,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -173,9 +173,17 @@
       "scope": "General labelled-weight realizability control only; no target witness exclusion, construction or bound improvement.",
       "verification": "Deterministic control rerun, full 144-cell/direct-dual comparison, exhaustive k2 control and separate butterfly audit.",
       "source_preservation": "Earlier dated archives and licenses unchanged; actual response errors retained and corrected."
+    },
+    {
+      "date": "2026-11-07",
+      "files_added": 20,
+      "date_safety_record": "history/2026-11-07/PUBLIC_SAFETY_CHECK.json",
+      "scope": "New q>=16 necessary condition excludes every labeling of one fixed-residual/kernel-one q=0 witness. No entire-branch exclusion, target code, or bound improvement.",
+      "verification": "Full1024 residual messages, five- and six-dimensional closure,4096 full-preimage pairs, old affine-map/source interpretation, restricted q16 control and separate publication audit.",
+      "source_preservation": "All earlier dated evidence and licenses unchanged. Actual response errors retained with corrections; historical feasibility result remains valid."
     }
   ],
-  "curated_reader_documents": 14,
+  "curated_reader_documents": 23,
   "presentation_revisions": [
     {
       "date": "2026-10-14",
