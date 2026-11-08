@@ -1,0 +1,265 @@
+{
+  "verified": true,
+  "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+  "method": "Independent coordinate tuples, full 1024-message enumeration, polynomial multiplication, full affine-table identities",
+  "residual_columns": [
+    717,
+    996,
+    892,
+    122,
+    660,
+    424,
+    336,
+    800,
+    64,
+    128,
+    256,
+    787,
+    512,
+    613,
+    211,
+    234,
+    978,
+    752,
+    687,
+    462,
+    603,
+    954,
+    508,
+    568,
+    191,
+    353,
+    841,
+    906,
+    412,
+    311,
+    45,
+    17,
+    13,
+    15,
+    7,
+    4,
+    1
+  ],
+  "heavy": 1008,
+  "S_labels": [
+    0,
+    16,
+    32,
+    48,
+    64,
+    80,
+    96,
+    112,
+    128,
+    144,
+    160,
+    176,
+    192,
+    208,
+    224,
+    240,
+    256,
+    272,
+    288,
+    304,
+    320,
+    336,
+    352,
+    368,
+    384,
+    400,
+    416,
+    432,
+    448,
+    464,
+    480,
+    496
+  ],
+  "pair_classes": 31,
+  "compatible_B": [
+    1,
+    4,
+    7,
+    13,
+    15
+  ],
+  "per_column_controls": {
+    "0": 502,
+    "1": 10
+  },
+  "all_affine_and_integer_rows_verified": 1064,
+  "count_expression_equals": "32 * (2*a+d-b-2)",
+  "rejected": {
+    "u": [
+      6,
+      19,
+      10,
+      4,
+      -31,
+      -33,
+      66
+    ],
+    "x": [
+      26,
+      16,
+      140,
+      0,
+      0,
+      4,
+      66
+    ],
+    "split_tests": 1064,
+    "domain_tests": 11,
+    "old_pass": true,
+    "q_ge16": true,
+    "new_slack": -5,
+    "T10": 0,
+    "T11": 5,
+    "zero_on_S": 0
+  },
+  "survivors": [
+    {
+      "u": [
+        6,
+        14,
+        4,
+        4,
+        13,
+        0,
+        18
+      ],
+      "x": [
+        20,
+        16,
+        84,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_tests": 1064,
+      "domain_tests": 11,
+      "old_pass": true,
+      "q_ge16": true,
+      "new_slack": 0,
+      "T10": 0,
+      "T11": 0,
+      "zero_on_S": 0
+    },
+    {
+      "u": [
+        6,
+        14,
+        4,
+        5,
+        13,
+        0,
+        18
+      ],
+      "x": [
+        24,
+        20,
+        80,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_tests": 1064,
+      "domain_tests": 11,
+      "old_pass": true,
+      "q_ge16": true,
+      "new_slack": 1,
+      "T10": 0,
+      "T11": 0,
+      "zero_on_S": 1
+    },
+    {
+      "u": [
+        6,
+        14,
+        4,
+        6,
+        13,
+        0,
+        18
+      ],
+      "x": [
+        28,
+        24,
+        76,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_tests": 1064,
+      "domain_tests": 11,
+      "old_pass": true,
+      "q_ge16": true,
+      "new_slack": 2,
+      "T10": 0,
+      "T11": 0,
+      "zero_on_S": 2
+    },
+    {
+      "u": [
+        6,
+        14,
+        4,
+        7,
+        13,
+        0,
+        18
+      ],
+      "x": [
+        32,
+        28,
+        72,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_tests": 1064,
+      "domain_tests": 11,
+      "old_pass": true,
+      "q_ge16": true,
+      "new_slack": 3,
+      "T10": 0,
+      "T11": 0,
+      "zero_on_S": 3
+    }
+  ],
+  "mutation_controls": {
+    "invalid_count": true,
+    "altered_coefficient": true
+  },
+  "proof": [
+    "For nonzero s in S, assumed target left weights give sum_s wt(sA)=12q+16(31-q)=496-4q. Each column nonzero on S contributes 16, so columns zero on S = 27-(496-4q)/16=q/4-4=d-4.",
+    "Dual coefficient T10 counts globally zero A columns, and T11 counts A/B column coincidences with multiplicities. Distinct, nonzero B columns make these disjoint subsets of A positions.",
+    "hA=0 ensures every matched B column is one of labels 1,4,7,13,15, which all annihilate S. Zero A columns also annihilate S. Thus T10+T11 <= d-4, giving 2a+d-b-2>=0."
+  ],
+  "limitations": [
+    "Conditional on fixed residual basis and specified kernel-one target category model, especially hA=0 and S left weights 12/16.",
+    "The count form is 32 times the integer cut, not numerically equal to it.",
+    "Formal surviving points are not target code constructions, and no branch or global existence conclusion follows.",
+    "Local file hashes match the supplied commit manifest; this offline audit does not independently authenticate the remote GitHub commit."
+  ],
+  "rank_nine_matrix_control": {
+    "length": 27,
+    "rank": 9,
+    "local_weights": {
+      "16": 15,
+      "0": 1,
+      "12": 16
+    },
+    "zero_on_S": 0,
+    "zero_columns": 0,
+    "matching_columns": 0,
+    "cut_slack": 0,
+    "target_lift_bound_violations": 130,
+    "is_target_construction": false
+  }
+}

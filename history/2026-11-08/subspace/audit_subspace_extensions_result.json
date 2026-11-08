@@ -1,0 +1,104 @@
+{
+  "formal_points": [
+    {
+      "q": 16,
+      "x": [
+        22,
+        16,
+        86,
+        28,
+        16,
+        46,
+        18
+      ],
+      "split_rows": 1064,
+      "domain_rows": 11,
+      "minimum": 0,
+      "zero_rows": 25,
+      "integral_nonnegative": true,
+      "inverse_transform": true,
+      "ordinary_diagonals": 65
+    },
+    {
+      "q": 20,
+      "x": [
+        24,
+        20,
+        80,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_rows": 1064,
+      "domain_rows": 11,
+      "minimum": 0,
+      "zero_rows": 29,
+      "integral_nonnegative": true,
+      "inverse_transform": true,
+      "ordinary_diagonals": 65
+    },
+    {
+      "q": 24,
+      "x": [
+        28,
+        24,
+        76,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_rows": 1064,
+      "domain_rows": 11,
+      "minimum": 0,
+      "zero_rows": 29,
+      "integral_nonnegative": true,
+      "inverse_transform": true,
+      "ordinary_diagonals": 65
+    },
+    {
+      "q": 28,
+      "x": [
+        32,
+        28,
+        72,
+        32,
+        18,
+        44,
+        18
+      ],
+      "split_rows": 1064,
+      "domain_rows": 11,
+      "minimum": 0,
+      "zero_rows": 29,
+      "integral_nonnegative": true,
+      "inverse_transform": true,
+      "ordinary_diagonals": 65
+    }
+  ],
+  "S_repeated_column_pairs": [
+    {
+      "q": 16,
+      "effective_length": 27,
+      "pairs": 6
+    },
+    {
+      "q": 20,
+      "effective_length": 26,
+      "pairs": 5
+    },
+    {
+      "q": 24,
+      "effective_length": 25,
+      "pairs": 3
+    },
+    {
+      "q": 28,
+      "effective_length": 24,
+      "pairs": 0
+    }
+  ],
+  "q28_extension_checks": 4096,
+  "scope": "Independent exact necessary-condition check only. No generator matrix, extension feasibility, target construction or exclusion established. Extension identities are proved in accompanying audit note, not inferred from samples."
+}

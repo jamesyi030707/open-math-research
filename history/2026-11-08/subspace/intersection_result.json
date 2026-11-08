@@ -1,0 +1,106 @@
+[
+  {
+    "q": 16,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "seconds": 0.011384566000003815,
+    "u": [
+      6,
+      14,
+      4,
+      4,
+      14,
+      -1,
+      18
+    ],
+    "x": [
+      22,
+      16,
+      86,
+      28,
+      16,
+      46,
+      18
+    ],
+    "exact_min_slack": 0,
+    "zero_slacks": 25,
+    "checked_rows": 1075
+  },
+  {
+    "q": 20,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "seconds": 0.004670711999949617,
+    "u": [
+      6,
+      14,
+      4,
+      5,
+      13,
+      0,
+      18
+    ],
+    "x": [
+      24,
+      20,
+      80,
+      32,
+      18,
+      44,
+      18
+    ],
+    "exact_min_slack": 0,
+    "zero_slacks": 29,
+    "checked_rows": 1075
+  },
+  {
+    "q": 24,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "seconds": 0.004502384000033999,
+    "u": [
+      6,
+      14,
+      4,
+      6,
+      13,
+      0,
+      18
+    ],
+    "x": [
+      28,
+      24,
+      76,
+      32,
+      18,
+      44,
+      18
+    ],
+    "exact_min_slack": 0,
+    "zero_slacks": 29,
+    "checked_rows": 1075
+  },
+  {
+    "q": 28,
+    "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "seconds": 0.004892619999964154,
+    "u": [
+      6,
+      14,
+      4,
+      7,
+      13,
+      0,
+      18
+    ],
+    "x": [
+      32,
+      28,
+      72,
+      32,
+      18,
+      44,
+      18
+    ],
+    "exact_min_slack": 0,
+    "zero_slacks": 29,
+    "checked_rows": 1075
+  }
+]

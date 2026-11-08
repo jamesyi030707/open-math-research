@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-08",
+  "input_commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+  "initial_column_checker": "Passed on a disposable copy; all mathematical fields equal the stored result, excluding machine-dependent cpu_seconds.",
+  "independent_column_audit": "Passed; standard-library coordinate-vector and polynomial multiplication implementation; output byte-identical to archived audit result.",
+  "independent_subspace_audit": "Passed; all four initial formal points, forward/inverse transforms and 65 ordinary diagonals each; q28 restriction and 4096 deterministic extension controls. Output byte-identical to archived audit result.",
+  "remote_input_authentication": "All four input Git blob identities match the repository tree independently fetched at the pinned commit.",
+  "control_qualification": "The rank-nine left matrix has the required local q16 spectrum but violates full lift windows on 130 messages; it is not a target construction.",
+  "claim_scope": "New necessary cut only for the archived residual/kernel-one branch. The explicit old-model formal point is rejected. All four q values still have formal survivors. No branch/global exclusion or code construction.",
+  "not_rerun": [
+    "Numerical candidate generation",
+    "Older large searches"
+  ],
+  "dialogue_attribution": "One actual reply on the second moment, q28 restriction classification and extension identities. The later column cut was independently derived and not reviewed by Claude."
+}

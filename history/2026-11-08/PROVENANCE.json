@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-08",
+  "base_commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "0233f4e406bde9326848ab783fde05f3dd5ffa457e2a3dbecbdfa6b697326e8e",
+      "source": {
+        "kind": "Actual mathematical prompt excerpt and complete visible Claude reply; operational capture narrative omitted; editorial notation clarification separately labelled"
+      }
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "ceb8b520d88bc55eba32fc0dede282911b44824802b53a004b4b8619f5a81ac7",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "1b353b893201a430431ad8b87155f84fedd07d9fa7829065cae0dc53fa10a5f5",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "958ceb5fbd6f29ce25085d78568e4529f1744d8b35f4cb40be1f09bfeb3d2022",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "README.md",
+      "sha256": "e7d6c3a3cdeec6792aeda65c248e5657443cad55a3ffd1e72c9602374c094044",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "dbf140e39e3b9caed601ca93996e0456bab8c991bc9c8bd68fee92c447db9711",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "dbf140e39e3b9caed601ca93996e0456bab8c991bc9c8bd68fee92c447db9711",
+      "modified": false
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "f5f0d37ad6c762af30298b2db69e741b8165764e4cbb319c983befd4096db5a8",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "audit_column_obstruction.py",
+      "sha256": "3ea094c6f823a1af29938532c6246d3cd3e4bec96ef755055fff45f4a077e722",
+      "source": {
+        "kind": "Separately authored coordinate-vector/polynomial audit and its actual result; delivered bytes preserved"
+      },
+      "original_sha256": "3ea094c6f823a1af29938532c6246d3cd3e4bec96ef755055fff45f4a077e722",
+      "modified": false
+    },
+    {
+      "path": "audit_column_obstruction_result.json",
+      "sha256": "902572bc231d9a01101e2be73a5f2b83f309086a1d0a616297c659cccdb9fe28",
+      "source": {
+        "kind": "Separately authored coordinate-vector/polynomial audit and its actual result; delivered bytes preserved"
+      },
+      "original_sha256": "902572bc231d9a01101e2be73a5f2b83f309086a1d0a616297c659cccdb9fe28",
+      "modified": false
+    },
+    {
+      "path": "check_column_cut.py",
+      "sha256": "adf4f3a63449ba88b5709e87c3dad194300a8059c274f8951ace4a9b2603c3c6",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "adf4f3a63449ba88b5709e87c3dad194300a8059c274f8951ace4a9b2603c3c6",
+      "modified": false
+    },
+    {
+      "path": "column_cut_result.json",
+      "sha256": "ac267a50e5498cae4875d2262b9c8c50a09e09a56e6297e5f90caf5a2b9655d0",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "ac267a50e5498cae4875d2262b9c8c50a09e09a56e6297e5f90caf5a2b9655d0",
+      "modified": false
+    },
+    {
+      "path": "discover_column_cut.py",
+      "sha256": "43d7212aa6a7400f7ee9ed5f42066264bedebd4930e6ba18ea10af562a10e947",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "43d7212aa6a7400f7ee9ed5f42066264bedebd4930e6ba18ea10af562a10e947",
+      "modified": false
+    },
+    {
+      "path": "discovery_result.json",
+      "sha256": "f860e157bc1a1d87322611d40e86ba492045481b52ac62e1a9a871fbab21bda4",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "f860e157bc1a1d87322611d40e86ba492045481b52ac62e1a9a871fbab21bda4",
+      "modified": false
+    },
+    {
+      "path": "input_sources.json",
+      "sha256": "5f16d5bbe03c8b2276e78db17b25de931ba8d58eb00e6b6c0e8065773289538c",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, optional numerical proposal generator or actual output; delivered bytes preserved"
+      },
+      "original_sha256": "5f16d5bbe03c8b2276e78db17b25de931ba8d58eb00e6b6c0e8065773289538c",
+      "modified": false
+    },
+    {
+      "path": "inputs/affine_coefficients.csv",
+      "sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+      "source": {
+        "kind": "Unmodified pinned historical repository input",
+        "path": "history/2026-10-29/affine_coefficients.csv",
+        "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+        "git_blob_sha": "adebcbe0c00c15a5d8695720713034d6689efcff"
+      },
+      "original_sha256": "c49805f554e88c468d92d1835fb19f47480295a95eb32f5c18e53db05277323c",
+      "modified": false
+    },
+    {
+      "path": "inputs/domain_inequalities.csv",
+      "sha256": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14",
+      "source": {
+        "kind": "Unmodified pinned historical repository input",
+        "path": "history/2026-11-04/domain_inequalities.csv",
+        "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+        "git_blob_sha": "6bfd35e35e51e8375b1cca2cf027a6dbb0be8919"
+      },
+      "original_sha256": "861e23b73b1a4456d9ba8f6b2d80a7037a71543c9b43fe59762d5810bc99aa14",
+      "modified": false
+    },
+    {
+      "path": "inputs/integer_coefficients.csv",
+      "sha256": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+      "source": {
+        "kind": "Unmodified pinned historical repository input",
+        "path": "history/2026-11-04/integer_coefficients.csv",
+        "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+        "git_blob_sha": "74ab326327672907da5cbfc30fe0228ed13dc495"
+      },
+      "original_sha256": "0677ea7f6268cf3af33adb979a6c837f4bdd8b3a0b2b244657bd8bc15808c3c0",
+      "modified": false
+    },
+    {
+      "path": "inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Unmodified pinned historical repository input",
+        "path": "history/2026-11-07/residual_candidate.json",
+        "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+        "git_blob_sha": "8f76beaa5994563a2980ea9cb87412640d6560b4"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "subspace/affine_split.py",
+      "sha256": "884bfeb2e4917eaa7b6ea706de01c3fcbaeeed0ee9ad5d89a61ddde90356f1e9",
+      "source": {
+        "kind": "Historical source copy with one additional terminal newline; mathematical content unchanged",
+        "path": "history/2026-10-29/affine_split.py",
+        "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+        "git_blob_sha": "cf6a9d20e77a3fca30f0844e996c28f433c158d5"
+      },
+      "original_sha256": "884bfeb2e4917eaa7b6ea706de01c3fcbaeeed0ee9ad5d89a61ddde90356f1e9",
+      "modified": false
+    },
+    {
+      "path": "subspace/audit_subspace_extensions.md",
+      "sha256": "041efc025bf3134827d898ca373f3982aa9bdb86b66c7d323a86069c26b13930",
+      "source": {
+        "kind": "Independent initial intersection research or separately authored exact subspace audit; delivered bytes preserved"
+      },
+      "original_sha256": "041efc025bf3134827d898ca373f3982aa9bdb86b66c7d323a86069c26b13930",
+      "modified": false
+    },
+    {
+      "path": "subspace/audit_subspace_extensions.py",
+      "sha256": "cc555932f5c36e282d0b3312f746d113b005ad6a1c3da754a4f66d36fd22b7b4",
+      "source": {
+        "kind": "Independent initial intersection research or separately authored exact subspace audit; delivered bytes preserved"
+      },
+      "original_sha256": "cc555932f5c36e282d0b3312f746d113b005ad6a1c3da754a4f66d36fd22b7b4",
+      "modified": false
+    },
+    {
+      "path": "subspace/audit_subspace_extensions_result.json",
+      "sha256": "6a90f8be8e0dc485f863f5ec6339ad18d19e12dbef5c0c7f2d420ab3785fe43d",
+      "source": {
+        "kind": "Independent initial intersection research or separately authored exact subspace audit; delivered bytes preserved"
+      },
+      "original_sha256": "6a90f8be8e0dc485f863f5ec6339ad18d19e12dbef5c0c7f2d420ab3785fe43d",
+      "modified": false
+    },
+    {
+      "path": "subspace/check_intersection.py",
+      "sha256": "aa0db321636b8b90829c680b1e6fc6ad83cd926ecb44b56300ea22496e2dd131",
+      "source": {
+        "kind": "Independent initial intersection research or separately authored exact subspace audit; delivered bytes preserved"
+      },
+      "original_sha256": "aa0db321636b8b90829c680b1e6fc6ad83cd926ecb44b56300ea22496e2dd131",
+      "modified": false
+    },
+    {
+      "path": "subspace/intersection_result.json",
+      "sha256": "d88f78e2557b694f3119995152c9809ae5f0102b02f652321e189ab5833fbc45",
+      "source": {
+        "kind": "Independent initial intersection research or separately authored exact subspace audit; delivered bytes preserved"
+      },
+      "original_sha256": "d88f78e2557b694f3119995152c9809ae5f0102b02f652321e189ab5833fbc45",
+      "modified": false
+    }
+  ],
+  "preservation": "All previously committed dated evidence unchanged. Current reader navigation and next-step descriptions updated; no prior mathematical records silently rewritten."
+}

@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-08",
+  "review": "All changed and added UTF-8 files reviewed for private account data, private chat URLs and IDs, credentials, private paths, screenshots, unrelated material and operational conversation text; none included. Pattern checks are not a perfect-privacy guarantee.",
+  "source_preservation": "Previously committed dated evidence and license files unchanged. New research code and result bytes retained. Mathematical prompt excerpt explicitly labelled; complete Claude reply preserved, operational capture narrative omitted.",
+  "scope": "New necessary cut only for the archived residual/kernel-one branch. The explicit old-model formal point is rejected. All four q values still have formal survivors. No branch/global exclusion or code construction.",
+  "verification": "Three deterministic standard-library checks rerun; precise local-control failure retained; source identities, JSON/Python syntax, relative links, quote match and checksum coverage checked.",
+  "authorship": "The curated Chinese note and editorial documentation synthesize actual evidence; no invented dialogue, personal credentials, emotions or originality claims."
+}

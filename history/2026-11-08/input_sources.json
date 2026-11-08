@@ -1,0 +1,29 @@
+{
+  "commit": "74a2d33c0f9536100a7bed277db521b2707bdfd0",
+  "files": [
+    {
+      "path": "history/2026-11-07/residual_candidate.json",
+      "local": "inputs/residual_candidate.json",
+      "git_blob_sha": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+      "url": "https://github.com/jamesyi030707/open-math-research/blob/74a2d33c0f9536100a7bed277db521b2707bdfd0/history/2026-11-07/residual_candidate.json"
+    },
+    {
+      "path": "history/2026-11-04/domain_inequalities.csv",
+      "local": "inputs/domain_inequalities.csv",
+      "git_blob_sha": "6bfd35e35e51e8375b1cca2cf027a6dbb0be8919",
+      "url": "https://github.com/jamesyi030707/open-math-research/blob/74a2d33c0f9536100a7bed277db521b2707bdfd0/history/2026-11-04/domain_inequalities.csv"
+    },
+    {
+      "path": "history/2026-11-04/integer_coefficients.csv",
+      "local": "inputs/integer_coefficients.csv",
+      "git_blob_sha": "74ab326327672907da5cbfc30fe0228ed13dc495",
+      "url": "https://github.com/jamesyi030707/open-math-research/blob/74a2d33c0f9536100a7bed277db521b2707bdfd0/history/2026-11-04/integer_coefficients.csv"
+    },
+    {
+      "path": "history/2026-10-29/affine_coefficients.csv",
+      "local": "inputs/affine_coefficients.csv",
+      "git_blob_sha": "adebcbe0c00c15a5d8695720713034d6689efcff",
+      "url": "https://github.com/jamesyi030707/open-math-research/blob/74a2d33c0f9536100a7bed277db521b2707bdfd0/history/2026-10-29/affine_coefficients.csv"
+    }
+  ]
+}

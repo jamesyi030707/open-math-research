@@ -1,0 +1,97 @@
+{
+  "scipy_version": "1.17.0",
+  "max_solver_calls": 5,
+  "seconds_per_call": 5,
+  "results": [
+    {
+      "label": "formal_q_16",
+      "solver_status": 0,
+      "elapsed_seconds": 0.011927919000072507,
+      "status_is_not_proof": true,
+      "exact_accepted": true,
+      "point": [
+        6,
+        14,
+        4,
+        4,
+        13,
+        0,
+        18
+      ],
+      "minimum_integer_slack": 0,
+      "new_cut_slack": 0
+    },
+    {
+      "label": "formal_q_20",
+      "solver_status": 0,
+      "elapsed_seconds": 0.005033527999898979,
+      "status_is_not_proof": true,
+      "exact_accepted": true,
+      "point": [
+        6,
+        14,
+        4,
+        5,
+        13,
+        0,
+        18
+      ],
+      "minimum_integer_slack": 0,
+      "new_cut_slack": 1
+    },
+    {
+      "label": "formal_q_24",
+      "solver_status": 0,
+      "elapsed_seconds": 0.004545589000031214,
+      "status_is_not_proof": true,
+      "exact_accepted": true,
+      "point": [
+        6,
+        14,
+        4,
+        6,
+        13,
+        0,
+        18
+      ],
+      "minimum_integer_slack": 0,
+      "new_cut_slack": 2
+    },
+    {
+      "label": "formal_q_28",
+      "solver_status": 0,
+      "elapsed_seconds": 0.00533141699997941,
+      "status_is_not_proof": true,
+      "exact_accepted": true,
+      "point": [
+        6,
+        14,
+        4,
+        7,
+        13,
+        0,
+        18
+      ],
+      "minimum_integer_slack": 0,
+      "new_cut_slack": 3
+    },
+    {
+      "label": "seek_violation_even_with_zero_column_inclusion",
+      "solver_status": 0,
+      "elapsed_seconds": 0.010012678000066444,
+      "status_is_not_proof": true,
+      "exact_accepted": true,
+      "point": [
+        6,
+        19,
+        10,
+        4,
+        -31,
+        -33,
+        66
+      ],
+      "minimum_integer_slack": 0,
+      "new_cut_slack": -5
+    }
+  ]
+}
