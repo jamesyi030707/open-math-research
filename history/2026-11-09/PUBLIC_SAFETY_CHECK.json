@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-09",
+  "review": "All added and changed files reviewed as UTF-8, scanned for private accounts, contact addresses, private conversation URLs and identifiers, credentials, private paths, screenshots, unrelated material and internal instructions. Pattern checks are not a perfect-privacy guarantee.",
+  "excluded": "No account/quota records, private chat links, screenshots, raw interface dumps, private paths, internal instructions or third-party full texts included.",
+  "normalizations": "Second review uses relative artifact links and a relative pinned input path; mathematical content and results unchanged. Actual mathematical question and reply preserved with separate editorial clarification.",
+  "verification": "Six deterministic checks replayed successfully, exact source identity checked, JSON/Python syntax, relative links, actual quote, provenance and checksum coverage checked.",
+  "authorship": "Chinese reader note and editorial documents synthesize actual mathematical evidence. No fabricated dialogue, personal biography, credentials, emotional narrative or originality claim.",
+  "scope": "Excludes only q=28 for the archived residual and normalized even-subcode left-projection kernel-one branch. q=16,20,24, kernel-zero, other residuals and global [64,11,27] existence remain unresolved. No new parameter bound, code construction, novelty or external peer-review claim."
+}

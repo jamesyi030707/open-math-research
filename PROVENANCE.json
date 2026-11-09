@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-08",
+  "archive_date": "2026-11-09",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4346,6 +4346,13 @@
       "files_added": 27,
       "date_provenance": "history/2026-11-08/PROVENANCE.json",
       "integration_edits": "A strict column-incidence necessary cut, explicit nonredundancy point and four survivors; authentic q28 restriction dialogue separately attributed; three deterministic audits and exact control failure; prior dated evidence unchanged."
+    },
+    {
+      "date": "2026-11-09",
+      "base_commit": "3157b1c81a69ddb061cc21f9aaeaac93eadd9a11",
+      "files_added": 28,
+      "date_provenance": "history/2026-11-09/PROVENANCE.json",
+      "integration_edits": "Exact q28 exclusion for the fixed residual/kernel-one branch, conditional actual Claude exchange, separately authored hyperplane/moment/classification audits, positive and corrupted controls, old formal-witness regression, and curated mathematical commentary. Prior dated records unchanged."
     }
   ],
   "presentation_revisions": [

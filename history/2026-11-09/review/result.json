@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "residual_blob_sha": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+  "B_rank": 10,
+  "quadratic_evaluation_rank": 55,
+  "unique_heavy_message": 1008,
+  "q28_three_heavy_sets_tested": 4495,
+  "valid_two_dimensional_K": 155,
+  "quotient_T": [
+    2,
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14
+  ],
+  "complement_Z": [
+    0,
+    1,
+    4,
+    7,
+    13,
+    15
+  ],
+  "broad_affine_hyperplanes": {
+    "2": [
+      22,
+      1
+    ],
+    "3": [
+      26,
+      1
+    ],
+    "5": [
+      8,
+      1
+    ],
+    "6": [
+      13,
+      0
+    ],
+    "8": [
+      10,
+      0
+    ],
+    "9": [
+      19,
+      0
+    ],
+    "10": [
+      14,
+      1
+    ],
+    "11": [
+      28,
+      1
+    ],
+    "12": [
+      29,
+      1
+    ],
+    "14": [
+      23,
+      1
+    ]
+  },
+  "K_message_cases": 1550,
+  "block_types": {
+    "(2, 2, 2, 2, 2, 2, 2, 2)": 1200,
+    "(0, 0, 0, 0, 4, 4, 4, 4)": 350
+  },
+  "mixed_block_rejected_moments": {
+    "z0": 128,
+    "z1": 96,
+    "z3": 96
+  },
+  "required_centered_second_moment": 192,
+  "three_column_multisets": 816,
+  "survivors": 0,
+  "scope": "No q=28 target lift for this fixed B with left projection kernel one and normalized doubly-even even subcode. Not whole branch/global nonexistence.",
+  "cpu_seconds": 0.630863682
+}

@@ -1,0 +1,15 @@
+{
+  "commit": "3157b1c81a69ddb061cc21f9aaeaac93eadd9a11",
+  "files": [
+    {
+      "local": "inputs/residual_candidate.json",
+      "repository_path": "history/2026-11-08/inputs/residual_candidate.json",
+      "url": "https://github.com/jamesyi030707/open-math-research/blob/3157b1c81a69ddb061cc21f9aaeaac93eadd9a11/history/2026-11-08/inputs/residual_candidate.json",
+      "git_blob_sha": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80"
+    }
+  ],
+  "inherited_classification_and_identities": "https://github.com/jamesyi030707/open-math-research/blob/3157b1c81a69ddb061cc21f9aaeaac93eadd9a11/history/2026-11-08/subspace/audit_subspace_extensions.md",
+  "current_plan": "https://github.com/jamesyi030707/open-math-research/blob/3157b1c81a69ddb061cc21f9aaeaac93eadd9a11/NEXT_RESEARCH_PROPOSAL.md",
+  "new_result_attribution": "Independent derivation and separately authored audit. Not attributed to the archived November 8 Claude exchange."
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-09",
+  "input_commit": "3157b1c81a69ddb061cc21f9aaeaac93eadd9a11",
+  "deterministic_replays": [
+    {
+      "script": "check_q28_obstruction.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.2515,
+      "stdout_bytes": 5139
+    },
+    {
+      "script": "independent/independent_audit.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.4853,
+      "stdout_bytes": 1362
+    },
+    {
+      "script": "corroborating/independent_audit.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.4218,
+      "stdout_bytes": 1830
+    },
+    {
+      "script": "corroborating/minimal_q28_certificate.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.0179,
+      "stdout_bytes": 374
+    },
+    {
+      "script": "corroborating/initial_coset_dp.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.648,
+      "stdout_bytes": 622
+    },
+    {
+      "script": "review/review.py",
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.6367,
+      "stdout_bytes": 1302
+    }
+  ],
+  "timing_note": "Wall times describe only these publication replays. Only cpu_seconds was excluded from result comparison; all mathematical fields match.",
+  "coordinate_audit": "Byte-identical output independently confirmed.",
+  "input_identity": "Pinned residual Git blob and SHA-256 matched the independently retrieved repository tree and prior public input.",
+  "classification_coverage": "Independent review examined all4495 three-heavy-message subsets and obtained exactly155 two-dimensional K.",
+  "formal_witness_regression": "All11 count bounds and1064 nonnegative integral split coefficients still hold for the oldq28 point, with Nov8 cut slack3.",
+  "control_boundary": "The genuine rank9 local left-matrix control violates129 full residual-lift windows. It is not a target construction.",
+  "dialogue_boundary": "One actual question and reply. Claude reviewed only the conditional linear-map obstruction; the forced-z premise was certified afterward by separate work.",
+  "source_preservation": "All prior dated evidence and licenses unchanged. New research bytes preserved except documented relative-path normalization in the second review.",
+  "claim_scope": "Excludes only q=28 for the archived residual and normalized even-subcode left-projection kernel-one branch. q=16,20,24, kernel-zero, other residuals and global [64,11,27] existence remain unresolved. No new parameter bound, code construction, novelty or external peer-review claim.",
+  "not_run": [
+    "Full target-matrix search",
+    "Numerical candidate search",
+    "Older large computations"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-09",
+  "base_commit": "3157b1c81a69ddb061cc21f9aaeaac93eadd9a11",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "e21c91f4fe9d4000f774a3cf1b81abe63171f06097c8630df83632e5f75ef795",
+      "source": {
+        "kind": "Actual complete mathematical question and Claude reply with separately labelled editorial clarification"
+      },
+      "original_sha256": "e21c91f4fe9d4000f774a3cf1b81abe63171f06097c8630df83632e5f75ef795",
+      "modified": false
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "135c0da49adc3d6a4cc45d2b35f8c3872cbf1f36adde18b5cb725a9fdca285b8",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "110d9c09c13fa32fdc8962e7db97bd13f96a85f6c41d8ae4c1218f2e4e31d82e",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "755649d1fb615d5c4d9368ed3760159886f211c24f52b76ce8b6d586106d2ee3",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "README.md",
+      "sha256": "82f446370e1728d2d8550838139842e8a4c2974a8e91c545cdc5ddf7359f8302",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "6ef7b32eaacf252a7ffcfd5912b7e0acf2d0767b2c67c3af0b0f74fa0acceef3",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, fixed input, or actual result"
+      },
+      "original_sha256": "6ef7b32eaacf252a7ffcfd5912b7e0acf2d0767b2c67c3af0b0f74fa0acceef3",
+      "modified": false
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "30eb9608f6aa2c4f0f45dbb053307f65ec5da2cc8503cbe34b4aba817f9b71dc",
+      "source": {
+        "kind": "New editorial evidence, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "check_q28_obstruction.py",
+      "sha256": "2962d5be1dbf243559632325a595c0b7b9174fe2db3a9c74119e582a4ca387e3",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, fixed input, or actual result"
+      },
+      "original_sha256": "2962d5be1dbf243559632325a595c0b7b9174fe2db3a9c74119e582a4ca387e3",
+      "modified": false
+    },
+    {
+      "path": "corroborating/Q28_PROOF.md",
+      "sha256": "54ddba6f8ddb193f7740f1cad6da744671d6b1a194e1690141ffb89348590972",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "54ddba6f8ddb193f7740f1cad6da744671d6b1a194e1690141ffb89348590972",
+      "modified": false
+    },
+    {
+      "path": "corroborating/independent_audit.py",
+      "sha256": "8b038caa6bc1f70a5505bfb3b00d12b37c376368d9a59ad3260e69793a6a813b",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "8b038caa6bc1f70a5505bfb3b00d12b37c376368d9a59ad3260e69793a6a813b",
+      "modified": false
+    },
+    {
+      "path": "corroborating/independent_audit_result.json",
+      "sha256": "35c36a09f8448ee5bb715cf90ea6e25361f62477bee4b10ccfee81dafd7a171e",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "35c36a09f8448ee5bb715cf90ea6e25361f62477bee4b10ccfee81dafd7a171e",
+      "modified": false
+    },
+    {
+      "path": "corroborating/initial_coset_dp.py",
+      "sha256": "1da594149713786c62691f21251b8594d92f9654719684ccd4da8fd9ced61e6d",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "1da594149713786c62691f21251b8594d92f9654719684ccd4da8fd9ced61e6d",
+      "modified": false
+    },
+    {
+      "path": "corroborating/initial_coset_dp_original_output.json",
+      "sha256": "c8eb6d107db4cc19305fa0a48817a39ef577c133839125a347017628d88ecff9",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "c8eb6d107db4cc19305fa0a48817a39ef577c133839125a347017628d88ecff9",
+      "modified": false
+    },
+    {
+      "path": "corroborating/initial_coset_dp_replay.json",
+      "sha256": "d8b59158f8535a5eb8d2d750c72def42b980ed1375046b813406e61b95bbf67f",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "d8b59158f8535a5eb8d2d750c72def42b980ed1375046b813406e61b95bbf67f",
+      "modified": false
+    },
+    {
+      "path": "corroborating/minimal_q28_certificate.py",
+      "sha256": "c176915109d36709c0ee703b61efd821096f1228d17b4221565a04814efba575",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "c176915109d36709c0ee703b61efd821096f1228d17b4221565a04814efba575",
+      "modified": false
+    },
+    {
+      "path": "corroborating/minimal_q28_replay.json",
+      "sha256": "1a6e43568a2315b7265489ca29677b27e12b27be31d5d57a4382cf5fb12685ee",
+      "source": {
+        "kind": "Separately authored corroborating proof, exact dynamic program, minimal certificate, coordinate audit or actual output; not a Claude-generated attachment"
+      },
+      "original_sha256": "1a6e43568a2315b7265489ca29677b27e12b27be31d5d57a4382cf5fb12685ee",
+      "modified": false
+    },
+    {
+      "path": "independent/INDEPENDENT_AUDIT.md",
+      "sha256": "e2dc45f30d938d858ae350a4e4ba2f0f6a5c818c8caf96f11bed6cd63eb68e0b",
+      "source": {
+        "kind": "Separately authored exact audit, actual result or scope review"
+      },
+      "original_sha256": "e2dc45f30d938d858ae350a4e4ba2f0f6a5c818c8caf96f11bed6cd63eb68e0b",
+      "modified": false
+    },
+    {
+      "path": "independent/independent_audit.py",
+      "sha256": "6a305a4c2f6f947674f814442b72722aa82888855222754628cc1b27a6247acd",
+      "source": {
+        "kind": "Separately authored exact audit, actual result or scope review"
+      },
+      "original_sha256": "6a305a4c2f6f947674f814442b72722aa82888855222754628cc1b27a6247acd",
+      "modified": false
+    },
+    {
+      "path": "independent/independent_audit_result.json",
+      "sha256": "ccbfcccebdb859f45ea837f879fb3c635f5bfefd8778747a8d6f2f4835fad220",
+      "source": {
+        "kind": "Separately authored exact audit, actual result or scope review"
+      },
+      "original_sha256": "ccbfcccebdb859f45ea837f879fb3c635f5bfefd8778747a8d6f2f4835fad220",
+      "modified": false
+    },
+    {
+      "path": "input_sources.json",
+      "sha256": "a101a60bd10b400501369c95813fbd7cc7475642f3cdecc6e57f6a2155c51096",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, fixed input, or actual result"
+      },
+      "original_sha256": "a101a60bd10b400501369c95813fbd7cc7475642f3cdecc6e57f6a2155c51096",
+      "modified": false
+    },
+    {
+      "path": "inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, fixed input, or actual result"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "q28_obstruction_result.json",
+      "sha256": "7561723ca9861290b6a6975b073a71dbb90687140d9fd3aa463e0194e71370a4",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact checker, fixed input, or actual result"
+      },
+      "original_sha256": "7561723ca9861290b6a6975b073a71dbb90687140d9fd3aa463e0194e71370a4",
+      "modified": false
+    },
+    {
+      "path": "review/REVIEW.md",
+      "sha256": "0fa72520b8d71843567027f996afa98a930de88634b30a65985b12d20b3dda29",
+      "source": {
+        "kind": "Second independently authored review, exhaustive classification audit or actual output"
+      },
+      "original_sha256": "dfa4732d1d8918cb50fef56dc2031cb20929f08090a83b93376c50cb8afc6c34",
+      "modified": true,
+      "modification": "Local absolute paths normalized to relative input or artifact references; mathematical content unchanged."
+    },
+    {
+      "path": "review/result.json",
+      "sha256": "4cf383b2550fc7b637055fb57c837eb1104f7656035e1d5baa3801a4fd774c14",
+      "source": {
+        "kind": "Second independently authored review, exhaustive classification audit or actual output"
+      },
+      "original_sha256": "4cf383b2550fc7b637055fb57c837eb1104f7656035e1d5baa3801a4fd774c14",
+      "modified": false
+    },
+    {
+      "path": "review/review.py",
+      "sha256": "f8bdac2ade745e8466ebd302d2b9d2716d66205d8067ad3f2776c9c5cb07de9e",
+      "source": {
+        "kind": "Second independently authored review, exhaustive classification audit or actual output"
+      },
+      "original_sha256": "a9466922de59395e83ca9d42b6f418827a366ece93568596ca51cb49f98f70c1",
+      "modified": true,
+      "modification": "Local absolute paths normalized to relative input or artifact references; mathematical content unchanged."
+    }
+  ],
+  "preservation": "Prior committed dated evidence and license files unchanged. Reader navigation and current next-step notes updated. No earlier mathematical record silently rewritten."
+}

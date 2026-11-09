@@ -1,0 +1,268 @@
+{
+  "verified": true,
+  "input_commit": "3157b1c81a69ddb061cc21f9aaeaac93eadd9a11",
+  "input_blob_sha1": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+  "input_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+  "result": "q=28 is impossible for the archived fixed-residual, kernel-one lift branch.",
+  "residual_messages_checked": 1024,
+  "quadratic_rigidity_rank": 55,
+  "quotient_representatives_checked": 512,
+  "hyperplane_certificates": [
+    {
+      "t": 2,
+      "normal_in_F2_5": 22,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 3,
+      "normal_in_F2_5": 26,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 5,
+      "normal_in_F2_5": 8,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 6,
+      "normal_in_F2_5": 13,
+      "offset": 1,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 8,
+      "normal_in_F2_5": 10,
+      "offset": 1,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 9,
+      "normal_in_F2_5": 19,
+      "offset": 1,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 10,
+      "normal_in_F2_5": 14,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 11,
+      "normal_in_F2_5": 28,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 12,
+      "normal_in_F2_5": 29,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    },
+    {
+      "t": 14,
+      "normal_in_F2_5": 23,
+      "offset": 0,
+      "forced_left_weight": 14,
+      "on_hyperplane_messages": 16,
+      "off_hyperplane_allowed_weights": [
+        10,
+        14,
+        18
+      ]
+    }
+  ],
+  "two_dimensional_K_checked": 155,
+  "K_coset_checks": 1550,
+  "orientation_cases": {
+    "transverse": 1200,
+    "parallel": 350
+  },
+  "transverse_block_square_sums": {
+    "0": [
+      16
+    ],
+    "1": [
+      12
+    ],
+    "2": [
+      0,
+      32
+    ],
+    "3": [
+      12
+    ]
+  },
+  "required_coset_square_sum": 192,
+  "forced_z_on_ten_cosets": 2,
+  "five_quotient_labels": [
+    1,
+    4,
+    7,
+    13,
+    15
+  ],
+  "ten_pairwise_xors": [
+    2,
+    3,
+    5,
+    6,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14
+  ],
+  "unordered_three_column_maps_checked": 816,
+  "surviving_maps": 0,
+  "controls": {
+    "equidistant_binary_triples": [
+      [
+        0,
+        3,
+        5,
+        6
+      ],
+      [
+        1,
+        2,
+        4,
+        7
+      ]
+    ],
+    "actual_left_matrix": {
+      "column_labels": [
+        641,
+        146,
+        164,
+        696,
+        192,
+        720,
+        736,
+        240,
+        768,
+        272,
+        288,
+        816,
+        320,
+        848,
+        864,
+        368,
+        384,
+        912,
+        928,
+        432,
+        960,
+        464,
+        480,
+        1008,
+        1,
+        2,
+        3
+      ],
+      "rank": 9,
+      "length": 27,
+      "zero_on_S_column_labels": [
+        1,
+        2,
+        3
+      ],
+      "local_weight_distribution": {
+        "0": 1,
+        "12": 28,
+        "16": 3
+      },
+      "cosets_with_moment_and_block_checks": 16,
+      "residual_lift_violations": 129,
+      "scope": "Genuine rank-nine left matrix with q28 restriction; not a target lift."
+    },
+    "damaged_hyperplane_rejected": true,
+    "truncated_matrix_rejected": true
+  },
+  "previous_formal_q28_survivor": {
+    "integer_coordinates": [
+      6,
+      14,
+      4,
+      7,
+      13,
+      0,
+      18
+    ],
+    "seven_counts": [
+      32,
+      28,
+      72,
+      32,
+      18,
+      44,
+      18
+    ],
+    "domain_rows_checked": 11,
+    "split_rows_checked": 1064,
+    "minimum_split_coefficient": 0,
+    "dual_mass": 18014398509481984,
+    "nov8_cut_slack": 3,
+    "scope": "Still formally feasible under Nov8 checks; now no actual lift in this branch."
+  },
+  "scope": "Excludes only q=28 of this fixed residual/kernel-one branch. No exclusion of q16,20,24, kernel-zero, other residuals, or global [64,11,27] existence. No novelty or external peer-review claim.",
+  "cpu_seconds": 0.221307718
+}

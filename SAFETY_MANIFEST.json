@@ -1,6 +1,6 @@
 {
-  "archive_date": "2026-11-08",
-  "total_files_including_manifest_and_checksums": 652,
+  "archive_date": "2026-11-09",
+  "total_files_including_manifest_and_checksums": 680,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -189,9 +189,17 @@
       "scope": "New necessary cut only for the archived residual/kernel-one branch. The explicit old-model formal point is rejected. All four q values still have formal survivors. No branch/global exclusion or code construction.",
       "verification": "Three deterministic standard-library checks rerun; precise local-control failure retained; source identities, JSON/Python syntax, relative links, quote match and checksum coverage checked.",
       "source_preservation": "Previously committed dated evidence and license files unchanged. New research code and result bytes retained. Mathematical prompt excerpt explicitly labelled; complete Claude reply preserved, operational capture narrative omitted."
+    },
+    {
+      "date": "2026-11-09",
+      "files_added": 28,
+      "date_safety_record": "history/2026-11-09/PUBLIC_SAFETY_CHECK.json",
+      "scope": "Excludes only q=28 for the archived residual and normalized even-subcode left-projection kernel-one branch. q=16,20,24, kernel-zero, other residuals and global [64,11,27] existence remain unresolved. No new parameter bound, code construction, novelty or external peer-review claim.",
+      "verification": "Six deterministic standard-library checks rerun; all mathematical fields equal archived results; residual source identity, classification coverage, old formal feasibility, precise local-control failure, UTF-8/JSON/Python syntax, relative links, quote and checksum coverage checked.",
+      "source_preservation": "Prior dated evidence and licenses unchanged. Actual mathematical exchange preserved, known notation clarified separately; second review paths normalized for portability."
     }
   ],
-  "curated_reader_documents": 24,
+  "curated_reader_documents": 25,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

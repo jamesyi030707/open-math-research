@@ -1,0 +1,135 @@
+{
+  "full_moment_solutions_n10_n14_n18": {
+    "0": [],
+    "1": [
+      [
+        11,
+        2,
+        3
+      ]
+    ],
+    "2": [
+      [
+        6,
+        4,
+        6
+      ]
+    ],
+    "3": [
+      [
+        3,
+        2,
+        11
+      ]
+    ]
+  },
+  "hyperplane_plane_types": {
+    "2": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "3": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "5": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "6": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "8": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "9": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "10": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "11": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "12": {
+      "contained": 35,
+      "transverse": 120
+    },
+    "14": {
+      "contained": 35,
+      "transverse": 120
+    }
+  },
+  "hyperplanes": {
+    "2": [
+      22,
+      0
+    ],
+    "3": [
+      26,
+      0
+    ],
+    "5": [
+      8,
+      0
+    ],
+    "6": [
+      13,
+      1
+    ],
+    "8": [
+      10,
+      1
+    ],
+    "9": [
+      19,
+      1
+    ],
+    "10": [
+      14,
+      0
+    ],
+    "11": [
+      28,
+      0
+    ],
+    "12": [
+      29,
+      0
+    ],
+    "14": [
+      23,
+      0
+    ]
+  },
+  "ordered_linear_maps_checked": 4096,
+  "plane_count": 155,
+  "residual_messages_checked": 1024,
+  "satisfied_forced_positions_histogram": {
+    "0": 61,
+    "1": 120,
+    "2": 360,
+    "3": 1560,
+    "4": 915,
+    "5": 720,
+    "6": 150,
+    "7": 60,
+    "8": 90,
+    "9": 60
+  },
+  "scope": "Only archived residual/kernel-one q=28; q16,20,24 and global target remain unresolved.",
+  "transverse_block_energies": {
+    "1": [
+      12
+    ],
+    "3": [
+      12
+    ]
+  },
+  "verified": true
+}
