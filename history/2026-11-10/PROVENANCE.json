@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-10",
+  "base_commit": "6b256ed107ce3fd81724b03864643c1e86e4f18d",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "5f4db18253b887a738b4b6549de9390a6db3572576ea0a9281071dbf2d54c0ac",
+      "source": {
+        "kind": "Actual mathematical prompt and visible Claude final reply with separately labelled scope and notation clarifications"
+      },
+      "original_sha256": "b1257f672e8297f33621d77ac8c9fff5acada276bbb662e2a4f29a4d60c5da4a",
+      "modified": true,
+      "modification": "Non-mathematical interface/account capture paragraphs omitted; scope introduction condensed. Captured mathematical question, visible final answer and notation clarifications preserved unchanged."
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "7b8d286d03874763625dbda50bd557d2e9945f2ad0ad82cca7f0dd727c0d6ea3",
+      "source": {
+        "kind": "New editorial result, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "9f4b35c4a2b414b368e96c4385d85b6f186207c9211147feda01f044921f01b3",
+      "source": {
+        "kind": "New editorial result, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "6d6d9073316e4430ffd271b235ca7ff65fb081bddfd96248f3a91cd9a638d20f",
+      "source": {
+        "kind": "New editorial result, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "README.md",
+      "sha256": "e6e97e09d3bffcb1c8df815ae1b9e86df42ceaedcdb997dbaf17830c8053363e",
+      "source": {
+        "kind": "New editorial result, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "67ed7428c27fcd3124401d68dd79126d3712ed00b510ae5170229bbef8889200",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact primary checker, actual output or fixed input"
+      },
+      "original_sha256": "67ed7428c27fcd3124401d68dd79126d3712ed00b510ae5170229bbef8889200",
+      "modified": false
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "fc0bf4c5c993af8518f2f375a644d8669d4015b82cb685a383164ec38f7b7cff",
+      "source": {
+        "kind": "New editorial result, source, scope or publication documentation"
+      }
+    },
+    {
+      "path": "check_q24_obstruction.py",
+      "sha256": "d68d8de2942c28bd28049a548d53c895781207563e9e82335725291d6e9fbdd7",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact primary checker, actual output or fixed input"
+      },
+      "original_sha256": "d68d8de2942c28bd28049a548d53c895781207563e9e82335725291d6e9fbdd7",
+      "modified": false
+    },
+    {
+      "path": "independent/AUDIT.md",
+      "sha256": "617d4cbbb868390e09db39ec5e53139e6ebe7588d38163496904c7fcb62b034d",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "617d4cbbb868390e09db39ec5e53139e6ebe7588d38163496904c7fcb62b034d",
+      "modified": false
+    },
+    {
+      "path": "independent/SHA256SUMS.txt",
+      "sha256": "77bcd1794b832308b597778001918bc53d7b7094acfe2c37e76beb3ac350439a",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "77bcd1794b832308b597778001918bc53d7b7094acfe2c37e76beb3ac350439a",
+      "modified": false
+    },
+    {
+      "path": "independent/inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "independent/q24_independent_audit.py",
+      "sha256": "ad92b3c1b61c65075c6bdae52d27beb200802e701bbd7c5de82dea707238ab92",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "ad92b3c1b61c65075c6bdae52d27beb200802e701bbd7c5de82dea707238ab92",
+      "modified": false
+    },
+    {
+      "path": "independent/q24_independent_audit_result.json",
+      "sha256": "658f724abe7a0f7e489697cd2fe88d333b1955a91e73c29111534a0d48d316b4",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "658f724abe7a0f7e489697cd2fe88d333b1955a91e73c29111534a0d48d316b4",
+      "modified": false
+    },
+    {
+      "path": "independent/q24_independent_check.py",
+      "sha256": "cafcde8abd2a13bbf93fbc2035efd2e8a0e0bacc8e2d04648a99727e4eb1d2c6",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "cafcde8abd2a13bbf93fbc2035efd2e8a0e0bacc8e2d04648a99727e4eb1d2c6",
+      "modified": false
+    },
+    {
+      "path": "independent/q24_independent_check_result.json",
+      "sha256": "2e6011712e323ff70d66179290f5f7115945421b31105213efd94fdb2e44a798",
+      "source": {
+        "kind": "Separately authored classification check, complete independent obstruction audit, actual output, fixed input or original package checksum"
+      },
+      "original_sha256": "2e6011712e323ff70d66179290f5f7115945421b31105213efd94fdb2e44a798",
+      "modified": false
+    },
+    {
+      "path": "inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact primary checker, actual output or fixed input"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "q24_obstruction_result.json",
+      "sha256": "b3d7549f5f7e4c15214d01b0b1f6e09fab69e39fbabedaa959bb2b44fc3a5299",
+      "source": {
+        "kind": "Independent AI-assisted derivation, exact primary checker, actual output or fixed input"
+      },
+      "original_sha256": "b3d7549f5f7e4c15214d01b0b1f6e09fab69e39fbabedaa959bb2b44fc3a5299",
+      "modified": false
+    }
+  ],
+  "preservation": "Prior dated evidence and license files remain unchanged. Reader navigation and next-step notes have dated additions. Root hashes record current editorial bytes without silently rewriting earlier research."
+}

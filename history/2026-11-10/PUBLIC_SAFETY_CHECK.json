@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-10",
+  "review": "All added and changed files decoded as UTF-8 and reviewed for personal contact, private conversation links and identifiers, credentials, private paths, screenshots, account or interface records, internal instructions and unrelated content. Pattern checks do not guarantee perfect privacy.",
+  "excluded": "No private links, account or quota records, screenshots, raw interface dumps, private paths, internal instructions or third-party full texts are included.",
+  "dialogue_transformation": "Only the mathematical prompt, captured visible final reply, and separately labelled scope and notation clarifications are retained. No mathematical quotation was invented or altered.",
+  "verification": "Three standard-library checks each replayed in normal and optimized modes; input identities, old formal point, control boundaries, JSON/Python syntax, relative links, quotation match, provenance and root/date checksums reviewed.",
+  "authorship": "New Chinese reader commentary summarizes the mathematical evidence without invented personal experiences, credentials, feelings or originality claims.",
+  "scope": "Excludes q=24 only for the pinned residual and normalized even-subcode left-projection-kernel-one branch. q=16 and q=20 remain unresolved, as do the kernel-zero branch, other residuals and global binary [64,11,27] existence. No new code, global parameter bound, novelty or external peer-review claim."
+}

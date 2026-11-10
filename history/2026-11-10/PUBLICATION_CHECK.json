@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-10",
+  "input_commit": "6b256ed107ce3fd81724b03864643c1e86e4f18d",
+  "deterministic_replays": [
+    {
+      "script": "check_q24_obstruction.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.2996
+    },
+    {
+      "script": "check_q24_obstruction.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.3801
+    },
+    {
+      "script": "independent/q24_independent_check.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 1.7813
+    },
+    {
+      "script": "independent/q24_independent_check.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 1.7372
+    },
+    {
+      "script": "independent/q24_independent_audit.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.2296
+    },
+    {
+      "script": "independent/q24_independent_audit.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.3118
+    }
+  ],
+  "timing_note": "Each of three checks was replayed in normal and optimized Python modes, in a disposable copy with a 60-second limit. Only cpu_seconds was excluded from JSON comparison. All mathematical fields match the actual archived outputs. Wall times apply only to these replays.",
+  "input_identity": "Both included residual copies match the pinned Git blob and SHA-256, independently matched to the public baseline tree.",
+  "classification_coverage": "The independent classification check covers all 2,629,575 seven-subsets; 69,440 rank-five total-XOR-zero instances each have the unique complementary 3/4 decomposition.",
+  "new_obstruction_coverage": "Primary and independently authored checks each cover 21,700 block geometries. The primary checks 136 unordered two-column maps; the independent audit checks all 256 ordered maps.",
+  "nonredundancy": "The primary replay checks the old q24 point against 11 bounds and 1,064 integral nonnegative split coefficients, with November 8 cut slack 2. The independent exclusion proof does not depend on those aggregate checks.",
+  "controls": "The primary rank-nine local control has 128 full-lift-bound failures; the different independent control has 151. Both realize all four centered energies and are not target codes. Damaged hyperplane, omitted block term and constant-moment assumptions are rejected as described in the corresponding artifacts.",
+  "moment_boundary": "Ordinary first and second moments admit z=0. The additional P-block identities force energy 120, below the actual minimum 152.",
+  "dialogue_boundary": "One actual exchange reviewed the supplied restriction classification, converse and variable second moment. The later full q24 exclusion and independent audits were not submitted to Claude.",
+  "source_preservation": "Earlier dated evidence and licenses unchanged. Research and independent package bytes preserved. Non-mathematical interface/account records removed from the dialogue while preserving the exact captured mathematical prompt and reply.",
+  "claim_scope": "Excludes q=24 only for the pinned residual and normalized even-subcode left-projection-kernel-one branch. q=16 and q=20 remain unresolved, as do the kernel-zero branch, other residuals and global binary [64,11,27] existence. No new code, global parameter bound, novelty or external peer-review claim.",
+  "not_run": [
+    "Full target-matrix search",
+    "Numerical solve",
+    "Older large computations",
+    "Formal proof-assistant certification"
+  ]
+}

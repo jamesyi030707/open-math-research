@@ -1,0 +1,117 @@
+{
+  "conclusion": "q24 excluded only for the pinned residual and left-kernel dimension one",
+  "input_git_blob": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+  "input_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+  "residual_spectrum": {
+    "0": 1,
+    "16": 142,
+    "14": 160,
+    "18": 320,
+    "20": 160,
+    "22": 160,
+    "24": 80,
+    "32": 1
+  },
+  "quadratic_evaluation_rank": 55,
+  "hyperplanes": {
+    "2": [
+      22,
+      0
+    ],
+    "3": [
+      26,
+      0
+    ],
+    "5": [
+      8,
+      0
+    ],
+    "6": [
+      13,
+      1
+    ],
+    "8": [
+      10,
+      1
+    ],
+    "9": [
+      19,
+      1
+    ],
+    "10": [
+      14,
+      0
+    ],
+    "11": [
+      28,
+      0
+    ],
+    "12": [
+      29,
+      0
+    ],
+    "14": [
+      23,
+      0
+    ]
+  },
+  "classification": "one GL(5,2) class; 19 single, 3 double, 2 zero columns",
+  "canonical_special_column": 4,
+  "plane_count": 155,
+  "orientation_cases": 21700,
+  "parallel_block_contradictions": 4900,
+  "transverse_energy_contradictions": 16800,
+  "transverse_energy": 120,
+  "actual_column_energy_values": [
+    152,
+    184,
+    216,
+    248
+  ],
+  "ordered_two_column_maps_checked": 256,
+  "surviving_maps": [],
+  "actual_control_columns_9bits": [
+    100,
+    329,
+    42,
+    267,
+    493,
+    206,
+    431,
+    145,
+    370,
+    83,
+    309,
+    22,
+    247,
+    473,
+    186,
+    411,
+    125,
+    350,
+    63,
+    5,
+    133,
+    6,
+    262,
+    7,
+    103,
+    32,
+    64
+  ],
+  "actual_control_rank": 9,
+  "actual_control_centered_energies": [
+    152,
+    184,
+    216,
+    248
+  ],
+  "actual_control_full_lift_bound_failures": 151,
+  "damaged_claim_rejections": {
+    "wrong_hyperplane_offset": true,
+    "omit_special_coordinate_block_term": true,
+    "constant_centered_moment": true,
+    "misuse_q28_energy_192": true
+  },
+  "cpu_seconds": 0.262188282
+}

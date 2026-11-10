@@ -1,0 +1,206 @@
+{
+  "verified": true,
+  "result": "q=24 impossible for archived residual B in kernel-one branch only",
+  "input_blob": "8f76beaa5994563a2980ea9cb87412640d6560b4",
+  "input_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+  "residual_messages": 1024,
+  "quadratic_rank": 55,
+  "hyperplane_certificate": [
+    {
+      "t": 2,
+      "n": 22,
+      "c": 0
+    },
+    {
+      "t": 3,
+      "n": 26,
+      "c": 0
+    },
+    {
+      "t": 5,
+      "n": 8,
+      "c": 0
+    },
+    {
+      "t": 6,
+      "n": 13,
+      "c": 1
+    },
+    {
+      "t": 8,
+      "n": 10,
+      "c": 1
+    },
+    {
+      "t": 9,
+      "n": 19,
+      "c": 1
+    },
+    {
+      "t": 10,
+      "n": 14,
+      "c": 0
+    },
+    {
+      "t": 11,
+      "n": 28,
+      "c": 0
+    },
+    {
+      "t": 12,
+      "n": 29,
+      "c": 0
+    },
+    {
+      "t": 14,
+      "n": 23,
+      "c": 0
+    }
+  ],
+  "q24_classification": {
+    "heavy_messages_canonical": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      16,
+      28
+    ],
+    "multiplicity_distribution": {
+      "0": 9,
+      "1": 19,
+      "2": 3
+    },
+    "canonical_columns": [
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      18,
+      19,
+      21,
+      22,
+      23,
+      25,
+      26,
+      27,
+      28,
+      29,
+      29,
+      30,
+      30,
+      31,
+      31
+    ],
+    "active_columns": 25,
+    "zero_on_S_positions": 2,
+    "repeat_pairs": 3,
+    "possible_energies": [
+      152,
+      184,
+      216,
+      248
+    ]
+  },
+  "geometric_cases": 21700,
+  "orientation_cases": {
+    "transverse": 16800,
+    "parallel": 4900
+  },
+  "z0_transverse_energy": 120,
+  "actual_energy_lower_bound": 152,
+  "two_column_maps_checked": 136,
+  "surviving_maps": [],
+  "controls": {
+    "actual_left_columns": [
+      88,
+      96,
+      624,
+      144,
+      160,
+      688,
+      720,
+      736,
+      240,
+      272,
+      288,
+      816,
+      848,
+      864,
+      368,
+      912,
+      928,
+      432,
+      960,
+      464,
+      465,
+      480,
+      482,
+      1008,
+      1012,
+      1,
+      2
+    ],
+    "rank": 9,
+    "coset_energies": [
+      248,
+      216,
+      216,
+      184,
+      216,
+      184,
+      184,
+      152,
+      248,
+      216,
+      216,
+      184,
+      216,
+      184,
+      184,
+      152
+    ],
+    "local_distribution": {
+      "0": 1,
+      "16": 7,
+      "12": 24
+    },
+    "lift_violations": 128,
+    "not_target": true,
+    "changed_hyperplane_rejected": true,
+    "distinct_column_formula_rejected": true
+  },
+  "previous_formal_survivor": {
+    "counts": [
+      28,
+      24,
+      76,
+      32,
+      18,
+      44,
+      18
+    ],
+    "integer_coordinates": [
+      6,
+      14,
+      4,
+      6,
+      13,
+      0,
+      18
+    ],
+    "bounds_checked": 11,
+    "split_coefficients_checked": 1064,
+    "nov8_cut_slack": 2,
+    "still_formally_feasible": true
+  },
+  "scope": "No exclusion of q16/q20, kernel-zero, other residuals or all binary [64,11,27] codes. No novelty or external peer-review claim. General classification is proved in RESULT.md, not inferred from this finite canonical control.",
+  "cpu_seconds": 0.275750366
+}
