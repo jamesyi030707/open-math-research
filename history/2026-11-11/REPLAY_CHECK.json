@@ -1,0 +1,9 @@
+{
+  "normal_and_optimized_math_fields_equal": true,
+  "cpu_seconds": [
+    0.223464804,
+    0.22156982200000003
+  ],
+  "per_check_budget_seconds": 60,
+  "public_write": false
+}

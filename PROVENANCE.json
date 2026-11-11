@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-10",
+  "archive_date": "2026-11-11",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -2086,7 +2086,7 @@
     {
       "path": "archive/README.md",
       "source": "Editorial synthesis of the cited archived research records",
-      "published_sha256": "01a3e6c79a04db5c65492606e9fc72e12b9e1d9494f7322b2b20dd2f5f8152ff",
+      "published_sha256": "0c16399ce22f88ce26afc0e999ace9bb38fc43ab433bfb2b10eaf6a270d9c3a7",
       "modified": true,
       "kind": "curated reading document; excerpts are archival quotations, research commentary is new editorial synthesis",
       "evidence_sources": [
@@ -2106,13 +2106,14 @@
         "395d6cae34a870dd59e2525f4dd42ee195d644a6c99b6c4a2e99ce4393934eaf",
         "8407f75a15bafe48535c7fab999518529b3d25444a76435b6113e5991ca756b5",
         "d3cdb2d4d67028ead51d729fefd7b2e28acb6aaf145b7ddd169173d5fadc3d75",
-        "37d51d6d0955afecc89be347d5daaabaf3eabf4c605454bc259702c819635796"
+        "37d51d6d0955afecc89be347d5daaabaf3eabf4c605454bc259702c819635796",
+        "01a3e6c79a04db5c65492606e9fc72e12b9e1d9494f7322b2b20dd2f5f8152ff"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "ERRATA.md",
-      "published_sha256": "f43cb35b65b16d879e67acc3a67930ef7db0d0c2964219f0aed384f2635c1a50",
+      "published_sha256": "253371bbdfbae274394f3c233a3530f6929744e779605c364de3831df86b3cdd",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2129,13 +2130,14 @@
         "ae58ecc42588cfc48405e660acbac3ae481d98f77484189d3a0b2bd5ab187896",
         "a9d4d1024c9259b5933bfec7aea6a0c7cdf89a1e10962c04c61bed8bc0ccbb24",
         "1a8931635aa4aec2aa87633f78b7560edfabde2113076439f0f8d99a9653574b",
-        "d9a5ac28dd7a5a3e60103d6a74291fd956d9bafcf426d160b8590f3e14d8f033"
+        "d9a5ac28dd7a5a3e60103d6a74291fd956d9bafcf426d160b8590f3e14d8f033",
+        "f43cb35b65b16d879e67acc3a67930ef7db0d0c2964219f0aed384f2635c1a50"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "INDEX.md",
-      "published_sha256": "4d7fc640dd647901b9900aa15eea70d7aaecf2f693c76e2a0ce21716fd5807bf",
+      "published_sha256": "f85a0615014803aa38dd1e19a954e2aa2564a9b369d0fb41e660b42ea69fdd7f",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2152,13 +2154,14 @@
         "03512cbd617d9f78d87a8d7621463dec19c2a4452ec47ddb6e933aae0aff306b",
         "5845ed0318eee9c6f6c2f2fd6afa39864f6d3801bd4799c74921c6a554c64f3e",
         "4c7aca1375f7c0f8eef7cdc833c4b6c12f8e30346075b2f8b8ef19ffea00dfd3",
-        "92b3c33ba73ef38698344a00a861257971f011ecb3f252d59d7f4a134637e88d"
+        "92b3c33ba73ef38698344a00a861257971f011ecb3f252d59d7f4a134637e88d",
+        "4d7fc640dd647901b9900aa15eea70d7aaecf2f693c76e2a0ce21716fd5807bf"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "README.md",
-      "published_sha256": "3c22413f77897d866312d5a5460fe383bcda306ba52fea9500d0ad48c22f5331",
+      "published_sha256": "bc2ea20928b057857973ba6983445aeef2951282c40b11a0228530ead54f5454",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2175,13 +2178,14 @@
         "6279e0ea204148215b1cab9faf9ee0271d1599b763e6167afe6514b3d7646e3f",
         "23c649e4a022833c96dd99dfc107d077e902b4fb000b27d9040a884a4800a9e7",
         "50813638c3e84cd27ea7fefb7068e5529e7092d345c6573767248d418992685d",
-        "03565609decb7674705352bf791086829be01397f29f52a94fdf6982ff116846"
+        "03565609decb7674705352bf791086829be01397f29f52a94fdf6982ff116846",
+        "3c22413f77897d866312d5a5460fe383bcda306ba52fea9500d0ad48c22f5331"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "REPRODUCING.md",
-      "published_sha256": "3e4e431fca65ba989dff57b73e4b25066799ef21e37c3e5409e950ef12c0b33b",
+      "published_sha256": "c29e7227341d8458bb868bbb80d128db97f089b40867119424dea344663df8d5",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2198,13 +2202,14 @@
         "348fdf596e4bf9709db874bd5fbb205a1b7ee6fe7fd44000ae6ba92d4218a0c2",
         "48ba07713b7cdd75ec51d444def8962435522d783d053a37e362fa2811170ac5",
         "42833b7ec3f6726767d2d2058e8786ae831ad7683165d0d48251fa9070ccb796",
-        "0ef23ff2c38c1856ec32d708110edd5b913d4a63a6f94363a74898b7ea1e7199"
+        "0ef23ff2c38c1856ec32d708110edd5b913d4a63a6f94363a74898b7ea1e7199",
+        "3e4e431fca65ba989dff57b73e4b25066799ef21e37c3e5409e950ef12c0b33b"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "SOURCES.md",
-      "published_sha256": "9fbfd897ab498553f97a382a7820e97294d7bc6f4122053fc85e41a1cd1a6874",
+      "published_sha256": "7289dd80cf55e512f9fedaa439bf0a33ee6234d529f572709b8fbe7331f681cc",
       "modified": true,
       "kind": "2026-10-15 research record or editorial integration",
       "source_provenance": "Editorial integration of 2026-10-15 research",
@@ -2220,9 +2225,10 @@
         "1b9cd7b658faf1dc8e03374b1f9c9f2eab1a6a9745fe00f912411209946e9799",
         "9cc17b637900645d8211687b8050e9173b207ae50a89c8e7b807a1a61766c22c",
         "42ff304da1d86ae06521c5d8a86e091e860fbf77729845aa8016da5eba7d2a95",
-        "9ff46cfbbc1794126ed0dae4de7148e1134b3bd04bf55f99e3d12c7a24ae85a0"
+        "9ff46cfbbc1794126ed0dae4de7148e1134b3bd04bf55f99e3d12c7a24ae85a0",
+        "9fbfd897ab498553f97a382a7820e97294d7bc6f4122053fc85e41a1cd1a6874"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "history/2026-10-15/01_prompt.txt",
@@ -3196,7 +3202,7 @@
     },
     {
       "path": "FRONTIERS.md",
-      "published_sha256": "ce712e64e28515a2519f94d5e73f24c8ef20056c7eb077ebf715f629594825d0",
+      "published_sha256": "7dca868853def9b4b6f805e3798af72b966e18bae47622bcb609e410442ee6ac",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
@@ -3207,13 +3213,14 @@
         "06c408cb6e70f61a1f936b6d8f7c2c65b9a67bef100294a11d83f5955c264249",
         "077c95fae0f10c2997953a4970b51b74122c30935729de7176818f778e03f59c",
         "b079f0eeda843c73b0b63035ffd4e7064bfff4c88994b6ed311681aa6a40f5a6",
-        "226dcaacc70c3db3cd897d27a8eb1afa2c631a86268dc46afec72820a5b777f4"
+        "226dcaacc70c3db3cd897d27a8eb1afa2c631a86268dc46afec72820a5b777f4",
+        "ce712e64e28515a2519f94d5e73f24c8ef20056c7eb077ebf715f629594825d0"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "NEXT_RESEARCH_PROPOSAL.md",
-      "published_sha256": "7ccf95b2be7d1b56d84ce3181890aa4c2cec8f7d854f06097a67838d3ade56f4",
+      "published_sha256": "412ea0209215b47588ee7fa395eb3a6f541707951f546549b495c956f562aed4",
       "modified": true,
       "kind": "2026-10-21 research or editorial record",
       "source_provenance": "history/2026-10-21/PROVENANCE.json",
@@ -3224,9 +3231,10 @@
         "aa71a8291086ed9d900074a3b6db3525509bc67ec6744e7a929b32ba4b81b4e0",
         "d0c69dd028873bec6369653fe4ef300cc788ad6e3b959467cf0908dde809a3a8",
         "dec51cf540884de2df9b87dc5f49c1d20ef65249d34ef3ac869ebdd892f1d4a1",
-        "6b43249dfcaf68b33d12611c95da41d9d903866be69b77c90d492605915bb032"
+        "6b43249dfcaf68b33d12611c95da41d9d903866be69b77c90d492605915bb032",
+        "7ccf95b2be7d1b56d84ce3181890aa4c2cec8f7d854f06097a67838d3ade56f4"
       ],
-      "revision_note": "2026-11-10 q24 obstruction note, current source attribution and dated navigation; historical evidence unchanged."
+      "revision_note": "2026-11-11 fixed kernel-one branch closure, source attribution and dated navigation; earlier dated evidence unchanged."
     },
     {
       "path": "history/2026-10-21/EXCHANGES.md",
@@ -4145,6 +4153,202 @@
       "modified": false,
       "kind": "New curated mathematical reader note; exact archived quotation and separately labelled commentary",
       "source_provenance": "history/2026-11-10/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/DIALOGUE.md",
+      "published_sha256": "a053abc79d00a6b9a8ea43499d1e0208651ac53091243a7131dda896be06d6af",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/LIMITATIONS.md",
+      "published_sha256": "e02633d96bbb988db589b6c5f511d3f5dbdb4f285d7ecc229d30401660deeac0",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/PROVENANCE.json",
+      "published_sha256": "55968158b76c3b0f8fb62920ba727530d067c9c3d6bcd65b68b6749dd7798703",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/PUBLICATION_CHECK.json",
+      "published_sha256": "36bfaf5c3936a453d3f5ecb838e5218786c28c5edf1cf4a1a85bfe6ffe2736e4",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/PUBLIC_SAFETY_CHECK.json",
+      "published_sha256": "b3857b1c1125f4b2ee9e0dd32121edfdafa6b4ef1e047f79414edca6d9f86dd7",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/README.md",
+      "published_sha256": "eda795b2857a2476045e8027b7c6894e808851e692e89826809ef1a526c3a77b",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/REPLAY_CHECK.json",
+      "published_sha256": "2d7fe3ce79be393ca85cd96566c9e9c4f6493829a0722ff779b8600ad103cdc9",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/RESULT.md",
+      "published_sha256": "7b518f71672b50462e21ff689587e2d7d6064c455350c5c8f9ac6d383de12708",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/SHA256SUMS.txt",
+      "published_sha256": "2a43eaa8d0487a10a5ec40aa06339cf6fc1cc3e2cd77b105fb2c377166984d42",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/SOURCES.md",
+      "published_sha256": "6ccc2403e81bc1df806aad350b0f5934bdeebd1f331ca3b3dc1aac756c135bac",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/check_fourier_obstruction.py",
+      "published_sha256": "56cf656231751f94e1855b9f0c332e929b9c36d32666640f9c011d16456cbf41",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/AUDIT.md",
+      "published_sha256": "afe4f94bdd531af05951572848e6e3ee4d59f93cda95abf7c60bed424f9793d4",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/SHA256SUMS.txt",
+      "published_sha256": "181bb8636acb074ba5c401cc71ea5852233f11e666a953de36bb8fe88cb74ccb",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/audit_fourier_branch.py",
+      "published_sha256": "19c4588f2f8204eb5962d153b3a26192bec0ed8614827685564f32772517da24",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/audit_result.json",
+      "published_sha256": "ede855926f110bdb43672cc4492beb8f70cc07a2c37b717ec8033a05a7d319ef",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/audit_result_optimized.json",
+      "published_sha256": "ca438576c5ff81b4cdde7216c9a8d67340954a645df813a9f8a581112c1ceca7",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/independent/inputs/residual_candidate.json",
+      "published_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/inputs/residual_candidate.json",
+      "published_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/result.json",
+      "published_sha256": "3df24a7d1aeb367ca4a38a94ab5484bd9fcb1a1fa589eb8710b6a32907fccd36",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/result_optimized.json",
+      "published_sha256": "b52dc4bdd4946e18bc6be3db0f0475cb5ddbedb72c2b6bbc35190973b053efe0",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/REVIEW.md",
+      "published_sha256": "5a2ce61b37c133fafc1fb18c992a939e5b950e384d73f410f99629e3b9ba0814",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/SHA256SUMS.txt",
+      "published_sha256": "d3327d3ba8a783d3a9290f5ca37ba1139f06a947700fa638889a5b2e7747bcf3",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/inputs/residual_candidate.json",
+      "published_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/producer_replay.json",
+      "published_sha256": "4ddffc6a8b90973f0fcbfa4364d4dee9b2c0d62e6654cafd639a5de2c591073a",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/result.json",
+      "published_sha256": "ab591a69828a85554eb9fe99d9933c525791620450dadf6e795c7f777b761965",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/result_optimized.json",
+      "published_sha256": "9595e16303d1c4b80be880d1352fd2d54f7612f4e7df11d6d63c8f5bc4142a3a",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "history/2026-11-11/second_review/review.py",
+      "published_sha256": "aa5712b32dd65c728cf8333f6947627e9d9ee07f6371d8c51da864ba64b26549",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
+    },
+    {
+      "path": "notes/codes-kernel-one-obstruction.md",
+      "published_sha256": "df4387a5b5bcff9f2b4c273aba34610f3098412fcd53f9de399c804a7ca921a6",
+      "modified": false,
+      "kind": "2026-11-11 exact fixed-residual kernel-one obstruction or dated editorial integration",
+      "source_provenance": "history/2026-11-11/PROVENANCE.json"
     }
   ],
   "excluded": [
@@ -4383,6 +4587,13 @@
       "files_added": 20,
       "date_provenance": "history/2026-11-10/PROVENANCE.json",
       "integration_edits": "Exact q24 exclusion via repeated-column classification, P-block sums and quotient kernel; authentic narrower Claude review, independently written audits, genuine controls and old formal-survivor regression. Prior dated research unchanged."
+    },
+    {
+      "date": "2026-11-11",
+      "base_commit": "3229383ae26e6c445adf62f70545553fcc5d2055",
+      "files_added": 28,
+      "date_provenance": "history/2026-11-11/PROVENANCE.json",
+      "integration_edits": "Five independent hyperplane periods force common multiplicity parity and exclude the entire fixed-residual kernel-one branch. Genuine narrower Claude exchange, separately authored exact audits, controls, old formal-witness regression and curated mathematical commentary. Earlier dated evidence and licenses unchanged."
     }
   ],
   "presentation_revisions": [

@@ -1,6 +1,6 @@
 {
-  "archive_date": "2026-11-10",
-  "total_files_including_manifest_and_checksums": 700,
+  "archive_date": "2026-11-11",
+  "total_files_including_manifest_and_checksums": 728,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -205,9 +205,17 @@
       "scope": "Excludes q=24 only for the pinned residual and normalized even-subcode left-projection-kernel-one branch. q=16 and q=20 remain unresolved, as do the kernel-zero branch, other residuals and global binary [64,11,27] existence. No new code, global parameter bound, novelty or external peer-review claim.",
       "verification": "Six normal/optimized replays passed with all mathematical fields equal; fixed inputs, exhaustive classification, block geometry, ordered/unordered terminal maps, formal survivor, distinct control limits, UTF-8/JSON/Python syntax, links, exact quotation and checksums checked.",
       "source_preservation": "All earlier dated evidence and licenses unchanged. Primary and independent package bytes preserved. Dialogue mathematical messages preserved, operational/account record paragraphs omitted."
+    },
+    {
+      "date": "2026-11-11",
+      "files_added": 28,
+      "date_safety_record": "history/2026-11-11/PUBLIC_SAFETY_CHECK.json",
+      "scope": "Excludes the pinned residual B only in the normalized even-subcode left-projection-kernel-one branch. All q=16,20,24,28 are excluded. Kernel-zero, other residuals and global binary [64,11,27] existence remain unresolved. No new code, global parameter bound, novelty, external peer review or proof-kernel certification claim.",
+      "verification": "Six ordinary/optimized replays pass; all mathematical fields agree. Input identities, formal witnesses, control limits, syntax, relative links, exact quotation, privacy and checksums checked.",
+      "source_preservation": "Prior dated evidence and licenses unchanged. Research code/results and independent package bytes retained. Mathematical prompt/reply preserved with non-mathematical capture/quota narration omitted."
     }
   ],
-  "curated_reader_documents": 26,
+  "curated_reader_documents": 27,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

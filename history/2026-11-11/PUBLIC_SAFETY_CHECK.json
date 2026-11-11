@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-11",
+  "review": "Each added/changed file decoded as UTF-8, scanned for personal contact, private conversation identifiers, credentials, private paths, screenshots, interface/account records and internal instructions, with manual review of prose and dialogue. Pattern checks are not a perfect privacy guarantee.",
+  "excluded": "No private screenshot, account or quota record, private conversation URL/identifier, credential, private local path, internal instruction, unsent prompt or unrelated material is included.",
+  "dialogue_transformation": "Only actual mathematical prompt and copied visible reply, plus separately labelled scope and notation clarifications. No mathematical quotation invented or altered.",
+  "verification": "Six deterministic replays, unchanged input/code/result identities, JSON and Python syntax, relative navigation, quotation match and root/date checksum coverage.",
+  "authorship": "New Chinese commentary is evidence-based editorial synthesis; no invented personal experiences, qualifications or novelty claims.",
+  "scope": "Excludes the pinned residual B only in the normalized even-subcode left-projection-kernel-one branch. All q=16,20,24,28 are excluded. Kernel-zero, other residuals and global binary [64,11,27] existence remain unresolved. No new code, global parameter bound, novelty, external peer review or proof-kernel certification claim."
+}

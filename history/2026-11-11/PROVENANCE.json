@@ -1,0 +1,224 @@
+{
+  "date": "2026-11-11",
+  "base_commit": "3229383ae26e6c445adf62f70545553fcc5d2055",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "a053abc79d00a6b9a8ea43499d1e0208651ac53091243a7131dda896be06d6af",
+      "source": {
+        "kind": "Actual mathematical prompt and visible Claude reply; non-mathematical capture and quota narration omitted"
+      },
+      "original_sha256": "174d8773b8e169cc813c6415aafb4f6e26c7eedc5b9f3022279a0beb8d898019",
+      "modified": true,
+      "modification": "Removed non-mathematical interface/quota/capture narration; exact mathematical question and visible final reply unchanged."
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "e02633d96bbb988db589b6c5f511d3f5dbdb4f285d7ecc229d30401660deeac0",
+      "source": {
+        "kind": "New editorial source, scope, navigation or publication record"
+      }
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "36bfaf5c3936a453d3f5ecb838e5218786c28c5edf1cf4a1a85bfe6ffe2736e4",
+      "source": {
+        "kind": "New editorial source, scope, navigation or publication record"
+      }
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "b3857b1c1125f4b2ee9e0dd32121edfdafa6b4ef1e047f79414edca6d9f86dd7",
+      "source": {
+        "kind": "New editorial source, scope, navigation or publication record"
+      }
+    },
+    {
+      "path": "README.md",
+      "sha256": "eda795b2857a2476045e8027b7c6894e808851e692e89826809ef1a526c3a77b",
+      "source": {
+        "kind": "New editorial source, scope, navigation or publication record"
+      }
+    },
+    {
+      "path": "REPLAY_CHECK.json",
+      "sha256": "2d7fe3ce79be393ca85cd96566c9e9c4f6493829a0722ff779b8600ad103cdc9",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "2d7fe3ce79be393ca85cd96566c9e9c4f6493829a0722ff779b8600ad103cdc9",
+      "modified": false
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "7b518f71672b50462e21ff689587e2d7d6064c455350c5c8f9ac6d383de12708",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "dab3c226a4701261971f1fd9d6105e95d82efdee00723b0c5fba0845edf8a7a2",
+      "modified": true,
+      "modification": "Removed local publication status and source-reading narration in the opening; mathematical proof and all results unchanged."
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "6ccc2403e81bc1df806aad350b0f5934bdeebd1f331ca3b3dc1aac756c135bac",
+      "source": {
+        "kind": "New editorial source, scope, navigation or publication record"
+      }
+    },
+    {
+      "path": "check_fourier_obstruction.py",
+      "sha256": "56cf656231751f94e1855b9f0c332e929b9c36d32666640f9c011d16456cbf41",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "56cf656231751f94e1855b9f0c332e929b9c36d32666640f9c011d16456cbf41",
+      "modified": false
+    },
+    {
+      "path": "independent/AUDIT.md",
+      "sha256": "afe4f94bdd531af05951572848e6e3ee4d59f93cda95abf7c60bed424f9793d4",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "afe4f94bdd531af05951572848e6e3ee4d59f93cda95abf7c60bed424f9793d4",
+      "modified": false
+    },
+    {
+      "path": "independent/SHA256SUMS.txt",
+      "sha256": "181bb8636acb074ba5c401cc71ea5852233f11e666a953de36bb8fe88cb74ccb",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "181bb8636acb074ba5c401cc71ea5852233f11e666a953de36bb8fe88cb74ccb",
+      "modified": false
+    },
+    {
+      "path": "independent/audit_fourier_branch.py",
+      "sha256": "19c4588f2f8204eb5962d153b3a26192bec0ed8614827685564f32772517da24",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "19c4588f2f8204eb5962d153b3a26192bec0ed8614827685564f32772517da24",
+      "modified": false
+    },
+    {
+      "path": "independent/audit_result.json",
+      "sha256": "ede855926f110bdb43672cc4492beb8f70cc07a2c37b717ec8033a05a7d319ef",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "ede855926f110bdb43672cc4492beb8f70cc07a2c37b717ec8033a05a7d319ef",
+      "modified": false
+    },
+    {
+      "path": "independent/audit_result_optimized.json",
+      "sha256": "ca438576c5ff81b4cdde7216c9a8d67340954a645df813a9f8a581112c1ceca7",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "ca438576c5ff81b4cdde7216c9a8d67340954a645df813a9f8a581112c1ceca7",
+      "modified": false
+    },
+    {
+      "path": "independent/inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Separately authored independent mathematical audit, checker and actual results"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "result.json",
+      "sha256": "3df24a7d1aeb367ca4a38a94ab5484bd9fcb1a1fa589eb8710b6a32907fccd36",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "3df24a7d1aeb367ca4a38a94ab5484bd9fcb1a1fa589eb8710b6a32907fccd36",
+      "modified": false
+    },
+    {
+      "path": "result_optimized.json",
+      "sha256": "b52dc4bdd4946e18bc6be3db0f0475cb5ddbedb72c2b6bbc35190973b053efe0",
+      "source": {
+        "kind": "Primary AI-assisted proof, exact checker, fixed input or actual computation record"
+      },
+      "original_sha256": "b52dc4bdd4946e18bc6be3db0f0475cb5ddbedb72c2b6bbc35190973b053efe0",
+      "modified": false
+    },
+    {
+      "path": "second_review/REVIEW.md",
+      "sha256": "5a2ce61b37c133fafc1fb18c992a939e5b950e384d73f410f99629e3b9ba0814",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "5a2ce61b37c133fafc1fb18c992a939e5b950e384d73f410f99629e3b9ba0814",
+      "modified": false
+    },
+    {
+      "path": "second_review/SHA256SUMS.txt",
+      "sha256": "d3327d3ba8a783d3a9290f5ca37ba1139f06a947700fa638889a5b2e7747bcf3",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "d3327d3ba8a783d3a9290f5ca37ba1139f06a947700fa638889a5b2e7747bcf3",
+      "modified": false
+    },
+    {
+      "path": "second_review/inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "second_review/producer_replay.json",
+      "sha256": "4ddffc6a8b90973f0fcbfa4364d4dee9b2c0d62e6654cafd639a5de2c591073a",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "4ddffc6a8b90973f0fcbfa4364d4dee9b2c0d62e6654cafd639a5de2c591073a",
+      "modified": false
+    },
+    {
+      "path": "second_review/result.json",
+      "sha256": "ab591a69828a85554eb9fe99d9933c525791620450dadf6e795c7f777b761965",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "ab591a69828a85554eb9fe99d9933c525791620450dadf6e795c7f777b761965",
+      "modified": false
+    },
+    {
+      "path": "second_review/result_optimized.json",
+      "sha256": "9595e16303d1c4b80be880d1352fd2d54f7612f4e7df11d6d63c8f5bc4142a3a",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "9595e16303d1c4b80be880d1352fd2d54f7612f4e7df11d6d63c8f5bc4142a3a",
+      "modified": false
+    },
+    {
+      "path": "second_review/review.py",
+      "sha256": "aa5712b32dd65c728cf8333f6947627e9d9ee07f6371d8c51da864ba64b26549",
+      "source": {
+        "kind": "Second separately authored mathematical review, checker, actual results and replay record"
+      },
+      "original_sha256": "aa5712b32dd65c728cf8333f6947627e9d9ee07f6371d8c51da864ba64b26549",
+      "modified": false
+    }
+  ],
+  "preservation": "All previous dated research and licenses unchanged. Dated editorial additions and current navigation do not rewrite earlier mathematical records."
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-11",
+  "input_commit": "3229383ae26e6c445adf62f70545553fcc5d2055",
+  "deterministic_replays": [
+    {
+      "script": "check_fourier_obstruction.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.258
+    },
+    {
+      "script": "check_fourier_obstruction.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.2995
+    },
+    {
+      "script": "independent/audit_fourier_branch.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.1056
+    },
+    {
+      "script": "independent/audit_fourier_branch.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.1657
+    },
+    {
+      "script": "second_review/review.py",
+      "optimized": false,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.1809
+    },
+    {
+      "script": "second_review/review.py",
+      "optimized": true,
+      "status": "passed",
+      "mathematical_fields": "equal",
+      "wall_seconds": 0.2258
+    }
+  ],
+  "comparison": "Three standard-library checks each rerun in a disposable copy with a 60-second cap in normal and optimized Python. Only cpu_seconds excluded; all mathematical fields equal archived results.",
+  "input_identity": "All three residual copies match the pinned source blob and SHA-256.",
+  "coverage": "All1024 residual words, rank55 quadratic rigidity, ten forced hyperplanes, five independent normals, all four q values. First checker:6401 affine configurations and89614 hyperplanes. First independent:186 actual matrices. Second independent:4845 affine configurations and67830 hyperplanes, and parity-equation rank31.",
+  "controls": "Primary q20 left control violates123 full lift bounds; independently constructed left control violates164. Neither is a target code. Damaged input/offset and incorrect auxiliary origin are detected; rank-deficient period control remains possible.",
+  "formal_feasibility": "Both q16/q20 formal witnesses still pass11 bounds,1064 integral nonnegative split coefficients and November8 incidence cuts in separately implemented calculations.",
+  "dialogue_boundary": "One actual exchange reviewed q20 multiplicity structure, including classification claims that are not certified or used by the branch proof. The Fourier-parity exclusion was never submitted to Claude.",
+  "source_preservation": "Prior dated records and licenses unchanged. Research code, input and result bytes retained. Primary proof opening edited only to remove local publication status and research-process narration. Dialogue retains exact mathematical prompt and copied reply, omitting interface and quota narration.",
+  "claim_scope": "Excludes the pinned residual B only in the normalized even-subcode left-projection-kernel-one branch. All q=16,20,24,28 are excluded. Kernel-zero, other residuals and global binary [64,11,27] existence remain unresolved. No new code, global parameter bound, novelty, external peer review or proof-kernel certification claim.",
+  "not_run": [
+    "Full target-matrix search",
+    "Numerical solve",
+    "Older large computations",
+    "Formal proof-assistant certification",
+    "Complete validation of Claude classification claims",
+    "Comprehensive novelty search"
+  ]
+}
