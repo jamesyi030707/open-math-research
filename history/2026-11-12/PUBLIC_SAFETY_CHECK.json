@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-12",
+  "review": "Every changed or added file reviewed as UTF-8, scanned for account/contact data, private URLs, credentials, private paths, screenshots and internal coordination. Prose and actual dialogue manually reviewed. Pattern scan is not an absolute privacy guarantee.",
+  "excluded": "No private screenshots, account identifiers, private conversation URLs, credentials, internal coordination or unsent exchange included.",
+  "dialogue_transformation": "Omit non-mathematical quota narration; preserve actual mathematical prompt and final reply, with separate attribution and notation notes.",
+  "scope": "Necessary conditions only for the fixed residual kernel-zero branch: q28 retains (r,z)=(4,1),(24,3); q24 excludes r12/16; q16/20 retain all r. Two rank-six controls are local W restrictions, not complete lifts. No branch exclusion, target code, global bound improvement or novelty claim.",
+  "preservation": "Historical research and licenses unchanged; new prose has no invented personal experiences or qualifications."
+}

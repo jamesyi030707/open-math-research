@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-12",
+  "input_commit": "ece29ff4b6862d0f3fd59232772218d6685bb754",
+  "replays": [
+    {
+      "script": "check.py",
+      "optimized": false,
+      "all_mathematical_fields_equal": true,
+      "cpu_seconds": 0.054430021999999995
+    },
+    {
+      "script": "check.py",
+      "optimized": true,
+      "all_mathematical_fields_equal": true,
+      "cpu_seconds": 0.052958914999999995
+    },
+    {
+      "script": "independent/review.py",
+      "optimized": false,
+      "all_mathematical_fields_equal": true,
+      "cpu_seconds": 0.0005727010000000018
+    },
+    {
+      "script": "independent/review.py",
+      "optimized": true,
+      "all_mathematical_fields_equal": true,
+      "cpu_seconds": 0.0006491340000000095
+    }
+  ],
+  "comparison": "Four standard-library replays in disposable copy, normal and optimized, capped at60seconds each. All fields except cpu_seconds agree.",
+  "coverage": "Initial checker recomputes1024 residual words, rank55 rigidity, windows and4241 small column-multiset identities. Independent checker reuses rigidity, independently enumerates residual W, exact rational parameter filter and two rank-six controls.",
+  "dialogue_scope": "One actual reply about whole six-dimensional restriction; subsequent independent pair-budget and XOR filter were not submitted.",
+  "not_run": [
+    "Complete left-matrix search",
+    "Third-party classification validation",
+    "Global nonexistence proof",
+    "Large old experiments",
+    "Comprehensive novelty review"
+  ],
+  "claim_scope": "Necessary conditions only for the fixed residual kernel-zero branch: q28 retains (r,z)=(4,1),(24,3); q24 excludes r12/16; q16/20 retain all r. Two rank-six controls are local W restrictions, not complete lifts. No branch exclusion, target code, global bound improvement or novelty claim."
+}

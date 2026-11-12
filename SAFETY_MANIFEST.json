@@ -1,6 +1,6 @@
 {
-  "archive_date": "2026-11-11",
-  "total_files_including_manifest_and_checksums": 728,
+  "archive_date": "2026-11-12",
+  "total_files_including_manifest_and_checksums": 748,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -213,9 +213,17 @@
       "scope": "Excludes the pinned residual B only in the normalized even-subcode left-projection-kernel-one branch. All q=16,20,24,28 are excluded. Kernel-zero, other residuals and global binary [64,11,27] existence remain unresolved. No new code, global parameter bound, novelty, external peer review or proof-kernel certification claim.",
       "verification": "Six ordinary/optimized replays pass; all mathematical fields agree. Input identities, formal witnesses, control limits, syntax, relative links, exact quotation, privacy and checksums checked.",
       "source_preservation": "Prior dated evidence and licenses unchanged. Research code/results and independent package bytes retained. Mathematical prompt/reply preserved with non-mathematical capture/quota narration omitted."
+    },
+    {
+      "date": "2026-11-12",
+      "files_added": 20,
+      "date_safety_record": "history/2026-11-12/PUBLIC_SAFETY_CHECK.json",
+      "scope": "Necessary conditions only for the fixed residual kernel-zero branch: q28 retains (r,z)=(4,1),(24,3); q24 excludes r12/16; q16/20 retain all r. Two rank-six controls are local W restrictions, not complete lifts. No branch exclusion, target code, global bound improvement or novelty claim.",
+      "verification": "Four ordinary/optimized replays, mathematical fields identical; inputs and originals checked, privacy, syntax, relative links and exact quote audited.",
+      "source_preservation": "No prior dated records or license changes."
     }
   ],
-  "curated_reader_documents": 27,
+  "curated_reader_documents": 28,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

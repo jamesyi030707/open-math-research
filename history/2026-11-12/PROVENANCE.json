@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-12",
+  "base_commit": "ece29ff4b6862d0f3fd59232772218d6685bb754",
+  "artifacts": [
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "79c48c1410be4c8f92b8714e745cfc4f35b792f67d87ab87d67b705896cfe076",
+      "kind": "Actual mathematical prompt and visible final reply",
+      "modification": "Remove quota narration and append attribution and notation boundary; mathematical wording unchanged."
+    },
+    {
+      "path": "LIMITATIONS.md",
+      "sha256": "a7833c3f1e0f466ea432a7cf0a8eb057ebd3eede49b7efe62fff186b8f5e4f6f",
+      "kind": "New editorial navigation, scope, sources or checks"
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "7782349c081fa41e453afbcd3988f3da2cd8563308bdd6a83b381718c28337b2",
+      "kind": "New editorial navigation, scope, sources or checks"
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "51232c84984cc61c75b62cc588efe32a493d6e944f30922142575b92b74d4ef1",
+      "kind": "New editorial navigation, scope, sources or checks"
+    },
+    {
+      "path": "README.md",
+      "sha256": "413449459cb75617d47cdbc3f32b3a236eecb524f5825b23f9fa5f3ad2cd6db8",
+      "kind": "New editorial navigation, scope, sources or checks"
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "c6698c4f93487244355558597618d632a6082f68b4360fdbc66361e667536147",
+      "kind": "Primary AI-assisted derivation, code, fixed input or actual output",
+      "original_sha256": "dc6cd2e91e530dd243aab848daa4d72756c97105fa51947c956939dba72407ef",
+      "modified": true,
+      "modification": "Remove source-reading/process narration and correct English source label; mathematical content unchanged."
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "d7a60ffda3262eb66a3236cf4161318a4ce6ca47fc3616e68fff2905c97ecf3d",
+      "kind": "New editorial navigation, scope, sources or checks"
+    },
+    {
+      "path": "check.py",
+      "sha256": "70083b7a628732004f8b6daa9efbeeb8f47f3738c91a9db19502337219a2efea",
+      "kind": "Primary AI-assisted derivation, code, fixed input or actual output",
+      "original_sha256": "70083b7a628732004f8b6daa9efbeeb8f47f3738c91a9db19502337219a2efea",
+      "modified": false
+    },
+    {
+      "path": "independent/REVIEW.md",
+      "sha256": "9a8cb92c5aad26071837d5ca00dc935c9cbe7765f72f6fa26a8ef65d2498c6a3",
+      "kind": "Separately authored audit",
+      "original_sha256": "9a8cb92c5aad26071837d5ca00dc935c9cbe7765f72f6fa26a8ef65d2498c6a3",
+      "modified": false
+    },
+    {
+      "path": "independent/inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "kind": "Separately authored audit",
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "independent/result.json",
+      "sha256": "08bc17003edb68a9bbe9eae1fc88706e27f55d7c14448b32152bf2cbf4f1b779",
+      "kind": "Separately authored audit",
+      "original_sha256": "08bc17003edb68a9bbe9eae1fc88706e27f55d7c14448b32152bf2cbf4f1b779",
+      "modified": false
+    },
+    {
+      "path": "independent/result_optimized.json",
+      "sha256": "0e2ba9b1a51abbfe0cca1a52d2654e7dad3545d6dfd5b02e5ac14ffda2dc09a5",
+      "kind": "Separately authored audit",
+      "original_sha256": "0e2ba9b1a51abbfe0cca1a52d2654e7dad3545d6dfd5b02e5ac14ffda2dc09a5",
+      "modified": false
+    },
+    {
+      "path": "independent/review.py",
+      "sha256": "11a3a638f06d70505666cd4ed184b84076e5c7281a7bf358fcf28b370612f26d",
+      "kind": "Separately authored audit",
+      "original_sha256": "11a3a638f06d70505666cd4ed184b84076e5c7281a7bf358fcf28b370612f26d",
+      "modified": false
+    },
+    {
+      "path": "inputs/residual_candidate.json",
+      "sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "kind": "Primary AI-assisted derivation, code, fixed input or actual output",
+      "original_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+      "modified": false
+    },
+    {
+      "path": "result.json",
+      "sha256": "009fc9338f9d9fc0c827bee48f71cf9b1d8773d030104941aa89f5df1c55077d",
+      "kind": "Primary AI-assisted derivation, code, fixed input or actual output",
+      "original_sha256": "009fc9338f9d9fc0c827bee48f71cf9b1d8773d030104941aa89f5df1c55077d",
+      "modified": false
+    },
+    {
+      "path": "result_optimized.json",
+      "sha256": "fecd06a7269091130fde2b7464a153193eb3e9c32fe4de41c594b11a92d09daa",
+      "kind": "Primary AI-assisted derivation, code, fixed input or actual output",
+      "original_sha256": "fecd06a7269091130fde2b7464a153193eb3e9c32fe4de41c594b11a92d09daa",
+      "modified": false
+    }
+  ],
+  "preservation": "Old dated research and licenses untouched."
+}
