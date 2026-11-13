@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-13",
+  "scope": "New files and changed editorial files only; no private browser/session records published",
+  "patterns_passed": true,
+  "manual_review": "Actual prompt and final reply only; private identifiers and hidden reasoning excluded. Evidence scope and third-party attribution reviewed. Pattern checks are not a privacy guarantee.",
+  "files": [
+    {
+      "path": "ERRATA.md",
+      "sha256": "1998ff9668593b1dd90f60929b3f4b5bb79c0a767f8eaf9aa546c2327466545a",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "FRONTIERS.md",
+      "sha256": "10bf7ddf79c073e59a1ea198bd4848911c1a0540040bbb634c5999655e9e75c1",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "INDEX.md",
+      "sha256": "a7786be607c290ebe661e814628a595fe34a389efecab6f595cc5b5f57ec1d09",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "sha256": "5f342d0dc530329f988e999a3d96b627916655ed761d706b6273967135414656",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "README.md",
+      "sha256": "679c6fe5860b9b27a2ae5e451847e41fe6c6a231b3d597554fc6323e4e6eef55",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "sha256": "9a7e74c25a1c8bd26fddc668fc7c787adc3a4f7f988fd22c5ee0bd16b448856d",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "d9bdb81ce3f2d86c32016d176cbf73407938e0f3aa6df8eec553acf8bd74b75b",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "archive/README.md",
+      "sha256": "15be9cebfa793a0e6594efe603332b1b792af2d959dbbeddbc3f9b478bbf4285",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/CLAUDE_REPLY.md",
+      "sha256": "507cfb1b53009cd5156a431921bac1f9bc993de9680db7d33123daf3bd9a5e75",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/DIALOGUE.md",
+      "sha256": "62dd520256853009191504ffe9f256a9bfbb5b20d59fd4440bf24dcdb628023e",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/GEOMETRY.md",
+      "sha256": "6deadf30024a2859646a09ea7367326f62f0525f567bc5b8622df0a476930e98",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/PROMPT.txt",
+      "sha256": "7f9cb747af0c760b4cc8c548a59dc92d8a2e23fb5beb4c9793162dd9b5c95985",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/README.md",
+      "sha256": "9be5447f35850a8cd2e39fdbcdaf47a6bf6e2b3c8e9307534984e5e9ef4f23c3",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/RESULT.md",
+      "sha256": "f7f0c6b9c6972da80f38d1ec260c6fecec9ff54447dd0fb0bfdacb61e56128a9",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/check_geometry.py",
+      "sha256": "fdaaa3c30b03b85472ca3a63d24da6e6c1d9618efaa764850608adce810cc97e",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/check_geometry_optimized_replay.json",
+      "sha256": "cba2daa5c580821bca0e37720a36fd9c51c8467c861dc480663a56e8d49c0a05",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/check_geometry_replay.json",
+      "sha256": "305b584b6487ec23bca98262ec3cadaca1c6ae3e61259592dd7fb03fabd2af97",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/geometry.json",
+      "sha256": "4637099166990af9352b87234796fd04ddb0545096a82a8264a16fceea7e67d3",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/geometry_optimized.json",
+      "sha256": "6a084c1657d7b9ec363af6c19568fe5994d702d689b04a72eaf85c6e5ac38fbd",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/integer_optimized_replay.txt",
+      "sha256": "5ee01dfe474760759f9c5edd355bd2b73129be7d95672c4ad49ccc0ba1e7d4ea",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/integer_replay.txt",
+      "sha256": "5ee01dfe474760759f9c5edd355bd2b73129be7d95672c4ad49ccc0ba1e7d4ea",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/integer_verify.py",
+      "sha256": "fa5033d96c93ecdbbeeca9eba939c997be30638525bd2936113b7eb5b47a548a",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/review.py",
+      "sha256": "7a05100fab61dfa330553c7d341d620b00a8b6ad9f7c82d5d41facd8dc6a2951",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/review_optimized_replay.json",
+      "sha256": "30112fb339b0c6a5889a22d6328898df07a5b455bf35fad2587caaefc367ca69",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "history/2026-11-13/review_replay.json",
+      "sha256": "30112fb339b0c6a5889a22d6328898df07a5b455bf35fad2587caaefc367ca69",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    },
+    {
+      "path": "notes/codes-local-extension-obstruction.md",
+      "sha256": "38fbe20bf0aec0de3efd7798bd27b4dbe2d9cf030ff838866bba14b15b95eae2",
+      "review": "UTF-8 full text and privacy patterns; manual scope/source review"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-13",
+  "runs": [
+    "integer_verify.py normal",
+    "integer_verify.py -O",
+    "review.py normal",
+    "review.py -O",
+    "check_geometry.py normal",
+    "check_geometry.py -O"
+  ],
+  "time_limit_seconds_each": 60,
+  "all_passed": true,
+  "mode_agreement": "exact, removing cpu_seconds only where present",
+  "scope": "Two labeled controls, not all q28 restrictions; no full search"
+}

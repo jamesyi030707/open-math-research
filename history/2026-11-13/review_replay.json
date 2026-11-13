@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "scope": "Only the two specified labeled W restrictions; no q28/full branch exclusion",
+  "controls": [
+    {
+      "h_weight": 4,
+      "rank": 6,
+      "weight_distribution": {
+        "0": 1,
+        "4": 1,
+        "12": 49,
+        "16": 13
+      },
+      "messages": [
+        98,
+        242,
+        322,
+        450,
+        898,
+        786,
+        674,
+        546
+      ],
+      "coefficients": [
+        -1,
+        -1,
+        1,
+        1,
+        -1,
+        -1,
+        1,
+        1
+      ],
+      "isolated_column_1based": 13,
+      "certificate_passed": true,
+      "damaged_certificate_rejected": true,
+      "affine_offset_controls": 5
+    },
+    {
+      "h_weight": 24,
+      "rank": 6,
+      "weight_distribution": {
+        "0": 1,
+        "12": 38,
+        "16": 24,
+        "24": 1
+      },
+      "messages": [
+        98,
+        242,
+        322,
+        450,
+        898,
+        786,
+        674,
+        546
+      ],
+      "coefficients": [
+        -1,
+        -1,
+        1,
+        1,
+        1,
+        1,
+        -1,
+        -1
+      ],
+      "isolated_column_1based": 13,
+      "certificate_passed": true,
+      "damaged_certificate_rejected": true,
+      "affine_offset_controls": 5
+    }
+  ],
+  "reply_control_corrected": true
+}

@@ -164,3 +164,8 @@ Python 3标准库，无安装：
 ## 2026-11-12：核维数0的列对预算
 
 复制[当日目录](history/2026-11-12/README.md)到临时目录，分别运行 `timeout 60s python -I -B check.py` 与 `timeout 60s python -I -B independent/review.py`；两者也在-O模式下重放。只忽略cpu_seconds，其他数学字段须匹配。使用标准库与显式异常，不运行完整矩阵搜索。
+
+
+## 2026-11-13
+
+[本日证据入口](history/2026-11-13/README.md)：Python标准库，integer_verify.py、review.py、check_geometry.py逐项以60秒为限，普通与-O模式都运行。只输出结果，不修改旧档案；含计时的JSON比较仅忽略cpu_seconds。

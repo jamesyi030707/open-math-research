@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月13日：局部确实成码，向外却接不上](notes/codes-local-extension-obstruction.md) · 八条重量等式排除两个带标签局部控制的延伸；不排除整个q=28分支。
+
 [11月12日：重复列的预算，约束另一条分支](notes/codes-kernel-zero-pairs.md) · 核维数0的二阶矩差限制相反h位列对；缩小部分必要参数，不排除整个分支。
 
 [11月11日：五个超平面，排除一个完整分支](notes/codes-kernel-one-obstruction.md) · 列重数奇偶周期一次排除固定残余的全部核维数1分支；核维数0、其他残余及全局问题仍未解决。
@@ -84,6 +86,7 @@ J=92 的逆向节点从约 10.96 亿降到 2,200 万，同轮计时仍慢于正�
 [阅读索引](INDEX.md) · [原始记录与勘误](archive/README.md)
 
 署名、引用与协作说明见 [来源](SOURCES.md)。自有代码与文字分别按 [MIT](LICENSE-CODE-MIT.txt) 与 [CC BY 4.0](LICENSE-DOCS-CC-BY-4.0.md) 开放；具体权利范围见 [许可说明](LICENSING.md)。
+
 
 
 

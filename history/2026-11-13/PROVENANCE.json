@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-13",
+  "base_commit": "de0b73d8cc5cf5c9bd751e8347cbad91b5c52379",
+  "sources": [
+    "history/2026-11-12/inputs/residual_candidate.json",
+    "history/2026-11-12/result.json"
+  ],
+  "independent_work": "Eight-row integer certificate and separate binary-generator review; geometry characterization and character tests",
+  "dialogue": "One actual prompt and visible final reply, formatting normalized; later independent result not reviewed by Claude",
+  "scope": "Only the two fixed labeled W restrictions are excluded from extension; no complete q28 classification",
+  "files": [
+    {
+      "path": "CLAUDE_REPLY.md",
+      "sha256": "507cfb1b53009cd5156a431921bac1f9bc993de9680db7d33123daf3bd9a5e75"
+    },
+    {
+      "path": "DIALOGUE.md",
+      "sha256": "62dd520256853009191504ffe9f256a9bfbb5b20d59fd4440bf24dcdb628023e"
+    },
+    {
+      "path": "GEOMETRY.md",
+      "sha256": "6deadf30024a2859646a09ea7367326f62f0525f567bc5b8622df0a476930e98"
+    },
+    {
+      "path": "PROMPT.txt",
+      "sha256": "7f9cb747af0c760b4cc8c548a59dc92d8a2e23fb5beb4c9793162dd9b5c95985"
+    },
+    {
+      "path": "PUBLICATION_CHECK.json",
+      "sha256": "632882d2ce639cf8091b9bc1daed1d4cf6b3cc2646f3b22649923e763f6910d0"
+    },
+    {
+      "path": "PUBLIC_SAFETY_CHECK.json",
+      "sha256": "5ec7a759bfe6f7a9cc3b67b060c79d64c60858f8b3861835d176d1978a1018ea"
+    },
+    {
+      "path": "README.md",
+      "sha256": "9be5447f35850a8cd2e39fdbcdaf47a6bf6e2b3c8e9307534984e5e9ef4f23c3"
+    },
+    {
+      "path": "RESULT.md",
+      "sha256": "f7f0c6b9c6972da80f38d1ec260c6fecec9ff54447dd0fb0bfdacb61e56128a9"
+    },
+    {
+      "path": "check_geometry.py",
+      "sha256": "fdaaa3c30b03b85472ca3a63d24da6e6c1d9618efaa764850608adce810cc97e"
+    },
+    {
+      "path": "check_geometry_optimized_replay.json",
+      "sha256": "cba2daa5c580821bca0e37720a36fd9c51c8467c861dc480663a56e8d49c0a05"
+    },
+    {
+      "path": "check_geometry_replay.json",
+      "sha256": "305b584b6487ec23bca98262ec3cadaca1c6ae3e61259592dd7fb03fabd2af97"
+    },
+    {
+      "path": "geometry.json",
+      "sha256": "4637099166990af9352b87234796fd04ddb0545096a82a8264a16fceea7e67d3"
+    },
+    {
+      "path": "geometry_optimized.json",
+      "sha256": "6a084c1657d7b9ec363af6c19568fe5994d702d689b04a72eaf85c6e5ac38fbd"
+    },
+    {
+      "path": "integer_optimized_replay.txt",
+      "sha256": "5ee01dfe474760759f9c5edd355bd2b73129be7d95672c4ad49ccc0ba1e7d4ea"
+    },
+    {
+      "path": "integer_replay.txt",
+      "sha256": "5ee01dfe474760759f9c5edd355bd2b73129be7d95672c4ad49ccc0ba1e7d4ea"
+    },
+    {
+      "path": "integer_verify.py",
+      "sha256": "fa5033d96c93ecdbbeeca9eba939c997be30638525bd2936113b7eb5b47a548a"
+    },
+    {
+      "path": "review.py",
+      "sha256": "7a05100fab61dfa330553c7d341d620b00a8b6ad9f7c82d5d41facd8dc6a2951"
+    },
+    {
+      "path": "review_optimized_replay.json",
+      "sha256": "30112fb339b0c6a5889a22d6328898df07a5b455bf35fad2587caaefc367ca69"
+    },
+    {
+      "path": "review_replay.json",
+      "sha256": "30112fb339b0c6a5889a22d6328898df07a5b455bf35fad2587caaefc367ca69"
+    }
+  ]
+}
