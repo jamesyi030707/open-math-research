@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-14",
+  "scope": "Excludes q=28 only for the pinned residual in the kernel-zero branch. q=16,20,24, other residuals and global [64,11,27] existence remain unresolved; table bound remains 26–27.",
+  "files": [
+    {
+      "path": "FRONTIERS.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "INDEX.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "SOURCES.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "ERRATA.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "PROVENANCE.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "NEXT_RESEARCH_PROPOSAL.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "SAFETY_MANIFEST.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "README.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "REPRODUCING.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "archive/README.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "notes/codes-kernel-zero-q28.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/CLASSIFICATION.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/check_optimized.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/check_result.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/check_classification.py",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/DIALOGUE.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/independent_optimized.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/PROVENANCE.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/RESULT.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/independent_check.py",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/README.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/CLAUDE_REPLY.md",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    },
+    {
+      "path": "history/2026-11-14/independent_result.json",
+      "utf8": true,
+      "privacy_patterns": "PASS"
+    }
+  ],
+  "manual_review": "New mathematical prose and actual reply checked for scope, attribution and private material. Historical evidence unchanged. Pattern checks are not a privacy guarantee."
+}

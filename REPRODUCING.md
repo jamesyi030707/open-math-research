@@ -169,3 +169,8 @@ Python 3标准库，无安装：
 ## 2026-11-13
 
 [本日证据入口](history/2026-11-13/README.md)：Python标准库，integer_verify.py、review.py、check_geometry.py逐项以60秒为限，普通与-O模式都运行。只输出结果，不修改旧档案；含计时的JSON比较仅忽略cpu_seconds。
+
+
+## 2026-11-14：全标签q28核验
+
+[独立双实现及四次运行](history/2026-11-14/README.md)。每项60秒限时，标准库，无安装；明确分类覆盖后逐一精确拒绝，不是由启发式未找到推断不存在。

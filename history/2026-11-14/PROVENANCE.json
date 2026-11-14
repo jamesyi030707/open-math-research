@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-14",
+  "base_commit": "74c1b255db7ab8e4300fdf91182b8ef74095a073",
+  "scope": "Excludes q=28 only for the pinned residual in the kernel-zero branch. q=16,20,24, other residuals and global [64,11,27] existence remain unresolved; table bound remains 26–27.",
+  "input": "../2026-11-12/inputs/residual_candidate.json",
+  "input_sha256": "276170e9235104e8d671f4ce27eda47c25a0aee6b4dad310afae65c261f33d80",
+  "contributions": {
+    "Claude": "One actual mathematical reply on classification and label transports. Did not review subsequent exhaustive exclusion.",
+    "AI-assisted independent work": "Classification proof and two independently authored exact checkers; no human-execution, novelty or external-review claim."
+  },
+  "source": "https://www.codetables.de/BKLC/BKLC.php?k=11&n=64&q=2",
+  "source_access_date": "2026-11-14"
+}

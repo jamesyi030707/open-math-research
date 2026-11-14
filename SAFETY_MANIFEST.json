@@ -1,6 +1,6 @@
 {
-  "archive_date": "2026-11-13",
-  "total_files_including_manifest_and_checksums": 770,
+  "archive_date": "2026-11-14",
+  "total_files_including_manifest_and_checksums": 786,
   "selected_historical_artifacts_and_dialogue_excerpts": 440,
   "text_review": "Every selected file decoded as UTF-8, scanned in full for private URLs/identifiers, personal contact, absolute private paths, internal instructions and credential signatures; mathematical prose and transcript selections manually reviewed. Pattern checks are not a guarantee of perfect privacy.",
   "nested_archives": "One historical nested zip inspected; all 9 members byte-equal to separately retained text files. No nested archives distributed.",
@@ -229,9 +229,17 @@
       "scope": "Eight-row integer certificates exclude extension of two specified labeled W controls. No q28 classification, whole-branch exclusion, global bound improvement, or novelty claim.",
       "verification": "Six normal/optimized deterministic checks; privacy and scope reviewed; actual prompt/reply with correction preserved.",
       "source_preservation": "No prior dated files or licenses changed."
+    },
+    {
+      "date": "2026-11-14",
+      "files_added": 16,
+      "scope": "Excludes q=28 only for the pinned residual in the kernel-zero branch. q=16,20,24, other residuals and global [64,11,27] existence remain unresolved; table bound remains 26–27.",
+      "source_preservation": "Prior dated evidence and licenses unchanged.",
+      "date_safety_record": "history/2026-11-14/PUBLIC_SAFETY_CHECK.json",
+      "verification": "Two exact implementations, ordinary and optimized modes; same rejection tables. Per-file privacy scan, syntax, links and checksum checks."
     }
   ],
-  "curated_reader_documents": 28,
+  "curated_reader_documents": 29,
   "presentation_revisions": [
     {
       "date": "2026-10-14",

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "new_files": 16,
+  "overlay_files": 27,
+  "relative_links": "PASS against complete pinned base tree plus overlay",
+  "python_syntax": "PASS",
+  "verification": "Four normal/optimized runs passed; both implementations reject 9920 labeled pairs per branch with counts 8960,880,76,4.",
+  "historical_changes": []
+}

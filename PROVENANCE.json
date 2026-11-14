@@ -1,5 +1,5 @@
 {
-  "archive_date": "2026-11-13",
+  "archive_date": "2026-11-14",
   "artifacts": [
     {
       "path": "history/2026-10-08/README_中文.md",
@@ -4934,6 +4934,14 @@
       "files_added": 22,
       "date_provenance": "history/2026-11-13/PROVENANCE.json",
       "integration_edits": "Eight-row integer certificates exclude extension of two specified labeled W controls. No q28 classification, whole-branch exclusion, global bound improvement, or novelty claim."
+    },
+    {
+      "date": "2026-11-14",
+      "files_added": 16,
+      "scope": "Excludes q=28 only for the pinned residual in the kernel-zero branch. q=16,20,24, other residuals and global [64,11,27] existence remain unresolved; table bound remains 26–27.",
+      "source_preservation": "Prior dated evidence and licenses unchanged.",
+      "base_commit": "74c1b255db7ab8e4300fdf91182b8ef74095a073",
+      "date_provenance": "history/2026-11-14/PROVENANCE.json"
     }
   ],
   "presentation_revisions": [
