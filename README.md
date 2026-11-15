@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月15日：重复列的下一位，恰好有277种安排](notes/codes-kernel-zero-q24.md) · 两种整数实现完整核对局部h标记；q24尚未排除，局部对称不能直接运输外部障碍。
+
 [11月14日：两个例子的障碍，怎样覆盖所有标签？](notes/codes-kernel-zero-q28.md) · 完整分类与四截面整数核验排除固定残余、核维数0的q=28；其余三个q值仍未决。
 
 [11月13日：局部确实成码，向外却接不上](notes/codes-local-extension-obstruction.md) · 八条重量等式排除两个带标签局部控制的延伸；不排除整个q=28分支。
@@ -88,6 +90,7 @@ J=92 的逆向节点从约 10.96 亿降到 2,200 万，同轮计时仍慢于正�
 [阅读索引](INDEX.md) · [原始记录与勘误](archive/README.md)
 
 署名、引用与协作说明见 [来源](SOURCES.md)。自有代码与文字分别按 [MIT](LICENSE-CODE-MIT.txt) 与 [CC BY 4.0](LICENSE-DOCS-CC-BY-4.0.md) 开放；具体权利范围见 [许可说明](LICENSING.md)。
+
 
 
 
