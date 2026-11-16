@@ -1,0 +1,130 @@
+{
+  "scope": "canonical 277 q24 markings only; fixed residual and kernel0 doubly-even branch",
+  "results": {
+    "29": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        12,
+        108,
+        0,
+        0
+      ],
+      "witnesses": []
+    },
+    "49": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        28,
+        672,
+        660,
+        0
+      ],
+      "witnesses": []
+    },
+    "56": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        12,
+        108,
+        256,
+        0
+      ],
+      "witnesses": []
+    },
+    "86": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        9,
+        162,
+        0,
+        0
+      ],
+      "witnesses": []
+    },
+    "92": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        9,
+        144,
+        256,
+        0
+      ],
+      "witnesses": []
+    },
+    "118": {
+      "status": "empty_domain"
+    },
+    "121": {
+      "status": "empty_domain"
+    },
+    "135": {
+      "status": "empty_domain"
+    },
+    "138": {
+      "status": "empty_domain"
+    },
+    "142": {
+      "status": "empty_domain"
+    },
+    "145": {
+      "status": "empty_domain"
+    },
+    "159": {
+      "status": "empty_domain"
+    },
+    "162": {
+      "status": "empty_domain"
+    },
+    "173": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        12,
+        108,
+        0,
+        0
+      ],
+      "witnesses": []
+    },
+    "193": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        28,
+        672,
+        660,
+        0
+      ],
+      "witnesses": []
+    },
+    "200": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        12,
+        108,
+        256,
+        0
+      ],
+      "witnesses": []
+    },
+    "230": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        9,
+        162,
+        0,
+        0
+      ],
+      "witnesses": []
+    },
+    "236": {
+      "status": "no_common_extension",
+      "candidate_nodes": [
+        9,
+        144,
+        256,
+        0
+      ],
+      "witnesses": []
+    }
+  },
+  "cpu_seconds": 0.025979258999999998
+}

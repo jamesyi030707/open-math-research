@@ -1,0 +1,46 @@
+{
+  "scope": "canonical 18 survivors, exact linear compatibility of first three quotient basis rows",
+  "counts": {
+    "29": {
+      "pairs_2_3": 0,
+      "triples_2_3_5": 0
+    },
+    "49": {
+      "pairs_2_3": 22,
+      "triples_2_3_5": 0
+    },
+    "56": {
+      "pairs_2_3": 4,
+      "triples_2_3_5": 0
+    },
+    "86": {
+      "pairs_2_3": 0,
+      "triples_2_3_5": 0
+    },
+    "92": {
+      "pairs_2_3": 4,
+      "triples_2_3_5": 0
+    },
+    "173": {
+      "pairs_2_3": 0,
+      "triples_2_3_5": 0
+    },
+    "193": {
+      "pairs_2_3": 22,
+      "triples_2_3_5": 0
+    },
+    "200": {
+      "pairs_2_3": 4,
+      "triples_2_3_5": 0
+    },
+    "230": {
+      "pairs_2_3": 0,
+      "triples_2_3_5": 0
+    },
+    "236": {
+      "pairs_2_3": 4,
+      "triples_2_3_5": 0
+    }
+  },
+  "cpu_seconds": 0.013566500999999995
+}
