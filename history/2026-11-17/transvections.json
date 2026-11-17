@@ -1,0 +1,19 @@
+{
+  "candidate_pairs": 7905,
+  "valid_transvections": 0,
+  "distinct_S_actions": 0,
+  "orbit_size": 1,
+  "orientations": [
+    [
+      1,
+      2,
+      3,
+      4,
+      8,
+      16,
+      28
+    ]
+  ],
+  "generators": [],
+  "cpu_seconds": 0.05425084899999999
+}

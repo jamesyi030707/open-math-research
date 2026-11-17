@@ -1,0 +1,13 @@
+{
+  "normal_optimized_agree": [
+    "transvections",
+    "stabilizer",
+    "transport",
+    "independent_stabilizer",
+    "independent_transport"
+  ],
+  "full_pattern_digest": "03aef410d1230b797d852ffe9e36530ee85df89fef2259c7ec2201212bd132e6",
+  "distinct_patterns": 8408,
+  "weight_pairs": 32768,
+  "passed": true
+}
