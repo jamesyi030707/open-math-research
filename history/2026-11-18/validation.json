@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "normal_optimized_and_stored_agree": true,
+  "independent_core_counts_agree": true,
+  "altered_output_count_rejected": true,
+  "note": "tamper check tests output certificate comparison, not a replacement for mathematical proof",
+  "uniform_covered": 69440,
+  "overlap": 7,
+  "additional_to_nov17_set": 69433
+}

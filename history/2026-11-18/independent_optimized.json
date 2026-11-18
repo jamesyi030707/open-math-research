@@ -1,0 +1,22 @@
+{
+  "canonical_patterns": 277,
+  "translation_moment_checks": 8864,
+  "violators": [
+    {
+      "index": 0,
+      "r": 4,
+      "z": 0,
+      "a0": 2,
+      "max_b": 1
+    }
+  ],
+  "line_count": 155,
+  "three_space_count": 155,
+  "complements_per_line": 64,
+  "circuits_per_complement": 7,
+  "E_count": 69440,
+  "checked_distinct_r4_z0_patterns": 69440,
+  "overlap_with_Nov17_explicit_set": 7,
+  "new_vs_Nov17_explicit_set": 69433,
+  "cpu_seconds": 10.616127547
+}
