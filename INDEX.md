@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [平移轨道与q24切片](notes/codes-translation-orbit-slice.md) | q24并非平移不变，如何合法去重？ | 稳定子与加权计数给10,915,968轨道；不增加排除 |
 | [统一列重数障碍](notes/codes-uniform-multiplicity.md) | 能否把旧q28证书变成跨标签的必要条件？ | 69,440种q24标签各排除一项；与昨日具体集合重叠7项 |
 | [残余对称与证书运输](notes/codes-residual-symmetry.md) | 哪些局部换标签真的保持整个B？ | S稳定子阶1，W稳定子阶32；8,408个具体限制的排除运输，不是整分支排除 |
 | [canonical q24的共同延伸](notes/codes-canonical-join.md) | 逐余类有解能否同时实现？ | 259截面拒绝、8空域、10兼容失败；仅一个固定S取向 |

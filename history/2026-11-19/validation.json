@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "normal_optimized_equal": true,
+  "independent_counts_agree": true,
+  "primary_key_checks": 8400,
+  "independent_key_checks": 8400,
+  "input_git_blob_sha": "6c2f005c33236b54ed1850f78b7700fcb44b7237",
+  "local_patterns": 19165440,
+  "translation_orbits_meeting_slice": 10915968,
+  "new_exclusions": 0,
+  "full_global_search_performed": false
+}

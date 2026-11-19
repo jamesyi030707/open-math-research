@@ -1,0 +1,59 @@
+{
+  "scope": "local q24 slice after multiplicity filter, before older exclusions",
+  "table": [
+    {
+      "r": 4,
+      "z": 1,
+      "q24_parameters": 4,
+      "stabilizer": 4,
+      "q24_orbit_intersection": 1,
+      "canonical_E_count": 18
+    },
+    {
+      "r": 8,
+      "z": 1,
+      "q24_parameters": 8,
+      "stabilizer": 1,
+      "q24_orbit_intersection": 8,
+      "canonical_E_count": 96
+    },
+    {
+      "r": 8,
+      "z": 2,
+      "q24_parameters": 1,
+      "stabilizer": 1,
+      "q24_orbit_intersection": 1,
+      "canonical_E_count": 24
+    },
+    {
+      "r": 20,
+      "z": 1,
+      "q24_parameters": 20,
+      "stabilizer": 1,
+      "q24_orbit_intersection": 20,
+      "canonical_E_count": 24
+    },
+    {
+      "r": 20,
+      "z": 2,
+      "q24_parameters": 1,
+      "stabilizer": 1,
+      "q24_orbit_intersection": 1,
+      "canonical_E_count": 96
+    },
+    {
+      "r": 24,
+      "z": 2,
+      "q24_parameters": 3,
+      "stabilizer": 1,
+      "q24_orbit_intersection": 3,
+      "canonical_E_count": 18
+    }
+  ],
+  "per_E_weighted_sum": "786/5",
+  "E_count": 69440,
+  "q24_patterns": 19165440,
+  "orbits_meeting_q24": 10915968,
+  "canonical_key_checks": 8400,
+  "new_exclusions": 0
+}
