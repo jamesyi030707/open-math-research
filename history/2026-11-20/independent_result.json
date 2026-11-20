@@ -1,0 +1,70 @@
+{
+  "index_zero_based": 1,
+  "H": [
+    0,
+    1,
+    6,
+    8,
+    9,
+    15,
+    18,
+    19,
+    20,
+    28,
+    39,
+    46,
+    53,
+    58,
+    59,
+    61
+  ],
+  "local_windows_passed": 63,
+  "q": 24,
+  "r": 4,
+  "z": 1,
+  "active_indices": [
+    0,
+    13,
+    14,
+    16,
+    24,
+    25,
+    26
+  ],
+  "scaled_rows": [
+    [
+      -1,
+      4,
+      0,
+      1,
+      1,
+      4,
+      1
+    ],
+    [
+      1,
+      0,
+      4,
+      -1,
+      1,
+      0,
+      1
+    ]
+  ],
+  "target": [
+    -4,
+    0
+  ],
+  "sign_assignments": 128,
+  "reachable_pairs": 47,
+  "scalar_feasible": [
+    true,
+    true
+  ],
+  "joint_feasible": false,
+  "first_coordinate_when_second_zero": [
+    -8,
+    0,
+    8
+  ]
+}

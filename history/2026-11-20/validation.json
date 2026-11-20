@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "primary_normal_optimized_equal": true,
+  "independent_normal_optimized_equal": true,
+  "independent_main_control": true,
+  "all_277_batch_independently_repeated": false,
+  "scalar_tests": 17728,
+  "scalar_failures": 0,
+  "fixed_pair_rejections": 17,
+  "control_active_signs": 7,
+  "control_assignments": 128,
+  "control_joint_points": 47,
+  "control_local_windows": 63,
+  "new_exclusions_claimed": 0
+}
