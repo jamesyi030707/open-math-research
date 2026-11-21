@@ -1,0 +1,23 @@
+{
+  "source_git_blob": "6c2f005c33236b54ed1850f78b7700fcb44b7237",
+  "run_budget_seconds_per_invocation": 60,
+  "checks": {
+    "batch_normal_vs_optimized": "byte-identical",
+    "independent_normal_vs_optimized": "byte-identical",
+    "cross_implementation": "six column lists, E labels, actual a=2 section and exact single-column certificates matched"
+  },
+  "observed_wall_seconds": {
+    "batch_normal": 0.121,
+    "batch_optimized": 0.235,
+    "independent_normal": 0.099,
+    "independent_optimized": 0.183
+  },
+  "scope": {
+    "finite_controls": 10,
+    "old_explicit_transport_regenerated": 8408,
+    "q24_representatives_outside_named_prior_coverage": 6,
+    "independent_single_projection_checks": 384,
+    "claude_new_rounds": 0,
+    "new_distance_bound": false
+  }
+}

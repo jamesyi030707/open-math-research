@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月21日：两条等式相加减，只剩一列](notes/codes-single-column-certificate.md) · 六个旧运输与重数规则未覆盖的 q24 控制各有短证书；没有新增距离界。
+
 [11月20日：两条各自可行的等式不能同时成立](notes/codes-joint-character-certificate.md) · 七个符号、两行矛盾，压缩旧q24控制的排除证书；无新增距离界。
 
 [11月19日：不是除以32，而是轨道与题面的交集](notes/codes-translation-orbit-slice.md) · 精确得到10,915,968个真实平移轨道；只是局部候选去重，非新增排除。

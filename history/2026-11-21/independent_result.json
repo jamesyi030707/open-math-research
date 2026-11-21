@@ -1,0 +1,390 @@
+{
+  "outside_coset": 2,
+  "minimum_weight_section": [
+    0,
+    1,
+    6,
+    8,
+    9,
+    15,
+    18,
+    19,
+    20,
+    28,
+    39,
+    46,
+    53,
+    58,
+    59,
+    61
+  ],
+  "distinct_translation_orbits": 6,
+  "controls": [
+    {
+      "swap_low_bits_zero_based": [
+        0,
+        2
+      ],
+      "columns": [
+        37,
+        3,
+        7,
+        12,
+        10,
+        14,
+        13,
+        11,
+        15,
+        20,
+        18,
+        22,
+        21,
+        19,
+        23,
+        28,
+        58,
+        30,
+        25,
+        29,
+        29,
+        27,
+        27,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        16,
+        25
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        1,
+        6
+      ],
+      "combine_sign": -1,
+      "active_column_of_combination_zero_based": 14,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    },
+    {
+      "swap_low_bits_zero_based": [
+        0,
+        3
+      ],
+      "columns": [
+        44,
+        6,
+        14,
+        9,
+        3,
+        11,
+        13,
+        7,
+        15,
+        24,
+        18,
+        26,
+        28,
+        22,
+        30,
+        25,
+        51,
+        27,
+        21,
+        29,
+        29,
+        23,
+        23,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        8,
+        10,
+        16,
+        21
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        2,
+        10
+      ],
+      "combine_sign": 1,
+      "active_column_of_combination_zero_based": 12,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    },
+    {
+      "swap_low_bits_zero_based": [
+        0,
+        4
+      ],
+      "columns": [
+        52,
+        6,
+        22,
+        24,
+        10,
+        26,
+        28,
+        14,
+        30,
+        17,
+        3,
+        19,
+        21,
+        7,
+        23,
+        25,
+        43,
+        27,
+        13,
+        29,
+        29,
+        15,
+        15,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        8,
+        13,
+        16,
+        18
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        2,
+        5
+      ],
+      "combine_sign": 1,
+      "active_column_of_combination_zero_based": 11,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    },
+    {
+      "swap_low_bits_zero_based": [
+        1,
+        2
+      ],
+      "columns": [
+        35,
+        6,
+        7,
+        9,
+        12,
+        13,
+        11,
+        14,
+        15,
+        17,
+        20,
+        21,
+        19,
+        22,
+        23,
+        25,
+        60,
+        29,
+        26,
+        27,
+        27,
+        30,
+        30,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        16,
+        26
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        4,
+        5
+      ],
+      "combine_sign": 1,
+      "active_column_of_combination_zero_based": 12,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    },
+    {
+      "swap_low_bits_zero_based": [
+        1,
+        3
+      ],
+      "columns": [
+        37,
+        12,
+        13,
+        3,
+        10,
+        11,
+        7,
+        14,
+        15,
+        17,
+        24,
+        25,
+        21,
+        28,
+        29,
+        19,
+        58,
+        27,
+        22,
+        23,
+        23,
+        30,
+        30,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        8,
+        9,
+        16,
+        22
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        2,
+        5
+      ],
+      "combine_sign": 1,
+      "active_column_of_combination_zero_based": 15,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    },
+    {
+      "swap_low_bits_zero_based": [
+        1,
+        4
+      ],
+      "columns": [
+        37,
+        20,
+        21,
+        9,
+        24,
+        25,
+        13,
+        28,
+        29,
+        3,
+        18,
+        19,
+        7,
+        22,
+        23,
+        11,
+        58,
+        27,
+        14,
+        15,
+        15,
+        30,
+        30,
+        31,
+        63,
+        0,
+        32
+      ],
+      "local_windows_passed": 63,
+      "weight16_label_set": [
+        1,
+        2,
+        4,
+        8,
+        14,
+        16,
+        17
+      ],
+      "zero_column_bound": 2,
+      "matches_canonical_E_under_any_translation": false,
+      "distinct_translated_patterns_by_q": {
+        "20": 7,
+        "24": 1
+      },
+      "single_character_projections_feasible": 64,
+      "failed_single_character_projections": [],
+      "joint_characters": [
+        1,
+        6
+      ],
+      "combine_sign": -1,
+      "active_column_of_combination_zero_based": 14,
+      "combined_coefficient": 16,
+      "combined_target": 0
+    }
+  ]
+}
