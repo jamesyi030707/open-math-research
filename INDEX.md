@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [单列支集的完整计数](notes/codes-singleton-support-catalog.md) | 能把系数消去改写成标签命中问题吗？ | 345 张支集，两个实际截面互补；60 个有限控制 |
 | [真实外截面的单列消去](notes/codes-single-column-certificate.md) | 能否只用一列排除一个新标签？ | 六个非 canonical q24 控制；各自 64 个单字符均可行 |
 | [共同字符与两行证书](notes/codes-joint-character-certificate.md) | 单标量可行能否来自同一符号向量？ | 64投影各可行，首个联合对已矛盾；17项旧排除的短核验 |
 | [平移轨道与q24切片](notes/codes-translation-orbit-slice.md) | q24并非平移不变，如何合法去重？ | 稳定子与加权计数给10,915,968轨道；不增加排除 |

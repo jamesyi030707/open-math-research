@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月22日：两截面互补的单列支集](notes/codes-singleton-support-catalog.md) · 345 张支集的四维商解释；小家族 60 个轨道全有证书，其中 48 个不在列明旧覆盖内。
+
 [11月21日：两条等式相加减，只剩一列](notes/codes-single-column-certificate.md) · 六个旧运输与重数规则未覆盖的 q24 控制各有短证书；没有新增距离界。
 
 [11月20日：两条各自可行的等式不能同时成立](notes/codes-joint-character-certificate.md) · 七个符号、两行矛盾，压缩旧q24控制的排除证书；无新增距离界。

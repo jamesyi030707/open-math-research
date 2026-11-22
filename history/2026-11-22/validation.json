@@ -1,0 +1,20 @@
+{
+  "source_git_blobs": {
+    "2026-11-15/h.json": "6c2f005c33236b54ed1850f78b7700fcb44b7237",
+    "2026-11-21/result.json": "315fe8704d42959686069e9000c3dde9ec92231c"
+  },
+  "run_budget_seconds_per_invocation": 60,
+  "observed_wall_seconds": {
+    "check_normal": 0.195,
+    "check_optimized": 0.277,
+    "independent_normal": 0.402,
+    "independent_optimized": 0.456
+  },
+  "checks": {
+    "normal_vs_optimized": "byte-identical for both scripts",
+    "cross_implementation": "both actual H, both 64-entry transforms, and both complete support-set digests match; all 60 records match for labels, section hits and whether in prior coverage",
+    "independent_additional": "all 480 distinct translates pass the 63 local windows and doubly-even congruences"
+  },
+  "claude_new_rounds": 0,
+  "new_global_distance_bound": false
+}
