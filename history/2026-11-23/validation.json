@@ -1,0 +1,19 @@
+{
+  "source_git_blobs": {
+    "2026-11-15/h.json": "6c2f005c33236b54ed1850f78b7700fcb44b7237",
+    "2026-11-22/result.json": "8b7c44d2c61a1f4ed34d3f6e20dc1901cbdba4a4"
+  },
+  "run_budget_seconds_per_invocation": 60,
+  "observed_wall_seconds": {
+    "main_normal": 2.217,
+    "main_optimized": 2.471,
+    "arithmetic_normal": 1.622,
+    "arithmetic_optimized": 1.609,
+    "joint_normal": 0.919,
+    "joint_optimized": 1.089
+  },
+  "cross_checks": "same ten section labels, twelve case labels, prior coverage, short-filter hits, and both exact complete-section counts and pair-feasibility counts on all eight relevant cases; independent a=2 masks checked on the raw weights",
+  "normal_vs_optimized": "byte-identical for all three scripts",
+  "claude_new_rounds": 0,
+  "new_distance_bound": false
+}
