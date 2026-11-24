@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月24日：矛盾最少需要十四条还是十六条？](notes/codes-minimal-original-sections.md) · 八个旧对照的精确原始方程最小值与可行见证。
+
 [11月23日：所有字符对都可行，整组仍无解](notes/codes-pairwise-section-gap.md) · 八个真对照证明双字符检验的边界；五个轨道代表超出列明旧覆盖。
 
 [11月22日：两截面互补的单列支集](notes/codes-singleton-support-catalog.md) · 345 张支集的四维商解释；小家族 60 个轨道全有证书，其中 48 个不在列明旧覆盖内。

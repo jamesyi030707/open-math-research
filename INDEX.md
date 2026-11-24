@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [最小的原始重量矛盾](notes/codes-minimal-original-sections.md) | 十六条原始等式，最少用几条才矛盾？ | 最少 14 或 16；可行见证与空连接双向核验 |
 | [双字符与整截面的落差](notes/codes-pairwise-section-gap.md) | 任意一对可行，是否足以拼成共同解？ | 八个精确反例；两个实际截面一正一负 |
 | [单列支集的完整计数](notes/codes-singleton-support-catalog.md) | 能把系数消去改写成标签命中问题吗？ | 345 张支集，两个实际截面互补；60 个有限控制 |
 | [真实外截面的单列消去](notes/codes-single-column-certificate.md) | 能否只用一列排除一个新标签？ | 六个非 canonical q24 控制；各自 64 个单字符均可行 |
