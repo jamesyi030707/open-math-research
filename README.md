@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月25日：十六条重量等式，合成一个奇偶矛盾](notes/codes-signed-parity.md) · 八个旧全截面一式核验，四个十四式的非负整数对照。
+
 [11月24日：矛盾最少需要十四条还是十六条？](notes/codes-minimal-original-sections.md) · 八个旧对照的精确原始方程最小值与可行见证。
 
 [11月23日：所有字符对都可行，整组仍无解](notes/codes-pairwise-section-gap.md) · 八个真对照证明双字符检验的边界；五个轨道代表超出列明旧覆盖。
