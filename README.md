@@ -7,6 +7,8 @@
 
 ## 从这里读起
 
+[11月26日：把四个旧矛盾写成六层二元证书](notes/codes-binary-branch-certificates.md) · 35／79 个节点；每一路最多分支六次，不增加排除。
+
 [11月25日：十六条重量等式，合成一个奇偶矛盾](notes/codes-signed-parity.md) · 八个旧全截面一式核验，四个十四式的非负整数对照。
 
 [11月24日：矛盾最少需要十四条还是十六条？](notes/codes-minimal-original-sections.md) · 八个旧对照的精确原始方程最小值与可行见证。

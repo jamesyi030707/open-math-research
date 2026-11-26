@@ -4,6 +4,7 @@
 
 | 专题 | 核心问题 | 阅读重点 |
 |---|---|---|
+| [二元分支证书](notes/codes-binary-branch-certificates.md) | 明明有非负整数解，二元矛盾在哪里？ | 四棵小树；全 ±1 单行对照 |
 | [一个奇偶矛盾](notes/codes-signed-parity.md) | 为什么八个旧全截面能用同一组合排除？ | 固定支集计数；十四式整数松弛与模 8 对照 |
 | [最小的原始重量矛盾](notes/codes-minimal-original-sections.md) | 十六条原始等式，最少用几条才矛盾？ | 最少 14 或 16；可行见证与空连接双向核验 |
 | [双字符与整截面的落差](notes/codes-pairwise-section-gap.md) | 任意一对可行，是否足以拼成共同解？ | 八个精确反例；两个实际截面一正一负 |
