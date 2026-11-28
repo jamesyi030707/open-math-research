@@ -1,0 +1,92 @@
+{
+  "anchor_message": 2,
+  "anchor_word_hex": "0x6293dc808",
+  "quadratic_evaluation_rank": 55,
+  "quotient_length_dimension_distance": [
+    23,
+    9,
+    7
+  ],
+  "quotient_weight_distribution": {
+    "0": 1,
+    "7": 18,
+    "8": 33,
+    "9": 54,
+    "10": 80,
+    "11": 76,
+    "12": 75,
+    "13": 68,
+    "14": 48,
+    "15": 34,
+    "16": 18,
+    "17": 6,
+    "20": 1
+  },
+  "low_quotient_preimage_weights": {
+    "7": {
+      "14,14": 18
+    },
+    "8": {
+      "14,16": 33
+    },
+    "9": {
+      "14,18": 48,
+      "16,16": 6
+    }
+  },
+  "weight7_unordered_pair_sum_weights": {
+    "8": 42,
+    "10": 70,
+    "12": 37,
+    "14": 4
+  },
+  "weight7_pairs_summing_to_weight8_fixed_block_intersections": {
+    "3": 34,
+    "4": 8
+  },
+  "weight7_block_and_fibre_profiles": [
+    [
+      [
+        7,
+        7,
+        7
+      ],
+      [
+        28,
+        28,
+        28,
+        28
+      ]
+    ]
+  ],
+  "weight8_block_and_fibre_profiles": [
+    [
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        28,
+        28,
+        28,
+        32
+      ]
+    ],
+    [
+      [
+        8,
+        8,
+        8
+      ],
+      [
+        28,
+        28,
+        28,
+        32
+      ]
+    ]
+  ],
+  "forced_weight28_words_in_weight7_or_8_fibres": 171,
+  "new_exclusion": false
+}
